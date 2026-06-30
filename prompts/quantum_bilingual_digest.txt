@@ -1,0 +1,22 @@
+你是一个有帮助的学术研究助手，可以帮助我构建每日论文推荐系统。
+
+以下是我最近研究领域的描述：
+{description}
+
+以下是我从昨天的 arXiv 爬取的论文，我为你提供了标题和摘要：
+标题: {title}
+摘要: {abstract}
+
+请完成以下任务：
+1. 总结这篇论文的主要内容。
+2. 请评估这篇论文与我研究领域的相关性，并给出 0-10 的评分。其中 0 表示完全不相关，10 表示高度相关。
+3. 额外生成中文导读和英文导读，导读要聚焦论文与量子精密测量、量子传感、量子计算、Rydberg atoms、spin squeezing、neutral atoms、trapped ions、Fisher information 等方向的关系。
+4. 如果论文主要属于 quantum gravity、cosmology、high energy theory，相关性评分应显著降低，并在导读中说明原因。
+
+请严格按以下 JSON 格式返回，不要添加代码块、Markdown 围栏或额外解释：
+{{
+  "summary": "<中文总结>",
+  "relevance": <0 到 10 的数字>,
+  "chinese_digest": "## 中文导读\n- 研究问题：...\n- 核心方法：...\n- 主要结果：...\n- 与量子精密测量/量子计算的关系：...\n- 是否值得精读：...\n- 对我研究的可能启发：...",
+  "english_digest": "## English Guide\n- Problem: ...\n- Method: ...\n- Main result: ...\n- Relevance: ...\n- Reading priority: ...\n- Possible inspiration: ..."
+}}

@@ -1,4 +1,5 @@
 import math
+from html import escape
 from tqdm import tqdm
 from email.header import Header
 from email.mime.text import MIMEText
@@ -190,7 +191,24 @@ def render_summary_sections(summary_data: dict) -> str:
     return get_summary_html(final_html)
 
 
-def get_block_html(title: str, rate: str, arxiv_id: str, abstract: str, pdf_url: str):
+def format_digest_html(digest: str) -> str:
+    if not digest:
+        return ""
+    return "<br>".join(escape(digest).splitlines())
+
+
+def get_block_html(
+    title: str,
+    rate: str,
+    arxiv_id: str,
+    abstract: str,
+    pdf_url: str,
+    chinese_digest: str = "",
+    english_digest: str = "",
+    arxiv_url: str = "",
+    original_abstract: str = "",
+):
+    arxiv_url = arxiv_url or f"https://arxiv.org/abs/{arxiv_id}"
     block_template = """
     <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-family: Arial, sans-serif; border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9;">
     <tr>
@@ -213,16 +231,40 @@ def get_block_html(title: str, rate: str, arxiv_id: str, abstract: str, pdf_url:
             <strong>TLDR:</strong> {abstract}
         </td>
     </tr>
+    <tr>
+        <td style="font-size: 14px; color: #333; padding: 8px 0; line-height: 1.6;">
+            <strong>Abstract:</strong> {original_abstract}
+        </td>
+    </tr>
+    <tr>
+        <td style="font-size: 14px; color: #333; padding: 8px 0; line-height: 1.6;">
+            {chinese_digest}
+        </td>
+    </tr>
+    <tr>
+        <td style="font-size: 14px; color: #333; padding: 8px 0; line-height: 1.6;">
+            {english_digest}
+        </td>
+    </tr>
 
     <tr>
         <td style="padding: 8px 0;">
+            <a href="{arxiv_url}" style="display: inline-block; text-decoration: none; font-size: 14px; font-weight: bold; color: #fff; background-color: #337ab7; padding: 8px 16px; border-radius: 4px; margin-right: 8px;">arXiv</a>
             <a href="{pdf_url}" style="display: inline-block; text-decoration: none; font-size: 14px; font-weight: bold; color: #fff; background-color: #d9534f; padding: 8px 16px; border-radius: 4px;">PDF</a>
         </td>
     </tr>
 </table>
 """
     return block_template.format(
-        title=title, rate=rate, arxiv_id=arxiv_id, abstract=abstract, pdf_url=pdf_url
+        title=title,
+        rate=rate,
+        arxiv_id=arxiv_id,
+        abstract=abstract,
+        chinese_digest=format_digest_html(chinese_digest),
+        english_digest=format_digest_html(english_digest),
+        arxiv_url=arxiv_url,
+        pdf_url=pdf_url,
+        original_abstract=escape(original_abstract),
     )
 
 

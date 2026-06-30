@@ -5,4 +5,4 @@ __pycache__
 .vscode
 .env
 .ruff_cache
-arxiv_history
+arxiv_history.env

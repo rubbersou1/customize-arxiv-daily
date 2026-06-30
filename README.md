@@ -58,11 +58,40 @@ I'm not interested in the following fields:
 3. Low-level Vision
 ```
 
-5. Configure your own `arXiv catergories`, `api_key` and `models`. The repo currently support any api in OpenAI api form, and various models in Ollama. Meaning of different parameters:
+5. Configure your own `arXiv catergories`, `api_key` and `models`. The repo currently support any api in OpenAI api form, including DeepSeek's OpenAI-compatible API, and various models in Ollama. Meaning of different parameters:
    - `--categories`: arXiv categories that you are interested in, like `cs.CV` `cs.AI`
    - `--sender`: E-mail address that provide SMTP service, like, `123456@qq.com`
    - `--receiver`: The e-mails address that you want to receive your notice, like, `my_gmail@gmail.com`
    - `--save`: store_true, whether to save the arXiv results to local markdown files.
+
+- DeepSeek local setup:
+
+```bash
+export DEEPSEEK_API_KEY=your_deepseek_api_key
+```
+
+Or create a local `.env` file in the repository root:
+
+```txt
+DEEPSEEK_API_KEY=your_deepseek_api_key
+```
+
+`OPENAI_API_KEY` is still accepted as a fallback when `DEEPSEEK_API_KEY` is not set.
+
+- DeepSeek example:
+
+```bash
+python main.py --categories cs.CV cs.AI \
+    --provider DeepSeek --model deepseek-chat \
+    --base_url https://api.deepseek.com \
+    --num_workers 16 \
+    --title "Daily arXiv" \
+    --temperature 0.7 \
+    --description description.txt \
+    --report_dir daily_reports \
+    --no-email \
+    --save
+```
 
 - `main_gpt.sh`: Visit [OpenAI](https://openai.com/) to get a OpenAI api_key invole GPT models.
 

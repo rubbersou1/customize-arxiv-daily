@@ -5,7 +5,7 @@ class Ollama:
     def __init__(self, model):
         self.model_name = model
 
-    def inference(self, prompt):
+    def inference(self, prompt, temperature=0.7):
         response = generate(self.model_name, prompt)["response"]
         response = response.split("</think>")[1].strip()
         return response

@@ -1,0 +1,111 @@
+name: Quantum arXiv Daily
+
+on:
+  schedule:
+    # 08:00 Beijing time is 00:00 UTC.
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  quantum-arxiv-daily:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          python -m pip install pyyaml
+
+      - name: Run quantum arXiv config
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python - <<'PY'
+          import os
+          import subprocess
+          from pathlib import Path
+
+          import yaml
+
+          config_path = Path("config_quantum.yaml")
+          config = yaml.safe_load(config_path.read_text(encoding="utf-8"))
+
+          description = config["description"].rstrip()
+          excluded = config.get("exclude_topics", [])
+          if excluded:
+              description += "\n\nExclude papers mainly focused on:\n"
+              description += "\n".join(f"- {topic}" for topic in excluded)
+
+          description_path = Path("quantum_description.generated.txt")
+          description_path.write_text(description + "\n", encoding="utf-8")
+
+          runtime = config.get("runtime", {})
+          llm = config.get("llm", {})
+
+          cmd = [
+              "python",
+              "main.py",
+              "--categories",
+              *config["categories"],
+              "--max_entries",
+              str(runtime.get("max_entries", 100)),
+              "--max_paper_num",
+              str(runtime.get("max_paper_num", 60)),
+              "--provider",
+              llm.get("provider", "DeepSeek"),
+              "--model",
+              llm.get("model", "deepseek-chat"),
+              "--base_url",
+              llm.get("base_url", "https://api.deepseek.com"),
+              "--num_workers",
+              str(runtime.get("num_workers", 16)),
+              "--temperature",
+              str(runtime.get("temperature", 0.7)),
+              "--title",
+              runtime.get("title", "Daily arXiv - Quantum Metrology and Quantum Computing"),
+              "--description",
+              str(description_path),
+              "--save_dir",
+              "output",
+              "--report_dir",
+              "daily_reports",
+              "--no-email",
+          ]
+
+          if runtime.get("save", True):
+              cmd.append("--save")
+
+          subprocess.run(cmd, check=True)
+          PY
+
+      - name: Commit new Markdown reports
+        run: |
+          shopt -s globstar nullglob
+          reports=(daily_reports/**/*.md)
+          if [ ${#reports[@]} -eq 0 ]; then
+            echo "No Markdown reports found under daily_reports/."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${reports[@]}"
+          if git diff --cached --quiet; then
+            echo "No new Markdown reports to commit."
+            exit 0
+          fi
+          git commit -m "Add quantum arXiv report for $(date -u +%Y-%m-%d)"
+          git push

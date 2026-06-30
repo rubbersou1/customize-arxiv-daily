@@ -1,9 +1,11 @@
-from util.construct_email import send_email
 from arxiv_daily import ArxivDaily
+from util.config import load_env_file, resolve_llm_config
 import argparse
 import os
 
 if __name__ == "__main__":
+    load_env_file()
+
     parser = argparse.ArgumentParser(description="Arxiv Daily")
     parser.add_argument("--categories", nargs="+", help="categories", required=True)
     parser.add_argument("--max_paper_num", type=int, help="max_paper_num", default=60)
@@ -16,6 +18,12 @@ if __name__ == "__main__":
         "--save", action="store_true", help="Save the email content to a file."
     )
     parser.add_argument("--save_dir", type=str, default="./arxiv_history")
+    parser.add_argument(
+        "--report_dir",
+        type=str,
+        default=None,
+        help="Directory for Markdown reports. If set, reports are saved as YYYY-MM-DD.md in this directory.",
+    )
 
     parser.add_argument("--base_url", type=str, help="base_url", default=None)
     parser.add_argument("--api_key", type=str, help="api_key", default=None)
@@ -38,15 +46,32 @@ if __name__ == "__main__":
     parser.add_argument(
         "--title", type=str, help="Title of the email", default="Daily arXiv"
     )
+    parser.add_argument(
+        "--include-seen",
+        action="store_true",
+        help="Reprocess papers that already exist in the SQLite history.",
+    )
+    parser.add_argument(
+        "--no-email",
+        action="store_true",
+        help="Generate reports without sending email.",
+    )
 
     args = parser.parse_args()
 
+    args.provider, args.model, args.base_url, args.api_key = resolve_llm_config(
+        args.provider,
+        args.model,
+        args.base_url,
+        args.api_key,
+    )
+
     if not (args.provider == "Ollama" or args.provider == "ollama"):
         assert args.base_url is not None, (
-            "base_url is required for SiliconFlow and OpenAI"
+            "base_url is required for OpenAI-compatible providers"
         )
         assert args.api_key is not None, (
-            "api_key is required for SiliconFlow and OpenAI"
+            "api_key is required. Set DEEPSEEK_API_KEY, OPENAI_API_KEY, or --api_key."
         )
 
     with open(args.description, "r") as f:
@@ -66,6 +91,8 @@ if __name__ == "__main__":
         args.provider == "OpenAI"
         or args.provider == "openai"
         or args.provider == "SiliconFlow"
+        or args.provider == "DeepSeek"
+        or args.provider == "deepseek"
     ):
         from llm.GPT import GPT
 
@@ -95,13 +122,18 @@ if __name__ == "__main__":
         args.num_workers,
         args.temperature,
         args.save_dir,
+        args.include_seen,
+        report_dir=args.report_dir,
     )
 
-    arxiv_daily.send_email(
-        args.sender,
-        args.receiver,
-        args.sender_password,
-        args.smtp_server,
-        args.smtp_port,
-        args.title,
-    )
+    if args.no_email:
+        arxiv_daily.get_recommendation()
+    else:
+        arxiv_daily.send_email(
+            args.sender,
+            args.receiver,
+            args.sender_password,
+            args.smtp_server,
+            args.smtp_port,
+            args.title,
+        )

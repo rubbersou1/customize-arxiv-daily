@@ -3,13 +3,39 @@ Use requests and BeautifulSoup to get yesterday's arXiv papers.
 """
 
 import requests
+import re
+import time
 from bs4 import BeautifulSoup
+from loguru import logger
+
+
+ARXIV_ALLOWED_SHOW_VALUES = (25, 50, 100, 250, 500, 1000, 2000)
+ARXIV_RATE_LIMIT_BACKOFF_SECONDS = (30, 60, 120)
+
+
+def get_arxiv_show_value(max_results: int):
+    for show_value in ARXIV_ALLOWED_SHOW_VALUES:
+        if max_results <= show_value:
+            return show_value
+    return ARXIV_ALLOWED_SHOW_VALUES[-1]
 
 
 def get_yesterday_arxiv_papers(category: str = "cs.CV", max_results: int = 100):
-    url = f"https://arxiv.org/list/{category}/new?skip=0&show={max_results}"
+    show_value = get_arxiv_show_value(max_results)
+    url = f"https://arxiv.org/list/{category}/new?skip=0&show={show_value}"
 
-    response = requests.get(url)
+    response = None
+    for attempt in range(len(ARXIV_RATE_LIMIT_BACKOFF_SECONDS) + 1):
+        response = requests.get(url)
+        if response.status_code != 429:
+            break
+        logger.warning("arXiv rate limited; try later.")
+        if attempt == len(ARXIV_RATE_LIMIT_BACKOFF_SECONDS):
+            return []
+        time.sleep(ARXIV_RATE_LIMIT_BACKOFF_SECONDS[attempt])
+
+    if response is None or response.status_code == 429:
+        return []
 
     soup = BeautifulSoup(response.text, "html.parser")
 
@@ -37,6 +63,29 @@ def get_yesterday_arxiv_papers(category: str = "cs.CV", max_results: int = 100):
             abstract_tag.text.strip() if abstract_tag else "No abstract available"
         )
 
+        authors_tag = entries[i + 1].find("div", class_="list-authors")
+        authors = (
+            [
+                author.text.strip()
+                for author in authors_tag.find_all("a")
+                if author.text.strip()
+            ]
+            if authors_tag
+            else []
+        )
+
+        subjects_tag = entries[i + 1].find("div", class_="list-subjects")
+        categories = []
+        if subjects_tag:
+            subjects_text = subjects_tag.get_text(" ", strip=True).replace(
+                "Subjects:", ""
+            )
+            categories = re.findall(r"\(([^)]+)\)", subjects_text)
+            if not categories:
+                primary_subject = subjects_tag.find("span", class_="primary-subject")
+                if primary_subject:
+                    categories = [primary_subject.text.strip()]
+
         comments_tag = entries[i + 1].find("div", class_="list-comments")
         comments = (
             comments_tag.text.strip() if comments_tag else "No comments available"
@@ -46,6 +95,8 @@ def get_yesterday_arxiv_papers(category: str = "cs.CV", max_results: int = 100):
             "title": title,
             "arXiv_id": pdf_url.split("/")[-1],
             "abstract": abstract,
+            "authors": authors,
+            "categories": categories,
             "comments": comments,
             "pdf_url": pdf_url,
             "abstract_url": abs_url,
@@ -53,7 +104,7 @@ def get_yesterday_arxiv_papers(category: str = "cs.CV", max_results: int = 100):
 
         papers.append(paper_info)
 
-    return papers
+    return papers[:max_results]
 
 
 if __name__ == "__main__":
