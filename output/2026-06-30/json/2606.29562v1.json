@@ -1,0 +1,18 @@
+{
+  "title": "The QAOA on the ring of disagrees",
+  "arXiv_id": "2606.29562v1",
+  "abstract": "We study the performance of symmetric local algorithms finding large cuts on the cycle graph. Such algorithms that cannot see the whole graph at depth p cut at most a (2p+1)/(2p+2) fraction of edges in expectation. We prove that the QAOA achieves this value, a long-standing conjecture of Farhi, Goldstone, and Gutmann. Curiously we do this without finding the optimal parameters. Instead we show it is equivalent to find an optimal pair of Laurent polynomials of degree at most 2p-1. This is made possible by recasting the QAOA on one qubit in the language of quantum signal processing.",
+  "authors": [
+    "Kunal Marwaha"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "本文研究了在环图（cycle graph）上寻找大割（large cut）的对称局部算法的性能。作者证明，深度为p的量子近似优化算法（QAOA）在期望上能切割最多(2p+1)/(2p+2)比例的边，这证实了Farhi、Goldstone和Gutmann的一个长期猜想。有趣的是，这一结果无需找到最优参数，而是通过将单量子比特上的QAOA转化为量子信号处理（quantum signal processing）语言，并证明寻找最优参数等价于寻找一对次数不超过2p-1的最优洛朗多项式（Laurent polynomials）来实现。",
+  "chinese_digest": "## 中文导读\n- 研究问题：在环图上，深度为p的QAOA能切割多大比例的边？这是一个组合优化问题，与量子计算算法性能相关。\n- 核心方法：将QAOA在单量子比特上的作用重新表述为量子信号处理框架，将参数优化转化为洛朗多项式优化问题。\n- 主要结果：严格证明了对称局部算法（包括QAOA）在环图上能达到的割比例上界为(2p+1)/(2p+2)，并证明QAOA可以饱和该界。\n- 与量子精密测量/量子计算的关系：本文属于量子计算算法理论，特别是量子近似优化算法（QAOA）的性能分析。它与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。它不涉及物理平台、噪声、控制或测量极限等主题。\n- 是否值得精读：如果你的研究聚焦于QAOA的理论性能或量子信号处理在优化中的应用，值得精读。但若你主要关注量子精密测量或实验平台，则相关性较低。\n- 对我研究的可能启发：量子信号处理框架可能为量子传感中的最优控制问题提供新视角，但本文主要针对组合优化，而非传感或计量。",
+  "english_digest": "## English Guide\n- Problem: What is the maximum cut fraction achievable by depth-p QAOA on the cycle graph? This is a combinatorial optimization question related to quantum algorithm performance. \n- Method: Reformulating the single-qubit QAOA in the language of quantum signal processing, reducing the parameter optimization to finding optimal Laurent polynomials of degree at most 2p-1. \n- Main result: A rigorous proof that symmetric local algorithms can cut at most a (2p+1)/(2p+2) fraction of edges on the cycle graph, and that QAOA achieves this bound. \n- Relevance: This paper is a theoretical result on quantum optimization algorithms (QAOA). It has no direct connection to quantum precision measurement, quantum sensing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, atomic clocks, or related experimental platforms. It does not address noise, control, readout, or performance limits in sensing or metrology. \n- Reading priority: Low priority if your focus is on quantum metrology, sensing, or experimental hardware. Moderate priority if you work on QAOA theory or quantum signal processing. \n- Possible inspiration: The quantum signal processing technique could potentially be adapted for optimal control in quantum sensing, but this paper is purely about combinatorial optimization and does not explore that direction.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29562v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29562v1",
+  "local_pdf_path": ""
+}

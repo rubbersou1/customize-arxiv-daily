@@ -1,0 +1,21 @@
+{
+  "title": "Arrival times of an atomic Bose-Einstein condensate",
+  "arXiv_id": "2606.20281v1",
+  "abstract": "The times of flight of an atomic Bose-Einstein condensate are theoretically investigated in the experimentally unexplored regime corresponding to detection close to the trap of the condensate. In this regime, there is no consensus on how to calculate the distribution of times of arrival onto the detector. For non-interacting particles, distinct theoretical predictions have been made in the past. This work analyses how these predictions are modified for an interacting Bose-Einstein condensate. For this purpose, a time-dependent Gross-Pitaevskii equation is solved analytically and numerically.",
+  "authors": [
+    "Pascal Naidon",
+    "Lucas Happ",
+    "Denis Boiron"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "quant-ph"
+  ],
+  "summary": "该论文理论上研究了原子玻色-爱因斯坦凝聚体（BEC）的到达时间分布，特别关注探测器靠近凝聚体陷阱的实验未探索区域。对于非相互作用粒子，已有不同的理论预测，本文分析这些预测如何因相互作用的BEC而改变。为此，作者解析和数值求解了含时Gross-Pitaevskii方程。",
+  "chinese_digest": "## 中文导读\n- 研究问题：靠近陷阱探测时，相互作用的BEC的到达时间分布如何计算。\n- 核心方法：解析和数值求解含时Gross-Pitaevskii方程。\n- 主要结果：给出了相互作用BEC到达时间分布的理论预测，与无相互作用情况不同。\n- 与量子精密测量/量子计算的关系：该研究主要关注BEC的基本量子动力学，而非量子传感、计量或计算中的具体协议、极限或平台。没有涉及量子Fisher信息、自旋压缩、Rydberg原子、离子阱、光晶格等方向，因此相关性较低。\n- 是否值得精读：除非专门研究BEC到达时间测量，否则不推荐。\n- 对我研究的可能启发：无直接启发，但含时Gross-Pitaevskii方程的求解方法可能对某些量子控制问题有间接参考价值。",
+  "english_digest": "## English Guide\n- Problem: Calculation of arrival time distribution of interacting BEC near the trap.\n- Method: Analytical and numerical solutions of the time-dependent Gross-Pitaevskii equation.\n- Main result: Theoretical predictions for arrival times of interacting BEC, differing from non-interacting cases.\n- Relevance: Low relevance to quantum sensing, metrology, or quantum computing. No connection to Fisher information, spin squeezing, Rydberg atoms, trapped ions, or quantum gates. Focuses on fundamental quantum dynamics of BEC.\n- Reading priority: Low, unless specifically studying BEC arrival time experiments.\n- Possible inspiration: The solution techniques for Gross-Pitaevskii equation might be tangentially useful for quantum control problems, but no direct inspiration for the listed research areas.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.20281v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.20281v1",
+  "local_pdf_path": ""
+}

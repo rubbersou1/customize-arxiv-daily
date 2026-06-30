@@ -1,0 +1,21 @@
+{
+  "title": "Topological Codes from Space Groups: A Route beyond Translation Invariance",
+  "arXiv_id": "2606.20548v2",
+  "abstract": "Topological codes, including the toric code, are among the most important classes of stabilizer codes. Existing constructions and analyses of such codes, however, overwhelmingly assume translation invariance. Here we introduce a framework for constructing Calderbank--Shor--Steane (CSS) codes based on space groups which combine translations with point-group operations, thereby breaking translation invariance. To characterize these codes, we develop a module-theoretic approach based on invariant theory that provides a rigorous criterion for topological order and enables the computation of the number of independent anyon types. Although the inclusion of point-group operations might naively appear to hinder practical implementation, we find that these codes can actually exhibit enhanced locality compared to their purely translation-invariant counterparts. Our framework thus broadens the landscape of topological codes and opens new avenues for their co-design with quantum computing platforms.",
+  "authors": [
+    "Chong-Yuan Xu",
+    "Ze-Chuan Liu",
+    "Yong Xu"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas"
+  ],
+  "summary": "本文介绍了一种基于空间群（结合平移与点群操作）构造拓扑CSS码的框架，打破了传统拓扑码（如环面码）对平移不变性的依赖。通过发展基于不变理论的模论方法，作者提供了拓扑序的严格判据，并能计算独立任意子类型的数量。尽管点群操作看似增加复杂性，但这些码实际上可能展现出比纯平移不变码更好的局域性。该工作拓宽了拓扑码的设计空间，为与量子计算平台的协同设计提供了新途径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何构造不依赖平移不变性的拓扑量子纠错码。\n- 核心方法：利用空间群（包含旋转、反射等点群操作）构建CSS码，并引入基于不变理论的模论方法分析拓扑序和任意子类型。\n- 主要结果：证明了空间群拓扑码可以具有增强的局域性，并给出了拓扑序的严格判据。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦于量子纠错码的数学结构，与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向没有直接关联。它属于量子计算中的纠错理论，但未涉及具体实验平台或传感协议。\n- 是否值得精读：对于专门从事拓扑量子纠错理论的研究者具有重要价值，但对于本领域（量子精密测量和量子计算实验/协议）的参考价值很低。\n- 对我研究的可能启发：如果对量子计算中的错误抑制或硬件平台无关的纠错方案感兴趣，可间接了解拓扑码的新构造思路，但与本方向的核心主题（如量子传感、计量学）无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to construct topological quantum error-correcting codes that do not rely on translation invariance. \n- Method: Use space groups (combining translations with point-group operations like rotations and reflections) to build CSS codes, and develop a module-theoretic approach based on invariant theory to characterize topological order and anyon types. \n- Main result: Space-group topological codes can exhibit enhanced locality, and a rigorous criterion for topological order is provided. \n- Relevance: This work is primarily about the mathematical structure of topological quantum error correction. It has no direct connection to quantum precision measurement, quantum sensing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or atomic clocks. It belongs to quantum computing theory but does not address experimental platforms or sensing protocols. \n- Reading priority: Low for researchers in quantum metrology and experimental quantum computing. High for those specializing in topological error correction. \n- Possible inspiration: If interested in error mitigation strategies for quantum computing, one might explore new code constructions, but the paper offers little insight for quantum sensing or metrology.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.20548v2",
+  "arxiv_url": "http://arxiv.org/abs/2606.20548v2",
+  "local_pdf_path": ""
+}

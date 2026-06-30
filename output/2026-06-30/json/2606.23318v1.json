@@ -1,0 +1,22 @@
+{
+  "title": "Vortex photoelectron holography in strong-field tunneling ionization",
+  "arXiv_id": "2606.23318v1",
+  "abstract": "Vortex electrons, characterized by a helical phase front, offer unique advantages for probing material structures. Such electrons can be generated via tunneling ionization in strong laser fields. In this paper, we investigate the rescattering dynamics of vortex photoelectrons by the parent ion. Specifically, we introduce vortex photoelectron holography, extending conventional strong-field photoelectron holography (SFPH) from plane-wave to vortex rescattering. By solving the time-dependent Schrödinger equation, we extract the vortex scattering phase from the SFPH fringes, showing excellent agreement with scattering calculations. Thus, our work provides direct access to the vortex scattering phase, paving the way for applying SFPH to structurally sensitive imaging with phase-engineered photoelectrons.",
+  "authors": [
+    "Yongkun Chen",
+    "Oleg I. Tolstikhin",
+    "Toru Morishita",
+    "Yueming Zhou",
+    "Peixiang Lu"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "该论文研究了强激光场隧穿电离中涡旋光电子与母离子的再散射动力学，提出了涡旋光电子全息术，将传统强场光电子全息术从平面波扩展到涡旋再散射。通过求解含时薛定谔方程，从全息条纹中提取了涡旋散射相位，并与散射计算结果高度一致，为利用相位工程光电子进行结构敏感成像提供了新途径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用涡旋光电子全息术探测材料结构？\n- 核心方法：通过求解含时薛定谔方程模拟强场隧穿电离中涡旋光电子的再散射动力学，并提取散射相位。\n- 主要结果：从全息条纹中成功提取了涡旋散射相位，与理论计算吻合，验证了涡旋光电子全息术的可行性。\n- 与量子精密测量/量子计算的关系：该研究主要属于强场物理和原子分子光学领域，与量子精密测量（如量子传感、量子Fisher信息、自旋压缩）、量子计算（如中性原子、离子阱、Rydberg原子）、以及相关实验平台（如光镊、腔QED）无直接关联。论文未涉及量子测量极限、量子控制、量子门等核心主题。\n- 是否值得精读：否。对于量子精密测量和量子计算领域的研究者，该论文相关性极低。\n- 对我研究的可能启发：几乎无直接启发。但其中对电子波函数相位操控的思想，或许在极端条件下与量子传感中的相位测量有微妙联系，但非常间接。",
+  "english_digest": "## English Guide\n- Problem: How to probe material structures using vortex photoelectron holography?\n- Method: Solving the time-dependent Schrödinger equation to simulate rescattering dynamics of vortex photoelectrons in strong-field tunneling ionization and extracting the vortex scattering phase from holographic fringes.\n- Main result: The vortex scattering phase is successfully extracted and agrees well with scattering calculations, demonstrating the feasibility of vortex photoelectron holography.\n- Relevance: This work belongs to strong-field physics and atomic/molecular optics, with no direct connection to quantum precision measurement (e.g., quantum metrology, quantum sensing, quantum Fisher information, spin squeezing) or quantum computing (e.g., neutral atoms, trapped ions, Rydberg atoms, optical tweezers, cavity QED). It does not address quantum measurement limits, quantum control, gates, or related experimental platforms.\n- Reading priority: Low. The paper is not relevant to the specified research interests.\n- Possible inspiration: Minimal. The phase manipulation of electron wavefunctions might have a remote conceptual link to phase measurement in quantum sensing, but the connection is very indirect.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.23318v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.23318v1",
+  "local_pdf_path": ""
+}

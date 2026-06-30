@@ -1,0 +1,23 @@
+{
+  "title": "Preparing two-mode magnonic Schrödinger cat states in a cavity-magnon-qubit system",
+  "arXiv_id": "2606.25511v1",
+  "abstract": "The cavity-magnon-qubit system has recently been demonstrated as a new platform for preparing macroscopic quantum states in magnonic systems. Here, we propose to prepare a two-mode magnonic cat state, which is also a non-Gaussian entangled state, based on this practical system involving two yttrium-iron-garnet (YIG) spheres and a superconducting qubit coupled to a common microwave cavity. By adiabatically eliminating the cavity and resonantly driving the qubit, an effective magnon-qubit conditional-displacement interaction is achieved. Further working in the magnon-magnon strong-coupling regime and considering two identical magnon frequencies and coupling strengths to the cavity, two hybridized magnon modes are formed, of which the bright mode is prepared in a cat state after a projective measurement on the qubit, while the dark mode remains in its initial vacuum state. Such a state corresponds to a two-mode cat state of two original magnon modes, which share strong non-Gaussian entanglement. We also discuss practical dissipation and dephasing effects on the cat state. The results indicate that strong nonclassicality and non-Gaussian entanglement are present in the two-mode cat state using fully feasible parameters.",
+  "authors": [
+    "Gen Li",
+    "Gang Liu",
+    "Rong-Can Yang",
+    "Jie Li"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.mes-hall",
+    "physics.optics"
+  ],
+  "summary": "本文提出在腔-磁振子-量子比特系统中制备双模磁振子薛定谔猫态（一种非高斯纠缠态）的方案。系统由两个钇铁石榴石（YIG）球和一个超导量子比特共同耦合到微波腔组成。通过绝热消除腔模并共振驱动量子比特，实现有效的磁振子-量子比特条件位移相互作用。在磁振子-磁振子强耦合区域下，两个磁振子模式杂化形成亮模和暗模，对量子比特进行投影测量后，亮模制备成猫态，暗模保持真空态，从而获得两个原始磁振子模式的双模猫态，该态具有强非高斯纠缠。论文还讨论了实际耗散和退相干效应对猫态的影响，结果表明在完全可行的参数下，双模猫态呈现强非经典性和非高斯纠缠。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在腔-磁振子-量子比特系统中制备双模非高斯纠缠态（薛定谔猫态），用于量子信息处理。\n- 核心方法：利用YIG球与超导量子比特耦合，通过绝热消除腔模、共振驱动量子比特实现条件位移相互作用，在磁振子-磁振子强耦合下通过投影测量制备双模猫态。\n- 主要结果：成功制备了双模磁振子薛定谔猫态，该态具有强非高斯纠缠，且参数在实验可行范围内。\n- 与量子精密测量/量子计算的关系：该工作与量子精密测量密切相关，因为非高斯纠缠态（如猫态）可用于提高量子传感灵敏度，超越标准量子极限；同时，该平台（腔-磁振子-量子比特）为量子计算中的纠缠资源制备提供了新途径，但本文不直接涉及Rydberg原子、自旋压缩、中性原子或离子阱。\n- 是否值得精读：值得精读，尤其对宏观量子态制备、非高斯纠缠态在量子计量学中的应用感兴趣的研究者。\n- 对我研究的可能启发：启发将磁振子系统与腔QED结合用于制备纠缠态，可能扩展至量子传感中的海森堡极限测量，或与Rydberg原子系统结合实现混合量子计算平台。",
+  "english_digest": "## English Guide\n- Problem: How to prepare a two-mode non-Gaussian entangled state (Schrödinger cat state) in a cavity-magnon-qubit system for quantum information processing.\n- Method: Using two YIG spheres coupled to a superconducting qubit via a microwave cavity, adiabatically eliminating the cavity mode, resonantly driving the qubit to achieve conditional-displacement interaction, and performing projective measurement on the qubit under magnon-magnon strong coupling.\n- Main result: Successful preparation of a two-mode magnonic cat state with strong non-Gaussian entanglement, using experimentally feasible parameters.\n- Relevance: Highly relevant to quantum metrology, as non-Gaussian entangled states (e.g., cat states) can enhance sensitivity beyond the standard quantum limit; also relevant to quantum computing as a resource for entanglement. However, it does not directly involve Rydberg atoms, spin squeezing, neutral atoms, or trapped ions.\n- Reading priority: Worth reading for researchers interested in macroscopic quantum state preparation and non-Gaussian entanglement for quantum sensing.\n- Possible inspiration: Suggests combining magnonic systems with cavity QED for entangled state generation, which could be extended to Heisenberg-limited metrology or hybrid quantum computing platforms with Rydberg atoms.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25511v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25511v1",
+  "local_pdf_path": ""
+}

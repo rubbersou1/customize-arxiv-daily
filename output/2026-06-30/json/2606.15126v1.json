@@ -1,0 +1,24 @@
+{
+  "title": "Interaction-enabled topological pumping of Rydberg electrons",
+  "arXiv_id": "2606.15126v1",
+  "abstract": "Topological pumping is a paradigmatic realization of quantized transport in band systems, yet its fate in strongly correlated regimes, especially with long-range interactions, remains largely unexplored. Here we report the experimental observation of interaction-enabled topological pumping of correlated Rydberg electrons in a synthetic lattice. We show that dipolar exchange interactions induce a controllable shift of the underlying topological singularity in parameter space, such that a fixed pumping trajectory can be driven through successive topological transitions by tuning the interaction strength alone. This leads to the emergence and breakdown of quantized transport. The observations are consistent with an effective Rice-Mele description with interaction-renormalized onsite potentials and are supported by characterizing the adiabaticity and robustness to control trajectory imperfections. Our results establish a platform for exploring interaction-controlled topological transport beyond perturbative regimes and open a route toward engineering correlated topological matter in synthetic quantum systems.",
+  "authors": [
+    "Chenxi Huang",
+    "Tao Chen",
+    "Kaden R. A. Hazzard",
+    "Jacob P. Covey",
+    "Bryce Gadway"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "summary": "本文报道了在合成晶格中利用里德伯电子实现相互作用调控的拓扑泵浦实验。研究发现，偶极交换相互作用会导致参数空间中的拓扑奇点发生可控偏移，从而通过单独调节相互作用强度，使固定的泵浦轨迹经历连续的拓扑相变，进而实现或破坏量子化输运。实验结果与考虑相互作用重归一化晶格势的Rice-Mele模型一致，并验证了绝热性和对轨迹缺陷的鲁棒性。该工作建立了一个探索强关联区域以外相互作用控制拓扑输运的平台，并为在合成量子系统中工程化关联拓扑物质开辟了新途径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：强关联（长程相互作用）体系中拓扑泵浦的量子化输运是否仍能实现？如何通过相互作用调控拓扑相变？\n- 核心方法：利用里德伯原子之间的偶极交换相互作用，在合成晶格中实现拓扑泵浦，并通过调节相互作用强度驱动系统穿过拓扑奇点。\n- 主要结果：实验观察到相互作用诱导的拓扑泵浦，其量子化输运随相互作用强度变化而出现或消失，与重归一化的Rice-Mele模型吻合。\n- 与量子精密测量/量子计算的关系：该工作直接涉及里德伯原子（Rydberg atoms）这一重要量子计算平台，展示了利用长程相互作用调控拓扑性质的能力，对基于里德伯原子的量子门保真度、量子传感中的拓扑保护测量以及中性原子量子计算中的误差抑制有潜在启发。虽然本文未直接讨论自旋压缩或Fisher信息，但其对相互作用与拓扑的精确控制方法可迁移至量子计量学中的纠缠生成和量子增强测量。\n- 是否值得精读：是。对于从事里德伯原子、中性原子量子计算和量子模拟的研究者，本文提供了新的相互作用调控思路和实验验证。\n- 对我研究的可能启发：可借鉴其利用相互作用重归一化效应实现拓扑跃迁的方法，设计基于里德伯系统的拓扑保护量子传感协议；同时，其展示的合成晶格技术可用于研究多体纠缠的拓扑性质，进而优化量子Fisher信息。",
+  "english_digest": "## English Guide\n- Problem: Can topological pumping persist in strongly correlated systems with long-range interactions, and how can interactions control topological transitions?\n- Method: Experimental realization of topological pumping using Rydberg electrons in a synthetic lattice, where dipolar exchange interactions induce a controllable shift of the topological singularity, enabling interaction-driven topological transitions.\n- Main result: Observation of interaction-enabled topological pumping, with quantized transport emerging and breaking down as interaction strength is tuned, consistent with a renormalized Rice-Mele model.\n- Relevance: Directly relevant to Rydberg atoms and neutral-atom quantum computing platforms. Although not directly about quantum sensing or Fisher information, the precise control of interactions and topology can inspire new approaches to generating entanglement (e.g., spin squeezing) and topological protection in quantum metrology. The work also provides insights into error mitigation for Rydberg-based quantum gates.\n- Reading priority: High. Essential for researchers working on Rydberg atoms, neutral-atom quantum computing, and topological quantum simulation.\n- Possible inspiration: The interaction-renormalization technique could be adapted to design topologically protected quantum sensors; synthetic lattice methods may be used to study multipartite entanglement topology, potentially enhancing quantum Fisher information in metrology protocols.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.15126v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.15126v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Quantum optical photoelectron interferometry",
+  "arXiv_id": "2606.13447v1",
+  "abstract": "We present a general theoretical framework for multiphoton processes driven by quantum light fields, establishing a direct link between photon statistics and photoelectron observables. Our results show that the autocorrelation and cross-correlation functions, which quantify the underlying photon statistics, are directly mapped onto the resulting photoelectron spectra. Although our framework is broadly applicable, we demonstrate specifically in the example of reconstruction of attosecond beating by interference of two-photon transitions (RABBIT) the influence of the light statistical properties. In this approach, the amplitude, contrast and phase of the oscillations of the sideband signal as a function of pump-probe delay reveal the quantum nature of light. We analyze these observables across several quantum configurations, including correlated infrared and harmonic modes, as well as the uncorrelated case with non-classical harmonic statistics, thereby establishing a general framework for quantum-light RABBIT spectroscopy. We compare the analytical theory with numerical simulations for the case of classical harmonics and an infrared field in a squeezed coherent state, obtaining excellent agreement. Our results reveal how the interplay between classical and quantum correlations dictates the coherence of the photoemission process, providing a new window into the quantum-optical foundations of attosecond science.",
+  "authors": [
+    "Jonathan Dubois",
+    "Viviane Cotte",
+    "Richard Taïeb",
+    "Camille Lévêque",
+    "Jérémie Caillat",
+    "Pranshu Dave",
+    "Pascal Salières",
+    "David Bresteau",
+    "Charles Bourassin-Bouchet",
+    "Anne L'Huillier",
+    "David Busto"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "本文提出了一个用于量子光场驱动多光子过程的一般理论框架，建立了光子统计与光电子观测之间的直接联系。研究表明，光子自相关和互相关函数会直接映射到光电子谱中。以RABBIT（双光子跃迁干涉重构阿秒拍频）为例，展示了光统计特性的影响，并分析了不同量子配置下边带信号的振幅、对比度和相位随泵浦-探测延迟的变化，从而揭示了光的量子本质。该框架适用于经典谐波与压缩相干态红外场的情况，并通过数值模拟验证了理论。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何建立量子光场光子统计与光电子谱之间的直接联系，并用于阿秒科学中的量子光学探测。\n- 核心方法：构建多光子过程的一般理论框架，以RABBIT为具体案例，分析不同量子光配置（如压缩态）对光电子信号的影响。\n- 主要结果：光子统计的关联函数直接映射到光电子谱；在压缩相干态红外场下，理论与数值模拟吻合良好。\n- 与量子精密测量/量子计算的关系：本文主要聚焦于阿秒光谱学中的量子光学效应，而非量子精密测量或量子计算。虽然涉及光场的量子统计，但未直接讨论量子传感、Fisher信息、自旋压缩、中性原子、离子阱等核心主题。与Rydberg原子、微波传感等方向无直接关联。\n- 是否值得精读：若研究方向为量子光学基础或阿秒科学，则值得精读；若专注于量子精密测量或量子计算，则优先级较低。\n- 对我研究的可能启发：对量子光场统计特性的理解可能间接启发量子传感中的噪声分析或量子控制中的光场设计，但直接关联有限。",
+  "english_digest": "## English Guide\n- Problem: How to establish a direct link between photon statistics of quantum light fields and photoelectron observables, and apply it to attosecond science. \n- Method: A general theoretical framework for multiphoton processes, demonstrated via RABBIT with various quantum light configurations, including squeezed states. \n- Main result: Photon correlation functions are mapped onto photoelectron spectra; excellent agreement between theory and simulation for squeezed coherent infrared fields. \n- Relevance: This paper is primarily about quantum optical effects in attosecond spectroscopy, not quantum precision measurement or quantum computing. It does not directly address quantum metrology, Fisher information, spin squeezing, Rydberg atoms, neutral atoms, trapped ions, or quantum gates. The connection to the user's interests is tangential. \n- Reading priority: Low for those focused on quantum sensing, metrology, or computing; may be relevant for quantum optics fundamentals. \n- Possible inspiration: Could inspire noise analysis or light-field design in quantum sensing, but direct applicability is limited.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.13447v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.13447v1",
+  "local_pdf_path": ""
+}

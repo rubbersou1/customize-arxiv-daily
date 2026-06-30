@@ -1,0 +1,22 @@
+{
+  "title": "Magic transfer in quantum spin chains",
+  "arXiv_id": "2606.14855v1",
+  "abstract": "Quantum communication protocols based on spin chains have been extensively studied, yet their ability to transmit nonstabilizer resources has not been systematically addressed. We investigate the transport of quantum magic in spin chains through the natural dynamics of systems initialized in nonstabilizer states, and quantify the transported resource via the stabilizer norm. We analyze three experimentally feasible state-transfer protocols, ranging from noisy to (quasi-)perfect transfer, including one realizable in trapped-ion platforms. We find that the geometry of the injected state strongly influences transport: states in the lower Bloch hemisphere achieve higher transfer quality, whereas states in the upper hemisphere give rise to an efficient magic transport only beyond a threshold value of the parameter controlling the tendency towards perfect transfer. These features are robust across all protocols and identify the Hamiltonian and state properties that favor high-quality transfer. Moreover, we identify a parameter region, relevant to the initial state preparation, in which the transported magic exceeds the initial encoding, indicating that such spin systems can act as magic-amplification channels. Our results establish the conditions for efficient transport of nonstabilizer resources and demonstrate quantum magic as a sensitive probe of quantum transport beyond population dynamics.",
+  "authors": [
+    "Antonio Palamara",
+    "Chad Nelmes",
+    "Enrico C. Domanti",
+    "Francesco Perciavalle"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas"
+  ],
+  "summary": "该论文研究了量子自旋链中‘魔法’（非稳定子资源）的传输问题。作者通过分析三种实验可行的态传输协议（包括一种可在离子阱平台实现的协议），发现注入态的几何结构对传输质量有显著影响：下布洛赫半球的态传输质量更高，而上半球的态仅在趋向完美传输的参数超过阈值时才能高效传输。此外，论文识别出一个参数区域，其中传输的魔法量超过了初始编码，表明自旋系统可作为魔法放大通道。该工作建立了非稳定子资源高效传输的条件，并展示了量子魔法作为超越种群动力学的量子传输灵敏探针的能力。",
+  "chinese_digest": "## 中文导读\n- 研究问题：量子自旋链能否有效传输非稳定子资源（量子魔法）？传输质量受哪些因素影响？\n- 核心方法：使用稳定子范数量化魔法资源，分析三种态传输协议（包括离子阱可实现协议）下的魔法传输动力学，并研究初始态布洛赫球几何位置的影响。\n- 主要结果：下布洛赫半球态传输质量更高；上半球态需参数超阈值才能高效传输；发现魔法放大区域（传输魔法>初始魔法）。\n- 与量子精密测量/量子计算的关系：量子魔法是容错量子计算的关键资源，该工作揭示了自旋链中魔法的传输机制，对量子计算中的态制备、传输和纠错有直接意义。同时，魔法可作为量子传感中超越经典相关性的探针，与量子Fisher信息、自旋压缩等精密测量概念潜在相关。\n- 是否值得精读：是。对量子信息传输和资源理论研究者有价值，尤其关注离子阱和自旋链实验平台。\n- 对我研究的可能启发：可借鉴其魔法传输分析框架，用于评估量子传感协议中非高斯资源的传输效率；其基于稳定子范数的度量方法或可推广至量子Fisher信息的资源量化。",
+  "english_digest": "## English Guide\n- Problem: Can quantum spin chains efficiently transport nonstabilizer resources (quantum magic)? What factors determine transport quality?\n- Method: Quantify magic via stabilizer norm; analyze three state-transfer protocols (including one realizable in trapped-ion platforms); study the influence of the initial state's Bloch-sphere geometry.\n- Main result: States in the lower Bloch hemisphere achieve higher transfer quality; upper-hemisphere states require a parameter threshold for efficient magic transport; a magic-amplification regime is identified.\n- Relevance: Quantum magic is essential for fault-tolerant quantum computing; this work reveals transport mechanisms directly applicable to state preparation, transfer, and error correction. The concept of magic may also serve as a probe beyond classical correlations in quantum sensing, relating to quantum Fisher information and spin squeezing.\n- Reading priority: Yes. Valuable for researchers in quantum information transport and resource theories, especially those working with trapped ions and spin-chain platforms.\n- Possible inspiration: The magic transport analysis framework could be adapted to evaluate non-Gaussian resource efficiency in quantum sensing protocols; the stabilizer-norm metric may be generalized to quantify resources in quantum Fisher information contexts.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.14855v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.14855v1",
+  "local_pdf_path": ""
+}

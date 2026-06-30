@@ -1,0 +1,22 @@
+{
+  "title": "Neural Networks for Inverse Design of Cascaded-Mode Near-Field Landscapes",
+  "arXiv_id": "2606.27099v1",
+  "abstract": "Structuring optical near-fields is important for applications in microscopy and nanoparticle manipulation. Traditionally, near-fields are structured using antenna nanostructures that locally convert propagating far-fields into bound near-fields. Recently, a remote structuring approach was proposed using cascaded mode interference in a multimode waveguide. However, determining the complex coefficients of the optimal modal combination needed to obtain specific near-fields remains a challenge. We address this inverse design problem using artificial neural networks. We model the relationship between the design parameters and near-field landscapes using multilayer neural networks. After training, these networks are used for gradient-based optimization to reconstruct target near-field profiles. We implement this methodology to design longitudinal and lateral field variations. Our approach designs simple and complex longitudinal landscapes, demonstrating accurate prediction and flexibility. Lateral field reconstruction is more challenging but improved with training data selection and augmentation. This work establishes deep learning as an efficient and scalable framework for cascaded-mode near-field inverse design.",
+  "authors": [
+    "Wannes Luts De Martelaere",
+    "Joeri Lenaerts",
+    "Vincent Ginis"
+  ],
+  "categories": [
+    "physics.optics",
+    "physics.app-ph",
+    "physics.comp-ph"
+  ],
+  "summary": "本文提出使用人工神经网络来解决级联模式近场景观的逆向设计问题。通过模拟设计参数与近场分布之间的关系，利用多层神经网络进行梯度优化，成功重构了目标近场轮廓，包括纵向和横向场变化。研究表明，深度学习为此类逆向设计提供了高效且可扩展的框架。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何通过逆向设计确定多模波导中最佳模态组合系数，以实现特定的近场分布。\n- 核心方法：使用多层神经网络建模设计参数与近场景观的关系，并基于梯度优化进行逆向设计。\n- 主要结果：成功实现了简单和复杂纵向近场景观的精确预测和设计；横向场重构较具挑战性，但通过训练数据选择和增强得到改进。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦于光学近场操控，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向没有直接关联。文中未涉及量子系统、量子度量学、量子门、量子控制或量子传感协议。\n- 是否值得精读：对于量子精密测量或量子计算领域的研究者，相关性极低，不建议精读。\n- 对我研究的可能启发：几乎没有直接启发，除非研究者对基于神经网络的逆向设计方法本身感兴趣，并考虑将其应用于量子光学中的波前整形或光镊阵列的优化，但本文未涉及这些应用。",
+  "english_digest": "## English Guide\n- Problem: Inverse design of cascaded-mode near-field landscapes to determine optimal modal coefficients for specific near-field profiles. \n- Method: Multilayer neural networks model the mapping between design parameters and near-field landscapes, followed by gradient-based optimization. \n- Main result: Accurate prediction and design of simple and complex longitudinal landscapes; lateral field reconstruction improved with data augmentation. \n- Relevance: This paper focuses on optical near-field structuring using waveguides and neural networks. It has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or any quantum metrology protocols. \n- Reading priority: Very low for researchers in quantum metrology, quantum sensing, or quantum computing. \n- Possible inspiration: Minimal, unless one is interested in applying neural-network-based inverse design to quantum optics problems like wavefront shaping for optical tweezers or cavity QED, which are not addressed here.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27099v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27099v1",
+  "local_pdf_path": ""
+}

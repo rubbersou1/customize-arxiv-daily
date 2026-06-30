@@ -1,0 +1,24 @@
+{
+  "title": "Enhanced Magnon Synchronization in Coupled WGM Optomagnonic Resonators with Phase-Dependent Photon Hopping",
+  "arXiv_id": "2606.30102v1",
+  "abstract": "We investigate quantum synchronization in a coupled cavity optomagnonic system which consists of two spatially separated optical whispering-gallery-mode (WGM) resonators and each resonator is also coupled to a yttrium iron garnet (YIG) sphere through the optomagnonic interaction. Phase-dependent single-photon hopping factor couples the two optical resonators and provides an indirect interaction between the two distant magnon modes. We then investigate complete synchronization, φ-synchronization, and quantum phase synchronization using the covariance-matrix formalism as well as also studying the effects of the hopping term on the overall synchronization dynamics of two distant magnon modes. It can be seen that the photon-hopping phase provides an efficient way to control the synchronization dynamics and when it is varied from 0 to π, the magnon trajectories gradually evolve from weakly correlated motion to a highly synchronized state, which is also accompanied by a significant reduction in the synchronization error. The influence of the photon-hopping strength and thermal fluctuations is also investigated, where it can be seen that stronger photon hopping enhances all synchronization measures, while thermal noise weakens the coherent correlations responsible for synchronized dynamics. Our results demonstrate that the phase of the hopping factor offers a simple and effective approach for controlling synchronization dynamics in WGM based coupled cavity optomagnonic systems and also provide a useful route towards coherent control of collective magnon dynamics in such quantum optomganonic devices.",
+  "authors": [
+    "Le-Ji Xue",
+    "Ying-Jian Zhu",
+    "Jaspal Singh",
+    "Ahmad Zahia",
+    "Kong-Ming Hu",
+    "Jia-Xin Peng",
+    "S. K. Singh"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了一种耦合的腔光磁系统，其中两个光学回音壁模式（WGM）谐振器通过相位依赖的单光子跳跃因子耦合，每个谐振器还与一个钇铁石榴石（YIG）球体通过光磁相互作用耦合。作者使用协方差矩阵形式研究了两个远距离磁振子模式的完全同步、φ-同步和量子相位同步，发现光子跳跃相位（0到π）可以高效控制同步动力学，从弱相关运动演变为高度同步状态，同时同步误差显著降低。更强的光子跳跃增强同步，而热噪声削弱相干相关性。研究结果为WGM基耦合腔光磁系统中同步动力学的控制提供了简单有效的方法，并有助于量子光磁器件中集体磁振子动力学的相干控制。",
+  "chinese_digest": "## 中文导读\n- 研究问题：耦合腔光磁系统中磁振子模式的量子同步控制。\n- 核心方法：通过相位依赖的光子跳跃因子间接耦合两个远距离磁振子模式，使用协方差矩阵形式分析同步动力学。\n- 主要结果：光子跳跃相位（0到π）可有效控制同步，增强同步并降低误差；强跳跃增强同步，热噪声削弱同步。\n- 与量子精密测量/量子计算的关系：该研究涉及量子同步和相干控制，与量子传感中的相干操控有间接联系，但未直接涉及量子精密测量、量子计算、Rydberg原子、自旋压缩、中性原子、捕获离子或Fisher信息等核心方向。\n- 是否值得精读：如果对腔光磁系统或量子同步感兴趣，可适度关注；对量子精密测量和量子计算方向直接帮助有限。\n- 对我研究的可能启发：光跳跃相位控制方法可能启发其他量子系统中的相干控制策略，但需要进一步转化到量子传感或计算平台。",
+  "english_digest": "## English Guide\n- Problem: Quantum synchronization control of magnon modes in coupled cavity optomagnonic systems.\n- Method: Phase-dependent photon hopping couples two distant magnon modes; covariance-matrix formalism analyzes synchronization dynamics.\n- Main result: Photon-hopping phase (0 to π) effectively controls synchronization, enhancing it and reducing error; stronger hopping enhances synchronization, thermal noise weakens it.\n- Relevance: This work focuses on quantum synchronization and coherent control, indirectly relevant to coherent manipulation in quantum sensing, but not directly addressing quantum precision measurement, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information.\n- Reading priority: Moderate if interested in cavity optomagnonics or quantum synchronization; low priority for quantum metrology/computing.\n- Possible inspiration: Phase-controlled hopping may inspire coherent control strategies in other quantum systems, but further adaptation is needed for sensing/computing platforms.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30102v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30102v1",
+  "local_pdf_path": ""
+}

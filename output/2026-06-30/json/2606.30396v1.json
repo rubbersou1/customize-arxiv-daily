@@ -1,0 +1,20 @@
+{
+  "title": "Provable Quantum Advantage for Dynamical Phase Transition",
+  "arXiv_id": "2606.30396v1",
+  "abstract": "The universal scaling of critical behavior in phase transitions is a cornerstone of physics. Dynamical quantum phase transitions (DQPTs) are their nonequilibrium analogues: abrupt nonanalyticities that emerge as a quantum system evolves in time. Yet the hardness and cost of detecting this phenomenon remain largely unexplored. We prove that estimating DQPT to a certain precision is intractable even for quantum computers, whereas deciding a subsystem variant of DQPT is as hard as simulating generic quantum circuits, implying a provable exponential quantum advantage. Furthermore, to search for critical times of local DQPTs, we show a quadratically faster quantum algorithm that estimates observables of Hamiltonian dynamics at multiple time points with Heisenberg-limited precision and sublinear scaling in the number of time points. Moreover, through encoding classical evolution into quantum dynamics, our framework enables broader quantum speedups for detecting anomalous phenomena in classical systems.",
+  "authors": [
+    "Jue Xu",
+    "Xiao Yuan",
+    "Qi Zhao"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了动态量子相变（DQPT）的可计算性和量子优势。作者证明，以一定精度估计DQPT对量子计算机来说也是困难的，但判定其子系统变体则与模拟通用量子电路一样困难，从而证明了指数级的量子优势。此外，他们还提出了一种量子算法，能以海森堡极限精度和亚线性时间点数量级，更快地搜索局部DQPT的关键时间。该框架通过将经典演化编码到量子动力学中，为检测经典系统中的异常现象提供了更广泛的量子加速。",
+  "chinese_digest": "## 中文导读\n- 研究问题：动态量子相变（DQPT）的检测难度和量子计算优势。\n- 核心方法：复杂性理论证明（硬度与可判定性）和量子算法设计（海森堡极限精度、多时间点亚线性缩放）。\n- 主要结果：证明估计DQPT对量子计算机也难，但判定子系统DQPT可提供指数级量子优势；提出更快搜索关键时间的算法。\n- 与量子精密测量/量子计算的关系：论文主要关注量子计算复杂性（量子优势）和算法效率，而非量子传感或计量。虽然涉及哈密顿量动力学和可观测量估计（与量子计量中的参数估计有间接联系），但未直接讨论Fisher信息、自旋压缩、Rydberg原子、中性原子、离子阱等具体平台或协议。其“海森堡极限精度”概念与量子计量学相关，但论文重点在计算复杂性而非测量精度。\n- 是否值得精读：对于量子计算复杂性理论或量子算法设计方向的研究者有价值；对主要关注量子精密测量、传感或具体实验平台（如Rydberg、离子阱、中性原子）的研究者，相关性较低，可不精读。\n- 对我研究的可能启发：可能启发量子计量中利用量子优势进行多参数估计或动态过程监测的新思路，但需要进一步桥接。",
+  "english_digest": "## English Guide\n- Problem: The computational hardness and quantum advantage in detecting dynamical quantum phase transitions (DQPTs).\n- Method: Complexity-theoretic proofs (hardness and decidability) and quantum algorithm design (Heisenberg-limited precision, sublinear scaling over time points).\n- Main result: Estimating DQPT is intractable even for quantum computers, but deciding its subsystem variant yields exponential quantum advantage; a faster algorithm for searching critical times is provided.\n- Relevance: This paper primarily addresses quantum computational complexity and algorithm efficiency, not quantum sensing or metrology. While it involves Hamiltonian dynamics and observable estimation (tangential to parameter estimation in quantum metrology), it does not directly discuss Fisher information, spin squeezing, Rydberg atoms, neutral atoms, trapped ions, or specific experimental platforms. The concept of Heisenberg-limited precision is relevant to quantum metrology, but the focus is on computational complexity rather than measurement precision.\n- Reading priority: Valuable for researchers in quantum complexity theory or algorithm design; low priority for those focused on quantum precision measurement, sensing, or specific hardware platforms (Rydberg, ions, neutral atoms).\n- Possible inspiration: Could inspire new approaches for multi-parameter estimation or dynamic process monitoring in quantum metrology using quantum advantages, but requires further bridging.",
+  "relevance_score": 5.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30396v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30396v1",
+  "local_pdf_path": ""
+}

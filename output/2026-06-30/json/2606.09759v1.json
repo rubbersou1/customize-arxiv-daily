@@ -1,0 +1,24 @@
+{
+  "title": "Suppressing the Motion of Rydberg Atoms in Inhomogeneous Electric Fields via Stark Echo",
+  "arXiv_id": "2606.09759v1",
+  "abstract": "Rydberg atoms possess strong electric dipole transitions and tunable energy levels, making them promising candidates for microwave to optical conversion on integrated superconducting atom chips. Achieving strong coupling of the atoms to e.g. the microwave field of an on-chip resonator requires placing the atoms within tens of micrometers from the chip surface. However, inhomogeneous stray electric fields originating from the surface can induce position-dependent Stark forces, resulting in atomic motion and leading to time-dependent shifts of the Rydberg energy levels. We experimentally investigate these effects using time-of-flight and spectroscopic techniques, observing substantial level shifts and signal loss attributable to field-induced atomic motion. A theoretical model incorporating an exponentially decaying surface field with a superimposed bias accurately reproduces the observed dynamics. To mitigate the level shift, we introduce a Stark echo sequence that dynamically reverses the force. This approach suppresses the atomic motion and maintains the atomic resonance. The method relies solely on global field control and is compatible with atom-resonator coupling architectures, providing a robust strategy for preserving coherence of Rydberg atoms in inhomogeneous electric fields near surfaces.",
+  "authors": [
+    "Dominik Jakab",
+    "Manuel Kaiser",
+    "Conny Glaser",
+    "David Petrosyan",
+    "József Fortágh",
+    "Andreas Günther"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了里德伯原子在芯片表面附近不均匀电场中的运动问题。实验观察到由表面杂散电场引起的位置依赖的斯塔克力导致原子运动，进而引起能级移动和信号损失。作者提出并实验验证了一种“斯塔克回波”序列，通过动态反转电场力来抑制原子运动并保持共振频率。该方法仅依赖全局电场控制，与原子-谐振器耦合架构兼容，为在表面附近保持里德伯原子相干性提供了一种鲁棒策略。",
+  "chinese_digest": "## 中文导读\n- 研究问题：里德伯原子在芯片表面附近不均匀电场中运动导致的能级移动和相干性损失问题。\n- 核心方法：提出“斯塔克回波”序列，通过动态反转电场力来补偿原子运动，并利用飞行时间法和光谱学技术进行实验验证。\n- 主要结果：斯塔克回波序列有效抑制了原子运动，恢复了原子共振频率，且不依赖复杂局域控制。\n- 与量子精密测量/量子计算的关系：该工作直接服务于里德伯原子在量子传感（如微波电场测量）和中性原子量子计算中的实际应用。抑制退相干机制对于提高量子门保真度和传感精度至关重要，与量子控制、误差缓解主题紧密相关。\n- 是否值得精读：是。对于从事里德伯原子实验、表面附近量子平台、或量子传感中噪声抑制的研究者具有直接参考价值。\n- 对我研究的可能启发：该回波技术可推广至其他非均匀场环境（如光镊阵列中的梯度场），或结合自旋压缩、拉姆齐干涉等协议提升测量灵敏度。",
+  "english_digest": "## English Guide\n- Problem: Motion-induced level shifts and coherence loss of Rydberg atoms in inhomogeneous electric fields near chip surfaces. \n- Method: A Stark echo sequence that dynamically reverses the electric force to cancel atomic motion, validated via time-of-flight and spectroscopy. \n- Main result: The Stark echo effectively suppresses atomic motion and restores resonance frequency, requiring only global field control.\n- Relevance: Directly addresses decoherence in Rydberg-based quantum sensing (e.g., microwave sensing) and neutral-atom quantum computing. The technique is a form of quantum control and error mitigation, relevant to improving gate fidelities and measurement precision.\n- Reading priority: High. Essential for researchers working on Rydberg experiments, surface-trap platforms, or noise suppression in quantum sensors.\n- Possible inspiration: The echo method could be adapted to other platforms (e.g., optical tweezers) or combined with spin squeezing/Ramsey interferometry to enhance sensitivity in quantum metrology.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.09759v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.09759v1",
+  "local_pdf_path": ""
+}

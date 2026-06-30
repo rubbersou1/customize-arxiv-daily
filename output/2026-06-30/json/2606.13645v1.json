@@ -1,0 +1,19 @@
+{
+  "title": "Driven dynamics of an attractive Bose polaron",
+  "arXiv_id": "2606.13645v1",
+  "abstract": "We study the out-of-equilibrium dynamics of an impurity driven by a constant external force through a system of homogeneous weakly-interacting bosons in one spatial dimension. The impurity-boson interaction is assumed to be attractive. We show that the impurity exhibits drifted Bloch oscillations in a wide range of forces in the absence of a lattice. We characterize the dynamical response of the host bosons and explain the mechanism underlying the Bloch oscillations. We analyse the behavior of the drift velocity, the Bloch amplitude and the time period of oscillations in a wide range of forces and other system parameters. In contrast to the case of repulsive impurity-boson interaction, the drift velocity exhibits a sub-linear dependence on a weak applied force, $V_d\\sim {F}^α$ with a positive exponent $α$ smaller than unity. The drift velocity monotonically increases with force, though the scaling behavior varies considerably across different regimes of $F$. Moreover, the amplitude of the velocity oscillations displays rich behavior: it first undergoes a decay with force, reaches a minimum, and then presents a revival, increasing with force.",
+  "authors": [
+    "Saptarshi Majumdar",
+    "Aleksandra Petković"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "该论文研究了在均匀弱相互作用玻色子系统中，一个受恒定外力驱动的杂质（玻色极化子）的非平衡动力学。假设杂质-玻色子相互作用是吸引性的。研究表明，在没有晶格的情况下，杂质在较宽的力范围内表现出漂移的布洛赫振荡。论文表征了宿主玻色子的动力学响应，并解释了布洛赫振荡的机制。分析了漂移速度、布洛赫振幅和振荡周期在较宽的力范围和其他系统参数下的行为。与排斥相互作用的情况不同，漂移速度对外加弱力呈亚线性依赖（V_d ~ F^α，α<1），且随着力增加单调增加，但标度行为在不同力区间变化显著。速度振荡振幅先随力衰减，达到最小值后回升。",
+  "chinese_digest": "## 中文导读\n- 研究问题：研究吸引性玻色极化子在恒定外力驱动下的非平衡动力学，特别是漂移布洛赫振荡现象。\n- 核心方法：理论分析，基于一维均匀弱相互作用玻色子系统的模型，研究杂质-玻色子吸引相互作用下的动力学。\n- 主要结果：发现无晶格时杂质存在漂移布洛赫振荡；漂移速度对弱力呈亚线性依赖；振荡振幅先减后增。\n- 与量子精密测量/量子计算的关系：该工作主要关注凝聚态物理中的极化子动力学，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。\n- 是否值得精读：不推荐。除非对玻色极化子的非平衡动力学有特定兴趣。\n- 对我研究的可能启发：无直接启发，但其中的非平衡动力学分析方法或可间接参考。",
+  "english_digest": "## English Guide\n- Problem: Study the out-of-equilibrium dynamics of an attractive Bose polaron driven by a constant external force, focusing on drifted Bloch oscillations.\n- Method: Theoretical analysis of a one-dimensional homogeneous weakly-interacting Bose system with attractive impurity-boson interaction.\n- Main result: Observation of drifted Bloch oscillations without a lattice; sub-linear force dependence of drift velocity; non-monotonic behavior of oscillation amplitude.\n- Relevance: The paper is primarily in condensed matter physics (Bose polaron dynamics) and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. Relevance score: 1/10.\n- Reading priority: Low. Only relevant if specifically interested in Bose polaron non-equilibrium dynamics.\n- Possible inspiration: Minimal direct inspiration; the analysis methods for non-equilibrium dynamics might be tangentially useful.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.13645v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.13645v1",
+  "local_pdf_path": ""
+}

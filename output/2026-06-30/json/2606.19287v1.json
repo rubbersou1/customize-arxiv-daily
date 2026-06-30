@@ -1,0 +1,20 @@
+{
+  "title": "Suppression of ionization stabilization in a driven Morse-Soft-Coulomb system",
+  "arXiv_id": "2606.19287v1",
+  "abstract": "Ionization stabilization is a well-known phenomenon in strongly driven Soft-Coulomb atomic models, where the ionization probability decrease as the field amplitude increases. In this work, we investigate how this mechanism is affected by introducing a repulsive Morse barrier into the binding potential, leading to a Morse-Soft-Coulomb (MsC) model. A systematic comparison between the Soft-Coulomb and Morse-Soft-Coulomb systems is performed for different values of the softening parameter. Ionization probabilities, escape-time maps computed on the field-free energy shell and representative trajectories reveal that the stabilization window observed in the Soft-Coulomb model is strongly suppressed in the Morse-Soft-Coulomb system. To elucidate the origin of this behavior, we analyze the corresponding Kramers-Henneberger effective potentials. While the Soft-Coulomb model develops a symmetric double-well structure supporting two equivalent trapping regions, the Morse-Soft-Coulomb potential exhibits a single effective minimum as a consequence of the broken left-right symmetry introduced by the Morse branch. The combined analysis of ionization probabilities, escape dynamics, representative trajectories, and Kramers-Henneberger potentials indicates that the suppression of stabilization is closely associated with the modification of the phase-space transport structures and the reduction of the effective trapping region induced by the Morse",
+  "authors": [
+    "Murilo D. Forlevesi",
+    "Emanuel Fernandes de Lima",
+    "Gabriel Albertin Amici"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文研究了一个驱动Morse-Soft-Coulomb（MsC）系统中的电离稳定化抑制现象。传统Soft-Coulomb模型在强驱动下会出现电离概率随场强增加而降低的电离稳定化现象，但引入一个排斥性Morse势垒后，MsC模型中的稳定化窗口被强烈抑制。通过比较电离概率、逃逸时间图和Kramers-Henneberger有效势，作者发现MsC势的左右不对称性破坏了对称双阱结构，减少了有效束缚区域，从而抑制了稳定化。",
+  "chinese_digest": "## 中文导读\n- 研究问题：驱动Morse-Soft-Coulomb系统中电离稳定化抑制的机制。\n- 核心方法：数值模拟电离概率、逃逸时间图、代表性轨迹分析，以及Kramers-Henneberger有效势比较。\n- 主要结果：MsC模型中稳定化窗口被强烈抑制，源于左-右不对称性导致的单有效势阱和相空间输运结构改变。\n- 与量子精密测量/量子计算的关系：本文研究原子物理中强场电离动力学，与量子精密测量（如Rydberg原子传感、原子干涉）、量子计算（如中性原子、离子阱）无直接关联。不涉及Fisher信息、自旋压缩、量子控制或实验相关协议。\n- 是否值得精读：不值得。\n- 对我研究的可能启发：无直接启发，但强场物理中的势阱不对称性概念可能间接类比于量子传感中的非对称噪声环境。",
+  "english_digest": "## English Guide\n- Problem: Suppression of ionization stabilization in a driven Morse-Soft-Coulomb system. \n- Method: Numerical simulation of ionization probabilities, escape-time maps, representative trajectories, and Kramers-Henneberger potential analysis. \n- Main result: The stabilization window is strongly suppressed due to the broken left-right symmetry leading to a single effective potential well and altered phase-space transport. \n- Relevance: Low relevance (2/10). The paper focuses on strong-field ionization dynamics, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or any experimental protocols in these fields. \n- Reading priority: Low. \n- Possible inspiration: Minimal, though the concept of asymmetric potentials might be tangentially related to asymmetric noise in quantum sensing scenarios.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.19287v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.19287v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,26 @@
+{
+  "title": "The moving Fermi polaron",
+  "arXiv_id": "2606.21567v1",
+  "abstract": "The Fermi polaron, formed by an impurity interacting with a surrounding Fermi sea, exemplifies the canonical quasiparticle concept as a cornerstone in our description of quantum many-body systems across a wide range of energy scales. Experiments on atomic quantum gases have provided profound insights into the universal nature of the Fermi polaron. While most previous studies have focused on the case of zero impurity momentum, finite-momentum properties have remained largely uncharted. Here, we investigate the moving Fermi polaron by combining a novel Raman acceleration scheme with high-precision radio-frequency spectroscopy, exploring the quasiparticle dispersion relation over a wide range of momenta. We compare our measurements of energy shifts and spectral linewidths with a microscopic theory and reach quantitative agreement for all momenta. For low momenta, we find the energy of the moving polaron to be fully consistent with the Fermi liquid picture of a dressed particle with a constant effective mass. At high momenta, the polaron approaches the behavior of a weakly interacting bare particle, featuring small energy shifts and weak broadening. For intermediate momenta, broadening is generally larger and, most strikingly, the behavior differs for attractive and repulsive polarons. While the repulsive polaron exhibits a smooth connection between both regimes along with a monotonic change of the energy shift, the attractive case shows a peculiar non-monotonic behavior. With increasing momentum, the attractive polaron enters a regime where its energy deviates from the constant effective mass expression and broadening suddenly increases. By comparing this observation with theory, we show that this abrupt behavior coincides with the attractive polaron entering a molecule-hole continuum, where it is no longer the ground state. We interpret this as a motion-induced polaron-molecule transition.",
+  "authors": [
+    "Johanna Hennebichler",
+    "Ruben Erlenstedt",
+    "Erich Dobler",
+    "Cosetta Baroni",
+    "Rudolf Grimm",
+    "Matteo Caldara",
+    "Georg Bruun",
+    "Pietro Massignan"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了移动费米极化子的性质，通过结合新型拉曼加速方案和高精度射频光谱学，测量了不同动量下极化子的能量位移和光谱线宽。实验发现，在低动量下，极化子具有恒定有效质量的费米液体行为；在高动量下，表现为弱相互作用的裸粒子；而在中间动量区域，吸引和排斥极化子表现出不同行为，其中吸引极化子出现非单调的能量变化和突然的展宽增加，这归因于运动诱导的极化子-分子转变。",
+  "chinese_digest": "## 中文导读\n- 研究问题：移动费米极化子的准粒子色散关系及其在不同动量下的行为。\n- 核心方法：结合拉曼加速方案与射频光谱学，测量极化子的能量和线宽，并与微观理论对比。\n- 主要结果：低动量下符合费米液体图像；高动量下接近裸粒子；中间动量区域吸引极化子出现非单调行为，与极化子-分子连续体进入相关。\n- 与量子精密测量/量子计算的关系：该研究与量子精密测量和量子计算的核心主题（如量子传感、量子计量学、Rydberg原子、自旋压缩、中性原子量子计算、离子阱等）关联较弱。它主要关注超冷原子气体中的多体物理和准粒子概念，而非量子计量学中的参数估计、量子控制或硬件平台性能。\n- 是否值得精读：不建议精读，除非对费米极化子或超冷原子多体物理有特别兴趣。\n- 对我研究的可能启发：该研究展示了高精度光谱学在原子系统中的应用，但其核心问题与量子精密测量或量子计算中的关键方向（如Fisher信息、自旋压缩、量子门等）无直接联系。",
+  "english_digest": "## English Guide\n- Problem: The quasiparticle dispersion relation of moving Fermi polarons at finite momenta. \n- Method: Raman acceleration combined with high-precision radio-frequency spectroscopy, compared with microscopic theory. \n- Main result: Low-momentum behavior fits Fermi liquid picture; high-momentum approaches weakly interacting bare particle; intermediate momentum shows non-monotonic behavior for attractive polarons due to polaron-molecule transition. \n- Relevance: This paper is largely unrelated to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It focuses on many-body physics of Fermi polarons in ultracold gases. \n- Reading priority: Low; only recommended if you have specific interest in Fermi polarons or ultracold atomic many-body physics. \n- Possible inspiration: The high-precision spectroscopy technique could be adapted to other atomic systems, but the scientific question does not directly inform quantum metrology or quantum computing.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.21567v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.21567v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Vacuum Fluctuation-Induced State Switching in Degenerate Optical Parametric Oscillators",
+  "arXiv_id": "2606.28178v1",
+  "abstract": "Bistable driven-dissipative systems near bifurcations can exhibit noise-activated switching between steady states. Here, we investigate how quantum vacuum fluctuations induce such switching in a biased optical parametric oscillator (OPO), a nonlinear system with intrinsic bistability. We show how microscopic quantum fluctuations driving macroscopic transitions can be controlled with an external bias field that reshapes the OPO steady-state metapotential. We derive analytical expressions for the average switching time and validate them through simulations of the OPO field distribution and inter-state probability flow under bias injection. We further examine how switching depends on bias strength, pump gain, and optical nonlinearity. Our findings clarify how quantum noise can shape macroscopic dynamics and provide a foundation for noise-assisted photonic machine learning and probabilistic quantum gates.",
+  "authors": [
+    "Yihao Huang",
+    "Seou Choi",
+    "Rom Simovitch",
+    "Jamison Sloan",
+    "Charles Roques-Carmes",
+    "Michael Horodynski",
+    "Marin Soljačić",
+    "Yannick Salamin"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.optics"
+  ],
+  "summary": "本文研究了在简并光学参量振荡器（OPO）中，真空量子涨落如何诱导双稳态之间的噪声激活切换。通过偏置场调控稳态元势，推导了平均切换时间的解析表达式，并通过模拟验证。研究揭示了量子噪声对宏观动力学的影响，并为噪声辅助光子机器学习及概率量子门提供了基础。",
+  "chinese_digest": "## 中文导读\n- 研究问题：真空涨落如何驱动光学参量振荡器中的宏观状态切换？\n- 核心方法：理论推导平均切换时间，结合数值模拟验证。\n- 主要结果：偏置场可控制量子噪声诱导的切换，切换时间依赖于偏置强度、泵浦增益和非线性。\n- 与量子精密测量/量子计算的关系：该工作主要关注光子学中的噪声诱导切换，与量子精密测量（如量子传感、Fisher信息）和量子计算（如量子门）的直接关联较弱。但概率性量子门的概念与量子计算中的容错或随机化方法有潜在联系，然而文中未涉及具体量子传感或计量协议。\n- 是否值得精读：对于专注于量子精密测量和量子计算的研究者，相关性中等偏低。若对噪声辅助计算或光子学平台感兴趣，可选择性阅读。\n- 对我研究的可能启发：噪声在量子系统中通常被视为干扰，但本文展示了噪声可用于实现概率性操作，这可能启发在量子传感中利用噪声增强灵敏度（如随机共振），或为量子计算中的噪声辅助逻辑门提供思路。",
+  "english_digest": "## English Guide\n- Problem: How do vacuum fluctuations induce switching between steady states in optical parametric oscillators?\n- Method: Analytical derivation of average switching time, validated by numerical simulations.\n- Main result: External bias field controls noise-induced switching; switching time depends on bias, pump gain, and nonlinearity.\n- Relevance: This paper is primarily about noise-driven dynamics in photonic systems. It has limited direct connection to quantum precision measurement (e.g., quantum metrology, Fisher information, spin squeezing) or quantum computing (e.g., quantum gates, Rydberg atoms, trapped ions). The concept of probabilistic gates is tangentially related to quantum computing, but no explicit link to the specified research areas is made.\n- Reading priority: Low for researchers focused on quantum sensing, metrology, or neutral-atom/trapped-ion quantum computing. May be of interest to those exploring noise-assisted computing or photonic platforms.\n- Possible inspiration: Demonstrates that noise can be harnessed for probabilistic operations, which could inspire noise-enhanced sensitivity in quantum sensing (e.g., stochastic resonance) or novel quantum gate implementations in noisy environments.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28178v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28178v1",
+  "local_pdf_path": ""
+}

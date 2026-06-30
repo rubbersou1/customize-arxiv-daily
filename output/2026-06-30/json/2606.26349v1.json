@@ -1,0 +1,18 @@
+{
+  "title": "Generalized vibration curves for apodization and super-resolution in far-field diffraction",
+  "arXiv_id": "2606.26349v1",
+  "abstract": "The Cornu spiral, widely used to analyze Fresnel diffraction, is a familiar example of a vibration curve, also known as an amplitude-phase curve or phasor diagram. A related construction appears in discussions of Fraunhofer diffraction, where the aperture function is uniform, making the curve's shape depend solely on phase. When the aperture function varies with position, however, both amplitude and phase determine the geometry. Here, vibration curves are extended to continuous, monotonic, symmetric, nonuniform aperture functions that produce either apodization (broadening of the central maximum with suppression of side maxima) or super-resolution (narrowing of the central maximum with enhancement of side maxima). These generalized vibration curves provide an intuitive visualization of how aperture structure shapes the far-field diffraction pattern. They clarify the mechanisms behind apodization and super-resolution and reveal how phasor rotation at the first diffraction zero provides a signature that characterizes the two effects. This unified perspective serves as a useful pedagogical tool for connecting Fourier transforms, optical diffraction, and vibration curves in the undergraduate and graduate curriculum.",
+  "authors": [
+    "Lowell T. Wood"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "本文推广了经典的光学振动曲线（如科纽螺线）到连续、单调、对称的非均匀孔径函数，用于分析远场衍射中的切趾（apodization）和超分辨（super-resolution）现象。通过广义振动曲线直观展示了孔径结构如何影响衍射图样，揭示了切趾和超分辨的机制，以及第一衍射零点处相量旋转的特征差异。该工作作为傅里叶变换、光学衍射和振动曲线之间联系的教学工具。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何用振动曲线直观理解非均匀孔径下的切趾和超分辨衍射效应。\n- 核心方法：将振动曲线从均匀孔径推广到连续、单调、对称的非均匀孔径函数，分析振幅和相位共同作用下的远场衍射。\n- 主要结果：给出了切趾（展宽主极大、抑制旁瓣）和超分辨（压缩主极大、增强旁瓣）的几何解释，并指出第一衍射零点处相量旋转方向可作为两种效应的特征。\n- 与量子精密测量/量子计算的关系：本文纯粹属于经典光学衍射理论，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向没有直接或间接联系。文中未涉及量子系统、量子极限、量子纠缠或量子信息处理。\n- 是否值得精读：不建议精读，与研究方向无关。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to intuitively understand apodization and super-resolution in far-field diffraction using generalized vibration curves for non-uniform apertures.\n- Method: Extend the classic Cornu spiral to continuous, monotonic, symmetric, non-uniform aperture functions, analyzing the combined effect of amplitude and phase on diffraction patterns.\n- Main result: Provides a geometric interpretation of apodization (broadening central peak, suppressing sidelobes) and super-resolution (narrowing central peak, enhancing sidelobes); identifies phasor rotation direction at the first diffraction zero as a signature distinguishing the two effects.\n- Relevance: This paper is purely classical optical diffraction theory. It has no direct or indirect connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or any quantum information processing topics. The paper does not involve quantum systems, quantum limits, entanglement, or quantum control.\n- Reading priority: Low; not relevant to the research focus.\n- Possible inspiration: None.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26349v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26349v1",
+  "local_pdf_path": ""
+}

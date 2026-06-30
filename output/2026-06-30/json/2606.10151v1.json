@@ -1,0 +1,23 @@
+{
+  "title": "Profiling a Rydberg-Atom Electric Field Sensor for Off-Resonant Detection of Sub-100 MHz RF Signals",
+  "arXiv_id": "2606.10151v1",
+  "abstract": "We present a Rydberg-Atom electric field sensor optimized to detect signals at sub-100 MHz carrier frequencies. The sensing setup employs a sapphire vapor cell that allows for detection of signals below 100~MHz -- typical vapor cells made of glass or quartz demonstrate strong screening of radio frequency (RF) signals in this frequency regime. Applied signals are detected by observing AC Stark shifts in the atomic vapor energy levels. As a test case for the commercial utility of this receiver, we perform our tests at several carrier frequencies in the Industrial, Scientific, and Medical (ISM) band. At each carrier frequency, we report sensitivity, minimum detectable field, and detectable electric-field dynamic range. We also present a routine for optimizing off-resonant signal detection by tuning experimental parameters such as Rydberg coupler laser detuning and RF local oscillator strength. This Python-based optimization routine, which can be used at any off-resonant carrier frequency, is shared on Github for others to use in their own investigations.",
+  "authors": [
+    "Michael A. Viray",
+    "Abby Halasi-Kun",
+    "Baran N. Kayim",
+    "Brian C. Sawyer",
+    "Robert Wyllie",
+    "David S. La Mantia"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "本文介绍了一种优化用于亚100 MHz射频信号离共振检测的里德伯原子电场传感器。该传感器采用蓝宝石蒸汽室以克服玻璃或石英蒸汽室对低频射频信号的屏蔽问题，通过观测原子能级的AC斯塔克位移来检测信号。作者在ISM频段的多个载波频率下测试了传感器的灵敏度、最小可探测场强和动态范围，并提出了一种基于Python的离共振信号检测优化例程（通过调节里德伯耦合激光失谐和射频本振强度），该例程已开源。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何优化里德伯原子电场传感器，实现对亚100 MHz射频信号的离共振检测，并提升其实用性。\n- 核心方法：使用蓝宝石蒸汽室减少低频屏蔽；基于AC斯塔克位移进行传感；开发Python优化例程调节激光失谐和射频本振强度。\n- 主要结果：在ISM频段多个载波频率下获得了灵敏度、最小可探测场强和动态范围的具体数据，并公开了优化代码。\n- 与量子精密测量/量子计算的关系：本文直接属于量子传感（里德伯原子电场测量）领域，与量子精密测量中利用原子能级位移进行参数估计的方法高度相关；里德伯原子也是中性原子量子计算的重要平台，文中涉及的激光控制技术对量子门操作有借鉴意义。\n- 是否值得精读：是。对于从事里德伯原子传感、微波/射频测量、以及量子控制的研究者非常有价值。\n- 对我研究的可能启发：可借鉴其蓝宝石蒸汽室设计用于提升低频传感性能；其优化例程可直接用于其他离共振传感场景；离共振检测方案可扩展至量子计算中的读出或串扰抑制。",
+  "english_digest": "## English Guide\n- Problem: How to optimize a Rydberg-atom electric field sensor for off-resonant detection of sub-100 MHz RF signals and enhance its practical utility.\n- Method: Use a sapphire vapor cell to reduce low-frequency shielding; detect via AC Stark shifts; develop a Python routine to optimize laser detuning and RF local oscillator strength.\n- Main result: Demonstrated sensitivity, minimum detectable field, and dynamic range at multiple ISM-band carrier frequencies, with open-source optimization code.\n- Relevance: Directly relevant to quantum sensing (Rydberg-atom electrometry) and quantum metrology (parameter estimation via level shifts). Rydberg atoms are also a platform for neutral-atom quantum computing, and the control techniques apply to quantum gates and readout.\n- Reading priority: High. Essential for researchers in Rydberg sensing, microwave/RF detection, and quantum control.\n- Possible inspiration: The sapphire cell design can improve low-frequency sensing; the optimization routine is transferable to other off-resonant sensing tasks; off-resonant detection schemes may inform readout or crosstalk mitigation in quantum computing.",
+  "relevance_score": 9.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.10151v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.10151v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Modeling light-matter coupled systems with neural quantum states",
+  "arXiv_id": "2606.14352v1",
+  "abstract": "Recent advances in cold atom manipulation enable the study of many-body systems where short-range interactions between neighboring atoms coexist with long-range interactions mediated by photons. Such a combination of interactions makes a theoretical approach challenging beyond mean-field methods. In this work, we develop a neural quantum state based approach to study these systems numerically. We introduce a neural-network architecture capable of handling hybrid Hilbert spaces with large local bosonic dimensions in strongly interacting spin-photon systems. We benchmark this approach on a model of a two-dimensional lattice of Rydberg atoms coupled to a photon mode. The superradiant ground states found in the large spin-photon coupling regime allow us to demonstrate the efficiency of the method in the presence of high photon occupation. Furthermore, the ability to capture spin-spin and spin-photon correlations leads us to observe quantitative deviations in the ground state phase boundaries with respect to mean-field theory. The method extends to other systems with a similar hybrid Hilbert space structure, such as spin-phonon systems, and provides a scalable framework for investigating their ground state properties.",
+  "authors": [
+    "Noe Salmeron",
+    "Marin Bukov",
+    "Markus Schmitt"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "quant-ph"
+  ],
+  "summary": "本文提出了一种基于神经量子态（NQS）的方法来数值模拟光-物质耦合系统，特别是Rydberg原子与光子模式耦合的二维晶格模型。该方法通过设计一种神经网络架构，能够处理混合希尔伯特空间（自旋和光子）中大的局部玻色子维度，并捕捉自旋-自旋和自旋-光子关联。与平均场理论相比，该方法在超辐射基态相边界中观察到定量偏差，展示了其在强耦合和高光子占据情况下的效率。该方法可推广到其他混合系统（如自旋-声子系统），为研究复杂多体基态性质提供了可扩展框架。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何高效数值模拟Rydberg原子与光子耦合的强关联多体系统，超越平均场近似。\n- 核心方法：开发神经量子态（NQS）架构，使用神经网络表示混合希尔伯特空间中的波函数，处理自旋和光子的联合自由度。\n- 主要结果：在二维Rydberg原子-光子晶格模型中，成功计算超辐射基态相图，发现与平均场理论在相边界处的定量差异，验证了方法的准确性和可扩展性。\n- 与量子精密测量/量子计算的关系：该工作直接涉及Rydberg原子这一量子传感和量子计算的重要平台。NQS方法可用于优化Rydberg原子阵列中的量子控制、自旋压缩（spin squeezing）和量子门操作，并通过精确模拟光子-自旋纠缠提高量子传感精度。与Fisher信息相关，该方法可辅助计算量子Fisher信息以评估参数估计极限。\n- 是否值得精读：是。该方法为研究Rydberg原子中的量子计量学（如原子钟、干涉仪）和量子计算中的错误缓解提供了新工具。\n- 对我研究的可能启发：可借鉴NQS来模拟光腔中的Rydberg原子系统，分析自旋压缩和量子Fisher信息；或用于优化中性原子量子门保真度，探索量子控制协议。",
+  "english_digest": "## English Guide\n- Problem: How to perform efficient numerical simulations of strongly correlated many-body systems coupling Rydberg atoms and photons, beyond mean-field approximations.\n- Method: Develop a neural quantum state (NQS) architecture that uses neural networks to represent wavefunctions in hybrid Hilbert spaces, handling both spin and photonic degrees of freedom.\n- Main result: Successfully compute the superradiant ground state phase diagram for a 2D Rydberg atom-photon lattice model, revealing quantitative deviations from mean-field theory at phase boundaries, demonstrating accuracy and scalability.\n- Relevance: This work directly addresses Rydberg atoms, a key platform for quantum sensing and quantum computing. The NQS method can optimize quantum control, spin squeezing, and quantum gates in Rydberg arrays, and improve sensing precision by simulating photon-spin entanglement. It is relevant to Fisher information, as NQS can help compute quantum Fisher information for parameter estimation limits.\n- Reading priority: High. The method provides a new tool for studying quantum metrology (e.g., atomic clocks, interferometers) and error mitigation in quantum computation with Rydberg atoms.\n- Possible inspiration: Use NQS to simulate Rydberg atoms in optical cavities, analyze spin squeezing and quantum Fisher information; optimize neutral-atom gate fidelities and explore quantum control protocols.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.14352v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.14352v1",
+  "local_pdf_path": ""
+}

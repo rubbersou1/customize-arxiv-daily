@@ -1,0 +1,22 @@
+{
+  "title": "Universality beyond the Kibble-Zurek mechanism in the condensation of coherently coupled Bose gases",
+  "arXiv_id": "2606.24864v1",
+  "abstract": "We study the universal spatial statistics of point-like topological defects formed during the nonequilibrium condensation of a coherently coupled Bose gas using the stochastic projected Gross-Pitaevskii equation. The symmetry-breaking transition is driven by a linear quench of the chemical potential, leading to stochastic vortex nucleation in the individual condensate components. When the two components are considered together, these elementary defects may combine across components to emerge as composite topological defects known as full quantum vortices. Beyond the mean defect density predicted by the Kibble-Zurek mechanism (KZM), we investigate the spatial organization of both the elementary and composite defects and show that their positions are well described by a Poisson point process, revealing a universal stochastic geometry. This universality is further described through Voronoi tessellation, whose cell-area statistics follow Poisson-Voronoi predictions. We also introduce the spatial form factor for characterizing the vortex configurations and demonstrate the emergence of a characteristic dip-ramp-plateau structure. Our results establish universal stochastic geometry of topological defects beyond conventional Kibble-Zurek scaling and identify it as a fundamental feature of nonequilibrium condensation in coherently coupled Bose gases.",
+  "authors": [
+    "Subhadeep Patra",
+    "Paolo Comaron",
+    "Arko Roy"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.stat-mech",
+    "quant-ph"
+  ],
+  "summary": "本文使用随机投影Gross-Pitaevskii方程，研究了相干耦合玻色气体在非平衡凝聚过程中形成的点状拓扑缺陷的普适空间统计特性。通过线性猝灭化学势驱动对称性破缺相变，导致单个凝聚体组分中随机涡旋成核。当两个组分一起考虑时，这些基本缺陷可能跨组分组合，形成称为全量子涡旋的复合拓扑缺陷。除了Kibble-Zurek机制预测的平均缺陷密度外，作者研究了基本缺陷和复合缺陷的空间组织，表明其位置很好地符合泊松点过程，揭示了普适的随机几何。这种普适性通过Voronoi镶嵌进一步描述，其细胞面积统计遵循泊松-沃罗诺伊预测。还引入了空间形状因子来表征涡旋构型，并展示了特征性的下降-上升-平台结构。",
+  "chinese_digest": "## 中文导读\n- 研究问题：相干耦合玻色气体非平衡凝聚过程中拓扑缺陷的空间统计普适性。\n- 核心方法：使用随机投影Gross-Pitaevskii方程进行数值模拟，分析涡旋的泊松点过程和Voronoi统计。\n- 主要结果：发现缺陷位置服从泊松点过程，Voronoi细胞面积服从泊松-沃罗诺伊预测，存在普适的随机几何。\n- 与量子精密测量/量子计算的关系：本文主要关注凝聚态物理中的相变和拓扑缺陷统计，与量子精密测量（如量子费舍尔信息、自旋压缩）和量子计算（如中性原子量子计算、量子门）无直接关联。\n- 是否值得精读：对于量子传感和量子计算方向，相关性低，建议仅作背景了解。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Universal spatial statistics of topological defects in nonequilibrium condensation of coherently coupled Bose gases.\n- Method: Numerical simulation using stochastic projected Gross-Pitaevskii equation, analyzing Poisson point process and Voronoi tessellation of vortex positions.\n- Main result: Defect positions follow a Poisson point process; Voronoi cell areas obey Poisson-Voronoi predictions; universal stochastic geometry beyond Kibble-Zurek scaling.\n- Relevance: This paper focuses on condensed matter physics and phase transitions, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information.\n- Reading priority: Low for researchers in quantum metrology/quantum computing. Background reading only.\n- Possible inspiration: None directly applicable.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.24864v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.24864v1",
+  "local_pdf_path": ""
+}

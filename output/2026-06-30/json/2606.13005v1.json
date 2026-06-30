@@ -1,0 +1,21 @@
+{
+  "title": "Experiment-compatible measurement--feedback quantum state preparation with reinforcement learning",
+  "arXiv_id": "2606.13005v1",
+  "abstract": "Ground-state preparation is a critical task in quantum simulation and quantum computing, as it enables the study of correlated phases and the generation of entangled resource states. While measurement--feedback control has emerged as a promising route to state preparation, existing schemes either rely on handcrafted, task-specific policies or are designed using full quantum-state information that is unavailable in real experiments and becomes impractical for large many-body systems. Here we develop an adaptive measurement--feedback protocol based on reinforcement learning under partial observability. The controller uses only the history of experimentally accessible measurement outcomes to choose both the measurement operator and the feedback action in real time. To make training compatible with experiments, we introduce a stochastic terminal reward built from one-shot measurements of randomly sampled Hamiltonian components, avoiding unphysical full-state reconstruction while remaining an unbiased estimator of the target energy. We demonstrate the method by preparing ground states of the Bose--Hubbard model and by generating GHZ states, establishing a scalable and hardware-compatible route to quantum state preparation.",
+  "authors": [
+    "Xiaotian Nie",
+    "Tao Zhang",
+    "Linghui Chen"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas"
+  ],
+  "summary": "本文提出了一种基于强化学习的自适应测量-反馈量子态制备协议。该协议在部分可观测性下运行，控制器仅利用实验可访问的测量结果历史来选择测量算符和反馈操作。为了与实验兼容，引入了一种由随机采样的哈密顿分量的单次测量构建的随机终端奖励，避免了非物理的全态重构。作者通过制备Bose-Hubbard模型的基态和生成GHZ态展示了该方法，为可扩展且与硬件兼容的量子态制备建立了途径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用实验可及的测量反馈，高效制备量子态（如基态和纠缠态），以支持量子计算和量子传感。\n- 核心方法：采用部分可观测马尔可夫决策过程框架下的强化学习，控制器从历史测量结果中学习，实时选择测量算符和反馈操作；使用随机终端奖励避免全态重构。\n- 主要结果：在Bose-Hubbard模型基态制备和GHZ态生成中验证了方法的有效性，表明其可扩展且与实验硬件兼容。\n- 与量子精密测量/量子计算的关系：该方法可直接用于制备自旋压缩态或纠缠态，这些态是量子传感（如Ramsey干涉仪、原子钟）中提升灵敏度的关键资源；强化学习策略可优化量子门操作和量子控制，对中性原子量子计算和离子阱平台有潜在应用。\n- 是否值得精读：是。该方法为实验实现自适应量子态制备提供了实用框架，尤其对需要高保真度纠缠态的量子传感实验（如基于里德伯原子的微波传感、光晶格钟）有直接参考价值。\n- 对我研究的可能启发：可借鉴其强化学习框架来优化量子传感中的测量-反馈协议，例如在自旋压缩或里德伯原子系统中实现自适应Ramsey干涉，或用于设计量子纠错中的反馈控制策略。",
+  "english_digest": "## English Guide\n- Problem: How to prepare quantum states (e.g., ground states and entangled states) using experimentally accessible measurement-feedback, to support quantum computing and quantum sensing.\n- Method: Reinforcement learning under partial observability, where the controller uses only the history of measurement outcomes to choose measurement operators and feedback actions in real time; a stochastic terminal reward built from one-shot measurements avoids full-state reconstruction.\n- Main result: Demonstrated on Bose-Hubbard ground-state preparation and GHZ state generation, showing scalability and hardware compatibility.\n- Relevance: Directly applicable to generating spin-squeezed or entangled states, which are key resources for enhancing sensitivity in quantum sensing (e.g., Ramsey interferometry, atomic clocks). The reinforcement learning approach can optimize quantum control and gate operations, with potential for neutral-atom quantum computing, trapped ions, and Rydberg-based microwave sensing.\n- Reading priority: High. This work provides a practical framework for adaptive quantum state preparation in experiments, especially relevant for quantum metrology setups requiring high-fidelity entanglement (e.g., Rydberg atom arrays, optical lattice clocks).\n- Possible inspiration: The reinforcement learning framework can be adapted for measurement-feedback protocols in quantum sensing, e.g., adaptive Ramsey interferometry for spin squeezing, or feedback control in Rydberg atom systems for microwave field sensing. It also offers strategies for error mitigation in quantum computing platforms.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.13005v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.13005v1",
+  "local_pdf_path": ""
+}

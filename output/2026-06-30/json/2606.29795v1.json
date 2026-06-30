@@ -1,0 +1,18 @@
+{
+  "title": "Nonlocal effects via Local Quantum Fisher Information: Characterizations and Interpretations",
+  "arXiv_id": "2606.29795v1",
+  "abstract": "We introduce a quantum Fisher information based measurement-induced nonlocality (QFI-MIN), which quantifies the maximal statistical distinguishability induced by locally invariant unitary dynamics. The proposed measure inherits desirable properties including positivity, local unitary invariance, monotonicity under local operations, and immunity to the local ancilla problem. Analytical expressions are obtained for pure states, arbitrary two-qubit states, and two-qubit X states, revealing a direct connection with entanglement for pure systems. We further establish clear operational interpretations of QFI-MIN in quantum parameter estimation, local channel discrimination, and correlation-assisted communication. Its behavior under amplitude damping, depolarizing, and generalized amplitude damping channels demonstrates robustness against environmental noise. The proposed framework provides a physically consistent and operationally meaningful quantifier of quantum correlations, linking nonlocality, quantum metrology, and quantum information processing",
+  "authors": [
+    "R. Muthuganesan"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "本文提出了一种基于量子Fisher信息的测量诱导非局域性（QFI-MIN），该度量量化了由局部不变幺正动力学引起的最大统计可区分性。该度量具有正定性、局部幺正不变性、在局部操作下的单调性以及对局部辅助问题免疫等理想性质。文章给出了纯态、任意两比特态和两比特X态的解析表达式，揭示了纯态情形下与纠缠的直接联系。此外，文章在量子参数估计、局域信道分辨和关联辅助通信中建立了QFI-MIN的操作性解释，并在振幅阻尼、退极化及广义振幅阻尼信道下展示了其对环境噪声的鲁棒性。该框架提供了一个物理一致且操作上有意义的量子关联度量，连接了非局域性、量子计量学和量子信息处理。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何定义一种基于量子Fisher信息的测量诱导非局域性，并赋予其物理和操作意义？\n- 核心方法：利用局部不变幺正动力学下量子Fisher信息的变化，构造新的非局域性度量，并通过解析计算和信道模型验证其性质。\n- 主要结果：提出了QFI-MIN度量，证明了其理想性质，给出了纯态和两比特态的解析形式，建立了与纠缠、参数估计、信道分辨和通信的关联。\n- 与量子精密测量/量子计算的关系：该工作直接基于量子Fisher信息——量子精密测量的核心概念，并在参数估计和信道分辨中给出操作解释，对量子传感的极限分析和量子计算中非局域资源量化有直接意义。\n- 是否值得精读：是。该论文为量子计量学中的Fisher信息提供了新的非局域性视角，可能启发新的量子传感协议设计。\n- 对我研究的可能启发：可尝试将QFI-MIN用于分析自旋压缩、单轴扭曲等模型中的非局域关联，或评估Rydberg原子、离子阱系统中的纠缠对参数估计精度的贡献。",
+  "english_digest": "## English Guide\n- Problem: How to define a measurement-induced nonlocality based on quantum Fisher information with clear physical and operational meaning?\n- Method: Construct a new nonlocality measure from the variation of local quantum Fisher information under local unitary dynamics, and analyze its properties via analytic calculations and channel models.\n- Main result: Proposed QFI-MIN with desirable properties; derived analytic expressions for pure and two-qubit states; established connections to entanglement, parameter estimation, channel discrimination, and communication.\n- Relevance: Directly ties to quantum Fisher information, a cornerstone of quantum metrology, and offers operational interpretations in parameter estimation and channel discrimination, relevant to quantum sensing and quantum computation resource quantification.\n- Reading priority: High. It bridges nonlocality and metrology, potentially inspiring new sensing protocols.\n- Possible inspiration: Apply QFI-MIN to spin squeezing or one-axis twisting models to quantify nonlocal correlations, or use it to assess the role of entanglement in enhancing metrological sensitivity in Rydberg atom or trapped ion platforms.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29795v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29795v1",
+  "local_pdf_path": ""
+}

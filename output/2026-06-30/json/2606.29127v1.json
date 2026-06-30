@@ -1,0 +1,21 @@
+{
+  "title": "Peculiarities Of High-Speed Dynamics Of Two-Photon Absorption In Si Nanowire Waveguides",
+  "arXiv_id": "2606.29127v1",
+  "abstract": "We investigate the complete dynamical pathway of photon-electron interactions involved in two-photon absorption (TPA) in a silicon nanowire waveguide using three independent high-speed measurement techniques. These methods probe different stages of the process: nonlinear photon absorption, electron excitation from the valence to the conduction band, and free-carrier generation. According to the conventional model of TPA, these three processes should occur at identical rates. However, our measurements reveal significant discrepancies between them. The measured nonlinear photon absorption is more than twice the value required to account for the measured TPA transitions, indicating the presence of additional absorption pathways or nontrivial TPA dynamics. Furthermore, the number of measured TPA transitions substantially exceeds the measured free-carrier density, indicating that long-lifetime free carriers represent only a small fraction of the TPA-excited electrons, while the majority recombine rapidly back to the valence band on a timescale shorter than 13 ps. In addition, the three stages of the TPA pathway exhibit distinct saturation behaviors at different photon densities, further indicating that the TPA process in silicon is more complex than described by the conventional model. These findings provide new insight into the physical mechanisms governing TPA, suggesting the existence of multiple competing pathways for this optical transition. A major obstacle to a complete understanding of TPA is the unclear physical origin of the virtual midgap level. The potential strategies for minimizing unwanted nonlinear losses in high-speed silicon photonic circuits, as well as for exploiting TPA in high-speed optical switching and photonic signal processing are investigated.",
+  "authors": [
+    "Vadym Zayets",
+    "Siim Heinsalu",
+    "Akihiro Noriki"
+  ],
+  "categories": [
+    "physics.optics",
+    "cond-mat.mtrl-sci"
+  ],
+  "summary": "该论文研究了硅纳米线波导中双光子吸收（TPA）的高速动力学特性。通过三种独立的测量技术，作者探测了TPA过程中的非线性光子吸收、电子激发和自由载流子产生三个阶段。实验发现这些阶段的速率不一致：非线性光子吸收超出预期，自由载流子密度远低于TPA激发的电子数，表明大部分电子在13皮秒内快速复合。此外，三个阶段在不同光子密度下表现出不同的饱和行为，暗示TPA过程存在多种竞争路径。论文还讨论了减少硅光子电路中非线性损耗的策略，以及利用TPA实现高速光开关和信号处理的潜力。",
+  "chinese_digest": "## 中文导读\n- 研究问题：硅纳米线波导中双光子吸收（TPA）的高速动力学机制，特别是其与传统模型的偏差。\n- 核心方法：使用三种独立的高速测量技术分别探测非线性光子吸收、电子激发和自由载流子生成，并对比其速率和饱和行为。\n- 主要结果：TPA的三个阶段存在显著速率差异；非线性光子吸收超出预期；自由载流子密度远低于TPA激发的电子数，表明快速复合；不同阶段在不同光子密度下饱和行为不同。\n- 与量子精密测量/量子计算的关系：该论文主要关注硅光子学中的非线性光学效应，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。论文未涉及量子度量学、量子纠缠、量子门或原子干涉等主题。\n- 是否值得精读：否。对于量子精密测量和量子计算领域的研究者，该论文的相关性极低。\n- 对我研究的可能启发：几乎无直接启发。如果研究涉及硅光子学中的非线性损耗或高速光开关，可能作为背景参考。",
+  "english_digest": "## English Guide\n- Problem: The high-speed dynamics of two-photon absorption (TPA) in silicon nanowire waveguides and deviations from the conventional model.\n- Method: Three independent high-speed measurement techniques probing nonlinear photon absorption, electron excitation, and free-carrier generation.\n- Main result: Discrepancies in rates among the three TPA stages; nonlinear photon absorption exceeds expectations; free-carrier density is much lower than TPA-excited electrons due to fast recombination; distinct saturation behaviors at different photon densities.\n- Relevance: This paper is focused on nonlinear optics in silicon photonics and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or related topics. It does not address quantum metrology, entanglement, quantum gates, or atomic interferometry.\n- Reading priority: Low. Not recommended for researchers in quantum sensing, metrology, or quantum computing.\n- Possible inspiration: Minimal. Could be relevant if you work on nonlinear losses in silicon photonic circuits or high-speed optical switching, but not for quantum information or precision measurement.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29127v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29127v1",
+  "local_pdf_path": ""
+}

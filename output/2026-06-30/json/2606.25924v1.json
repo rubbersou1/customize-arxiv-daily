@@ -1,0 +1,20 @@
+{
+  "title": "Improving Richardson--Lucy Deconvolution with Diffusion Priors for Fluorescence Microscopy",
+  "arXiv_id": "2606.25924v1",
+  "abstract": "Richardson--Lucy (RL) deconvolution improves fluorescence microscopy images by recovering details lost to diffraction. It estimates the original fluorescence signal that most likely produced the measured photon counts under a Poisson imaging model. Although RL incorporates a physical model of fluorescence image formation and can improve contrast, deconvolution remains fundamentally ill-posed, and the measurements alone provide limited evidence for reliably reconstructing fine biological structure. Without additional structural guidance, RL can amplify noise and exhibit unstable convergence in low-photon regimes. Regularizers such as total variation (TV) reduce this instability but often introduce oversmoothing. Here, we investigate learned generative priors as a form of structural guidance for RL by integrating a score-based diffusion prior into a decoupled inverse-problem framework for fluorescence microscopy deconvolution. The diffusion prior is used during the RL optimization iterations, while RL retains Poisson data consistency. We validate the framework across diverse biological samples and cellular morphologies. The results show reduced RL noise amplification with improved preservation of weak filamentous and punctate structures under low photon counts.",
+  "authors": [
+    "Hao Chen",
+    "Scott S. Howard"
+  ],
+  "categories": [
+    "eess.IV",
+    "physics.optics"
+  ],
+  "summary": "本文提出了一种将基于扩散模型的生成先验与Richardson-Lucy（RL）反卷积相结合的方法，用于荧光显微镜图像恢复。该方法在RL迭代优化中引入扩散先验，以提供结构引导，同时保持泊松数据一致性，从而减少低光子计数下的噪声放大并改善弱细丝和点状结构的保留。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何改进荧光显微镜中Richardson-Lucy反卷积的噪声放大和收敛不稳定性。\n- 核心方法：将基于分数的扩散先验作为结构引导，集成到RL反卷积的迭代优化中，保持泊松数据一致性。\n- 主要结果：在低光子计数条件下，该方法减少了噪声放大，并更好地保留了弱丝状和点状结构。\n- 与量子精密测量/量子计算的关系：本文聚焦于生物成像技术，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。\n- 是否值得精读：不建议精读，因其主题属于计算光学成像，与您的研究领域无交集。\n- 对我研究的可能启发：无直接启发，但可借鉴其利用生成先验进行信号恢复的通用思想，不过与量子系统差异较大。",
+  "english_digest": "## English Guide\n- Problem: How to mitigate noise amplification and unstable convergence in Richardson-Lucy deconvolution for fluorescence microscopy.\n- Method: Integrating a score-based diffusion prior as structural guidance into RL iterative optimization while preserving Poisson data consistency.\n- Main result: Reduced noise amplification and better preservation of weak filamentous and punctate structures under low photon counts.\n- Relevance: This paper focuses on computational imaging for biology and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information.\n- Reading priority: Not recommended for reading in the context of your research interests.\n- Possible inspiration: The general idea of using generative priors for signal recovery might be transferable, but the specific application and methods are far from quantum systems.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25924v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25924v1",
+  "local_pdf_path": ""
+}

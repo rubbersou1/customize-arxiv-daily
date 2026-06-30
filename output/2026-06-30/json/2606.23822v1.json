@@ -1,0 +1,24 @@
+{
+  "title": "Quantum turbulence in the many-body regime",
+  "arXiv_id": "2606.23822v1",
+  "abstract": "We discuss phenomenology associated with turbulent hydrodynamics in quantum fluids from a condensed-matter perspective. We begin with weakly-interacting superfluids, often modeled by a mean-field theory governed by the Gross-Pitaevskii equation. Considering the effect of quantum fluctuations beyond the mean-field approximation, we propose a study of many-body quantum effects in turbulent hydrodynamics, especially near zero temperature. We motivate examples of quantum many-body systems where such effects may be uncovered. These include bosons confined in a periodic potential in low spatial dimensions (one and two), and the associated quantum critical point of the superfluid-insulator transition, realized in present-day ultracold-atom and quantum computing platforms. We conclude by listing a set of (open) questions that may be answered using modern quantum many-body techniques. This article is part of the theme issue 'Frontiers of turbulence and statistical physics'.",
+  "authors": [
+    "Sayak Bhattacharjee",
+    "Mahendra K. Verma",
+    "Alexander V. Balatsky",
+    "Srinivas Raghu"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.str-el",
+    "nlin.CD",
+    "quant-ph"
+  ],
+  "summary": "这篇论文从凝聚态物理的角度讨论了量子流体中湍流流体力学相关的现象学。文章从弱相互作用超流体（通常由Gross-Pitaevskii方程的均值场理论描述）出发，考虑了超出均值场近似的量子涨落效应，提出研究湍流流体力学中的多体量子效应，尤其是在接近零温的条件下。作者列举了可能展现这些效应的量子多体系统实例，包括低维（一维和二维）周期势阱中的玻色子，以及相关的超流-绝缘体量子临界点，这些可以在当前的超冷原子和量子计算平台上实现。文章最后提出了一系列可能通过现代量子多体技术回答的开放性问题。",
+  "chinese_digest": "## 中文导读\n- 研究问题：量子多体体系中量子湍流的流体力学现象，特别是接近零温时超出均值场近似的多体量子效应。\n- 核心方法：理论分析，基于Gross-Pitaevskii方程和量子涨落修正，讨论低维周期势阱中玻色子等模型。\n- 主要结果：识别了可能展现量子湍流多体效应的系统（如超流-绝缘体量子临界点），并列出开放问题。\n- 与量子精密测量/量子计算的关系：论文主要关注量子湍流的基础物理，与量子精密测量、量子传感、量子计算等应用方向无直接关联。文中提到超冷原子和量子计算平台可作为实现平台，但未涉及具体测量协议、量子门、纠缠或控制技术。\n- 是否值得精读：不推荐精读。该论文属于量子多体物理和湍流领域，与您关注的量子计量学、传感、Fisher信息、自旋压缩、Rydberg原子、量子门等主题相关性很低。\n- 对我研究的可能启发：几乎没有直接启发。不过，如果您对量子多体系统中的非平衡动力学或量子临界性感兴趣，可能间接提供一些背景知识。",
+  "english_digest": "## English Guide\n- Problem: Phenomenology of turbulent hydrodynamics in quantum fluids from a many-body perspective, focusing on quantum fluctuations beyond mean-field theory near zero temperature.\n- Method: Theoretical analysis using Gross-Pitaevskii equation and quantum corrections, with examples of bosons in low-dimensional periodic potentials.\n- Main result: Identified candidate systems (e.g., superfluid-insulator quantum critical point) for observing many-body quantum effects in turbulence, and listed open questions.\n- Relevance: The paper is primarily about fundamental quantum many-body physics and turbulence, with no direct connection to quantum metrology, sensing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, or quantum gates. While ultracold-atom and quantum computing platforms are mentioned as possible realizations, the focus is not on measurement protocols, algorithms, or hardware for quantum sensing/computing.\n- Reading priority: Low. This paper is not aligned with your research interests in quantum precision measurement and quantum computing.\n- Possible inspiration: Minimal. It may offer background on non-equilibrium dynamics in many-body systems, but is unlikely to provide actionable insights for your specific topics.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.23822v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.23822v1",
+  "local_pdf_path": ""
+}

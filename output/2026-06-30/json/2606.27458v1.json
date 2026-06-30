@@ -1,0 +1,29 @@
+{
+  "title": "Direct imaging of enantiomer-specific orientation dynamics in unidirectionally rotating chiral molecules",
+  "arXiv_id": "2606.27458v1",
+  "abstract": "Selectively controlling the dynamics of molecular enantiomers underlies advances across chemistry, biology, and physics, yet direct imaging of enantiomer-specific motion has so far remained elusive. Here, we image ultrafast enantioselective orientation dynamics in isolated chiral molecules. Unidirectional coherent rotation induced by a femtosecond laser-pulse pair generates equal and opposite out-of-plane orientations of the two enantiomers. Applying this scheme to 2-methyloxirane, we follow the rotational wave packets by time-resolved Coulomb explosion imaging with two orthogonally arranged detectors. The measured angular distributions reveal that the unidirectional rotation is identical for both enantiomers, while the out-of-plane orientations are mirror images that persist through both early-time quasi-classical and quantum dynamics regimes, in quantitative agreement with simulations. We demonstrate that full angular distributions provide richer dynamical information, with some qualitatively different distributions yielding similar orientation factors upon integration. Our approach opens a route to real-time observation and control of chiral dynamics in the gas phase.",
+  "authors": [
+    "Kenta Mizuse",
+    "Ilia Tutunnikov",
+    "Long Xu",
+    "Yuhei Oyagi",
+    "Naoya Sakamoto",
+    "Ryo Kondo",
+    "Allan Huang",
+    "Roman V. Krems",
+    "Ilya Sh. Averbukh",
+    "Yasuhiro Ohshima"
+  ],
+  "categories": [
+    "physics.chem-ph",
+    "physics.atom-ph",
+    "physics.optics"
+  ],
+  "summary": "这篇论文通过时间分辨的库仑爆炸成像技术，直接观测了手性分子在飞秒激光脉冲对驱动下产生的对映体特异性取向动力学。研究发现，单向旋转导致两种对映体产生相反的面外取向，且这种镜像对称性在早期准经典和量子动力学区域均保持。实验与模拟定量吻合，并展示了完整角分布能提供更丰富的动力学信息。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何直接成像手性分子中对映体特异性的取向动力学？\n- 核心方法：利用飞秒激光脉冲对诱导分子单向旋转，结合正交探测器进行时间分辨库仑爆炸成像。\n- 主要结果：实现了对映体特异性取向动力学的直接成像，两种对映体具有镜像对称的面外取向，且该行为在准经典和量子区域一致。\n- 与量子精密测量/量子计算的关系：该研究主要聚焦于手性分子动力学和超快成像，与量子精密测量、量子传感、量子计算等领域的核心主题（如量子 Fisher 信息、自旋压缩、Rydberg 原子、离子阱、原子钟等）无直接关联。论文未涉及量子计量学或量子信息处理中的度量、协议或硬件平台。\n- 是否值得精读：对于量子精密测量或量子计算领域的研究者，相关性很低，不建议精读。\n- 对我研究的可能启发：可能为超快控制分子取向提供新思路，但对量子传感或量子计算的具体技术（如量子门、误差缓解等）无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to directly image enantiomer-specific orientation dynamics in chiral molecules?\n- Method: Using femtosecond laser pulse pairs to induce unidirectional rotation, combined with time-resolved Coulomb explosion imaging using two orthogonally arranged detectors.\n- Main result: Direct imaging of enantiomer-specific orientation dynamics; the two enantiomers exhibit mirror-image out-of-plane orientations that persist in both quasi-classical and quantum regimes.\n- Relevance: This paper focuses on chiral molecular dynamics and ultrafast imaging, which is not directly related to quantum precision measurement, quantum sensing, quantum computing, or key topics such as quantum Fisher information, spin squeezing, Rydberg atoms, neutral atoms, trapped ions, or atomic clocks. It does not address metrological protocols, hardware platforms, or error mitigation.\n- Reading priority: Low priority for researchers in quantum metrology or quantum computing.\n- Possible inspiration: The ultrafast control approach might inspire novel methods for molecular orientation control, but it offers no direct insights into quantum sensing or computing techniques.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27458v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27458v1",
+  "local_pdf_path": ""
+}

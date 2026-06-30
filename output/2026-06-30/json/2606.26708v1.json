@@ -1,0 +1,22 @@
+{
+  "title": "Perfect Absorption in the Strong Coupling Regime via Degenerate Critical Coupling",
+  "arXiv_id": "2606.26708v1",
+  "abstract": "Perfect absorption (PA) represents a fundamental limit of light-matter interaction and a means to maximize nanoscale energy conversion. While PA is now a well-established phenomenon, both the theoretical feasibility and a practical mechanism for achieving it under single-beam excitation within the strong coupling regime is unknown. Through rigorous solution of Maxwells equations for a compact photonic crystal (PhC) architecture incorporating a two-dimensional semiconductor, we present a general method based on degenerate critical coupling for single-port PA of exciton-polaritons. At the crossing of two polariton branches, we achieve near-unity absorption exceeding 99.8 \\% in a structure thinner than $100\\,$nm. This effect is robust under realistic Gaussian beam excitation, and can be realized across different temperatures and excitonic materials by tailoring the PhC geometry. Our results establish a strategy for enabling efficient light-matter coupling, with direct implications for the development of metal-free, ultra-compact polaritonic logic devices, sensors, and energy-harvesting platforms.",
+  "authors": [
+    "Eleonora P. Kraus",
+    "Jamie M. Fitzgerald",
+    "Carlos Maciel-Escudero",
+    "Ermin Malic"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "physics.optics"
+  ],
+  "summary": "这篇论文研究了在强耦合条件下实现完美吸收（PA）的可能性，并通过一种称为“简并临界耦合”的通用方法，在紧凑的光子晶体（PhC）结构中实现了对激子-极化激元的近完美吸收（>99.8%）。该结构厚度小于100纳米，通过求解麦克斯韦方程组得到理论验证，并证明在真实高斯光束激发下表现鲁棒，且可通过调整光子晶体几何结构适用于不同温度和激子材料。这项工作为开发无金属、超紧凑的极化逻辑器件、传感器和能量收集平台提供了新策略。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在强耦合条件下实现单光束激发的完美吸收？\n- 核心方法：利用简并临界耦合理论，结合二维半导体嵌入紧凑光子晶体结构，通过求解麦克斯韦方程组设计极化激元分支交叉点。\n- 主要结果：在小于100纳米厚的结构中实现超过99.8%的吸收率，且效果对高斯光束激发和不同温度/材料稳健。\n- 与量子精密测量/量子计算的关系：论文主要关注光吸收和能量转换，与量子精密测量（如量子费舍尔信息、自旋压缩）、量子计算（如中性原子、离子阱、量子门）或Rydberg原子系统无直接联系。虽涉及光与物质强耦合，但未涉及量子传感或量子信息处理中的度量、协议或硬件平台。\n- 是否值得精读：不值得精读，除非对完美吸收或极化激元器件有特殊兴趣。\n- 对我研究的可能启发：无直接启发，但强耦合腔QED概念可能间接关联量子传感中的增强相互作用，但本文未展开。",
+  "english_digest": "## English Guide\n- Problem: How to achieve perfect absorption under single-beam excitation in the strong coupling regime?\n- Method: Degenerate critical coupling in a compact photonic crystal with a 2D semiconductor, solved via Maxwell's equations.\n- Main result: Near-unity absorption (>99.8%) in sub-100 nm structures, robust under Gaussian beams and across materials/temperatures.\n- Relevance: Low. The paper focuses on light absorption and energy harvesting, with no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The strong coupling aspect is not leveraged for quantum sensing or information processing.\n- Reading priority: Low for this research focus.\n- Possible inspiration: None directly; the cavity QED concept of strong coupling might inspire enhanced interaction in sensing, but not explored here.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26708v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26708v1",
+  "local_pdf_path": ""
+}

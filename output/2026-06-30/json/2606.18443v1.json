@@ -1,0 +1,20 @@
+{
+  "title": "Noncyclic geometric phase in three-level Ramsey interferometry for enhanced metrology",
+  "arXiv_id": "2606.18443v1",
+  "abstract": "In a standard two-level Ramsey interferometer, the measured phase accumulates linearly during the interrogation time. Here, we introduce three-level Ramsey interferometry that employs a noncyclic geometric phase response to enhance phase sensing, with projected internal-path interference reshaping the mapping from accumulated signal phase to readout phase. Near a geodesic-closure transition, a small accumulated signal phase produces a sharply amplified readout-phase shift. We quantify the accompanying gain--visibility tradeoff and identify a finite operating window in which the amplified response yields a net signal-to-noise-ratio gain under technical-noise-limited conditions. By tuning an initial Ramsey phase offset, this high-slope window can be positioned at a desired operating point and sampled repeatedly with shorter cycles, providing a geometric shortcut to improved projected stability. More broadly, these results establish a multilevel Ramsey route to enhanced phase sensitivity in quantum platforms, where two signal-collecting internal paths interfere to produce a noncyclic geometric response.",
+  "authors": [
+    "Zhifan Zhou",
+    "Yaxin Li"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文提出了一种基于三能级拉姆齐干涉仪的非循环几何相位方法，用于增强相位传感。与标准两能级干涉仪中相位线性积累不同，该方法利用内部路径干涉产生非循环几何响应，通过近测地线闭合转变实现小信号相位到读出相位的大幅放大。研究量化了增益与可见度的权衡，并识别出在技术噪声限制下能获得净信噪比增益的有限工作窗口。通过调节初始拉姆齐相位偏移，可将高斜率窗口定位到所需工作点并重复采样，从而提升投影稳定性。这项工作为多能级量子平台上的增强相位灵敏度提供了一条新途径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用非循环几何相位突破标准拉姆齐干涉仪的相位灵敏度限制，实现增强的量子精密测量。\n- 核心方法：引入三能级拉姆齐干涉仪，利用非循环几何相位响应和内部路径干涉，通过近测地线闭合转变放大信号相位对读出相位的影响。\n- 主要结果：在技术噪声限制下，该方法在有限工作窗口内实现了净信噪比增益，并通过调节初始相位偏移实现可重复采样，提升了投影稳定性。\n- 与量子精密测量/量子计算的关系：直接相关于量子精密测量（增强相位传感灵敏度），方法可推广至多种量子平台（如中性原子、离子阱、里德伯原子），为量子传感和量子控制提供新思路。\n- 是否值得精读：是，尤其对从事拉姆齐干涉、原子干涉仪、量子计量学的研究者具有重要参考价值。\n- 对我研究的可能启发：可考虑将非循环几何相位应用于里德伯原子微波传感、中性原子量子门中的相位控制，或结合自旋压缩提升信噪比。",
+  "english_digest": "## English Guide\n- Problem: How to enhance phase sensitivity in Ramsey interferometry beyond standard linear accumulation using noncyclic geometric phase. \n- Method: A three-level Ramsey interferometer employing noncyclic geometric phase response via internal-path interference near a geodesic-closure transition. \n- Main result: Amplified readout-phase shift for small signal phase, with a finite operating window yielding net SNR gain under technical noise; tunable via initial Ramsey phase offset. \n- Relevance: Directly relevant to quantum metrology and sensing (enhanced phase sensitivity), applicable to platforms like neutral atoms, trapped ions, Rydberg atoms, and atomic clocks. \n- Reading priority: High, especially for researchers in Ramsey interferometry, atom interferometry, and quantum control. \n- Possible inspiration: Could be integrated with Rydberg-atom microwave sensing, spin squeezing protocols, or neutral-atom quantum gates for improved phase readout and noise mitigation.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.18443v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.18443v1",
+  "local_pdf_path": ""
+}

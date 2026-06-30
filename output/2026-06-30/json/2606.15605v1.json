@@ -1,0 +1,23 @@
+{
+  "title": "Dressed Floquet scars from protected zero modes in a Rydberg chain",
+  "arXiv_id": "2606.15605v1",
+  "abstract": "In this Letter, we present an approximate analytic construction of two zero quasienergy quantum many-body scars in a periodically driven model of Rydberg atoms on a ring, which persist over a range of driving amplitudes and frequencies for finite sizes. An index theorem protects an exponentially large number (in system size) of exact zero energy modes of the Floquet Hamiltonian in this setting. Unlike most of these zero modes which continuously change with drive parameters, these two quantum many-body scars retain the memory of particular states. They can be expressed as {\\it dressed versions} of two contrasting states, the Rydberg vacuum and a unitarily rotated variant of a volume-law scar [Ivanov and Motrunich, Phys. Rev. Lett. {\\bf 134}, 050403 (2025)], respectively. We provide an analytic understanding of their existence using a Floquet perturbation theory and show their resilience beyond the perturbative regime using exact diagonalization in finite systems. Our study provides insight into the structure of protected zero modes in interacting Floquet settings.",
+  "authors": [
+    "Saptadip Roy",
+    "Bhaskar Mukherjee",
+    "K. Sengupta",
+    "Arnab Sen"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.str-el",
+    "quant-ph"
+  ],
+  "summary": "本文在周期性驱动的Rydberg原子环模型中，解析地构造了两个准零能量子多体疤痕态，它们在一定驱动参数范围内保持稳定。通过指标定理，作者证明了Floquet哈密顿量存在大量精确零能模式，而这两个疤痕态是其中特殊的“着装版本”，分别对应于Rydberg真空态和一种体积律疤痕态的幺正旋转变体。利用Floquet微扰理论提供了解析理解，并通过有限系统精确对角化验证了其非微扰鲁棒性。研究揭示了相互作用Floquet系统中受保护零模的结构。",
+  "chinese_digest": "## 中文导读\n- 研究问题：在周期性驱动的Rydberg原子环中，如何构造并理解受保护的零能多体疤痕态？\n- 核心方法：结合指标定理、Floquet微扰理论和精确对角化，解析构造两个准零能疤痕态，并分析其随驱动参数的变化。\n- 主要结果：发现了两个在有限尺寸下对驱动幅度和频率鲁棒的准零能疤痕态，它们分别“着装”自Rydberg真空和一种体积律疤痕态，且与指数级数量的精确零模共存。\n- 与量子精密测量/量子计算的关系：Rydberg原子是中性原子量子计算和量子传感的重要平台。本文研究的疤痕态作为一种非热化量子态，可能为制备长寿命纠缠态或保护量子信息提供新思路，对量子计量中的自旋压缩或Ramsey干涉测量有潜在意义，但未直接涉及Fisher信息或测量精度极限。\n- 是否值得精读：值得精读，尤其是对Floquet工程、Rydberg系统中的非平衡态物理感兴趣的读者，但若主要关注量子计量协议或Fisher信息，则相关性中等。\n- 对我研究的可能启发：可探索将此类受保护疤痕态用于增强量子传感中的相干时间或纠缠生成，或研究其在自旋压缩或原子干涉中的表现。",
+  "english_digest": "## English Guide\n- Problem: How to construct and understand protected zero-energy many-body scars in a periodically driven Rydberg chain?\n- Method: Index theorem, Floquet perturbation theory, and exact diagonalization to construct two quasi-zero-energy scars and analyze their robustness.\n- Main result: Two robust quasi-zero-energy scars are found, dressed from the Rydberg vacuum and a volume-law scar variant, coexisting with exponentially many exact zero modes.\n- Relevance: Rydberg atoms are a key platform for neutral-atom quantum computing and sensing. The scars, as non-thermal states, could inspire long-lived entangled states or quantum memory, with potential connections to spin squeezing or Ramsey interferometry in metrology. However, no direct link to Fisher information or measurement precision is made.\n- Reading priority: High for those interested in Floquet engineering and non-equilibrium physics in Rydberg systems; moderate for quantum metrology specialists.\n- Possible inspiration: Explore using such protected scars to enhance coherence times or generate entanglement in quantum sensing, or study their performance in spin squeezing or atom interferometry.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.15605v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.15605v1",
+  "local_pdf_path": ""
+}

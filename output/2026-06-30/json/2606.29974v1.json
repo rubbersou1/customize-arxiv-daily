@@ -1,0 +1,23 @@
+{
+  "title": "Temporal modes of quantum states of light scattered by a two-level system",
+  "arXiv_id": "2606.29974v1",
+  "abstract": "Non-Gaussian quantum states of light are of paramount importance to quantum computing. Nevertheless, their deterministic generation is challenging problem due to the difficulty to control nonlinearities in physical systems. In this work, we characterize the light stemming from one of the most fundamental quantum optics configurations: the unidirectional scattering of multimode and multiphoton light by a two-level system. We provide an analytic and explicit description of the output light solely in terms of the corresponding input temporal modes which allows a straightforward physical interpretation and is computationally more effective compared to numerical methods. Then, we focus on the specific case of the scattering of two photons in a single mode. By numerically decomposing the output state in terms of its principal modes, we find that it is possible to map single-mode two-photon inputs to be into two-mode entangled output states, i.e., two-photon NOON states, to very good approximation. The latter states, in turn, are known to have more Wigner negativity compared to the associated input, which ultimately suggests a potential application of our considered setup in the deterministic generation of non-Gaussian states.",
+  "authors": [
+    "Yann Bouchereau",
+    "Lucas Weitzel",
+    "Valerian Thiel",
+    "Valentina Parigi",
+    "Mattia Walschaers",
+    "Nicolas Treps"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了光与一个两能级系统单向散射时输出光的时间模式特性。作者提供了多模多光子输入光散射后的解析描述，仅用输入时间模式表示输出光，便于物理理解和高效计算。特别地，对于单模双光子输入情况，通过数值分解输出态的主模式，发现可以近似映射为双模纠缠的两光子NOON态。NOON态相比于输入态具有更强的Wigner负性，表明该设置可能在确定性生成非高斯量子态方面有潜在应用。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何通过两能级系统散射实现非高斯量子态的确定性生成。\n- 核心方法：解析描述多模多光子光与两能级系统的单向散射，并用时间模式分解输出态，数值分析单模双光子输入下的输出模式。\n- 主要结果：单模双光子输入可近似转化为双模纠缠的NOON态，增强了Wigner负性。\n- 与量子精密测量/量子计算的关系：NOON态在量子精密测量（如相位估计）中可超越标准量子极限，但本文主要关注量子计算中的非高斯态生成，与量子传感、量子计量、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接联系。\n- 是否值得精读：对于量子计算中非高斯态生成的研究者有一定参考价值，但对量子精密测量和量子传感领域相关性较低。\n- 对我研究的可能启发：时间模式分解方法可用于分析其他散射系统中的纠缠生成，但整体偏离用户关注的具体实验平台和协议。",
+  "english_digest": "## English Guide\n- Problem: How to deterministically generate non-Gaussian quantum states via scattering by a two-level system.\n- Method: Analytic description of multimode multiphoton scattering in terms of input temporal modes; numerical decomposition of output principal modes for a two-photon single-mode input.\n- Main result: Single-mode two-photon input can be approximately mapped to a two-mode entangled NOON state with increased Wigner negativity.\n- Relevance: The paper focuses on non-Gaussian state generation for quantum computing, with no direct connection to quantum metrology, sensing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or atomic clocks. Relevance score is low (3/10).\n- Reading priority: Low for researchers in quantum precision measurement, sensing, or the specific experimental platforms listed. May be of interest for quantum computing theory on non-Gaussian states.\n- Possible inspiration: The temporal mode decomposition approach could be adapted to other scattering setups, but overall the work is not aligned with the user's emphasis on experiment-relevant protocols and hardware platforms.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29974v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29974v1",
+  "local_pdf_path": ""
+}

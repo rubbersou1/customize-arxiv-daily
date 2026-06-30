@@ -1,0 +1,20 @@
+{
+  "title": "Analysis of the frequency shift in coherent population trapping resonance's dynamic continuous-wave spectroscopy at the phase-jump modulation and its comparison with the conventional approach",
+  "arXiv_id": "2606.23908v1",
+  "abstract": "We present the research of dynamic continuous-wave spectroscopy of the coherent population trapping resonance at the phase-jump modulation. Λ system of levels supplemented by a nonabsorbing state and bichromatic optical field, whose spectral components have different intensities, are considered. We demonstrate that the asymmetry leads to an additional nonlinear shift of the error-signal frequency under unisotropic relaxation of the ground-state density-matrix elements. We also investigate the conventional approach where the frequency difference of the optical field components is harmonically modulated to obtain the error signal. Comparison demonstrates that in the high-frequency modulation regime the corresponding frequency shift is more linear than at the phase-jump modulation for nonshort integration times.",
+  "authors": [
+    "E. D. Chivilis",
+    "E. A. Tsygankov"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "summary": "本文研究了相干布居俘获（CPT）共振在相位跳跃调制下的动态连续波光谱，并分析了频率偏移。研究考虑了一个由非吸收态和双色光场组成的Λ能级系统，其中光谱分量强度不同。结果表明，在基态密度矩阵元素各向异性弛豫下，不对称性会导致误差信号频率的额外非线性偏移。此外，文章还比较了传统方法（即对光场频率差进行谐波调制以获得误差信号），发现在高频调制下，传统方法的频率偏移比相位跳跃调制更线性，尤其是在非短积分时间下。",
+  "chinese_digest": "## 中文导读\n- 研究问题：探讨CPT共振在动态连续波光谱中的频率偏移问题，特别是相位跳跃调制下的非线性效应。\n- 核心方法：理论分析Λ能级系统，考虑双色光场强度不对称性和基态弛豫各向异性，并与传统谐波调制方法对比。\n- 主要结果：不对称性导致非线性频率偏移；高频调制下传统方法更线性。\n- 与量子精密测量/量子计算的关系：CPT共振是原子钟和量子传感中的关键技术，本文对频率偏移的分析直接关系到量子精密测量的精度和稳定性。虽然不直接涉及量子计算，但对原子钟和量子传感平台（如中性原子、离子阱）有参考价值。\n- 是否值得精读：中等。对于从事原子钟、CPT传感器或频率稳定化研究的读者有价值，但对量子计算、Rydberg原子、Fisher信息等方向关联较弱。\n- 对我研究的可能启发：可借鉴其对频率偏移机制的分析方法，用于优化量子传感中的调制方案，提高测量精度。",
+  "english_digest": "## English Guide\n- Problem: Investigates frequency shift in CPT resonance dynamic spectroscopy under phase-jump modulation, focusing on nonlinear effects due to asymmetry.\n- Method: Theoretical analysis of a Λ-level system with bichromatic field intensity asymmetry and anisotropic ground-state relaxation; comparison with conventional harmonic modulation.\n- Main result: Asymmetry induces nonlinear frequency shift; conventional method yields more linear shift at high modulation frequencies.\n- Relevance: Directly relevant to atomic clocks and quantum sensing (e.g., CPT-based sensors), but less to quantum computing, Rydberg atoms, spin squeezing, or Fisher information. Moderate relevance to quantum metrology. Not related to quantum gravity or high-energy theory.\n- Reading priority: Medium. Useful for researchers working on atomic clocks, CPT spectroscopy, or frequency stabilization. Not a must-read for those focused on quantum computing or Rydberg-based sensing.\n- Possible inspiration: Could inform modulation scheme optimization in quantum sensing platforms to reduce systematic frequency shifts and improve precision.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.23908v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.23908v1",
+  "local_pdf_path": ""
+}

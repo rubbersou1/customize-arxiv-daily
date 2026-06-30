@@ -1,0 +1,28 @@
+{
+  "title": "Ytterbium lattice clock with uncertainty of $1.1\\times 10^{-18}$ and instability of low $10^{-19}$",
+  "arXiv_id": "2606.10514v1",
+  "abstract": "We report an optical lattice clock based on $^{171}$Yb atoms with a total systematic uncertainty of $1.1\\times 10^{-18}$. In-vacuum buildup cavity was employed to enhance the lattice light power. Differential frequency measurement between two identical clocks facilitate the evaluation of systematic shifts. Synchronous comparison of the two clocks reached a stability level of $2.7\\times 10^{-19}$ in an averaging time of 216,000 s. The magic frequency $ν_{\\mathrm{zero}}$ was determined to be 394 798 258.3(1) MHz. Under typical operating conditions, the lattice light shift is controlled at an uncertainty level of $3\\times 10^{-19}$. The blackbody radiation (BBR) shield which is placed in vacuum provides a well-characterized BBR environment, enabling an uncertainty contribution of $8.7\\times 10^{-19}$ from the BBR Stark shift. Other systematic shifts have also been evaluated. The two clocks will be used for remote frequency comparisons between Shanghai and Wuhan.",
+  "authors": [
+    "Qiang Zhu",
+    "Jingran Shi",
+    "Yuechen Zhang",
+    "Xiatian Xu",
+    "Bing Wang",
+    "Dezhi Xiong",
+    "Zhuanxian Xiong",
+    "Pengcheng Fang",
+    "Qunfeng Chen",
+    "Lingxiang He",
+    "Baolong Lyu"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "该论文报道了一种基于$^{171}$Yb原子的光晶格钟，总系统不确定度达到$1.1\\times 10^{-18}$。通过使用真空腔增强晶格光功率，实现了两个相同钟之间的同步比较，在216,000秒平均时间内稳定度达到$2.7\\times 10^{-19}$。论文精确测量了魔幻频率$\\nu_{\\mathrm{zero}}$为394,798,258.3(1) MHz，并将晶格光频移控制在$3\\times 10^{-19}$不确定度水平。真空中的黑体辐射屏蔽提供了良好的BBR环境，使BBR斯塔克频移贡献的不确定度为$8.7\\times 10^{-19}$。该钟将用于上海和武汉之间的远程频率比较。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何进一步提升光晶格钟的精度和稳定度，实现$10^{-18}$量级的不确定度。\n- 核心方法：采用$^{171}$Yb原子、真空增强腔、双钟同步比较、精确控制晶格光频移和黑体辐射频移。\n- 主要结果：总系统不确定度$1.1\\times 10^{-18}$，稳定度$2.7\\times 10^{-19}$（216,000秒），魔幻频率精确测定。\n- 与量子精密测量/量子计算的关系：高度相关。该工作属于量子精密测量（原子钟）的前沿实验，直接涉及量子传感（时间频率标准）、Ramsey干涉（钟跃迁）、光学晶格（中性原子操控）等核心概念，为量子计量学提供了性能极限的实证。与量子计算（中性原子、光晶格）有间接关联，因为高精度时钟同步和量子态操控技术可迁移。\n- 是否值得精读：是，对于从事量子传感、原子钟、精密测量实验的研究者具有重要参考价值。\n- 对我研究的可能启发：可借鉴其系统误差评估方法（如黑体辐射屏蔽）、双钟比较稳定度提升策略，以及晶格光频移控制技术，应用于其他量子传感平台（如Rydberg原子微波传感）。",
+  "english_digest": "## English Guide\n- Problem: How to further improve the accuracy and stability of optical lattice clocks to achieve $10^{-18}$ level uncertainty.\n- Method: Using $^{171}$Yb atoms, in-vacuum buildup cavity, synchronous comparison of two identical clocks, precise control of lattice light shift and blackbody radiation shift.\n- Main result: Total systematic uncertainty of $1.1\\times 10^{-18}$, stability of $2.7\\times 10^{-19}$ at 216,000 s averaging, accurate determination of magic frequency.\n- Relevance: Highly relevant. This work is a frontier experiment in quantum precision measurement (atomic clocks), directly involving quantum sensing (time-frequency standards), Ramsey interferometry (clock transitions), and optical lattices (neutral atom manipulation). It provides experimental benchmarks for performance limits in quantum metrology. Indirectly relevant to quantum computing (neutral atoms, optical lattices) due to shared techniques in quantum state control and error mitigation.\n- Reading priority: High. Essential for researchers in quantum sensing, atomic clocks, and precision metrology experiments.\n- Possible inspiration: Learn from the systematic uncertainty evaluation methods (e.g., BBR shielding), dual-clock stability enhancement, and lattice light shift control techniques, which can be applied to other quantum sensing platforms such as Rydberg atom microwave sensing.",
+  "relevance_score": 9.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.10514v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.10514v1",
+  "local_pdf_path": ""
+}

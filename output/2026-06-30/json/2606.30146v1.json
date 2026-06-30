@@ -1,0 +1,24 @@
+{
+  "title": "Spin bath mediated long-lived coherent oscillations of NV centers in diamond",
+  "arXiv_id": "2606.30146v1",
+  "abstract": "Decoherence is the biggest bottleneck in all quantum technologies. For nitrogen-vacancy (NV) centers in diamond, the loss of coherence is caused by the electron and nuclear spin bath of the diamond lattice. Here, we demonstrate that the spin bath - that typically causes decoherence - entangles the spin states of the NV electron and the host $^{14}$N nucleus. The many-body interaction between the $^{14}$N nucleus - electron - bath spins at an energy level anti-crossing occurring for an applied magnetic field orientation perpendicular to the NV axis is responsible for this effect. This is observed experimentally on NV ensembles via electron spin-echo measurements, where the echo envelope is modulated at the frequency of a $^{14}$N nuclear spin transition. Using numerical simulations, we show that the spin bath coupling to the NV centers is essential for observing this modulation. Due to the zero first-order Zeeman effect at the anti-crossing, the observed oscillations have long spin-echo coherence times, 2--3 times those at the parallel magnetic field orientation. The oscillation frequency is highly stable and robust against environmental fluctuations. These findings provide new opportunities for fundamental studies of many-body physics and quantum sensing.",
+  "authors": [
+    "Akshat Rana",
+    "Pooja Lamba",
+    "Basanta Mistri",
+    "Dieter Suter",
+    "Siddharth Dhomkar",
+    "Rama K. Kamineni"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.mes-hall"
+  ],
+  "summary": "本文研究了金刚石中氮空位（NV）中心在磁场垂直于NV轴时，由自旋库介导的长时间相干振荡现象。实验和数值模拟表明，电子与宿主¹⁴N核自旋之间的多体相互作用，在能级反交叉处导致自旋库纠缠NV电子和核自旋态，从而在电子自旋回波包络中观察到¹⁴N核自旋跃迁频率的调制。由于反交叉处的一阶塞曼效应为零，振荡具有2-3倍于平行磁场方向的相干时间，且频率对环境影响高度稳定，为多体物理和量子传感提供了新机遇。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用自旋库（通常导致退相干）产生NV中心的长时间相干振荡，并探索其在量子传感中的应用。\n- 核心方法：实验上对NV中心ensemble进行电子自旋回波测量，结合数值模拟分析磁场垂直于NV轴时能级反交叉处的多体相互作用。\n- 主要结果：观察到电子自旋回波包络被¹⁴N核自旋跃迁频率调制，振荡相干时间延长2-3倍，频率对环境波动高度稳定。\n- 与量子精密测量/量子计算的关系：该振荡机制可直接用于提高量子传感（如磁力计）的灵敏度和稳定性；长相干时间对量子计算中的量子比特保护也有启发，但本文更侧重传感。\n- 是否值得精读：是。论文展示了自旋库从“噪声源”转变为“资源”的新范式，对量子精密测量和噪声抑制研究有重要参考价值。\n- 对我研究的可能启发：可借鉴其利用能级反交叉和自旋库纠缠来增强相干性的思路，设计类似方案用于Rydberg原子、离子阱等平台的传感或量子门保护。",
+  "english_digest": "## English Guide\n- Problem: How to turn the spin bath, typically a source of decoherence, into a resource to generate long-lived coherent oscillations in NV centers for quantum sensing.\n- Method: Experimental electron spin-echo measurements on NV ensembles, combined with numerical simulations, focusing on the energy-level anti-crossing at perpendicular magnetic field orientation.\n- Main result: Observation of modulation in echo envelopes at the ¹⁴N nuclear spin transition frequency, with coherence times 2–3 times longer than at parallel field orientation, and high stability against environmental fluctuations.\n- Relevance: Directly relevant to quantum metrology and sensing (enhanced sensitivity and stability in magnetometry), and indirectly to quantum computing (coherence protection). No direct connection to Rydberg atoms, neutral atoms, trapped ions, or Fisher information, but the underlying principle of bath-mediated coherence could inspire analogous protocols in those platforms.\n- Reading priority: High. The work demonstrates a paradigm shift in using decoherence sources as resources, which is valuable for researchers working on quantum sensing and error mitigation.\n- Possible inspiration: Apply the anti-crossing and bath entanglement concept to other systems (e.g., Rydberg atoms, trapped ions) to achieve longer coherence times or novel sensing schemes; explore similar effects for microwave sensing with Rydberg systems.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30146v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30146v1",
+  "local_pdf_path": ""
+}

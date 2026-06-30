@@ -1,0 +1,23 @@
+{
+  "title": "Extracting the physical content of Liouvillian eigenmodes: Semiclassical quantization",
+  "arXiv_id": "2606.20271v1",
+  "abstract": "Unlike in closed quantum systems where individual energy eigenstates are understood as physical excitations, open quantum systems have distinct right and left eigenstates of the Liouvillian that decay with time and are difficult to interpret. Here we introduce a physically motivated quasiprobability measure combining the two types of eigenstates that interprets a Liouville eigenmode as a set of coherences. This coherence measure is intimately connected to the return probability and allows one to visualize the modes as quasiprobability distributions in a \"doubled\" phase space. Using this measure we show that, remarkably, an oscillator retains its quantized \"orbits\" in phase space for a large class of linear and nonlinear damping, thus providing a formulation of semiclassical quantization for open systems. The orbits have measurable dynamical signatures and are broadened in the presence of a thermal bath, similar to energy levels. For quadratic systems, our results yield an extension of the concept of invariant tori, which play a central role in Hamiltonian systems.",
+  "authors": [
+    "Ashlin V Thomas",
+    "Felix Fritzsch",
+    "Masudul Haque",
+    "Shovan Dutta"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "cond-mat.stat-mech"
+  ],
+  "summary": "该论文提出了一种基于准概率的度量方法，用于解释开放量子系统中Liouvillian本征模的物理内容。通过结合左右本征态，作者将本征模解释为相干性的集合，并展示了在双倍相空间中这些模的准概率分布。研究发现，对于一大类线性和非线性阻尼，谐振子在相空间中保持其量化的“轨道”，从而为开放系统提供了半经典量子化的表述。这些轨道具有可测量的动力学特征，并在热浴存在时展宽，类似于能级。对于二次系统，结果扩展了哈密顿系统中不变环面的概念。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何提取开放量子系统中Liouvillian本征模的物理内容，并建立半经典量子化框架。\n- 核心方法：引入一种结合左右本征态的准概率度量，将本征模解释为相干性集合，并在双倍相空间中可视化。\n- 主要结果：对于线性和非线性阻尼，谐振子在相空间中保持量化轨道；热浴导致轨道展宽；二次系统扩展了不变环面概念。\n- 与量子精密测量/量子计算的关系：该工作主要关注开放系统理论框架和半经典量子化，与量子精密测量（如量子Fisher信息、自旋压缩）或量子计算（如量子门、纠错）的直接关联较弱。文中未涉及Rydberg原子、中性原子、离子阱、原子钟或微波传感等具体实验平台。\n- 是否值得精读：对于从事开放量子系统理论或半经典方法的研究者可能有一定价值，但与本研究领域（量子传感、量子计量学、量子计算硬件）的直接相关性较低，建议根据个人兴趣选择性阅读。\n- 对我研究的可能启发：如果研究涉及开放系统退相干对量子传感精度的影响，文中关于阻尼下量化轨道和相干性度量的方法可能提供新的理论视角。但整体而言，启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to extract the physical content of Liouvillian eigenmodes in open quantum systems and formulate semiclassical quantization. \n- Method: A physically motivated quasiprobability measure combining left and right eigenstates is introduced, interpreting eigenmodes as coherences and visualizing them in a doubled phase space. \n- Main result: Quantized orbits persist for a large class of linear and nonlinear damping; thermal broadening occurs; invariant tori concept is extended for quadratic systems. \n- Relevance: This paper is primarily a theoretical development in open quantum systems and semiclassical quantization. It does not directly address quantum metrology, sensing, Fisher information, spin squeezing, Rydberg atoms, neutral atoms, trapped ions, atomic clocks, or quantum computing hardware. The connection to experiment or protocols in the user's focus areas is weak. \n- Reading priority: Low for researchers focused on quantum precision measurement and quantum computing. May be of interest to those studying open-system theory or semiclassical methods. \n- Possible inspiration: The coherence measure and quantized orbit concept could potentially be applied to understand decoherence effects in quantum sensors, but the direct inspiration for the user's specific interests is limited.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.20271v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.20271v1",
+  "local_pdf_path": ""
+}

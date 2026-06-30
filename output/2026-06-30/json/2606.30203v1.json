@@ -1,0 +1,29 @@
+{
+  "title": "Comb-enabled spectral-domain image transport through perturbation-prone multimode fibers",
+  "arXiv_id": "2606.30203v1",
+  "abstract": "Multimode fibers (MMFs) offer a compact platform for imaging, sensing, and information transport, but their practical deployment is hindered by sensitivity to fiber perturbations, which alter modal coupling and invalidate conventional speckle-based calibrations. Here, we demonstrate perturbation-resilient image transport through MMFs by combining image-to-spectrum encoding with dual-comb spectroscopy. Two-dimensional images are converted into comb-line-resolved spectral signatures before fiber transmission, allowing spatial information to be carried in the spectral domain rather than in the output speckle field. After propagation, dual-comb heterodyne detection maps the encoded spectrum into the radio-frequency domain, enabling massively parallel spectral readout with a single photodetector. Neural-network-assisted compressive reconstruction further enables high-fidelity imaging from sparse, noisy, and spectrally aliased measurements. Our approach achieves Pearson correlation coefficients exceeding 0.9 under strong fiber perturbations and supports frame rates up to 2.5 MHz, allowing the observation of transient switching dynamics in a digital micromirror device. These results establish a powerful tool for robust, real-time image transport through flexible MMFs, with potential applications in remote sensing and fiber-based optical instrumentation.",
+  "authors": [
+    "Maohan Li",
+    "Zijian Wang",
+    "Bowen Sun",
+    "Zhuoren Wan",
+    "Xiangze Ma",
+    "Xiuxiu Zhang",
+    "Yuan Chen",
+    "Mei Yang",
+    "Qi Wen",
+    "Zhaoyang Wen",
+    "Ming Yan",
+    "Heping Zeng"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "该论文提出了一种结合图像到光谱编码与双梳光谱技术的多模光纤（MMF）成像方法，通过将二维图像转换为梳状线分辨的光谱签名，使空间信息在光谱域而非输出散斑场中传输，从而抵抗光纤扰动。利用双梳外差检测将编码光谱映射到射频域，实现单光电探测器的大规模并行光谱读出，并通过神经网络辅助压缩重建从稀疏、噪声和光谱混叠测量中实现高保真成像。实验表明，在强光纤扰动下，皮尔逊相关系数超过0.9，帧率可达2.5 MHz，可观察数字微镜器件的瞬态开关动力学。该方法为通过柔性MMF实现鲁棒、实时的图像传输提供了新工具，潜在应用于遥感与光纤光学仪器。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何克服多模光纤在扰动下成像不稳定的问题。\n- 核心方法：将图像编码到光谱域，利用双梳光谱技术实现扰动鲁棒传输。\n- 主要结果：在强扰动下实现高保真（相关系数>0.9）和高速（2.5 MHz帧率）成像。\n- 与量子精密测量/量子计算的关系：该论文主要聚焦于经典光纤成像技术，不涉及量子效应、量子传感、量子计算或量子精密测量中的核心概念（如量子Fisher信息、自旋压缩、Rydberg原子等）。其光谱编码方法可能间接用于量子系统的光传输，但未直接讨论量子应用。\n- 是否值得精读：对于量子精密测量和量子计算方向的研究者，该论文相关性较低，不建议精读。\n- 对我研究的可能启发：若涉及通过光纤传输量子态或量子传感器信号，其抗扰动编码策略可能提供参考，但需进一步探索量子兼容性。",
+  "english_digest": "## English Guide\n- Problem: How to achieve stable imaging through multimode fibers under perturbations.\n- Method: Image-to-spectrum encoding combined with dual-comb spectroscopy for perturbation-resilient transport.\n- Main result: High-fidelity (correlation >0.9) and high-speed (2.5 MHz frame rate) imaging under strong fiber perturbations.\n- Relevance: This paper focuses on classical fiber imaging and does not address quantum metrology, quantum sensing, quantum computing, or related topics (e.g., quantum Fisher information, spin squeezing, Rydberg atoms, trapped ions, atomic clocks). The spectral encoding approach may have indirect relevance for optical transport in quantum systems, but no direct quantum application is discussed.\n- Reading priority: Low for researchers in quantum precision measurement and quantum computing.\n- Possible inspiration: The perturbation-resilient encoding strategy could inspire robust optical links for quantum sensor readout or quantum state transfer, but requires further investigation for quantum compatibility.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30203v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30203v1",
+  "local_pdf_path": ""
+}

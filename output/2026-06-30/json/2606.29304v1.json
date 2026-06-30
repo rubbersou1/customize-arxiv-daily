@@ -1,0 +1,19 @@
+{
+  "title": "Volume Law and Universality of Entanglement Entropy in Random Graph Fermi Systems",
+  "arXiv_id": "2606.29304v1",
+  "abstract": "We study the ground-state entanglement entropy of free fermions on the Erdős--Rényi random graph, where each of the possible edges is present independently with some probability. Using random matrix theory and asymptotic freeness, we prove that the ground-state entanglement entropy obeys an exact volume law in the thermodynamic limit. The entanglement density, with a universal coefficient that is independent of the edge probability and the microscopic details of the graph. This coefficient is confirmed numerically to take the value approximately $0.386$ nats, strictly below the Page value. The volume law therefore reflects the absence of geometric locality in the random graph.",
+  "authors": [
+    "Saikat Sur"
+  ],
+  "categories": [
+    "quant-ph",
+    "math-ph"
+  ],
+  "summary": "本文研究了自由费米子在 Erdős–Rényi 随机图上的基态纠缠熵。利用随机矩阵理论和渐近自由性，证明在热力学极限下纠缠熵服从精确的体积定律，且纠缠密度具有普适系数（约 0.386 纳特），该系数独立于边概率和图的微观细节，低于 Page 值。该体积定律反映了随机图中几何局域性的缺失。",
+  "chinese_digest": "## 中文导读\n- 研究问题：随机图费米体系的基态纠缠熵是否服从体积定律？\n- 核心方法：随机矩阵理论和渐近自由性分析。\n- 主要结果：纠缠熵服从精确体积定律，纠缠密度普适系数约 0.386 纳特，独立于图参数。\n- 与量子精密测量/量子计算的关系：本文主要关注统计物理和随机图模型中的纠缠性质，未涉及量子传感、计量、操控、门操作等具体实验或协议。与量子精密测量、量子计算、Rydberg 原子、spin squeezing、neutral atoms、trapped ions、Fisher information 等方向无直接关联。\n- 是否值得精读：对于量子精密测量或量子计算方向，不值得精读。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Does the ground-state entanglement entropy of free fermions on random graphs obey a volume law?\n- Method: Random matrix theory and asymptotic freeness.\n- Main result: Entanglement entropy follows an exact volume law with a universal coefficient (~0.386 nats) independent of graph parameters.\n- Relevance: This paper focuses on statistical physics and random graph models, with no direct connection to quantum precision measurement, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or related experimental/protocol topics.\n- Reading priority: Low for researchers in quantum sensing, metrology, or computing.\n- Possible inspiration: None directly applicable.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29304v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29304v1",
+  "local_pdf_path": ""
+}

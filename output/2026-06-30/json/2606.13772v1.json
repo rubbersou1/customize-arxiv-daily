@@ -1,0 +1,25 @@
+{
+  "title": "Digital programming of spin correlations in a fermionic lattice quantum simulator",
+  "arXiv_id": "2606.13772v1",
+  "abstract": "Analog quantum simulation provides a highly controlled platform to study diverse quantum many-body phenomena. However, current methods for state initialisation are limited to thermal ensembles or uncorrelated product states. Here we present a hybrid approach that complements analog preparation with a digital quantum-gate protocol. This approach enables the engineering of target states with specific, long-range spin-correlations from the same initial resource state. By applying collisional gates to adiabatically prepared and filtered four-fermion singlet chains, we program diverse spin-correlation patterns, including that of a Heisenberg chain. We measure the spin correlations using a sequence of quantum gates followed by singlet-pair measurements. Our method paves the way to the targeted preparation of strongly correlated states of matter.",
+  "authors": [
+    "Yann Kiefer",
+    "Lars Fischer",
+    "Zijie Zhu",
+    "Konrad Viebahn",
+    "Tilman Esslinger"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.str-el",
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "summary": "本文介绍了一种混合方法，结合了模拟量子制备和数字量子门协议，在费米子晶格量子模拟器中编程自旋关联。通过将碰撞门应用于绝热制备和过滤的四费米子单重态链，研究人员能够编程出多样化的自旋关联模式，包括海森堡链的模式。他们使用一系列量子门和单重态对测量来测量自旋关联。该方法为目标制备强关联物质态铺平了道路。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在费米子晶格量子模拟器中编程特定的长程自旋关联？\n- 核心方法：结合模拟量子制备（绝热制备和过滤四费米子单重态链）与数字量子门协议（碰撞门），从相同的初始资源态工程化目标态。\n- 主要结果：成功编程了包括海森堡链在内的多种自旋关联模式，并通过量子门序列和单重态对测量进行了验证。\n- 与量子精密测量/量子计算的关系：该工作展示了量子门在量子模拟器中的高级应用，与量子计算中的门操作和量子控制直接相关。虽然未直接涉及量子传感或精密测量，但其对自旋态的控制和表征方法（如单重态测量）对量子计量学中的纠缠态制备和Fisher信息优化有潜在启发，例如通过数字门编程实现自旋压缩态。\n- 是否值得精读：中等。对于研究量子模拟、量子门控制或费米子系统的人来说值得一读；但对量子精密测量或Rydberg原子等特定方向相关性一般。\n- 对我研究的可能启发：可借鉴其数字-模拟混合方法，用于在光学晶格或中性原子平台中制备自旋压缩态或纠缠态，从而提升量子传感灵敏度。",
+  "english_digest": "## English Guide\n- Problem: How to program specific long-range spin correlations in a fermionic lattice quantum simulator?\n- Method: A hybrid digital-analog approach combining adiabatic preparation/filtering of four-fermion singlet chains with collisional quantum gates to engineer target states from a common resource state. Spin correlations are measured via gate sequences and singlet-pair measurements.\n- Main result: Successful programming of diverse spin-correlation patterns, including that of a Heisenberg chain.\n- Relevance: Directly relevant to quantum computing (digital gates, control) and quantum simulation. While not focused on sensing or metrology, the control over spin correlations and entanglement (singlet states) is relevant to spin squeezing, quantum Fisher information optimization, and atomic clock interferometry (e.g., Ramsey interferometry with entangled states). The platform (fermionic lattice) is distinct from Rydberg atoms/trapped ions but shares principles of quantum control.\n- Reading priority: Moderate. Worth reading for those interested in quantum simulation, gate-based control, or fermionic systems. Less critical for Rydberg/metrology specialists.\n- Possible inspiration: The hybrid digital-analog scheme could be adapted to neutral-atom or ion-trap systems to generate spin-squeezed states or other entangled states for enhanced metrological sensitivity.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.13772v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.13772v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,21 @@
+{
+  "title": "BPBO: Blindness-Preserving Brickwork Optimization by Certified Region Resynthesis",
+  "arXiv_id": "2606.29962v1",
+  "abstract": "Universal blind quantum computation (UBQC) hides a client's computation by using a computation-independent BFK09 brickwork graph and encoding the computation in measurement angles, which limits the use of graph-changing optimizations. We study blindness-preserving brickwork optimization (BPBO): certified local resynthesis of BFK09-compatible brickwork patterns below the blinding layer. BPBO detects one-, two-, and three-wire regions; for each candidate region it either proves a semantic floor or supplies an executable witness, and it accepts a replacement only after its branch-frame, output-frame, and blinding behavior have been checked. The optimized outputs remain standard brickwork patterns and are evaluated with a logical qubit-recycled UBQC execution stack that runs arbitrary-length patterns using n x 2 active logical qubits. The layer evidence includes a one-wire H-count floor, a two-wire CNOT-cost floor, a three-wire parity-ledger floor, a clean three-cell CCZ witness whose optimality claim is scoped to the CNOT+T phase-gadget family, and an endpoint-target three-cell CCX/Toffoli application witness; the fixed middle-target CCX case is retained as a four-cell fallback. The security statement is a compatibility result: BPBO preserves UBQC blindness at the declared optimized dimensions and remains compatible with inherited verification guarantees under explicit test-round conditions, without introducing a new trap-soundness theorem. On Bell/CX, Grover-2, endpoint-Toffoli, and Grover-3 evaluation cases, BPBO demonstrates certified local reductions; in the largest case, Grover-3, the materialized pattern is reduced from 3 x 725 to 3 x 98 while preserving the expected marked-state statistics up to sampling noise.",
+  "authors": [
+    "Youngkyung Lee",
+    "Juyoung Kim",
+    "Doyoung Chung"
+  ],
+  "categories": [
+    "quant-ph",
+    "cs.CR"
+  ],
+  "summary": "本文提出了一种名为BPBO（盲保真砖墙优化）的方法，用于在通用盲量子计算（UBQC）中，在不破坏盲化安全性的前提下，对BFK09砖墙图进行本地化重合成优化。该方法通过检测单线、双线和三线区域，为每个候选区域提供语义下界或可执行见证，并检查替换后的分支框架、输出框架和盲化行为。优化后的输出仍为标准的砖墙模式，并使用逻辑量子比特回收的UBQC执行栈进行评测。在Bell/CX、Grover-2、端点Toffoli和Grover-3等评估案例中，BPBO展示了经过认证的本地缩减，例如在Grover-3案例中，模式从3×725缩减到3×98，同时保持了预期的标记态统计特性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在通用盲量子计算（UBQC）中，在不泄露客户端计算信息的前提下，对量子线路的砖墙图进行优化（减少量子比特和门数量）？\n- 核心方法：提出BPBO方法，通过本地化检测和替换单线、双线、三线区域，利用语义下界和可执行见证来保证优化的正确性，并验证替换后的盲化行为不变。\n- 主要结果：在多个量子算法（如Grover搜索）的实例上，BPBO实现了显著的线路缩减（如Grover-3从725个量子比特缩减到98个），同时保持了盲化安全性和计算正确性。\n- 与量子精密测量/量子计算的关系：本文主要关注盲量子计算的安全性和优化，属于量子计算理论中的协议层。与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。\n- 是否值得精读：如果你专注于盲量子计算或量子线路优化，值得精读。但对于量子精密测量和传感领域，相关性很低。\n- 对我研究的可能启发：无直接启发，因为该工作不涉及任何量子传感或精密测量中的物理平台、协议或度量。",
+  "english_digest": "## English Guide\n- Problem: How to optimize the brickwork graph in universal blind quantum computing (UBQC) to reduce qubit and gate counts without leaking client's computation? \n- Method: Proposes BPBO, a method that locally detects and replaces one-, two-, and three-wire regions in the brickwork pattern, using semantic floors and executable witnesses to certify correctness while preserving blindness.\n- Main result: Demonstrated certified reductions on benchmark circuits (e.g., Grover-3 from 3x725 to 3x98) without compromising blindness or correctness.\n- Relevance: This work is primarily about blind quantum computing and circuit optimization. It has no direct connection to quantum precision measurement, quantum sensing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information.\n- Reading priority: Low for researchers in quantum metrology and sensing; medium for those working on blind quantum computing or quantum circuit optimization.\n- Possible inspiration: No direct inspiration for quantum sensing or metrology, as it focuses on security and optimization of quantum computation protocols.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29962v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29962v1",
+  "local_pdf_path": ""
+}

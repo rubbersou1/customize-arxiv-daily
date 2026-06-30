@@ -1,0 +1,23 @@
+{
+  "title": "Nanometric voids as optical antennas for rewritable momentum-engineered photonics in silicon",
+  "arXiv_id": "2606.29551v1",
+  "abstract": "Optical antennas are widely used to localize electromagnetic fields far below the diffraction limit, enabling enhanced light-matter interactions across nanophotonics. Yet the regime in which optical confinement approaches the electronic de Broglie wavelength in a solid - where the photon momentum distribution broadens sufficiently to relax optical selection rules - remains largely unexplored. Here we show that nanometric voids embedded within crystalline silicon act as such optical antennas, dramatically altering the optical response of an indirect semiconductor without the introduction of any foreign material. Using an electrically induced melt-quench process, we generate nanometric voids throughout bulk silicon, confirmed by high-resolution electron microscopy, diffraction analysis, Fourier-filtered lattice reconstruction, elemental mapping, and supported by optical and vibrational spectroscopies. The void-containing silicon exhibits intense broadband photo- and electroluminescence spectrally indistinguishable from that produced by metallic or semiconductor nanoconfiners of similar dimensions, establishing that dielectric discontinuity, not confiner composition, governs the observed momentum-assisted optical transitions. The luminescence can be repeatedly written, erased, and rewritten through alternating electrical conditioning and optical recrystallization. These findings establish nanometric voids as a previously unexplored platform for extreme optical confinement and demonstrate that photonic functionality can be embedded and reconfigured directly within bulk silicon.",
+  "authors": [
+    "Aleksei I. Noskov",
+    "Evan P. Garcia",
+    "Haiping Sun",
+    "Eric O. Potma",
+    "Dmitry A. Fishman"
+  ],
+  "categories": [
+    "physics.optics",
+    "quant-ph"
+  ],
+  "summary": "该论文研究了嵌入在晶体硅中的纳米级空洞作为光学天线的特性。通过电诱导的熔融-淬火过程在硅中生成纳米空洞，这些空洞利用介电不连续性实现了极端的电磁场局域化，从而在间接半导体硅中引发了强烈的宽带光致发光和电致发光。这种发光可通过电调节和光学再结晶反复写入、擦除和重写。研究结果表明，纳米空洞是一种新的光学约束平台，可在硅内部直接嵌入和重构光子功能，而不引入任何外来材料。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在硅中实现纳米级光学天线，以增强光-物质相互作用并放松光学选择规则。\n- 核心方法：利用电诱导熔融-淬火工艺在晶体硅中生成纳米空洞，并通过高分辨电子显微镜、衍射分析、光谱学等手段表征其光学性能。\n- 主要结果：纳米空洞使硅产生强烈的宽带光致发光和电致发光，且发光可通过电和光学处理进行可逆写入/擦除。\n- 与量子精密测量/量子计算的关系：本文聚焦于硅基光子学和光电子学，与量子精密测量（如量子传感、量子计量）或量子计算（如中性原子、离子阱、Rydberg原子等）的核心主题无直接关联。该工作主要涉及经典纳米光子学，不涉及量子纠缠、Fisher信息、自旋压缩或量子控制等概念。\n- 是否值得精读：对于关注硅基光电子或纳米光子学的研究者可能有用，但对于量子精密测量和量子计算领域，相关性很低。\n- 对我研究的可能启发：如果未来将纳米空洞用于量子传感中的光学界面或量子比特读出，可能有一定启发，但当前论文未涉及量子效应。",
+  "english_digest": "## English Guide\n- Problem: How to create nanoscale optical antennas in silicon to enhance light-matter interactions and relax optical selection rules.\n- Method: Electrically induced melt-quench process to generate nanometric voids in bulk silicon, characterized by electron microscopy, diffraction, and spectroscopy.\n- Main result: The voids enable intense broadband photoluminescence and electroluminescence in silicon, with reconfigurable write/erase capability.\n- Relevance: This paper is focused on silicon photonics and classical nanophotonics, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It does not involve quantum effects, entanglement, or quantum control.\n- Reading priority: Low for researchers in quantum metrology and quantum computing; moderate for those in silicon photonics.\n- Possible inspiration: Could be relevant for future integration of quantum sensors with silicon photonic platforms, but the current work does not address quantum applications.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29551v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29551v1",
+  "local_pdf_path": ""
+}

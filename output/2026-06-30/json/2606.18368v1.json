@@ -1,0 +1,25 @@
+{
+  "title": "Design and Performance of a Heated Gas Injector for Producing Cold Molecular Beams",
+  "arXiv_id": "2606.18368v1",
+  "abstract": "We realize an injector device that supplies warm gas directly into a cryogenic environment. This injector has several advantageous features, including robustness, rigidity, simple installation, and excellent thermal isolation between a hot ($\\sim$300 K) copper fill line and a cold ($<$3 K) cryogenic buffer gas cell. Less than 200 mW heat load on the cell is observed in realistic conditions of a molecular precision measurement experiment. A polyamide-imide (PAI) tube is the essential design feature. The fill line is epoxied to one end of the tube while the other end of the tube is connected to the cell via a slip-fit onto a brass nipple, realizing a complete vacuum-tight seal. PAI contracts on the brass nipple when cooled, forming a cryogenic leak-tight seal. The injector is easily (de-)mountable and rigid, with no significant displacement of the fill line relative to the cell observed during cooldown to 4 K. We characterize injector performance by flowing into the cell $\\text{SF}_6$ through the hot fill line and cold $\\text{He}$ buffer gas through a separate cryogenic fill line while laser ablating a barium-containing target. This produces cold BaF free radicals, detected using absorption spectroscopy. This injector design will be employed to laser cool radium-containing molecules, such as $\\text{RaF}$ and $\\text{RaOH}$, where leak-tight delivery of $\\text{SF}_6$ and $\\text{H}_2\\text{O}$ reagents into a cryogenic buffer gas cell is required for scientific and safety reasons. These molecules are of particular interest for the study of symmetry-violating nuclear properties and searches for physics beyond the Standard Model.",
+  "authors": [
+    "Avneesh Verma",
+    "Jack Mango",
+    "Shungo Fukaya",
+    "Arian Jadbabaie",
+    "Sepehr Ebadi",
+    "Ronald F. Garcia Ruiz",
+    "John M. Doyle"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "physics.ins-det"
+  ],
+  "summary": "本文介绍了一种用于在低温环境中产生冷分子束的加热气体注入器设计。该注入器具有坚固、刚性、安装简单以及热隔离性能优异等特点，能够将约300 K的热气体通过聚酰胺-酰亚胺（PAI）管输送到低于3 K的低温缓冲气体池中，热负载低于200 mW。PAI管在冷却时收缩，与黄铜接头形成低温密封。作者通过将SF₆气体注入池中并激光烧蚀含钡靶材，成功产生了冷BaF自由基，并用吸收光谱进行了检测。该设计将用于产生放射性分子（如RaF和RaOH），用于研究宇称破坏的核性质和寻找超越标准模型的新物理。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何设计一个能够向低温环境可靠输送热气体（如SF₆、H₂O）的注入器，用于产生冷分子束，服务于精密测量实验。\n- 核心方法：利用聚酰胺-酰亚胺（PAI）管作为热隔离和密封组件，一端连接热填充线，另一端通过滑配连接到低温缓冲气体池；PAI在低温下收缩形成真空密封。\n- 主要结果：注入器热负载小于200 mW，能在4 K下保持密封和刚性，成功产生冷BaF自由基并检测到吸收信号。\n- 与量子精密测量/量子计算的关系：该工作属于分子物理精密测量实验的硬件技术，用于产生冷分子（如RaF、RaOH），这些分子可用于研究基本对称性破缺和新物理搜索，与量子传感和量子精密测量领域间接相关（如原子钟、干涉仪等），但本文未涉及量子计算、Rydberg原子、自旋压缩、Fisher信息等核心主题。\n- 是否值得精读：对于研究冷分子产生、低温注入器设计的实验人员有一定参考价值；对于量子传感、量子计算方向的研究者，相关性较低，可略读。\n- 对我研究的可能启发：如果涉及冷分子或缓冲气体冷却实验，该设计可借鉴；否则启发有限。",
+  "english_digest": "## English Guide\n- Problem: Design a heated gas injector for producing cold molecular beams in a cryogenic environment, targeting precision measurement experiments. \n- Method: A polyamide-imide (PAI) tube provides thermal isolation and forms a cryogenic seal via thermal contraction onto a brass nipple. Hot gas (~300 K) is delivered to a cold (<3 K) buffer gas cell with <200 mW heat load. \n- Main result: The injector is robust, vacuum-tight, and successfully generates cold BaF radicals detected by absorption spectroscopy. \n- Relevance: This paper focuses on experimental hardware for cold molecule production, relevant to molecular precision measurement and searches for new physics. It has indirect connection to quantum metrology (e.g., molecular clocks, symmetry tests) but no direct link to quantum computing, Rydberg atoms, spin squeezing, Fisher information, or trapped ions. \n- Reading priority: Low for researchers in quantum sensing, quantum computing, or Rydberg systems. Moderate for those working on cold molecule sources or buffer gas cooling. \n- Possible inspiration: The injector design could be adapted for other cold molecule experiments requiring leak-tight delivery of reactive gases into cryogenic cells.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.18368v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.18368v1",
+  "local_pdf_path": ""
+}

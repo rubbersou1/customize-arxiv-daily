@@ -1,0 +1,19 @@
+{
+  "title": "Spin effects in the particle current of Bose-Einstein condensates in synthetic gauge fields",
+  "arXiv_id": "2606.17248v1",
+  "abstract": "Although spin is not a relativistic quantity, its effects are not always manifestly captured within non-relativistic theoretical frameworks. We report on one of these effects: the spin term in the particle current density, which could be observed in the setup of a synthetic Hall system made with non-relativistic Bose-Einstein condensates of pseudospin-1/2 bosonic particles. By tuning the interaction strength, the system can show how the spin term in the particle current is needed for the local matching of classical drift velocity in the ground state of the non-interacting system, whereas for increasing interactions the spin-to-orbital current ratio decreases. In either case, since the overall particle velocity changes with the spin term contribution, so does its circulation in a loop, which in turn has physical consequences for its relationship with the Aharonov-Bohm phase shift.",
+  "authors": [
+    "Hugo Bencomo Martín",
+    "Antonio Muñoz Mateo"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "这篇论文研究了非相对论性玻色-爱因斯坦凝聚体（BEC）在合成规范场中的自旋效应。作者发现，在伪自旋-1/2玻色子构成的合成霍尔系统中，粒子流密度中存在一个自旋项。通过调节相互作用强度，系统可以展示出自旋项如何影响粒子速度及其环流，进而影响与Aharonov-Bohm相位的关系。",
+  "chinese_digest": "## 中文导读\n- 研究问题：非相对论BEC在合成规范场中自旋对粒子流的影响。\n- 核心方法：理论分析伪自旋-1/2 BEC在合成磁场中的粒子流密度，考虑相互作用调控。\n- 主要结果：自旋项贡献于粒子流，影响速度环流和Aharonov-Bohm相位。\n- 与量子精密测量/量子计算的关系：该研究与量子精密测量和量子计算的核心主题（如量子传感、自旋压缩、离子阱、中性原子量子计算、Rydberg原子、Fisher信息等）关联较弱。它更侧重于BEC中自旋效应的基础物理，而非测量协议或计算硬件。\n- 是否值得精读：对于关注BEC中自旋输运或合成规范场基础物理的研究者可能有趣，但与本领域直接相关性低，不建议精读。\n- 对我研究的可能启发：可能启发对BEC系统中自旋相关输运的理解，但难以直接应用于量子计量或量子计算中的传感、门操作或误差缓解。",
+  "english_digest": "## English Guide\n- Problem: Spin effects in particle current of non-relativistic BEC under synthetic gauge fields.\n- Method: Theoretical analysis of spin term in current density for pseudospin-1/2 BEC in a synthetic Hall system, with tunable interactions.\n- Main result: Spin term contributes to particle current, affecting velocity circulation and Aharonov-Bohm phase.\n- Relevance: Low relevance (3/10) to quantum precision measurement and quantum computing. The paper focuses on fundamental spin transport in BEC, not on quantum metrology protocols (e.g., Fisher information, spin squeezing), quantum sensing platforms (Rydberg atoms, trapped ions, neutral atoms), or quantum computing hardware and algorithms.\n- Reading priority: Low. Not directly applicable to quantum sensing, metrology, or computing interests.\n- Possible inspiration: May provide insight into spin-dependent transport in cold-atom systems, but no direct link to measurement precision or quantum gate design.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.17248v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.17248v1",
+  "local_pdf_path": ""
+}

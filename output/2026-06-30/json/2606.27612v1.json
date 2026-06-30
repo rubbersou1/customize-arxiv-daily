@@ -1,0 +1,25 @@
+{
+  "title": "Enhancing Co-packaging Optics Enabled Silicon Photonics Security Assurance Hardware Fingerprinting",
+  "arXiv_id": "2606.27612v1",
+  "abstract": "Silicon photonics enables integration of optical components using standard semiconductor processes, greatly improving data communication bandwidth and energy efficiency. However, photonics integrated circuits (PICs) face unique security challenges, such as counterfeit or tampering threats, that conventional electronic security methods do not address. We propose a novel hardware fingerprinting technique that embeds two dimensional photonic crystal patterns into the density control filler regions of a PIC. Each PhC pattern is designed to resonate a specific visible to near infrared wavelengths, producing a distinctive optical signature (based on wavelength, polarization, and incident angle) for each device. Finite difference time domain (FDTD) simulation using ANSYS Lumerical is employed to optimize nanostructure dimensions and spacing so that each device's reflection/absorption spectrum contains unique narrowband peaks. No extra fabrication steps or materials are required beyond standard lithography, keeping costs low. The embedded nanostructures have sub-50nm precision, making forgery extremely difficult. Our method yields a high resolution, scalable fingerprint for silicon photonic chips, enabling cost-effective device authentication and improved supply chain security.",
+  "authors": [
+    "Liton Kumar Biswas",
+    "M Shafkat M Khan",
+    "Himanandhan Reddy Kottur",
+    "Hao Wang",
+    "Hamed Dalir",
+    "Navid Asadizanjani"
+  ],
+  "categories": [
+    "physics.optics",
+    "cs.CV",
+    "eess.IV"
+  ],
+  "summary": "该论文提出了一种利用硅光子芯片中的密度控制填充区域嵌入二维光子晶体结构的方法，通过设计纳米结构产生独特的光学特征（如反射/吸收光谱中的窄带峰），从而实现硬件指纹识别，以增强供应链安全。该方法无需额外制造步骤或材料，利用标准光刻工艺即可实现，具有高分辨率和可扩展性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何为硅光子芯片提供低成本、高安全性的硬件指纹认证，以应对伪造和篡改威胁。\n- 核心方法：在芯片填充区域嵌入二维光子晶体，通过FDTD仿真优化纳米结构尺寸和间距，使每个芯片产生独特的窄带光谱响应。\n- 主要结果：实现了基于波长、偏振和入射角的光学签名，具有亚50纳米精度，难以伪造。\n- 与量子精密测量/量子计算的关系：该论文主要聚焦于光子集成电路的安全认证，未涉及量子传感、量子计量、量子计算或相关的量子平台（如Rydberg原子、中性原子、囚禁离子等）。因此与量子精密测量和量子计算领域无直接关联。\n- 是否值得精读：不值得精读，除非对硅光子芯片安全有特殊兴趣。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to provide low-cost, high-security hardware fingerprinting for silicon photonic chips to counter counterfeiting and tampering. \n- Method: Embedding photonic crystal patterns in filler regions of PICs, using FDTD simulation to optimize nanostructures for unique narrowband spectral signatures. \n- Main result: Optical signatures based on wavelength, polarization, and incident angle with sub-50nm precision, making forgery difficult. \n- Relevance: This paper focuses on security authentication of silicon photonics, with no connection to quantum precision measurement, quantum sensing, quantum computing, or related platforms (e.g., Rydberg atoms, neutral atoms, trapped ions, spin squeezing, Fisher information). Relevance score is 0. \n- Reading priority: Not recommended for reading unless specifically interested in photonic chip security. \n- Possible inspiration: None for the described research areas.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27612v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27612v1",
+  "local_pdf_path": ""
+}

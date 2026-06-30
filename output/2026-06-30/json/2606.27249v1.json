@@ -1,0 +1,23 @@
+{
+  "title": "Quantum computer architecture with ions in tweezer arrays",
+  "arXiv_id": "2606.27249v1",
+  "abstract": "We propose a quantum computer architecture based on ions confined in optical tweezer arrays, combining the long coherence times of trapped-ion qubits with the reconfigurability and parallel operation enabled by tweezer platforms. Selected ions are transported to local interaction zones, where excitation to an auxiliary state with a displaced optical potential generates a controllable effective electric dipole. We develop and analyze entangling-gate mechanisms mediated by the Coulomb interaction between such effective dipoles, and show that they enable precise, temperature-robust closure of the center-of-mass and relative motional trajectories, leaving no residual entanglement between the qubits and the motion. We further outline a concrete implementation with barium ions based on state-selective polarizability, and study the suppression of cross-talk during parallel gate execution, with relevance to transversal gates in quantum error correction. Our results thereby establish a realistic route toward scalable ion-tweezer quantum processors.",
+  "authors": [
+    "Benjamin F. Schiffer",
+    "Christopher Monroe",
+    "Peter Zoller",
+    "J. Ignacio Cirac"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "physics.atom-ph"
+  ],
+  "summary": "该论文提出了一种基于光学镊子阵列中囚禁离子的量子计算机架构。通过将离子限制在可重构的光镊中，并选择性地将离子运输到局部相互作用区域，利用离子激发到辅助态产生的可控有效电偶极子之间的库仑相互作用来实现纠缠门。作者展示了这种机制能够精确、温度鲁棒地闭合质心和相对运动轨迹，避免量子比特与运动模式之间的残留纠缠。论文还以钡离子为例给出了具体实现方案，并研究了并行门操作中的串扰抑制，适用于量子纠错中的横向门。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用光学镊子中的离子构建可扩展的量子计算机架构。\n- 核心方法：将离子囚禁在光学镊子阵列中，通过激发到辅助态产生有效电偶极子，利用库仑相互作用实现纠缠门，并利用可重构镊子实现并行操作。\n- 主要结果：提出了一种温度鲁棒的纠缠门机制，能够完全抑制量子比特与运动模式的纠缠；以钡离子为例给出了具体实现；分析了并行门中的串扰抑制，与量子纠错横向门相关。\n- 与量子精密测量/量子计算的关系：直接相关。该工作属于中性原子/离子量子计算领域，与 trapped ions、optical tweezers、quantum gates 高度相关。虽然不直接涉及量子精密测量或 Fisher information，但离子纠缠门的精确控制是量子传感和量子计量（如原子钟、Ramsey 干涉）的基础。\n- 是否值得精读：是。对于从事 trapped ions、neutral-atom quantum computing、quantum control 的研究者，该论文提出了新颖且可扩展的架构，具有实验可行性。\n- 对我研究的可能启发：该工作的纠缠门机制可启发量子传感中的纠缠增强方案（如 spin squeezing）；离子镊子阵列的可重构性对于量子计量中的多粒子纠缠态制备和量子增强测量有潜在应用。",
+  "english_digest": "## English Guide\n- Problem: How to build a scalable quantum computer architecture using ions in optical tweezer arrays.\n- Method: Ions are confined in reconfigurable optical tweezers; selected ions are transported to interaction zones, where excitation to an auxiliary state creates an effective electric dipole; entangling gates are mediated by Coulomb interaction between dipoles, with temperature-robust closure of motional trajectories.\n- Main result: A precise, temperature-robust entangling gate mechanism with no residual qubit-motion entanglement; concrete implementation using barium ions; analysis of crosstalk suppression in parallel gates, relevant to transversal gates in quantum error correction.\n- Relevance: Highly relevant to trapped-ion and neutral-atom quantum computing, optical tweezers, and quantum gates. While not directly about quantum metrology or Fisher information, the precise control of ion entanglement is fundamental to quantum sensing (e.g., atomic clocks, Ramsey interferometry) and spin squeezing.\n- Reading priority: High. Essential for researchers in trapped ions, neutral-atom quantum computing, and quantum control.\n- Possible inspiration: The entangling gate mechanism could be adapted for generating spin-squeezed states or other entangled states for quantum-enhanced metrology; the reconfigurable tweezer array offers a platform for preparing multiparticle entangled states for quantum sensing.",
+  "relevance_score": 9.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27249v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27249v1",
+  "local_pdf_path": ""
+}

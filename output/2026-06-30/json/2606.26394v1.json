@@ -1,0 +1,20 @@
+{
+  "title": "Non-ergodic dynamical phase transition via a zero-mode exceptional point in a non-Markov atomic Josephson junction",
+  "arXiv_id": "2606.26394v1",
+  "abstract": "Open quantum systems typically lose their initial memory due to the environmental decoherence resulting in thermalization. We demonstrate a striking breakdown of this paradigm in a head-to-tail Bose-Josephson junction, which is described by an intrinsically momentum-coupled Caldeira-Leggett model. Through exact non-Markov Langevin simulations, we discover a novel type of non-ergodic dynamical phase transitions into a running state, which has no counterpart in Markov limit. Crucially, we reveal that this transition is fundamentally governed by a zero-mode exceptional point emerging from the non-Markov friction. This topological origin is characterized by the winding of the response function. Finally, numerical quantum simulations of an equivalent driven XXZ spin chain confirm that this exceptional-point-induced signature robustly survives as a dynamical crossover against strong quantum fluctuations and the dynamical backreaction of the environment. This macroscopic robustness offers a promising platform for long-lived quantum memories in dissipative environments.",
+  "authors": [
+    "Koichiro Furutani"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.stat-mech",
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了一个头尾相连的玻色-约瑟夫森结（Bose-Josephson junction）中的非遍历动力学相变。通过精确的非马尔可夫朗之万模拟，作者发现了一种新型的非遍历动力学相变，系统会进入一个运行态，这在马尔可夫极限中没有对应。他们揭示了这一相变根本上由非马尔可夫摩擦产生的零模态奇异点（zero-mode exceptional point）所驱动，其拓扑起源可由响应函数的缠绕数表征。最后，通过等效的驱动XXZ自旋链的数值量子模拟，证实了这种奇异点引发的特征在强量子涨落和环境动态反作用下仍能稳健地存活为动力学交叉。这种宏观稳健性为耗散环境中的长寿命量子存储器提供了有前景的平台。",
+  "chinese_digest": "## 中文导读\n- 研究问题：非马尔可夫玻色-约瑟夫森结中的非遍历动力学相变及其与奇异点的关系。\n- 核心方法：精确非马尔可夫朗之万模拟、响应函数拓扑分析、驱动XXZ自旋链的数值量子模拟。\n- 主要结果：发现一种由零模态奇异点驱动的非遍历动力学相变，该相变具有拓扑起源，并在强量子涨落下保持稳健。\n- 与量子精密测量/量子计算的关系：该工作主要关注开放量子系统中的非平衡相变和量子记忆，与量子精密测量（如量子计量学中的Fisher信息、自旋压缩）和量子计算（如量子门、量子控制）的直接关联较弱。它涉及原子系统（玻色-约瑟夫森结），但并非针对Rydberg原子、中性原子量子计算或离子阱等具体平台。\n- 是否值得精读：如果您对开放量子系统中的非平衡相变、奇异点物理或量子记忆感兴趣，值得精读。如果您的核心兴趣是量子精密测量或量子计算的具体协议和实验实现，则相关性较低。\n- 对我研究的可能启发：该工作展示了非马尔可夫环境中奇异点如何驱动相变并带来稳健性，可能启发在量子传感或量子计算中利用非马尔可夫效应或奇异点来增强性能或实现新功能。",
+  "english_digest": "## English Guide\n- Problem: Non-ergodic dynamical phase transition in a non-Markov Bose-Josephson junction and its relation to exceptional points.\n- Method: Exact non-Markov Langevin simulations, topological analysis of response function, numerical quantum simulation of a driven XXZ spin chain.\n- Main result: Discovery of a non-ergodic dynamical phase transition driven by a zero-mode exceptional point, with topological origin and robustness against strong quantum fluctuations.\n- Relevance: This work focuses on non-equilibrium phase transitions and quantum memory in open quantum systems. Its direct connection to quantum precision measurement (e.g., Fisher information, spin squeezing) and quantum computing (e.g., quantum gates, control) is weak. It involves atomic systems (Bose-Josephson junction) but not specifically Rydberg atoms, neutral-atom quantum computing, or trapped ions.\n- Reading priority: Worth reading if you are interested in non-equilibrium phase transitions, exceptional point physics, or quantum memory in open systems. Low priority if your core interest is specific protocols or experimental implementations for quantum sensing or quantum computing.\n- Possible inspiration: The work demonstrates how exceptional points in non-Markovian environments can drive phase transitions and provide robustness, which may inspire new approaches to enhance performance in quantum sensing or quantum computing using non-Markovian effects or exceptional points.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26394v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26394v1",
+  "local_pdf_path": ""
+}

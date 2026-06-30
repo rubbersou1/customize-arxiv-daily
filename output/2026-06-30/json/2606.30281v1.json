@@ -1,0 +1,24 @@
+{
+  "title": "Quantum Lazy Sampling and Path Recording for Any Group",
+  "arXiv_id": "2606.30281v1",
+  "abstract": "A central challenge in quantum algorithms and cryptography is reasoning about algorithms with oracle access to a random group element (e.g. a random function, permutation, or unitary). Can we efficiently simulate such algorithms? Can we determine what they know after t queries? A classical tool for this is lazy sampling: the oracle does not commit to the full group element upfront, but rather samples partial information about it on the fly. We study a quantum analog of lazy sampling: compressed oracles (or recording oracles). These are quantum data structures that allow on-the-fly simulation for quantum queries, originally introduced by Zhandry (CRYPTO '19) for random functions, and generalized to unitaries by Ma-Huang (STOC '25) and permutations by Carolan (STOC '26), and used to great effect in security proofs and lower bounds due to their interpretability.\n  We define and analyze a general-purpose and interpretable path-recording oracle, derived from first principles, that perfectly simulates random elements of any closed subgroup of $U(N)$. Our oracle stores, in superposition, t input-output pairs, with updates described in terms of the commutant of the group's tensor power representation. This transparently records the information the algorithm has learned. Our oracle builds on recent work of Grinko-Yoshida (QIP '26), who gave a different general-purpose compressed oracle without clear interpretability.\n  One interesting application of our path-recording is allowing direct comparisons between compressed oracles of different groups, giving a new technique for proving pseudorandomness results. For example, comparing $S_N$ and $U(N)$ yields what is arguably the simplest construction to date of pseudorandom unitaries: the product PC of a pseudorandom permutation and a random Clifford, improving on the prior PFC construction (Metger-Poremba-Sinha-Yuen, FOCS '24; Ma-Huang, STOC '25).",
+  "authors": [
+    "Ben Foxman",
+    "Alex Lombardi",
+    "Fermi Ma",
+    "Barak Nehoran",
+    "John Wright"
+  ],
+  "categories": [
+    "quant-ph",
+    "cs.CC",
+    "cs.CR"
+  ],
+  "summary": "这篇论文提出了一种通用的量子惰性采样与路径记录方法，用于模拟量子算法对随机群元素（如随机函数、置换或酉变换）的预言机访问。作者从第一性原理出发，为U(N)的任何闭子群定义了一种可解释的路径记录预言机，通过存储输入-输出对的叠加态并利用群张量幂表示的交换子来更新，清晰地记录了算法学习到的信息。该预言机基于Grinko-Yoshida的工作，但具有更好的可解释性，并可用于证明伪随机性结果，例如通过比较对称群S_N和酉群U(N)给出了一种构造伪随机酉变换的简洁方法（乘积PC：伪随机置换与随机Clifford门的组合）。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何高效模拟量子算法对随机群元素的查询，并记录算法学习到的信息？\n- 核心方法：提出一种通用的路径记录预言机，基于群表示论的交换子概念，在叠加态中存储和更新输入-输出对，实现对任意闭子群的惰性采样。\n- 主要结果：构建了可解释的压缩预言机，并利用群之间的比较（如S_N与U(N)）给出了伪随机酉变换的新构造（PC构造）。\n- 与量子精密测量/量子计算的关系：该工作主要属于量子算法与密码学理论，与量子精密测量（如量子Fisher信息、自旋压缩、原子干涉仪）和量子计算硬件（如Rydberg原子、离子阱、中性原子）无直接关联。它涉及量子计算中的伪随机性，但并非针对传感、计量或量子门实现。\n- 是否值得精读：对于专注于量子精密测量和实验平台的研究者，相关性较低，不建议精读。\n- 对我研究的可能启发：无直接启发，除非研究涉及量子算法的安全性和伪随机性证明。",
+  "english_digest": "## English Guide\n- Problem: How to efficiently simulate quantum algorithms querying random group elements and record the learned information?\n- Method: A general-purpose path-recording oracle based on group representation theory (commutant of tensor power representation), enabling on-the-fly lazy sampling for any closed subgroup of U(N).\n- Main result: An interpretable compressed oracle, with a new construction of pseudorandom unitaries (PC construction) by comparing S_N and U(N).\n- Relevance: This work is primarily in quantum algorithms and cryptography, with no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing, atom interferometry) or experimental quantum computing platforms (Rydberg atoms, trapped ions, neutral atoms). It addresses pseudorandomness in quantum computation but not sensing, metrology, or gate implementation.\n- Reading priority: Low for researchers focused on quantum metrology and experimental quantum sensing/computing.\n- Possible inspiration: Minimal, unless one is working on security proofs or pseudorandomness in quantum algorithms.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30281v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30281v1",
+  "local_pdf_path": ""
+}

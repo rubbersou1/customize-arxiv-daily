@@ -1,0 +1,22 @@
+{
+  "title": "Modeling and Analysis of Phase Instability in Photonic Processor",
+  "arXiv_id": "2606.25196v1",
+  "abstract": "Achieving both reconfigurability and stable output signals is a critical challenge in the development of integrated photonic circuits for large-scale optical quantum information processing. This has led to the creation of multimode photonic processors, also known as reconfigurable multimode interferometers, which have wide-ranging applications in quantum and classical information processing. However, maintaining phase stability in multi-port input signals remains a significant hurdle, particularly due to the phase instabilities introduced by active cooling systems and temperature drifts in the photonic processor. In this study, we propose theoretical models to simulate phase instability in photonic processors and validate them against experimental results. Two distinct modeling approaches were employed: a Brownian random walk and phase reconstruction based on experimentally observed oscillating harmonics. Additionally, we verified and applied our model to a specific application for input phase correction using self-feedback control within the photonic processor.",
+  "authors": [
+    "Gökhan Elmas",
+    "Igor Litvin",
+    "Paul Kohl",
+    "Janis Nötzel"
+  ],
+  "categories": [
+    "physics.optics",
+    "quant-ph"
+  ],
+  "summary": "该论文研究了光子处理器中的相位不稳定性问题，提出了两种理论模型（布朗随机游走和基于实验观测的谐波振荡相位重构）来模拟相位不稳定性，并通过实验验证了模型的有效性。此外，论文还展示了将模型应用于光子处理器内基于自反馈控制的输入相位校正。",
+  "chinese_digest": "## 中文导读\n- 研究问题：光子处理器中因主动冷却系统和温度漂移引起的相位不稳定性建模与校正。\n- 核心方法：布朗随机游走模型和基于实验观测振荡谐波的相位重构模型，结合自反馈控制进行相位校正。\n- 主要结果：两种模型均能有效模拟相位不稳定性，并成功应用于输入相位校正。\n- 与量子精密测量/量子计算的关系：论文关注的是集成光子电路中的相位稳定性，这是光量子计算和量子信息处理的基础技术之一，但与量子精密测量（如量子传感、量子Fisher信息、自旋压缩）或原子物理平台（如Rydberg原子、中性原子、离子阱）无直接关联。\n- 是否值得精读：如果研究方向是集成光子量子计算或光子处理器，值得精读；但如果聚焦于原子、离子或微波传感等具体量子精密测量方向，则相关性较低。\n- 对我研究的可能启发：相位稳定性和自反馈控制方法可能对任何需要高精度相位操控的实验平台（如原子干涉仪、光晶格钟）有间接参考价值，但需要进一步转化。",
+  "english_digest": "## English Guide\n- Problem: Modeling and correction of phase instability in photonic processors caused by active cooling and temperature drifts.\n- Method: Brownian random walk model and phase reconstruction based on experimentally observed oscillating harmonics, combined with self-feedback control.\n- Main result: Both models effectively simulate phase instability and are validated experimentally for input phase correction.\n- Relevance: This work is relevant to photonic quantum computing and integrated optics, but has no direct connection to quantum precision measurement, quantum sensing, or atomic/molecular platforms (e.g., Rydberg atoms, neutral atoms, trapped ions, spin squeezing, Fisher information). It does not address quantum metrology protocols, sensing limits, or quantum control on typical quantum sensing platforms.\n- Reading priority: Low priority for researchers focused on quantum metrology, sensing, or atomic quantum computing. Moderate priority if working on photonic quantum processors.\n- Possible inspiration: Phase stability and feedback techniques may inspire noise mitigation strategies in atomic interferometry or optical lattice clocks, but the direct applicability is limited.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25196v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25196v1",
+  "local_pdf_path": ""
+}

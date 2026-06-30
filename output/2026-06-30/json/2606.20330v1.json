@@ -1,0 +1,23 @@
+{
+  "title": "Observation of alignment tensor effects in metastability-exchange collisions with highly polarized 3He ensembles",
+  "arXiv_id": "2606.20330v1",
+  "abstract": "Highly polarized 3He ensembles prepared by metastability-exchange optical pumping (MEOP) have been widely used in precision measurements and fundamental physics. Metastability-exchange (ME) collisions, serving as the basis of MEOP, are traditionally described in terms of atomic orientation, while the significant contributions of metastable alignment tensor at high polarization remain unexplored. In this work, we develop a linearized model under mean-field approximation to investigate alignment tensor effects in highly polarized 3He , which originate from the metastable F = 3/2 manifold and are revealed through ME-induced relaxation and frequency shift. By means of free-induction-decay (FID) measurements, a pronounced dependence on nuclear polarization is experimentally observed in the response of the ground-state-metastable hybrid 3He ensembles to the external magnetic field. Furthermore, after obtaining the characteristics of tensor-induced phenomena, we demonstrate good agreement between the experiment and the theory. This work advances the understanding of nuclear spin dynamics in highly polarized 3He using MEOP. It further provides applications in systematic error correction of high-accuracy magnetometry, as well as in optimal protocol for the generation of nuclear spin-squeezed states.",
+  "authors": [
+    "Yida Sha",
+    "Kaiwen Yi",
+    "Xingqing Jin",
+    "Matteo Fadel",
+    "Xiang Peng"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "本文研究了高度极化的3He原子系综中，亚稳态交换碰撞导致的排列张量效应。通过平均场近似下的线性化模型，作者发现来自亚稳态F=3/2能级的排列张量在高度极化下对自旋动力学有显著影响，表现为ME诱导的弛豫和频移。自由感应衰减（FID）测量实验证实了核极化对外磁场响应的强烈依赖性，且理论与实验吻合。该工作不仅增进了对MEOP过程中核自旋动力学的理解，还为高精度磁力仪的系统误差校正和核自旋压缩态生成提供了优化方案。",
+  "chinese_digest": "## 中文导读\n- 研究问题：高度极化3He系综中，亚稳态交换碰撞的排列张量效应及其对精密测量的影响。\n- 核心方法：平均场近似线性化模型，结合自由感应衰减（FID）实验测量。\n- 主要结果：发现排列张量效应导致极化依赖的弛豫和频移，实验与理论一致。\n- 与量子精密测量/量子计算的关系：直接关联量子传感（高精度磁力仪）、自旋压缩态（spin squeezing）生成，以及量子控制中的系统误差校正。虽然不涉及Rydberg原子或离子阱，但自旋压缩和原子系综的量子增强测量是量子计量学的核心主题。\n- 是否值得精读：是。对从事原子系综量子传感、磁力仪、自旋压缩实验的研究者有重要参考价值。\n- 对我研究的可能启发：可借鉴其自旋动力学模型和误差校正方法，用于优化其他原子系综（如中性原子、离子阱）中的自旋压缩协议或量子传感方案。",
+  "english_digest": "## English Guide\n- Problem: Alignment tensor effects in metastability-exchange collisions of highly polarized 3He ensembles and their implications for precision measurements. \n- Method: Linearized mean-field model and free-induction-decay (FID) experiments. \n- Main result: Polarization-dependent relaxation and frequency shifts due to alignment tensor, with good theory-experiment agreement. \n- Relevance: Directly relevant to quantum sensing (high-accuracy magnetometry), spin squeezing generation, and systematic error correction in quantum control. Although not about Rydberg atoms or trapped ions, the topic of spin squeezing and ensemble-based quantum metrology is central to the user's interests. \n- Reading priority: High. Recommended for researchers working on atomic ensemble quantum sensors, magnetometry, and spin squeezing. \n- Possible inspiration: The spin dynamics model and error correction strategies could be adapted for spin squeezing protocols in other platforms (e.g., neutral atoms, trapped ions) or for improving quantum sensor performance.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.20330v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.20330v1",
+  "local_pdf_path": ""
+}

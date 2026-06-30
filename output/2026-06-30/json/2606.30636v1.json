@@ -1,0 +1,22 @@
+{
+  "title": "Authentication in Quantum Networks",
+  "arXiv_id": "2606.30636v1",
+  "abstract": "In this review, we survey the cryptographic task of authentication from the perspective of quantum communication. We review three main flavours of authentication that are often conflated in the literature: authentication of classical messages, authentication of quantum messages, and entity authentication, also covering recent hardware-assisted approaches. We compare representative protocols for each functionality in terms of their security assumptions, set-up requirements, composability, and scalability in large or dynamic networks, and use these criteria to identify and recommend suitable candidates. Finally, applications are surveyed: we provide a detailed case study of authentication and quantum key distribution (QKD), then extend the discussion to protocols beyond QKD, where the role of authentication is more complex. Our take-home message is that an authentication requirement is not an intrinsic limitation of quantum networks: as with all secure communication, each protocol relies on a particular authentication resource, and the security claim of that protocol is meaningful only once the authentication resource and its deployment assumptions are made explicit. At the same time, the existing classical and quantum literature already offers a range of quantum-secure authentication schemes, which can support different applications when carefully matched to the required functionality, assumptions, and security guarantees.",
+  "authors": [
+    "Christopher Battarbee",
+    "Suchetana Goswami",
+    "Elham Kashefi",
+    "Mina Doosti"
+  ],
+  "categories": [
+    "quant-ph",
+    "cs.CR"
+  ],
+  "summary": "这篇综述论文系统性地调查了量子网络中的认证问题，涵盖了三种主要的认证类型：经典消息认证、量子消息认证和实体认证，并讨论了基于硬件的辅助方法。文章比较了代表性协议的安全性假设、设置要求、可组合性以及在大型或动态网络中的可扩展性，并通过量子密钥分发（QKD）及其他协议的案例研究，强调了认证资源在量子网络安全中的关键作用。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在量子网络中实现安全可靠的认证，包括经典消息、量子消息和实体认证。\n- 核心方法：综述比较不同认证协议（如基于对称密钥、公钥、量子纠缠等）的安全假设、设置要求和可组合性。\n- 主要结果：认证并非量子网络的内在限制，而是依赖于明确的认证资源；现有方案可支持多种应用场景。\n- 与量子精密测量/量子计算的关系：该论文主要聚焦于量子通信安全和网络协议，与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子量子计算、离子阱、Fisher信息等方向没有直接技术或应用关联。\n- 是否值得精读：对于从事量子网络或量子密码学的研究者有价值；对于量子精密测量和量子计算实验或理论研究者，相关性较低。\n- 对我研究的可能启发：如果研究方向涉及分布式量子传感网络或多节点量子计算中的安全认证，可能提供背景参考；但当前兴趣点集中在精密测量和计算本身，因此启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to achieve secure authentication in quantum networks, including classical message, quantum message, and entity authentication.\n- Method: A comparative review of representative protocols, analyzing security assumptions, setup requirements, composability, and scalability. Case studies on QKD and beyond are provided.\n- Main result: Authentication is not an intrinsic limitation of quantum networks; it relies on explicit authentication resources. Various quantum-secure schemes exist for different applications.\n- Relevance: This paper is focused on quantum communication security and network protocols, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or related experimental/theoretical topics. Relevance score is low.\n- Reading priority: Low for researchers in quantum metrology, sensing, or computing; high for those in quantum cryptography or network security.\n- Possible inspiration: If one is interested in secure distributed quantum sensing or multi-node quantum computing, the authentication framework may provide background, but overall inspiration for the stated interests is limited.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30636v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30636v1",
+  "local_pdf_path": ""
+}

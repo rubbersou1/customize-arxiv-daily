@@ -1,0 +1,33 @@
+{
+  "title": "Doppler-shifted X-ray Spectroscopy of Nonradiative Electron Capture in Relativistic Collisions of Xe54+ Ions with Kr and Xe Atoms",
+  "arXiv_id": "2606.16136v1",
+  "abstract": "We present an angular-resolved Doppler spectroscopy study of nonradiative electron capture in relativistic collisions of bare Xe54+ ions with Kr and Xe gas targets at the HIRFL-CSR storage ring. The energy spectra and angular distributions of X-rays emitted from fast-moving down-charged projectiles were measured at five observation angles of 35°, 60°, 90°, 120°, and 145° and three collision energies of 95, 146, and 197 MeV/u by employing the effect of Doppler shift. The transition intensities of Xe53+ ions with small energy differences were precisely determined. In symmetric Xe54+ \\to Xe collisions, the transition intensities of Xe53+ and Xe52+ ions were identified when X-rays emitted by projectiles overlapped with K X-rays arising from target ionization. The anisotropy parameters of the K{α_1}(+M2) transition were derived from the angular emission patterns of the corresponding spectral lines. The relative populations of the L, M, and N-shell excited levels of Xe53+ and Xe52+ were further deduced from the intensity ratios of I(Ly-β)/I(Ly-α), I(Ly-γ)/I(Ly-α), and I(Kα)/I(Ly-α). The energy dependence of the population of excited projectile levels was obtained for both targets. Furthermore, the experimental results were compared with theoretical calculations of nonradiative single- and double-electron capture based on the relativistic eikonal approximation and the independent-electron approximation. These findings provide valuable insights into the magnetic-sublevel population and n-resolved state-selective population of excited states produced in relativistic collisions of highly charged heavy ions with multi-electron atoms.",
+  "authors": [
+    "Bian Yang",
+    "Deyang Yu",
+    "Konstantin N. Lyashchenko",
+    "Caojie Shao",
+    "Zhongwen Wu",
+    "Mingwu Zhang",
+    "Oleg Yu. Andreev",
+    "Junliang Liu",
+    "Zhangyong Song",
+    "Yingli Xue",
+    "Wei Wang",
+    "Fangfang Ruan",
+    "Yehong Wu",
+    "Rongchun Lu",
+    "Chenzhong Dong",
+    "Xiaohong Cai"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "本文报道了在HIRFL-CSR存储环中，裸Xe54+离子与Kr和Xe气体靶在相对论性碰撞中非辐射电子俘获的角分辨多普勒光谱研究。通过测量95、146和197 MeV/u碰撞能量下35°、60°、90°、120°和145°五个观测角度的X射线能谱和角分布，利用多普勒效应精确测定了Xe53+离子中能量差异很小的跃迁强度。在对称的Xe54+→Xe碰撞中，当抛射体发射的X射线与靶电离产生的K X射线重叠时，识别了Xe53+和Xe52+离子的跃迁强度。推导了Kα1(+M2)跃迁的各向异性参数，并从I(Ly-β)/I(Ly-α)、I(Ly-γ)/I(Ly-α)和I(Kα)/I(Ly-α)强度比推断出Xe53+和Xe52+的L、M和N壳层激发态的相对布居。获得了两种靶的激发态布居的能量依赖性。实验结果与基于相对论性eikonal近似和独立电子近似的非辐射单电子和双电子俘获的理论计算进行了比较。这些发现为高电荷重离子与多电子原子相对论性碰撞中产生的激发态磁子能级布居和n分辨态选择性布居提供了宝贵见解。",
+  "chinese_digest": "## 中文导读\n- 研究问题：相对论性高电荷重离子碰撞中非辐射电子俘获的X射线光谱和角分布特性。\n- 核心方法：利用多普勒效应进行角分辨X射线光谱测量，结合相对论性eikonal近似和独立电子近似进行理论计算。\n- 主要结果：精确测定了Xe53+和Xe52+离子的跃迁强度、各向异性参数和激发态相对布居，并获得了能量依赖性。\n- 与量子精密测量/量子计算的关系：相关性较低。该研究属于原子物理和重离子碰撞领域，不直接涉及量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等核心主题。文中提到的多普勒光谱技术虽与精密测量有关，但应用场景（高能离子碰撞）与日常关注的量子度量学（如原子钟、干涉仪）差异较大。\n- 是否值得精读：不推荐精读。除非对高能原子物理或重离子碰撞有特殊兴趣。\n- 对我研究的可能启发：无直接启发。但多普勒效应用于精密光谱测量的方法学思路可能间接借鉴，不过与您的核心研究方向关联度极低。",
+  "english_digest": "## English Guide\n- Problem: X-ray spectroscopy and angular distribution of nonradiative electron capture in relativistic collisions of highly charged heavy ions. \n- Method: Angular-resolved Doppler spectroscopy at five observation angles and three collision energies, compared with relativistic eikonal and independent-electron approximations. \n- Main result: Precise determination of transition intensities, anisotropy parameters, and relative populations of excited states for Xe53+ and Xe52+ ions; energy dependence of level populations. \n- Relevance: Low relevance (2/10). This paper focuses on relativistic heavy-ion collision physics, not on quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or related topics. The Doppler spectroscopy technique is a precision measurement tool, but the context (high-energy ion collisions) is far removed from the user's interest in quantum precision measurement and quantum computing platforms (e.g., atomic clocks, atom interferometry, Rydberg systems). \n- Reading priority: Low. Not recommended for detailed reading unless one has a specific interest in high-energy atomic physics. \n- Possible inspiration: Minimal. The use of Doppler shift for angular-resolved spectroscopy could be a methodological curiosity, but it does not align with the user's research focus on quantum sensing, metrology, or quantum computation.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.16136v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.16136v1",
+  "local_pdf_path": ""
+}

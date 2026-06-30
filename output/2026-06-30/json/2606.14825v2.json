@@ -1,0 +1,25 @@
+{
+  "title": "Experimental realization of the complete seven-phase Anderson-localization landscape",
+  "arXiv_id": "2606.14825v2",
+  "abstract": "Anderson localization has evolved far beyond the conventional dichotomy between extended and localized states. Modern localization theory predicts a complete transport hierarchy comprising extended, critical, and localized phases together with all coexistence phases among them, forming a seven-phase Anderson-localization landscape. Despite its fundamental importance, this hierarchy has never been experimentally realized within a single system. Here we realize the complete seven-phase Anderson-localization landscape in a one-dimensional Floquet photonic lattice. By engineering quasiperiodic hopping profiles containing inhomogeneously distributed hopping zeros, we generate critical states and enable their coexistence with extended and localized sectors. The resulting transport regimes are directly resolved through their distinct spatiotemporal dynamics, including ballistic expansion, confined critical oscillations, and persistent localization. We observe all seven phases, including the elusive triply coexisting extended-critical-localized phase, and experimentally track the phase transitions connecting them. Our results establish the first complete experimental map of the Anderson-localization landscape and provide a unified platform for investigating mobility edges, multifractality, and programmable coherent transport.",
+  "authors": [
+    "Yao Qin",
+    "Chao Yang",
+    "Yuzhe Zhang",
+    "Yucheng Wang",
+    "Jingyun Fan"
+  ],
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.quant-gas",
+    "physics.optics",
+    "quant-ph"
+  ],
+  "summary": "该论文在实验上实现了一维Floquet光子晶格中完整的七相安德森局域化景观，包括扩展相、临界相、局域相及其所有共存相。通过工程化准周期跳跃轮廓（含非均匀分布的跳跃零点），作者生成了临界态并使其与扩展态和局域态共存。实验直接观测了所有七种相，包括难以捉摸的扩展-临界-局域三相共存态，并追踪了连接这些相的相变过程。该工作建立了安德森局域化景观的首个完整实验图谱，并为研究迁移率边、多分形性和可编程相干输运提供了统一平台。",
+  "chinese_digest": "## 中文导读\n- 研究问题：在单个系统中实验实现完整的七相安德森局域化景观（扩展、临界、局域及其共存相）。\n- 核心方法：在一维Floquet光子晶格中工程化准周期跳跃轮廓，通过引入非均匀分布的跳跃零点生成临界态。\n- 主要结果：首次实验观测到所有七种局域化相，包括扩展-临界-局域三相共存态，并解析了相变过程。\n- 与量子精密测量/量子计算的关系：该工作主要关注安德森局域化基础物理，未涉及量子计量学、量子传感或量子计算中的典型概念（如量子Fisher信息、自旋压缩、Rydberg原子、离子阱、原子钟、量子门等）。其光子晶格平台与中性原子、囚禁离子等量子计算平台无直接关联。\n- 是否值得精读：对于专注于安德森局域化或光子晶格输运的研究者值得精读；但对于量子精密测量和量子计算方向，相关性较低，不建议作为重点。\n- 对我研究的可能启发：该工作中对相干输运的调控策略（如工程化跳跃零点）可能间接启发量子控制中的噪声管理或量子模拟中的局域化设计，但直接关联有限。",
+  "english_digest": "## English Guide\n- Problem: Experimental realization of the complete seven-phase Anderson-localization landscape (extended, critical, localized, and all their coexistence phases) in a single system.\n- Method: Engineering quasiperiodic hopping profiles with inhomogeneously distributed hopping zeros in a one-dimensional Floquet photonic lattice to generate critical states.\n- Main result: First experimental observation of all seven localization phases, including the elusive extended-critical-localized triply coexisting phase, and direct tracking of phase transitions.\n- Relevance: This work is primarily about Anderson localization in photonic lattices, with no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, atomic clocks, or Fisher information. The photonic platform differs fundamentally from the atomic, ionic, or superconducting platforms used in quantum sensing and computing.\n- Reading priority: Low for researchers in quantum precision measurement and quantum computing. High for those interested in Anderson localization or photonic lattice transport.\n- Possible inspiration: The approach of engineering hopping zeros to control coherent transport might offer indirect insights into noise management or localization design in quantum control, but the direct applicability to quantum metrology or computing is minimal.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.14825v2",
+  "arxiv_url": "http://arxiv.org/abs/2606.14825v2",
+  "local_pdf_path": ""
+}

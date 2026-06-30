@@ -1,0 +1,28 @@
+{
+  "title": "Quantum tidal locking in orbiting Bose-Einstein condensates",
+  "arXiv_id": "2606.11919v1",
+  "abstract": "Angular momentum coupling manifests widely in diverse physical systems, underpinning the emergent properties and collective dynamics across different scales. The tidal locking, which originates from the synchronization of rotational and orbital motions, has far-reaching impacts in celestial mechanics, reflecting fundamental processes of angular momentum transfer, energy dissipation, and evolution toward dynamical equilibrium. However, its counterpart in mesoscopic quantum fluids has remained largely unexplored. Here we demonstrate the emergence of quantum tidal locking in Bose-Einstein condensates undergoing central force motion in an anharmonic potential. The condensate follows a well-defined orbital trajectory in a static trap and experiences an effective rotating potential induced by the trap anharmonicity. The sustained geometric squeezing continuously deforms the condensate and drives a self-organized synchronization process, in which the intrinsic rotation gradually locks to the orbital motion. Numerical simulations further reveal the formation of a ring-shaped vortex array over longer timescales, arising from the coherent evolution of the rotating matter wave during the locking dynamics. Our findings establish quantum tidal locking in mesoscopic systems as a robust self-organized mechanism for generating and stabilizing circulating states.",
+  "authors": [
+    "Yaoyuan Fan",
+    "Shuoyu Shi",
+    "Lang Cao",
+    "Ziyue He",
+    "Qiuxin Zhang",
+    "Dong Hu",
+    "Yu Wang",
+    "Qing Wang",
+    "Tianwei Zhou",
+    "Xiaoji Zhou"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "physics.atom-ph"
+  ],
+  "summary": "该论文研究了一种在轨道运动的玻色-爱因斯坦凝聚体（BEC）中出现的量子潮汐锁定现象。在非简谐势阱中，BEC沿轨道运动时，势阱的非简谐性会产生等效旋转势，持续地几何挤压凝聚体，驱动其内禀旋转逐渐与轨道运动同步，形成自组织锁定。数值模拟还显示，在更长时间尺度上，锁定动力学过程中旋转物质波的相干演化会形成环形涡旋阵列。这项工作揭示了介观量子系统中一种稳健的自组织机制，用于产生和稳定循环态。",
+  "chinese_digest": "## 中文导读\n- 研究问题：介观量子系统（BEC）中是否会出现类似天体力学中的潮汐锁定现象？\n- 核心方法：通过数值模拟研究非简谐势阱中沿轨道运动的BEC的动力学，分析其角动量耦合与自组织同步过程。\n- 主要结果：观察到量子潮汐锁定，BEC内禀旋转与轨道运动同步，并形成环形涡旋阵列。\n- 与量子精密测量/量子计算的关系：该工作主要关注基础量子多体动力学和自组织现象，未直接涉及量子计量学（如Fisher信息、自旋压缩）、量子传感或量子计算平台（如里德伯原子、离子阱、中性原子量子计算）。虽然BEC可用于精密测量（如原子干涉仪），但本文重心在基础物理，而非测量协议或性能极限。\n- 是否值得精读：若研究方向为BEC动力学、涡旋物理或量子流体，则值得精读；若聚焦于量子计量、量子传感或量子计算，则相关性较低。\n- 对我研究的可能启发：本文展示的几何压缩和自组织同步机制，可能为量子传感中制备压缩态或纠缠态提供新思路，但需进一步探索其与量子Fisher信息或自旋压缩的直接联系。",
+  "english_digest": "## English Guide\n- Problem: Can a tidal locking phenomenon, analogous to celestial mechanics, emerge in a mesoscopic quantum system (BEC)?\n- Method: Numerical simulations of a BEC orbiting in an anharmonic trap, analyzing angular momentum coupling and self-organized synchronization. \n- Main result: Observation of quantum tidal locking, where the BEC's intrinsic rotation synchronizes with its orbital motion, leading to the formation of a ring-shaped vortex array. \n- Relevance: This work focuses on fundamental quantum many-body dynamics and self-organization, with no direct connection to quantum metrology (e.g., Fisher information, spin squeezing), quantum sensing, or quantum computing platforms (e.g., Rydberg atoms, trapped ions, neutral-atom quantum computing). While BECs are used in atom interferometry for precision measurement, the paper's emphasis is on basic physics rather than measurement protocols or performance limits. \n- Reading priority: Low priority for researchers focused on quantum metrology, sensing, or computing; moderate priority for those studying BEC dynamics, vortices, or quantum fluids. \n- Possible inspiration: The geometric squeezing and self-organized synchronization demonstrated here could inspire new methods for generating squeezed or entangled states in quantum sensing, but the direct link to quantum Fisher information or spin squeezing is not established in this paper.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.11919v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.11919v1",
+  "local_pdf_path": ""
+}

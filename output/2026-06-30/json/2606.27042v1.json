@@ -1,0 +1,26 @@
+{
+  "title": "Low Complexity Kolmogorov-Arnold Network-based DPD for Analog RoF Fronthaul",
+  "arXiv_id": "2606.27042v1",
+  "abstract": "This paper proposes and demonstrates experimentally for the first time a Kolmogorov-Arnold Network (KAN)-based digital predistortion (DPD) model, named envelope time-delay KAN (ETDKAN), for mitigating nonlinear distortions in analog radio-over-fiber (A-RoF) systems. The ETDKAN model incorporates physical constraints of radio-frequency (RF) nonlinear devices and, through KAN symbolization, achieves a significant reduction in computational complexity while improving interpretability. The proposed model is numerically implemented and optimized alongside multilayer perceptron (MLP) and memory-polynomial-based DPDs. Results show that the resulting symbolic ETDKAN (symbETDKAN) attains ACLR and EVM performance comparable to neural network-based models, while maintaining a computational complexity close to that of memory polynomials. Experimental validation using an A-RoF system confirms the practical feasibility of the proposed approach, which resulted in a 4-5 dB reduction in ACLR in the analyzed scenario.",
+  "authors": [
+    "Carlos Daniel Fontes da Silva",
+    "Tianyu Jiang",
+    "Lu Zhang",
+    "Vjaceslavs Bobrovs",
+    "Xianbin Yu",
+    "Xiaodan Pang",
+    "Oskars Ozolins",
+    "Edson Porto da Silva"
+  ],
+  "categories": [
+    "eess.SP",
+    "physics.optics"
+  ],
+  "summary": "这篇论文提出并实验验证了一种基于Kolmogorov-Arnold网络（KAN）的数字预失真（DPD）模型，名为包络时延KAN（ETDKAN），用于减轻模拟光载射频（A-RoF）系统中的非线性失真。该模型通过引入射频非线性器件的物理约束，并利用KAN符号化，在提高可解释性的同时显著降低了计算复杂度。实验结果表明，符号化ETDKAN（symbETDKAN）在相邻信道泄漏比（ACLR）和误差矢量幅度（EVM）方面达到了与神经网络模型相当的性能，而计算复杂度接近传统记忆多项式方法。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何高效地减轻模拟光载射频前传中的非线性失真？\n- 核心方法：提出基于Kolmogorov-Arnold网络（KAN）的数字预失真模型（ETDKAN），结合射频非线性器件的物理约束，并通过符号化降低复杂度。\n- 主要结果：在A-RoF系统中，符号化ETDKAN模型实现了与神经网络模型相当的ACLR和EVM性能，同时计算复杂度接近记忆多项式方法。\n- 与量子精密测量/量子计算的关系：该论文完全聚焦于光通信系统中的非线性失真补偿，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无任何直接或间接关联。\n- 是否值得精读：不值得精读。\n- 对我研究的可能启发：无启发，建议忽略。",
+  "english_digest": "## English Guide\n- Problem: How to efficiently mitigate nonlinear distortions in analog radio-over-fiber (A-RoF) fronthaul?\n- Method: Proposes a Kolmogorov-Arnold Network (KAN)-based digital predistortion (DPD) model (ETDKAN) that incorporates physical constraints of RF nonlinear devices and uses symbolic representation to reduce complexity.\n- Main result: The symbolic ETDKAN achieves comparable ACLR and EVM to neural network models while maintaining computational complexity close to memory polynomials.\n- Relevance: This paper is entirely focused on optical communication systems and nonlinear distortion compensation. It has no direct or indirect connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or any related topics.\n- Reading priority: Not recommended.\n- Possible inspiration: None; this paper is outside the scope of interest.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27042v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27042v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Quantitative analysis of resonant ionization by smooth laser pulses: Connection between effective Hamiltonian theory and strong-field dressed continua",
+  "arXiv_id": "2606.21526v1",
+  "abstract": "Resonant photoionization in the intense high-frequency regime can exhibit extremely asymmetric Autler-Townes doublets whose origin remains debated. It has been attributed either to interference between perturbative ionization pathways or to a non-perturbative dressing of the continuum. Here we show that these interpretations arise from a common effective Hamiltonian framework, in which dressed-state stabilization is governed by the coherent interplay of resonant and nonresonant pathways. We demonstrate that further simplification, using the strong-field approximation, obscures this mechanism. In contrast, our time-dependent essential-state model, where electrons are rigorously coupled to the continuum, achieves excellent agreement with ab initio simulations of the time-dependent Schrödinger equation for helium.",
+  "authors": [
+    "Jakob Nicolai Bruhnke",
+    "Jan Marcus Dahlström"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "本文对强激光场中共振光电离的定量分析进行了研究，重点关注了非对称Autler-Townes双峰的起源。作者通过有效哈密顿量理论框架，证明了该现象可归因于共振与非共振路径之间的相干相互作用，并指出强场近似会掩盖这一机制。他们提出的时间依赖基本态模型，将电子严格耦合到连续态，与氦原子的含时薛定谔方程从头算模拟结果高度一致。",
+  "chinese_digest": "## 中文导读\n- 研究问题：强激光场中共振光电离的非对称Autler-Townes双峰的起源机制。\n- 核心方法：有效哈密顿量理论框架与时间依赖基本态模型，并与从头算模拟对比。\n- 主要结果：揭示了双峰源于共振与非共振路径的相干相互作用，强场近似会丢失该机制；所建模型与模拟结果吻合。\n- 与量子精密测量/量子计算的关系：本文主要研究强场原子物理中的光电离过程，与量子精密测量（如量子传感、量子Fisher信息、自旋压缩）、量子计算（如中性原子量子计算、离子阱、量子门）以及Rydberg原子、腔QED、光镊、原子钟等方向无直接关联。论文不涉及量子计量学、量子控制、误差缓解或量子传感性能极限等主题。\n- 是否值得精读：对于专注于强场物理或光电离的研究者有价值，但对本领域（量子精密测量与量子计算）参考意义有限。\n- 对我研究的可能启发：本文的相干路径干涉分析方法可能启发对量子传感中类似干涉效应的理解，但需要进一步转化。",
+  "english_digest": "## English Guide\n- Problem: Origin of asymmetric Autler-Townes doublets in resonant photoionization by intense laser pulses.\n- Method: Effective Hamiltonian framework and time-dependent essential-state model coupled to continuum, compared with ab initio simulations.\n- Main result: The asymmetry arises from coherent interplay of resonant and nonresonant pathways; strong-field approximation obscures this mechanism; the model agrees with simulations.\n- Relevance: This paper focuses on strong-field atomic physics and photoionization, which is not directly related to quantum precision measurement (e.g., quantum metrology, quantum sensing, Fisher information, spin squeezing) or quantum computing (e.g., neutral-atom quantum computing, trapped ions, quantum gates). It does not address Rydberg atoms, cavity QED, optical tweezers, atomic clocks, or quantum control. Relevance to the specified research areas is low.\n- Reading priority: Low for researchers in quantum metrology and quantum computing; may be relevant for those in strong-field physics.\n- Possible inspiration: The analysis of coherent path interference could be conceptually extended to quantum sensing systems involving interference, but requires significant adaptation.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.21526v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.21526v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Gradient-based inverse lithography for EUV masks via the waveguide method and a physics-informed neural operator",
+  "arXiv_id": "2606.25753v1",
+  "abstract": "Gradient-based inverse lithography technology~(ILT) for extreme ultraviolet~(EUV) masks is presented. A novel framework treats the differentiable waveguide method and the recently proposed waveguide neural operator~(WGNO) as end-to-end physics engines, recovering the permittivity of the absorber of the mask through automatic differentiation of the full forward diffraction model. Numerical experiments on realistic 2D and 3D absorbers of the mask (TaBN, La, U) at $λ{=}11.2$~nm show that the considered ILT methods make it possible to obtain a mask structure that achieves the desired field on the wafer.",
+  "authors": [
+    "Vasiliy A. Es'kin",
+    "Egor V. Ivanov"
+  ],
+  "categories": [
+    "cs.LG",
+    "cs.AI",
+    "math.OC",
+    "physics.comp-ph",
+    "physics.optics"
+  ],
+  "summary": "该论文提出了一种基于梯度的逆向光刻技术（ILT），用于极紫外（EUV）光刻掩模的优化。通过将可微分的波导方法和最近提出的波导神经算子（WGNO）作为端到端的物理引擎，利用全前向衍射模型的自动微分来恢复掩模吸收体的介电常数。在二维和三维实际掩模吸收体（TaBN, La, U）上的数值实验表明，该方法能够获得实现晶圆上期望光场的掩模结构。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何优化EUV光刻掩模的结构以实现晶圆上的目标光场？\n- 核心方法：基于梯度的逆向光刻技术，结合可微分波导方法和波导神经算子（WGNO）作为物理引擎，通过自动微分优化掩模吸收体的介电常数。\n- 主要结果：在2D和3D掩模（TaBN, La, U）上成功实现了目标光场，验证了方法的有效性。\n- 与量子精密测量/量子计算的关系：该论文属于计算光学和光刻领域，与量子精密测量（如量子传感、量子Fisher信息、自旋压缩）或量子计算（如中性原子、离子阱、Rydberg原子）无直接关联。其方法涉及物理模型和神经网络，但未应用于量子系统或量子度量学问题。\n- 是否值得精读：对于量子精密测量和量子计算研究者，不值得精读。\n- 对我研究的可能启发：无直接启发，但可微分物理引擎和神经算子的框架可能间接用于其他物理系统的优化，如量子控制或量子门设计。",
+  "english_digest": "## English Guide\n- Problem: How to optimize the structure of EUV lithography masks to achieve the desired field on the wafer?\n- Method: Gradient-based inverse lithography using differentiable waveguide method and waveguide neural operator (WGNO) as physics engines, optimizing the permittivity of the mask absorber via automatic differentiation.\n- Main result: Successful demonstration on 2D and 3D masks (TaBN, La, U) to achieve target optical fields.\n- Relevance: This paper belongs to computational optics and lithography, with no direct connection to quantum precision measurement (e.g., quantum sensing, quantum Fisher information, spin squeezing) or quantum computing (e.g., neutral atoms, trapped ions, Rydberg atoms). The methods involve physical models and neural networks but are not applied to quantum systems or metrology.\n- Reading priority: Not recommended for researchers in quantum metrology or quantum computing.\n- Possible inspiration: No direct inspiration, but the framework of differentiable physics engines and neural operators could be indirectly applied to optimization problems in quantum control or quantum gate design.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25753v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25753v1",
+  "local_pdf_path": ""
+}

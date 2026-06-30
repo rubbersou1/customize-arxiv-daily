@@ -1,0 +1,28 @@
+{
+  "title": "Laboratory characterization of a multi-photonic lantern optical waveguide using off-axis holography",
+  "arXiv_id": "2606.27590v1",
+  "abstract": "Photonic lanterns (PLs) are waveguides that convert multi-mode input light to single-mode outputs. Wavefront sensing (WFS) and spectroscopy using a PL have been demonstrated, but PL simulations and experiments show significant mismatches. For the WaveDriver project, a proposed Habitable Worlds Observatory pathfinder that uses a PL for WFS as well as for integral field spectroscopy, we manufactured an optical waveguide consisting of an array of seven 19-port PLs in one device. We present laboratory characterization of the individual PLs, consisting of measurements of the principal modes at each PL input using digital off-axis holography. We compare our mode measurements to simulations to assess the variation in the PL manufacturing process. We discuss expected WFS performance in the WaveDriver configuration.",
+  "authors": [
+    "Aditya R. Sengupta",
+    "Benjamin L. Gerard",
+    "Dominic Sanchez",
+    "Matthew DeMartino",
+    "Rebecca Jensen-Clem",
+    "Kevin Bundy",
+    "Michael J. Messerly",
+    "Paul Pax",
+    "Daren Dillon",
+    "Eric Strang"
+  ],
+  "categories": [
+    "astro-ph.IM",
+    "physics.optics"
+  ],
+  "summary": "这篇论文介绍了一种多光子灯笼（PL）波导的实验室表征，该波导由七个19端口PL阵列组成，用于WaveDriver项目（一种拟议的宜居世界天文台探路者）。研究使用数字离轴全息术测量了每个PL输入端口的主模式，并与模拟结果对比以评估制造工艺的差异，讨论了该波导在波前传感和积分场光谱学中的性能。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何表征一种用于天文波前传感和光谱学的多光子灯笼波导？\n- 核心方法：使用数字离轴全息术测量PL输入端口的主模式，并与模拟对比。\n- 主要结果：实验与模拟存在显著不匹配，制造工艺变异影响了模式分布。\n- 与量子精密测量/量子计算的关系：该论文属于天文光学和波导技术领域，未涉及量子精密测量（如量子Fisher信息、自旋压缩）、量子传感（如里德伯原子、中性原子、离子阱）或量子计算（如量子门、纠错）的核心概念或实验平台。论文主题与量子方向无直接关联。\n- 是否值得精读：不值得。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to characterize a multi-photonic lantern waveguide for astronomical wavefront sensing and spectroscopy?\n- Method: Digital off-axis holography was used to measure principal modes at each PL input, compared with simulations.\n- Main result: Significant mismatches between experiment and simulation were found, attributed to manufacturing variations.\n- Relevance: This paper is in astronomical optics and waveguide technology, with no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing), quantum sensing (e.g., Rydberg atoms, neutral atoms, trapped ions), or quantum computing (e.g., quantum gates, error mitigation). The topic is outside the specified research interests.\n- Reading priority: Low.\n- Possible inspiration: None for quantum sensing/metrology/computing.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27590v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27590v1",
+  "local_pdf_path": ""
+}

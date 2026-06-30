@@ -1,0 +1,22 @@
+{
+  "title": "Size Effects in the Strong-Field Ionization and Dissociation Dynamics of (H$_2$O)$_n$ (n=1-4)",
+  "arXiv_id": "2606.30331v1",
+  "abstract": "The size-dependent strong-field ionization and dissociation dynamics of (H$_2$O)$_n$ (n=1-4) are investigated using real-time time-dependent density functional theory (RT-TDDFT) coupled to Ehrenfest molecular dynamics under a common few-cycle near-infrared laser pulse. It is found that the net ionization per monomer varies only weakly on cluster size, whereas the protonic and oxygen response is changed much more strongly once the cluster size grows beyond the dimer. In particular, H-ejection activity is observed to rise sharply from the dimer to the trimer/tetramer regime, while stable H-transfer is essentially absent in the dimer under the present criterion but becomes substantial in the trimer and is further amplified in the tetramer. Through timing analyses, it is shown that the dimer exhibits a weak and temporally broad response, whereas the larger clusters display a much stronger early-time protonic response concentrated within and immediately after the laser pulse window. By endpoint oxygen statistics, a systematic increase in dissociation propensity with cluster size is likewise shown. For a clean subset of direct two-body dimer breakup trajectories, the asymptotic kinetic energy release is estimated to be 4.47 $\\pm$ 1.03 eV, in reasonably good agreement with the experimental value for the unprotonated two-body Coulomb-explosion channel. Overall, it is shown by the results that increasing water-cluster size primarily reshapes the strong-field response through proton-mediated and topology-level nuclear dynamics rather than through a large change in net ionization alone.",
+  "authors": [
+    "Chen Jiang",
+    "Cody L. Cavington",
+    "Kalman Varga"
+  ],
+  "categories": [
+    "physics.chem-ph",
+    "physics.atm-clus",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文利用实时含时密度泛函理论（RT-TDDFT）结合Ehrenfest分子动力学，研究了不同尺寸水团簇（H₂O）ₙ（n=1-4）在强场激光脉冲下的电离和解离动力学。发现单体净电离随团簇尺寸变化较弱，但质子响应和氧响应在团簇尺寸超过二聚体后显著变化。特别是，从二聚体到三聚体/四聚体，氢射出活动显著增加，而稳定氢转移在二聚体中基本不存在，在三聚体中变得显著，在四聚体中进一步增强。通过时间分析，二聚体表现出弱且时间宽化的响应，而较大团簇在激光脉冲窗口内及之后表现出更强的早期质子响应。端点氧统计显示解离倾向随团簇尺寸系统增加。对于直接二体解离轨迹，渐近动能释放估计为4.47 ± 1.03 eV，与未质子化二体库仑爆炸通道的实验值吻合较好。结果表明，增加水团簇尺寸主要通过质子介导和拓扑层面的核动力学重塑强场响应，而非仅仅通过净电离的大幅变化。",
+  "chinese_digest": "## 中文导读\n- 研究问题：水团簇尺寸如何影响其在强场激光下的电离和解离动力学。\n- 核心方法：实时含时密度泛函理论（RT-TDDFT）结合Ehrenfest分子动力学模拟。\n- 主要结果：单体净电离随尺寸变化微弱，但质子响应和氢射出活动在团簇变大时显著增强；二聚体表现出弱且时间宽化的响应，而三聚体和四聚体在激光脉冲窗口内表现出强早期质子响应。\n- 与量子精密测量/量子计算的关系：该论文研究的是水团簇的强场物理和分子动力学，与量子精密测量（如量子传感、量子Fisher信息）、量子计算（如中性原子量子计算、离子阱）、Rydberg原子、自旋压缩等方向没有直接关联。它属于原子分子物理和光物理的范畴，而非量子信息或量子计量学。\n- 是否值得精读：对于量子精密测量和量子计算领域的研究者，不值得精读。\n- 对我研究的可能启发：几乎没有直接启发。",
+  "english_digest": "## English Guide\n- Problem: How does water cluster size affect its strong-field ionization and dissociation dynamics? \n- Method: Real-time time-dependent density functional theory (RT-TDDFT) coupled with Ehrenfest molecular dynamics simulations.\n- Main result: Net ionization per monomer varies weakly with size, but protonic response and H-ejection activity increase significantly for larger clusters; the dimer shows a weak and temporally broad response, while trimers and tetramers exhibit a strong early-time protonic response within the laser pulse window.\n- Relevance: This paper focuses on strong-field molecular dynamics of water clusters and is not directly related to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It belongs to atomic and molecular physics rather than quantum information or quantum metrology.\n- Reading priority: Not recommended for researchers in quantum precision measurement and quantum computing.\n- Possible inspiration: Little to no direct inspiration for the specified research areas.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30331v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30331v1",
+  "local_pdf_path": ""
+}

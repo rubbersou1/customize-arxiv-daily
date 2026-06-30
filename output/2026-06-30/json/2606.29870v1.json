@@ -1,0 +1,24 @@
+{
+  "title": "Ultrasensitive infrared-to-visible artificial vision via self-evolving projection guided by single-pixel detection",
+  "arXiv_id": "2606.29870v1",
+  "abstract": "Infrared detection and visualization are essential for augmenting human perception across diverse fields, ranging from night vision to industrial inspection and bio-imaging. Conventional infrared cameras are often hindered by high cost, bulky architecture, and complex fabrication requirements. Upconversion sensing systems offer a pixel-free and cost-effective alternative solution by upconverting infrared photons into visible-light signals. However, existing upconversion systems suffer from limitations such as high operating voltages, low quantum efficiency, which prevent their applications in photon-starved environments. Here, we report self-evolving infrared-to-visible upconversion with single-pixel detection (SIVIS) that enables real-time upconverted visualization under photon-starved conditions by integrating self-evolving projection with single-pixel sensing. SIVIS iteratively optimizes illumination patterns with a digital micromirror device based on real-time feedback from a single-pixel infrared detector. This self-evolving process enables the autonomous reconstruction of the target's geometric profile. Simultaneously, it projects a co-modulated visible beam onto the object itself or an adjacent screen, rendering the infrared target directly perceptible to the naked eye in real-time. SIVIS achieves sensing and projection without latency under an ultra-low infrared detection limit of 0.11 photons per pixel per frame (sub-pW -cm2 level) benefited from the high sensitivity. Furthermore, we also validate SIVIS to decrypt infrared-encoded anti-counterfeiting features and visualize vascular-like structures embedded within biological tissues. This photon-feedback-driven artificial vision framework offers a scalable and adaptive solution for ultrasensitive infrared vision, opening promising avenues for night vision, biomedical imaging, and sensing under extreme low-light conditions.",
+  "authors": [
+    "Yao Wang",
+    "Baolei Liu",
+    "Muchen Zhu",
+    "Linjun Zhai",
+    "Dajing Wang",
+    "Zhaohua Yang",
+    "Fan Wang"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "本文介绍了一种基于单像素探测的自演化红外到可见光上转换人工视觉系统（SIVIS）。该系统利用数字微镜器件和单像素红外探测器，通过迭代优化照明图案，在极低光照条件下（每像素每帧0.11光子）实现实时红外图像的可视化。SIVIS能够自主重建目标几何轮廓，并将可见光投影到目标或屏幕上，使红外场景直接可见。实验验证了其在红外防伪解密和生物组织血管成像中的应用。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在极低红外光子条件下实现实时、高灵敏度的红外到可见光成像。\n- 核心方法：结合单像素探测和自演化投影，利用数字微镜器件迭代优化照明模式，通过红外单像素探测器反馈实现目标重建和可见光投影。\n- 主要结果：在0.11光子/像素/帧的超低探测极限下实现无延迟成像，并展示了红外防伪和生物组织成像应用。\n- 与量子精密测量/量子计算的关系：本文主要涉及经典光学成像和单像素探测技术，与量子精密测量（如量子Fisher信息、自旋压缩）、量子计算（如中性原子、离子阱）等方向无直接关联。虽然单像素探测可用于量子传感的读出，但本文未涉及量子噪声、纠缠或量子增强等核心概念。\n- 是否值得精读：不值得精读。该论文属于经典光学成像领域，对量子精密测量或量子计算研究帮助有限。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to achieve real-time, high-sensitivity infrared-to-visible imaging under extremely low photon conditions.\n- Method: Self-evolving projection combined with single-pixel detection using a digital micromirror device and iterative optimization based on real-time feedback from a single-pixel infrared detector.\n- Main result: Demonstrated latency-free imaging at an ultra-low detection limit of 0.11 photons per pixel per frame, with applications in infrared anti-counterfeiting and biological tissue imaging.\n- Relevance: This paper focuses on classical optical imaging and single-pixel detection, with no direct connection to quantum metrology (e.g., quantum Fisher information, spin squeezing) or quantum computing (e.g., neutral atoms, trapped ions). While single-pixel detection can be used in quantum sensing readout, the paper does not involve quantum noise, entanglement, or quantum enhancement.\n- Reading priority: Low. The paper is in classical optics and offers limited insight for quantum precision measurement or quantum computing.\n- Possible inspiration: None directly relevant.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29870v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29870v1",
+  "local_pdf_path": ""
+}

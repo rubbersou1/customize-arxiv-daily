@@ -1,0 +1,21 @@
+{
+  "title": "Self-Organized Stabilization of Straight Dark Solitons in Stripe Supersolids",
+  "arXiv_id": "2606.25687v1",
+  "abstract": "Straight dark solitons in two-dimensional (2D) quantum fluids usually decay by transverse modulational instability, with no intrinsic suppression in contact-interacting Bose--Einstein condensates (BECs). We theoretically show that anisotropic long-range interactions in a quasi-2D dipolar BEC stabilize an embedded straight soliton, with spontaneous stripe order providing stronger pinning. The excitation spectra show that the lowest transverse solitonic branch remains gapped, while stripe-supersolid density modulation further hardens this branch and increases the soliton bending stiffness, penalizing transverse deformation. Accessible in current $^{166}$Er and $^{164}$Dy platforms, these results establish interaction-driven protection for straight dark solitons in structured quantum fluids.",
+  "authors": [
+    "Koushik Mukherjee",
+    "Hiroki Saito"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "nlin.PS",
+    "physics.atom-ph"
+  ],
+  "summary": "该论文理论上展示了在准二维偶极玻色-爱因斯坦凝聚体中，通过各向异性长程相互作用稳定直线暗孤子，并发现条纹超固体中的自发条纹序提供了更强的钉扎效应，抑制了横向调制不稳定性。研究通过激发谱分析表明，最低横向孤子支保持有能隙，超固体密度调制进一步硬化该支并增加孤子弯曲刚度。该工作与当前¹⁶⁶Er和¹⁶⁴Dy实验平台兼容。",
+  "chinese_digest": "## 中文导读\n- 研究问题：二维量子流体中直线暗孤子因横向调制不稳定性而衰变的问题，以及如何利用长程相互作用和超固体条纹序实现稳定化。\n- 核心方法：理论分析准二维偶极BEC中的孤子激发谱，结合超固体条纹序的钉扎效应，计算孤子弯曲刚度和能隙。\n- 主要结果：长程相互作用和条纹超固体序共同使直线暗孤子稳定，激发谱显示横向孤子支有能隙，弯曲刚度增加。\n- 与量子精密测量/量子计算的关系：该工作主要关注量子流体中的孤子稳定性，与量子精密测量（如量子传感、Fisher信息、自旋压缩）和量子计算（如中性原子、离子阱、里德伯原子）无直接关联。孤子现象在原子干涉仪中可能影响相位测量，但本文未涉及具体测量方案或计量学性能。\n- 是否值得精读：若专注于量子流体中的拓扑缺陷动力学或超固体物理，值得精读；但若专注于量子精密测量或量子计算，相关性低。\n- 对我研究的可能启发：可能启发在原子干涉仪或量子传感中利用偶极相互作用或超固体序来抑制噪声或稳定空间模式，但需要进一步转化。",
+  "english_digest": "## English Guide\n- Problem: Stabilization of straight dark solitons in 2D quantum fluids against transverse modulation instability. \n- Method: Theoretical analysis of excitation spectra in quasi-2D dipolar BECs with stripe supersolid order, calculating soliton bending stiffness and gap. \n- Main result: Anisotropic long-range interactions and stripe supersolid order stabilize straight solitons, with gapped transverse soliton branch and increased bending stiffness. \n- Relevance: This work focuses on soliton physics in ultracold gases, not directly on quantum metrology, sensing, computing, or related topics (Rydberg atoms, spin squeezing, Fisher information, etc.). No experimental protocols or performance limits for precision measurement are discussed. \n- Reading priority: Low priority for researchers in quantum precision measurement or quantum computing; medium priority for those in ultracold quantum fluids or nonlinear dynamics. \n- Possible inspiration: Could inspire noise suppression or spatial mode control in atom interferometry using dipolar interactions or supersolid order, but requires further development.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25687v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25687v1",
+  "local_pdf_path": ""
+}

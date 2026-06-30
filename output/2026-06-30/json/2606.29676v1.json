@@ -1,0 +1,18 @@
+{
+  "title": "Low-lying $D$ states in yttrium and actinium ions highly sensitive to variation of the fine structure constant",
+  "arXiv_id": "2606.29676v1",
+  "abstract": "Whether fundamental constants vary over time or space is one of the key questions in metrology and cosmology. Among them, variation of the fine structure constant $α$ is intensively investigated. Yttrium ions Y$^+$ and actinium ions Ac$^+$ have low-lying $D$ states that are suitable for this search, with a proper path for laser cooling and detection. Theoretical calculations show that the sensitivities of the transitions between the ground state and the lowest $^3D_1$ states are $K=9.40$ and $K=9.73$, respectively. By driving the transition between the ground state and the $^3D_1$ states with a two-photon transition, the transition can be used for a high-sensitivity search for time variation of the fine structure constant. The high efficiency of a detection scheme using the transition between the $7s6d~^3D_1$ states and the $7s7p~^3P_0$ state also suggests that Ac$^+$ ions are potentially useful as a platform for quantum information processing.",
+  "authors": [
+    "Akio Kawasaki"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "该论文研究了钇离子（Y⁺）和锕离子（Ac⁺）的低能级D态对精细结构常数α变化的敏感性。通过理论计算，发现基态与最低³D₁态之间的跃迁具有高灵敏度（K值分别为9.40和9.73），可用于双光子跃迁方案来搜索α的时间变化。此外，Ac⁺离子中7s6d ³D₁态与7s7p ³P₀态之间的跃迁检测效率高，暗示其在量子信息处理中具有潜在应用价值。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用离子低能级D态的高灵敏度来探测精细结构常数α的变化，并探索其在量子信息处理中的应用。\n- 核心方法：理论计算Y⁺和Ac⁺离子的能级结构和跃迁灵敏度，提出双光子跃迁方案。\n- 主要结果：Y⁺和Ac⁺的跃迁灵敏度K分别为9.40和9.73，Ac⁺的检测方案高效。\n- 与量子精密测量/量子计算的关系：直接关联量子精密测量（原子钟、精细结构常数变化探测），Ac⁺平台对量子计算（量子信息处理）有潜在价值，但未涉及Rydberg原子、spin squeezing、Fisher information等具体方向。\n- 是否值得精读：值得，因其提出新离子平台用于高灵敏度测量和量子信息处理。\n- 对我研究的可能启发：可考虑将Y⁺或Ac⁺离子用于量子传感实验设计，或借鉴其跃迁检测方案用于量子计算中的读出。",
+  "english_digest": "## English Guide\n- Problem: How to use low-lying D states of yttrium and actinium ions for high-sensitivity search of fine-structure constant variation and potential quantum information processing.\n- Method: Theoretical calculations of energy levels and sensitivity factors K, proposal of two-photon transition scheme.\n- Main result: Sensitivity K=9.40 for Y⁺ and K=9.73 for Ac⁺; efficient detection scheme for Ac⁺.\n- Relevance: Directly related to quantum precision measurement (atomic clocks, α variation), and Ac⁺ platform offers potential for quantum computing (quantum information processing). Not directly related to Rydberg atoms, spin squeezing, or Fisher information.\n- Reading priority: Worth reading due to novel ion platforms for high-sensitivity metrology and quantum computing.\n- Possible inspiration: Could inspire use of Y⁺/Ac⁺ in quantum sensing experiments or readout schemes for quantum computing.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29676v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29676v1",
+  "local_pdf_path": ""
+}

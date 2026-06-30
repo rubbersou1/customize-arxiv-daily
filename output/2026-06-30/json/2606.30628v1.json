@@ -1,0 +1,22 @@
+{
+  "title": "Cavity-mediated probabilistic magic $T$-gate injection",
+  "arXiv_id": "2606.30628v1",
+  "abstract": "Non-Clifford gates are a necessary resource for universal quantum computation, yet their fault-tolerant implementation typically relies on magic-state distillation, which incurs significant overhead in qubit count and circuit depth. In this work, we propose a probabilistic cavity-based magic-state injection protocol. Our scheme exploits controlled atom-cavity interactions and conditional measurements to probabilistically prepare an effective magic state encoded in the first two level Fock subspace of a single cavity mode, achieving a success probability of $0.74$ per attempt, independent of the target magic phase. The cavity-encoded magic state is subsequently injected into a computational atom via a teleportation-based protocol mediated by dressed-state transitions, requiring only Clifford operations and a single auxiliary atom for readout. We show that all required operations -- state preparation, two-qubit exchange gates, and projective measurement -- can be implemented with experimentally available techniques in Rydberg atom-cavity platforms. We further discuss how the scheme can in principle be adapted to operate at the logical level, where collective Rydberg interactions and optical nonlinearities provide a route toward cavity-mediated $T$-gate injection directly into code-encoded qubits.",
+  "authors": [
+    "Sofia Cocciaretto",
+    "Roberto Menta",
+    "Vittorio Giovannetti"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "physics.atom-ph"
+  ],
+  "summary": "该论文提出了一种基于腔的量子计算协议，用于概率性地注入魔术$T$门。方案利用受控的原子-腔相互作用和条件测量，在腔模的前两个福克子空间中概率性地制备有效的魔术态，成功概率为0.74且与目标魔术相位无关。随后通过缀饰态跃迁介导的隐形传态协议，将腔编码的魔术态注入到计算原子中，仅需Clifford操作和单个辅助原子进行读出。所有操作（态制备、两量子比特交换门、投影测量）均可利用里德伯原子-腔平台中的现有实验技术实现。论文还讨论了该方案原则上可适应逻辑层操作，利用集体里德伯相互作用和光学非线性实现腔介导的$T$门直接注入到编码量子比特中。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何以较低开销在量子计算中实现非Clifford门（魔术$T$门），避免高代价的魔术态蒸馏。\n- 核心方法：利用腔量子电动力学（cavity QED）和里德伯原子平台，通过腔介导的态制备和条件测量，概率性产生腔编码的魔术态，再通过基于缀饰态跃迁的隐形传态注入到计算原子中。\n- 主要结果：成功概率为0.74，所有操作均基于里德伯原子-腔系统的成熟实验技术，且可通过集体里德伯相互作用扩展到逻辑层。\n- 与量子精密测量/量子计算的关系：论文直接服务于量子计算中的通用门实现，但所涉及的里德伯原子、腔QED、原子-腔耦合等平台与技术也是量子精密测量（如里德伯原子微波传感、原子钟）和量子传感的核心工具。该协议中的量子控制、读出方法对量子传感中的态制备和测量也有借鉴意义。\n- 是否值得精读：是。对从事里德伯原子量子计算、腔QED、以及利用里德伯系统进行量子控制的研究者有重要参考价值。\n- 对我研究的可能启发：里德伯原子-腔系统中的条件测量和量子态操控方法可应用于量子传感中的纠缠态制备（如自旋压缩态）、原子干涉仪中的态读取优化，以及基于里德伯原子的微波传感方案中的量子逻辑操作。",
+  "english_digest": "## English Guide\n- Problem: How to implement non-Clifford gates (magic $T$-gate) in quantum computing with low overhead, avoiding costly magic-state distillation.\n- Method: Using cavity QED and Rydberg atoms, probabilistically prepare a cavity-encoded magic state via controlled atom-cavity interactions and conditional measurements, then inject it into a computational atom via teleportation mediated by dressed-state transitions.\n- Main result: Success probability of 0.74; all operations are realizable with existing experimental techniques in Rydberg atom-cavity platforms, with potential extension to logical-level operation using collective Rydberg interactions.\n- Relevance: Directly relevant to quantum computing (fault-tolerant gates), and highly relevant to quantum sensing/metrology due to the use of Rydberg atoms, cavity QED, and atom-cavity coupling, which are central to platforms like Rydberg-atom microwave sensing, atomic clocks, and atom interferometry. The quantum control and readout methods are also applicable to spin squeezing and Fisher information optimization.\n- Reading priority: High. Essential for researchers working on Rydberg-atom quantum computing, cavity QED, and quantum control in Rydberg systems.\n- Possible inspiration: The conditional measurement and state manipulation techniques can be adapted for generating entangled states (e.g., spin-squeezed states) in quantum sensing, optimizing readout in atom interferometry, and implementing quantum logic operations in Rydberg-based microwave sensing.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30628v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30628v1",
+  "local_pdf_path": ""
+}

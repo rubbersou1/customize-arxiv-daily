@@ -1,0 +1,24 @@
+{
+  "title": "Quantum statistical enhancement of collective behaviour in a bosonic active Ising model",
+  "arXiv_id": "2606.18091v1",
+  "abstract": "Collective behaviour such as flocking (the collective motion of a spontaneously formed group along a common direction) or aster formation (the binding of opposing flocks, inhibiting each others motion) are intriguing emergent phenomena in active systems with local alignment rules. Until recently, their occurrence was mainly studied for classical systems, a prime example being the active Ising model (AIM), which translates the main ingredients of flocking and aster formation (i.e., alignment and self-propulsion) to a lattice framework. Here we introduce and study a one-dimensional (1D) quantum lattice variant of the AIM, based on ideal bosons with a spin degree of freedom. We find that both the collective behaviours of the 1D classical model, flocking and aster formation, are markedly enhanced by the bosonic quantum statistics. This contrasts with a recent quantum generalization of the AIM based onto hard-core bosons [Khasseh et al., Phys. Rev. Lett. 135, 248302 (2025)], where flocking, but neither its quantum-statistical stabilization nor aster states were observed as a consequence of interactions. Moreover, we investigate the competition of this quantum statistical stabilization of collective phases with their suppression by the quantum fluctuations induced by a transverse external magnetic field.",
+  "authors": [
+    "Kian L. Assent",
+    "Emil Strauch",
+    "Sabine H. L. Klapp",
+    "André Eckardt",
+    "Alexander Schnell"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "cond-mat.soft"
+  ],
+  "summary": "这篇论文介绍并研究了一维玻色子活性伊辛模型（AIM）的量子晶格变体，其中粒子具有自旋自由度。研究发现，玻色子的量子统计效应显著增强了经典AIM中的集体行为，如群集（沿共同方向集体运动）和星形形成（对向群集相互抑制）。这与基于硬核玻色子的量子AIM不同，后者未观察到量子统计稳定化或星形状态。此外，论文还探讨了由横向外磁场引起的量子涨落与这种量子统计稳定化之间的竞争，揭示了量子统计对集体行为的增强作用及其被量子涨落抑制的机制。",
+  "chinese_digest": "## 中文导读\n- 研究问题：玻色子的量子统计如何影响活性伊辛模型中的集体行为（群集和星形形成）？\n- 核心方法：构建一维玻色子活性伊辛模型的量子晶格变体，分析量子统计效应与量子涨落（由横向磁场引入）的竞争。\n- 主要结果：玻色子量子统计显著增强了经典模型中的群集和星形形成，而硬核玻色子模型未观察到这种增强；横向磁场诱导的量子涨落会抑制这些集体行为。\n- 与量子精密测量/量子计算的关系：该论文主要关注活性物质和统计物理中的集体现象，与量子精密测量、量子传感、量子计算的核心主题（如费舍尔信息、自旋压缩、量子门、量子控制等）无直接关联。论文不涉及Rydberg原子、中性原子量子计算、离子阱、原子钟、Ramsey干涉仪、腔QED、光镊或量子计量协议。\n- 是否值得精读：对于量子精密测量或量子计算研究者，相关性很低，不值得精读。\n- 对我研究的可能启发：无直接启发，但量子统计对集体行为的增强可能间接启发对量子传感器中多体纠缠或量子增强传感的思考，不过论文本身未涉及具体传感协议或性能极限。",
+  "english_digest": "## English Guide\n- Problem: How do bosonic quantum statistics affect collective behaviors (flocking and aster formation) in the active Ising model?\n- Method: A 1D quantum lattice variant of the active Ising model based on ideal bosons with spin degree of freedom is introduced, analyzing the competition between quantum statistical stabilization and quantum fluctuations from a transverse magnetic field.\n- Main result: Bosonic quantum statistics markedly enhance flocking and aster formation compared to the classical model, while hard-core bosons do not show such enhancement; transverse field-induced quantum fluctuations suppress these collective phases.\n- Relevance: This paper focuses on statistical physics and active matter, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, Ramsey interferometry, atom interferometry, cavity QED, optical tweezers, quantum control, quantum gates, or microwave sensing. The relevance score is low (2/10).\n- Reading priority: Low for researchers in quantum metrology or quantum computing; not recommended for detailed reading.\n- Possible inspiration: Minimal direct inspiration, but the quantum statistical enhancement of collective behavior might indirectly relate to many-body entanglement in quantum sensors, though not explored in the paper.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.18091v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.18091v1",
+  "local_pdf_path": ""
+}

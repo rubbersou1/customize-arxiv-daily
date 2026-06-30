@@ -1,0 +1,21 @@
+{
+  "title": "Searching for cosmic vortices",
+  "arXiv_id": "2606.12049v1",
+  "abstract": "Our study focuses on the strong tidal disruption of a cold helium white dwarf passing a black hole. We model the white dwarf as a Bose-Fermi droplet and use quantum hydrodynamic equations to simulate the binary system's evolution. As the white dwarf passes through periastron, it loses a significant amount of mass. This mass falls onto the black hole and forms an accretion disc. Quantized vortices appear in the accretion disc, manifesting as strong electromagnetic radiation signals that exhibit characteristic flickering patterns changing on a timescale of a few seconds. Meanwhile, the white dwarf moves away from the black hole. As the white dwarf moves through space, vortices run along its surface. This elongates its geometry, causing it to rotate and emit gravitational waves.",
+  "authors": [
+    "Marek Nikołajuk",
+    "Tomasz Karpiuk",
+    "Mirosław Brewczyk"
+  ],
+  "categories": [
+    "astro-ph.HE",
+    "cond-mat.quant-gas"
+  ],
+  "summary": "本文研究了冷氦白矮星在黑洞强潮汐撕裂过程中的行为。将白矮星建模为玻色-费米液滴，使用量子流体动力学方程模拟双星系统的演化。白矮星经过近星点时损失大量质量，这些质量落入黑洞形成吸积盘。吸积盘中出现量子化涡旋，表现为强烈的电磁辐射信号，呈现出几秒时间尺度上的特征闪烁模式。同时，白矮星在远离黑洞的过程中，其表面出现涡旋，导致几何形状拉长、旋转并发射引力波。",
+  "chinese_digest": "## 中文导读\n- 研究问题：白矮星被黑洞潮汐撕裂过程中的量子涡旋现象及其电磁和引力波信号。\n- 核心方法：将白矮星建模为玻色-费米液滴，采用量子流体动力学方程进行数值模拟。\n- 主要结果：吸积盘中出现量子化涡旋，产生特征闪烁的电磁辐射；白矮星表面涡旋导致其形状变化并发射引力波。\n- 与量子精密测量/量子计算的关系：本文属于天体物理和引力波领域，与量子精密测量（如量子费希尔信息、自旋压缩）、量子计算（如中性原子量子计算、离子阱）、Rydberg原子、光学晶格等方向没有直接联系。文中虽提到“量子化涡旋”，但并非量子传感或量子信息处理中的典型研究对象。\n- 是否值得精读：不建议精读，除非对白矮星潮汐撕裂或天体物理中的量子流体现象有特别兴趣。\n- 对我研究的可能启发：无明显启发。",
+  "english_digest": "## English Guide\n- Problem: Quantum vortex formation during tidal disruption of a white dwarf by a black hole. \n- Method: Modeling the white dwarf as a Bose-Fermi droplet and using quantum hydrodynamic simulations. \n- Main result: Quantized vortices appear in the accretion disk, producing flickering electromagnetic signals; surface vortices on the white dwarf lead to gravitational wave emission. \n- Relevance: This paper belongs to astrophysics and gravitational wave physics, with no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The mention of \"quantized vortices\" is in a cosmological context, not related to quantum information or sensing platforms. \n- Reading priority: Low. Not recommended for researchers focused on quantum precision measurement or quantum computing. \n- Possible inspiration: None for the specified research interests.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.12049v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.12049v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Collisions and Stopping of Fast Charged Particles in Matter",
+  "arXiv_id": "2606.25847v2",
+  "abstract": "This text is intended to offer a consistent presentation of the theory of collisions and stopping of charged particles in matter, limited to the range of intermediate kinetic energies where atomic aggregation effects are relatively unimportant and processes such as the creation of particle-antiparticle pairs are not likely to occur. The first three Chapters contain introductory material on the classical description of electromagnetic fields in matter, an overview of quantum wave equations for a particle in a central potential, and an account of elementary atomic-structure models. Chapters 4 and 5 are devoted to the classical and quantum theories of elastic collisions of charged particles with atoms. The theory of inelastic collisions and stopping is split into two parts: first, collisions with atoms are considered within the plane-wave Born approximation in Chapter 6, which includes a derivation of the Bethe stopping power formula; second, the theory of inelastic collisions in dense materials is based on the dielectric formalism, which is formulated for the electron gas, and extended to arbitrary materials by means of optical-data models in Chapter 7. Chapter 8 offers a detailed review of the theory of stopping, starting with the classical study by Bohr and ending with derivations of the Bloch and Barkas corrections to the stopping power. Chapter 9 deals with general aspects of transport theory, including derivations of energy-straggling distributions and multiple-scattering distributions, which are the basis for condensed simulation schemes of charged particle transport. Finally, Chapter 10 describes the Fortran programs elastic and sbethe, which implement the main theoretical models presented in the preceding Chapters and are distributed as ancillary information.",
+  "authors": [
+    "Francesc Salvat"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "physics.app-ph"
+  ],
+  "summary": "这篇论文全面介绍了带电粒子在物质中碰撞和阻止的理论，涵盖经典和量子描述，包括电磁场、量子波动方程、弹性与非弹性碰撞、介电理论、Bethe阻止公式、Bloch和Barkas修正等，并附有Fortran程序实现。",
+  "chinese_digest": "## 中文导读\n- 研究问题：带电粒子在物质中的碰撞与阻止理论。\n- 核心方法：经典电磁场理论、量子波方程、平面波Born近似、介电形式论、光学数据模型。\n- 主要结果：推导了Bethe阻止功率公式、Bloch和Barkas修正，以及能量歧离和多次散射分布。\n- 与量子精密测量/量子计算的关系：该论文与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联，主要属于粒子物理与核物理中的辐射效应和材料科学领域。\n- 是否值得精读：不值得。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Theory of collisions and stopping of fast charged particles in matter.\n- Method: Classical electrodynamics, quantum wave equations, plane-wave Born approximation, dielectric formalism, optical-data models.\n- Main result: Derivation of Bethe stopping power formula, Bloch and Barkas corrections, energy straggling and multiple-scattering distributions.\n- Relevance: This paper has no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It belongs to particle physics and radiation effects in matter.\n- Reading priority: Low.\n- Possible inspiration: None.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25847v2",
+  "arxiv_url": "http://arxiv.org/abs/2606.25847v2",
+  "local_pdf_path": ""
+}

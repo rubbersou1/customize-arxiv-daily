@@ -1,0 +1,24 @@
+{
+  "title": "Low-Threshold Degenerate Optical Parametric Oscillations in Bichromatically-Pumped Normal-Dispersion Photonic-Crystal Microresonator",
+  "arXiv_id": "2606.26860v1",
+  "abstract": "The process of excitation of degenerate optical parametric oscillations via bichromatic pump is studied numerically in normal-dispersion photonic-crystal microresonator. It is demonstrated that the photonic-crystal structure with two split modes placed symmetrically at the particular interval from the pumped modes provides significant reduction in pump power threshold for the considered process. The parameter range for this phenomenon is determined. Introduction of mode splitting at the signal mode located in the center between pumped modes leads to an increase in the generation threshold.",
+  "authors": [
+    "Valery E. Lobanov",
+    "Nadezhda S. Tatarinova",
+    "Artem E. Shitikov",
+    "Olga V. Borovkova",
+    "Igor A. Bilenko",
+    "Dmitry A. Chermoshentsev"
+  ],
+  "categories": [
+    "physics.optics",
+    "nlin.PS"
+  ],
+  "summary": "这篇论文通过数值模拟研究了在正常色散光子晶体微谐振器中，利用双色泵浦激发简并光学参量振荡的过程。研究发现，当光子晶体结构具有两个与泵浦模式对称放置的特定间隔的分裂模式时，可以显著降低泵浦功率阈值。确定了这一现象的参数范围。在位于泵浦模式中心位置的信号模式处引入模式分裂会导致生成阈值增加。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在正常色散光子晶体微谐振器中降低简并光学参量振荡的泵浦功率阈值。\n- 核心方法：数值模拟研究双色泵浦下光子晶体结构（含分裂模式）对参量振荡阈值的影响。\n- 主要结果：对称放置的特定分裂模式可显著降低阈值，但信号模式处的分裂会提高阈值。\n- 与量子精密测量/量子计算的关系：本文属于非线性光学和微腔光子学领域，与量子精密测量（如量子传感、量子Fisher信息）、量子计算（如中性原子、离子阱、Rydberg原子、自旋压缩）无直接关联。文中未涉及量子态操控、量子纠缠、量子极限测量或量子计算硬件平台。\n- 是否值得精读：不值得精读，除非对微腔非线性光学或光频梳生成有特殊兴趣。\n- 对我研究的可能启发：启发有限，但若涉及微腔辅助的量子传感或光机械系统，可考虑其泵浦方案。",
+  "english_digest": "## English Guide\n- Problem: How to reduce the pump power threshold for degenerate optical parametric oscillations in normal-dispersion photonic-crystal microresonators.\n- Method: Numerical simulation of bichromatic pumping with split modes in photonic-crystal structures.\n- Main result: Symmetric placement of split modes at a specific interval from pump modes significantly lowers the threshold; splitting at the signal mode increases it.\n- Relevance: This paper is in the field of nonlinear optics and microresonator photonics, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, atomic clocks, or Fisher information. It does not address quantum state control, entanglement, quantum metrology, or quantum computation hardware/error mitigation.\n- Reading priority: Low priority; only relevant if you work on microcavity nonlinear optics or frequency comb generation.\n- Possible inspiration: Limited; may offer pump strategies for cavity-assisted quantum sensing or optomechanical systems, but not directly applicable to the listed research directions.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26860v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26860v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,22 @@
+{
+  "title": "The odd fermion at the edge: odd-even staggering in the trapped, unitary Fermi gas",
+  "arXiv_id": "2606.26225v1",
+  "abstract": "We investigate the odd-even staggering in the harmonically-trapped unitary Fermi gas at large particle-number charge $Q$. Using both a large-$N$ BdG description and a complementary large-charge EFT method, we show that for odd particle number the extra fermion forms an edge-localized quasiparticle near the Thomas-Fermi surface rather than a bulk excitation. In the edge limit, the microscopic BdG problem reduces to a universal coupled Airy system whose lowest positive eigenvalue fixes the leading odd-even splitting energy, $χ\\,ξ^{1/6}(24Q)^{1/9}\\,\\hbarω+ \\cdots$ where $ξ$ is the Bertsch parameter, and $χ$ is a universal edge coefficient. The associated EFT describes a fermionic mode confined to the boundary and coupled to the superfluid Goldstone field, reproducing the same $Q$ scaling while introducing a dependence on two low-energy constants. Finally, we numerically compute the spectrum and confirm the predicted scaling and localization properties.",
+  "authors": [
+    "Silas R. Beane",
+    "Domenico Orlando",
+    "Susanne Reffert"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "hep-th",
+    "nucl-th"
+  ],
+  "summary": "这篇论文研究了在简谐势阱中囚禁的、大粒子数（Q）的幺正费米气体中奇偶性振荡现象。利用大N BdG描述和大电荷EFT方法，作者发现对于奇数粒子数，额外的费米子会在Thomas-Fermi表面附近形成边缘局域准粒子，而非体激发。微观BdG问题简化为一个通用的耦合Airy系统，其最低正特征值决定了奇偶分裂能。数值计算确认了标度律和局域化性质。",
+  "chinese_digest": "## 中文导读\n- 研究问题：囚禁幺正费米气体中奇偶粒子数导致的边缘局域准粒子及其能量分裂。\n- 核心方法：大N Bogoliubov-de Gennes (BdG) 描述和大电荷有效场论（EFT）方法。\n- 主要结果：发现了奇偶分裂能的标度律（~Q^{1/9}），并证明额外费米子局域在边缘。\n- 与量子精密测量/量子计算的关系：该工作主要关注强关联费米系统的基础物理，与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子量子计算、离子阱、Fisher信息、原子钟、Ramsey干涉、腔QED、光镊、量子控制、量子门、Rydberg微波传感等领域无直接关联。论文未涉及量子计量学、量子计算或实验平台中的误差缓解、读出或性能极限。\n- 是否值得精读：否，与研究方向不相关。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Odd-even staggering and edge-localized quasiparticles in a trapped unitary Fermi gas.\n- Method: Large-N BdG description and large-charge EFT.\n- Main result: Scaling law for odd-even splitting energy (~Q^{1/9}) and edge localization of the extra fermion.\n- Relevance: This work focuses on fundamental physics of strongly correlated fermionic systems. It has no direct connection to quantum precision measurement, quantum sensing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, atomic clocks, Ramsey interferometry, cavity QED, optical tweezers, quantum control, quantum gates, or Rydberg microwave sensing. It does not address quantum metrology, quantum computing, error mitigation, readout, or performance limits.\n- Reading priority: Low. Not relevant to the specified research area.\n- Possible inspiration: None.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26225v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26225v1",
+  "local_pdf_path": ""
+}

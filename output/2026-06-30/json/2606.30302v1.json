@@ -1,0 +1,20 @@
+{
+  "title": "Thermometry with multilevel transmon probes",
+  "arXiv_id": "2606.30302v1",
+  "abstract": "Superconducting transmon systems are promising platforms for nanoscale thermometry due to their high sensitivity to environmental fluctuations. Their intrinsic anharmonicity, which is essential for qubit operations, gives rise to a non-equidistant energy spectrum that significantly affects the thermal populations and, consequently, the thermometric sensitivity. In this work, we investigate the ultimate quantum limits of temperature estimation with a transmon beyond the two-level approximation. We compare the thermometric performance of three complementary models: the qubit, a harmonic oscillator and a weakly anharmonic Duffing oscillator, evaluating their corresponding quantum Fisher information (QFI) as a function of the temperature. We show that the multilevel anharmonic structure of the transmon affects its thermometric precision. Indeed, including higher excited states enhances the maximum amount of information that can be extracted about the system temperature, compared to a qubit probe. Furthermore, we address a fundamental limitation of the standard quartic truncation, which yields a potential that is unbounded from below and supports only spurious metastable states. By introducing bounded anharmonic models, namely a confined quartic potential and a sextic correction term, we assess the robustness of the thermometric precision beyond the Duffing regime. Our results provide practical guidelines for transmon-based nanoscale thermometry and clarify the role of the anharmonic multilevel spectrum in quantum temperature estimation.",
+  "authors": [
+    "Antonio Mandarino",
+    "Matteo G. A. Paris",
+    "Claudia Benedetti"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了使用超导transmon系统进行纳米级温度测量的量子极限。作者超越了传统的二能级近似，将transmon视为一个弱非简谐的Duffing振子，并比较了三种模型（量子比特、谐振子、Duffing振子）的热计量性能。他们发现transmon的多能级非简谐结构能够增强温度估计的量子Fisher信息，从而提升测量精度。此外，论文还指出了标准四次截断势能的不稳定性问题，并通过引入有界非简谐模型（如受限四次势和六次修正项）来评估热计量精度的鲁棒性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用超导transmon探针超越二能级近似，实现更高精度的纳米级温度测量？\n- 核心方法：计算transmon系统（建模为弱非简谐Duffing振子）的量子Fisher信息（QFI），比较量子比特、谐振子和Duffing振子三种模型的热计量性能，并引入有界非简谐势能模型。\n- 主要结果：transmon的多能级非简谐结构可以增强QFI，从而提升温度估计精度；标准四次截断势能会导致虚假的亚稳态，而有界模型能更鲁棒地描述系统。\n- 与量子精密测量/量子计算的关系：本文直接属于量子精密测量（热计量）范畴，利用量子Fisher信息作为性能度量。虽然不直接涉及量子计算，但transmon是超导量子计算的核心平台，其温度控制对量子比特相干性和操作保真度至关重要。\n- 是否值得精读：值得精读，尤其对于从事超导量子系统、量子热计量或量子Fisher信息理论的研究者。\n- 对我研究的可能启发：启发我思考在基于Rydberg原子或离子阱的量子传感中，是否也可以超越二能级近似，利用多能级结构增强测量精度；以及如何构建有界势能模型来避免理论不稳定性。",
+  "english_digest": "## English Guide\n- Problem: How to achieve higher-precision nanoscale thermometry using superconducting transmon probes beyond the two-level approximation?\n- Method: Compute the quantum Fisher information (QFI) for a transmon modeled as a weakly anharmonic Duffing oscillator, compare thermometric performance among qubit, harmonic oscillator, and Duffing models, and introduce bounded anharmonic potentials.\n- Main result: The multilevel anharmonic structure of the transmon enhances QFI and thus temperature estimation precision; the standard quartic truncation yields spurious metastable states, while bounded models provide more robust descriptions.\n- Relevance: Directly relevant to quantum metrology (thermometry) via QFI analysis. Although not directly about quantum computing, transmon is a key platform for superconducting quantum computing, and precise temperature control is critical for qubit coherence and gate fidelity.\n- Reading priority: High priority for researchers working on superconducting quantum systems, quantum thermometry, or quantum Fisher information theory.\n- Possible inspiration: This work suggests that in Rydberg-atom or trapped-ion quantum sensing, going beyond two-level approximations to exploit multilevel structures could enhance measurement precision; also highlights the importance of using bounded potentials to avoid theoretical artifacts.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30302v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30302v1",
+  "local_pdf_path": ""
+}

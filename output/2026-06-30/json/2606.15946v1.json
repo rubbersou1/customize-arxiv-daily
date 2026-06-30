@@ -1,0 +1,21 @@
+{
+  "title": "Local, mm-scale $^1$H magnetic resonance imaging using atomic vapors",
+  "arXiv_id": "2606.15946v1",
+  "abstract": "We demonstrate a practical and sensitive low-field approach to magnetic resonance imaging (MRI) of $μ$L-scale samples using an optically pumped magnetometer (OPM). Using a simple setup where a commercial OPM is placed directly adjacent to a sample, without intermediary signal-pickup coils, we perform one- and two-dimensional imaging with a >1 cm field of view and sub-mm Fourier-limited resolution at 10 $μ$T, near earth's field. This enables (i) high-throughput, low-field MRI of fluidic and tissue samples, and (ii) a quantitative benchmark of the sensitive volume surrounding the OPM.",
+  "authors": [
+    "Sven Bodenstedt",
+    "Morgan W. Mitchell",
+    "Michael C. D. Tayler"
+  ],
+  "categories": [
+    "physics.chem-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "本文展示了一种使用光泵磁力计（OPM）在近地磁场（10 μT）下进行微升尺度样品磁共振成像（MRI）的实用且灵敏的低场方法。通过将商用OPM直接放置在样品旁边，无需中间信号拾取线圈，实现了>1 cm视场和亚毫米傅里叶极限分辨率的二维成像。该方法适用于高通量低场MRI，并提供了OPM周围灵敏体积的定量基准。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用原子蒸气实现局域、毫米尺度的质子磁共振成像。\n- 核心方法：使用光泵磁力计（OPM）直接贴近样品，在10 μT低场下进行无线圈信号拾取的MRI。\n- 主要结果：实现了>1 cm视场和亚毫米分辨率的二维成像，并对OPM灵敏体积进行了定量表征。\n- 与量子精密测量/量子计算的关系：该工作属于原子传感器（OPM）在生物成像中的应用，与量子精密测量中基于原子蒸气的弱磁场传感技术有直接关联。但论文聚焦于成像应用，未涉及量子计算、Rydberg原子、自旋压缩、Fisher信息等核心方向，且无量子增强或量子信息处理内容。\n- 是否值得精读：如果研究方向是原子磁力计或低场MRI，则值得精读；若聚焦于量子计量学前沿（如量子Fisher信息、自旋压缩、量子门），则相关性较低。\n- 对我研究的可能启发：OPM的灵敏度提升和微型化设计可参考用于量子传感平台；但该论文未提供量子增强或纠缠利用的思路。",
+  "english_digest": "## English Guide\n- Problem: How to achieve local, mm-scale proton MRI using atomic vapors. \n- Method: An optically pumped magnetometer (OPM) placed directly adjacent to the sample, operating at 10 μT without pickup coils. \n- Main result: 2D imaging with >1 cm field of view and sub-mm resolution, plus quantitative characterization of OPM sensitive volume. \n- Relevance: This work is relevant to quantum precision measurement via atomic magnetometry, but it focuses on classical imaging applications. It does not address quantum computing, Rydberg atoms, spin squeezing, Fisher information, or quantum-enhanced metrology. \n- Reading priority: Low for researchers focused on quantum metrology theory, quantum information, or quantum computing. Moderate for those interested in atomic sensors for practical sensing. \n- Possible inspiration: The OPM design and sensitivity benchmarking could inform experimental setups in quantum sensing; however, no direct connection to quantum entanglement or Fisher information is provided.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.15946v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.15946v1",
+  "local_pdf_path": ""
+}

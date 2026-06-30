@@ -1,0 +1,27 @@
+{
+  "title": "A superconducting qutrit link beyond the qubit limit",
+  "arXiv_id": "2606.29475v1",
+  "abstract": "Superconducting microwave links have enabled deterministic state transfer and remote entanglement between qubits, but deterministic links have so far operated with an effectively two-dimensional transmitted Hilbert space. Here we demonstrate a superconducting qutrit link between two independently packaged nodes connected by a microwave channel. Each node combines a transmon qutrit, a transmission resonator, and a tunable Purcell-filter interface, allowing the two remote microwave-photon interfaces to be matched in both frequency and bandwidth. We implement two transition-selective photon-mediated operations that transfer the $|e\\rangle$ and $|f\\rangle$ qutrit components in distinct temporal modes of the same channel. We tomographically characterize arbitrary qutrit-state transfer, obtaining a mean transferred-state fidelity of 83.68% and a qutrit process fidelity of 77.12%, exceeding both the classical qutrit-transfer benchmark and the best possible average fidelity of an effective qubit channel used to transmit an arbitrary qutrit. Using partial-transfer operations, we reconstruct a remote two-qutrit state with negativity 0.730, a tomography-inferred dense-coding capacity of 2.273 bits, and a tomography-inferred Collins-Gisin-Linden-Massar-Popescu (CGLMP) parameter $I_3=2.332$, all beyond the corresponding qubit or local bounds. These results demonstrate a superconducting microwave link that uses the native three-level structure of transmons as a genuine high-dimensional communication resource.",
+  "authors": [
+    "Xiang Li",
+    "Zheng-Yang Mei",
+    "Yang He",
+    "Si-Lu Zhao",
+    "Yan-Jun Liu",
+    "Xiao-Hui Song",
+    "Kai Xu",
+    "Zhong-Cheng Xiang",
+    "Dong-Ning Zheng",
+    "Heng Fan"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "这篇论文展示了一种超导qutrit链路，通过微波通道在两个独立封装的节点之间实现确定性状态传输和远程纠缠。每个节点包含一个transmon qutrit、一个传输谐振器和一个可调Purcell滤波器接口，使得两个远程微波-光子接口在频率和带宽上匹配。作者实现了两种过渡选择性光子介导操作，将qutrit的|e⟩和|f⟩分量以不同时间模式传输到同一通道。他们通过层析成像表征了任意qutrit状态传输，平均传输状态保真度为83.68%，qutrit过程保真度为77.12%，超过了经典qutrit传输基准和用于传输任意qutrit的有效qubit通道的最佳可能平均保真度。利用部分传输操作，他们重建了远程双qutrit状态，负性为0.730，层析成像推断的密集编码容量为2.273比特，Collins-Gisin-Linden-Massar-Popescu (CGLMP)参数I₃=2.332，均超过了相应的qubit或局部界限。这些结果证明了一种超导微波链路，它利用transmon的天然三能级结构作为真正的高维通信资源。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用超导transmon的天然三能级结构（qutrit）构建高维微波通信链路，实现超越qubit极限的量子信息传输。\n- 核心方法：通过可调Purcell滤波器接口匹配两个远程节点的频率和带宽，实现两种过渡选择性光子介导操作，将qutrit的不同能级分量以不同时间模式传输。\n- 主要结果：实现了平均保真度83.68%的qutrit状态传输，过程保真度77.12%，并展示了超越qubit界限的远程纠缠和密集编码能力。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦于量子通信和量子信息处理的高维编码，与量子精密测量（如量子Fisher信息、自旋压缩）和量子传感（如Rydberg原子、中性原子、离子阱）的直接关联较弱。它涉及量子门操作和控制，但更偏向于超导量子比特架构的扩展。\n- 是否值得精读：对于专注于超导量子计算和量子通信的研究者，此论文具有较高参考价值；但对于量子精密测量和传感领域，相关性有限。\n- 对我研究的可能启发：qutrit的高维编码思路可启发量子传感中的多能级利用（如Rydberg原子中的多能级干涉），但具体方法（超导transmon）与中性原子或离子阱平台差异较大。",
+  "english_digest": "## English Guide\n- Problem: How to leverage the native three-level structure (qutrit) of superconducting transmons to construct a high-dimensional microwave communication link, enabling quantum information transfer beyond the qubit limit.\n- Method: Matching the frequency and bandwidth of two remote nodes via tunable Purcell-filter interfaces, and implementing two transition-selective photon-mediated operations to transfer qutrit components in distinct temporal modes.\n- Main result: Achieved average transferred-state fidelity of 83.68% and qutrit process fidelity of 77.12%, demonstrating remote entanglement and dense coding exceeding qubit bounds.\n- Relevance: This work primarily addresses high-dimensional encoding in quantum communication and quantum information processing. Its direct relevance to quantum precision measurement (e.g., quantum Fisher information, spin squeezing) and quantum sensing (e.g., Rydberg atoms, neutral atoms, trapped ions) is limited. It touches on quantum control and gates but is more aligned with superconducting qubit architectures.\n- Reading priority: Moderate for researchers in quantum sensing/metrology; higher for those in superconducting quantum computing and communication.\n- Possible inspiration: The high-dimensional encoding concept could inspire multi-level interference schemes in quantum sensing (e.g., Rydberg atoms), but the specific platform (superconducting transmons) differs significantly from neutral atoms or trapped ions.",
+  "relevance_score": 5.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29475v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29475v1",
+  "local_pdf_path": ""
+}

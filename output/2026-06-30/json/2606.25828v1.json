@@ -1,0 +1,18 @@
+{
+  "title": "Coupling of negative-positive trapped-ion pairs",
+  "arXiv_id": "2606.25828v1",
+  "abstract": "Direct motional coupling of opposite-charge trapped-ion pairs could provide a pathway to extend ultra-low temperatures and quantum control to negative ions that lack the suitable electronic energy structures required for direct laser cooling. Because positive and negative ions cannot be confined within a single electrostatic potential well, I investigate a configuration where single ions are trapped in close proximity within separate potential wells to couple their motion. I analytically and numerically evaluate the electrostatic trapping requirements. As a concrete implementation, I present an optimized segmented surface Paul trap design to couple an antimatter hydrogen molecular ion ($\\bar{H}_2^-$) and a beryllium ion ($^9 Be^+$). A motional coupling frequency of 5 kHz can be achieved at an ion-ion separation of $35 μm$, with an ion height of $50 μm$, axial trap frequencies of 4 MHz, and static trap voltages with a magnitude of $\\approx 20 V$. Finally, I outline three applications for this technique: quantum logic spectroscopy of $\\bar{H}_2^-$ for matter-antimatter comparisons, the preparation of cold neutral deuterium atoms via near-threshold photo-detachment of $D^-$ for optical trapping, and quantum information processing using equal-mass opposite-charge ion pairs.",
+  "authors": [
+    "Daniel Kienzler"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文研究了正负离子对之间的直接运动耦合，提出了一种在分离的静电势阱中囚禁单个正负离子以耦合其运动的配置。通过分析和数值评估静电囚禁要求，论文以反物质氢分子离子（H2-）和铍离子（Be+）为例，优化了分段表面Paul阱设计，实现了在35微米间距下5 kHz的耦合频率。论文还概述了该技术的三个应用：反物质氢分子离子的量子逻辑光谱学、通过近阈值光脱附制备冷中性氘原子用于光阱，以及利用等质量异号离子对进行量子信息处理。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何实现正负离子对之间的直接运动耦合，以将超低温和量子控制扩展到缺乏合适电子能级结构的负离子。\n- 核心方法：在分离的静电势阱中分别囚禁正负离子，通过优化分段表面Paul阱设计实现近距离耦合，并利用分析模型和数值模拟评估势阱参数。\n- 主要结果：以H2-和Be+为例，在离子间距35微米、高度50微米、轴向阱频4 MHz、静态阱压约20 V的条件下，实现了5 kHz的运动耦合频率。\n- 与量子精密测量/量子计算的关系：该技术为量子逻辑光谱学（用于物质-反物质比较）和量子信息处理（等质量异号离子对）提供了新平台，直接关联离子阱量子计算和精密测量。\n- 是否值得精读：是，论文涉及离子阱量子控制、量子逻辑光谱和量子计算，对实验实现有直接指导意义。\n- 对我研究的可能启发：可启发在离子阱系统中利用异号离子对进行量子传感（如反物质测量）或新型量子门设计，特别适合关注离子阱量子计算和精密测量的研究者。",
+  "english_digest": "## English Guide\n- Problem: How to achieve direct motional coupling of opposite-charge trapped-ion pairs to extend quantum control to negative ions lacking suitable electronic structures for laser cooling.\n- Method: Trap single positive and negative ions in separate potential wells in close proximity, optimize a segmented surface Paul trap design, and evaluate electrostatic requirements analytically and numerically.\n- Main result: For H2- and Be+, a motional coupling frequency of 5 kHz is achieved at an ion-ion separation of 35 μm, with an ion height of 50 μm, axial trap frequencies of 4 MHz, and static trap voltages of about 20 V.\n- Relevance: Directly relevant to ion-trap quantum computing, quantum logic spectroscopy (for matter-antimatter comparisons), and quantum information processing with opposite-charge ion pairs, which are key topics in quantum sensing and quantum computing.\n- Reading priority: High. The paper proposes a concrete experimental design with clear applications in quantum metrology and quantum computing.\n- Possible inspiration: Inspires new approaches for quantum sensing (e.g., antimatter measurements) and novel quantum gate designs using opposite-charge ions, especially for researchers focused on trapped-ion systems and quantum control.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25828v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25828v1",
+  "local_pdf_path": ""
+}

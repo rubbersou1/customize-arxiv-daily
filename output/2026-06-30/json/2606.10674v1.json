@@ -1,0 +1,23 @@
+{
+  "title": "A Comprehensive Study on the Line Profiles and Stark Widths of Ionic Transitions from Laser Produced Aluminum Plasma",
+  "arXiv_id": "2606.10674v1",
+  "abstract": "We present a systematic spectroscopic investigation of laser-produced aluminum plasma to address inconsistencies in Stark broadening parameters and establish a self-consistent reference datasets for electron density diagnostics. Optical line emissions of Al II and Al III in the visible wavelength range were recorded from plasmas having different electron densities and temperatures, however, with the same experimental configuration, only by varying the background pressure, spatial positions, and delay time. The Stark width parameter of Al III lines, which shows consistency across different earlier studies, is used for standardizing the Al II transition from the highest energy level, which is abundant in the emission spectra. This reference spectrum is then used to estimate the Stark parameters of other Al II transitions to obtain a self-consistent database for Al II transitions. This approach significantly reduces the uncertainty in the estimated plasma electron density using Stark parameters of multiple emission lines. We also report the spatial and temporal evolution of plasma density and Stark shift as well as asymmetry in spectral lines. This work addresses the uncertainty in Stark parameters of Al II transitions in the visible range through a unified approach in estimating these parameters simultaneously.",
+  "authors": [
+    "B R Geethika",
+    "Judhishtir Shamal",
+    "Renjtih Kumar",
+    "Hem Chandra Joshi",
+    "Jinto Thomas"
+  ],
+  "categories": [
+    "physics.plasm-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "本文系统研究了激光产生铝等离子体中离子跃迁的谱线轮廓和斯塔克展宽参数，通过统一实验配置（改变背景气压、空间位置和延迟时间）测量了Al II和Al III的可见波段发射谱线。利用Al III谱线的斯塔克宽度参数作为标准，校准了来自最高能级的Al II跃迁，进而建立了自洽的Al II斯塔克参数数据库，显著降低了电子密度诊断的不确定性，并报告了等离子体密度、斯塔克位移和谱线不对称性的时空演化。",
+  "chinese_digest": "## 中文导读\n- 研究问题：激光产生铝等离子体中离子谱线的斯塔克展宽参数不一致性及电子密度诊断的校准。\n- 核心方法：统一实验配置下测量Al II和Al III发射谱线，以Al III为标准校准Al II参数，建立自洽数据库。\n- 主要结果：获得了自洽的Al II斯塔克参数，降低了等离子体电子密度诊断的不确定性，并分析了谱线时空演化。\n- 与量子精密测量/量子计算的关系：本文属于等离子体光谱学，与量子精密测量（如量子传感、里德伯原子、自旋压缩、费希尔信息）和量子计算（如中性原子量子计算、离子阱）无直接关联。研究内容不涉及量子系统、量子控制或量子计量协议。\n- 是否值得精读：不推荐。该论文属于传统等离子体物理和光谱分析，与您的研究领域（量子计量、量子传感、量子计算）无交集。\n- 对我研究的可能启发：几乎无启发。除非您对等离子体诊断中的谱线展宽机制感兴趣，但该方向与量子精密测量相距甚远。",
+  "english_digest": "## English Guide\n- Problem: Inconsistencies in Stark broadening parameters of ionic transitions in laser-produced aluminum plasma and calibration for electron density diagnostics.\n- Method: Unified experimental setup measuring Al II and Al III emission lines, using Al III as reference to calibrate Al II parameters and build a self-consistent database.\n- Main result: A self-consistent set of Al II Stark parameters with reduced uncertainty in plasma electron density, along with spatial-temporal evolution of density and line asymmetry.\n- Relevance: This paper focuses on classical plasma spectroscopy and is not related to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It does not involve quantum systems, control, or metrology protocols.\n- Reading priority: Low. The topic is far from your research interests in quantum metrology and quantum computing.\n- Possible inspiration: Minimal. No direct connection to quantum sensing or computation; the methods are purely classical plasma diagnostics.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.10674v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.10674v1",
+  "local_pdf_path": ""
+}

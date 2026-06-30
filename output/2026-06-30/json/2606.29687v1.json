@@ -1,0 +1,25 @@
+{
+  "title": "A Machine-Verified Proof of a Quantum-Optimization Conjecture",
+  "arXiv_id": "2606.29687v1",
+  "abstract": "We report a machine-verified resolution of a problem open for over a decade in quantum optimization: the Farhi, Goldstone and Gutmann (FGG) conjecture that depth-$p$ Quantum Approximate Optimization Algorithm (QAOA) on the ring of disagrees attains approximation ratio $(2p+1)/(2p+2)$ exactly. We found the proof using a large language model, Claude Fable 5, and verified its correctness end-to-end by the Lean 4 proof assistant. Our methodology includes several ingredients: building on a substantial Lean library of quantum information, we formalized the QAOA components and the known parts of the problem, and reduced the conjecture to a single open mathematical statement. The model was then handed the library and our agentic toolkit, and tasked with closing that gap by constructing a proof in Lean. The resulting process is a feedback loop between the model's natural-language reasoning and Lean's mechanical verification, which converged to a machine-verified proof. Human verification is required only for the structural scaffolding - that the formal statement faithfully encodes the intended claim - while the proof itself is supplied by the model and certified mechanically by Lean. The proof is nevertheless striking - the model uncovered a hidden dynamical symmetry of the problem and exploited it, borrowing tools and machinery from an adjacent field to turn a hard existence problem into an explicit construction. This work paves the way for resolving open conjectures in quantum information science and beyond.",
+  "authors": [
+    "Uri Kol",
+    "Maor Ben-Shahar",
+    "Kfir Sulimany",
+    "Dirk Englund"
+  ],
+  "categories": [
+    "quant-ph",
+    "cs.AI",
+    "cs.LG",
+    "cs.LO",
+    "math.OC"
+  ],
+  "summary": "本文报道了利用大型语言模型（Claude Fable 5）和Lean 4证明助手，机器验证地解决了量子优化领域一个十多年的开放问题——Farhi、Goldstone和Gutmann（FGG）猜想。该猜想断言深度为p的量子近似优化算法（QAOA）在环上的准确近似比为(2p+1)/(2p+2)。研究者将猜想形式化为一个数学命题，构建了Lean库，并让模型通过自然语言推理与机械验证的反馈循环，最终发现了隐藏的动态对称性，借用相邻领域的工具完成了证明。整个过程仅需人类验证结构框架，证明本身由模型生成并由Lean机械认证。",
+  "chinese_digest": "## 中文导读\n- 研究问题：解决量子优化中的FGG猜想，即QAOA在环上的精确近似比问题。\n- 核心方法：利用大型语言模型（Claude Fable 5）和Lean 4证明助手，通过自然语言推理与机械验证的反馈循环，发现隐藏的动态对称性并借用相邻领域工具完成证明。\n- 主要结果：机器验证地证明了FGG猜想，为开放猜想的自动化证明开辟了新路径。\n- 与量子精密测量/量子计算的关系：论文主要属于量子优化和形式化验证领域，与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。它涉及量子计算中的QAOA算法，但更侧重于理论证明和自动化推理，而非实验或硬件平台。\n- 是否值得精读：对于专注于量子优化、形式化验证或AI辅助数学证明的研究者，值得精读。对于量子精密测量和传感领域，相关性较低，可作为跨领域方法论参考。\n- 对我研究的可能启发：可能启发利用AI辅助证明工具解决量子计量学中的理论难题，如优化纠缠态制备或参数估计的精度界限。",
+  "english_digest": "## English Guide\n- Problem: Resolution of the Farhi, Goldstone and Gutmann (FGG) conjecture on the exact approximation ratio of depth-p QAOA on the ring of disagrees. \n- Method: Large language model (Claude Fable 5) combined with Lean 4 proof assistant, using a feedback loop of natural-language reasoning and mechanical verification, discovering a hidden dynamical symmetry and borrowing tools from adjacent fields. \n- Main result: A machine-verified proof of the FGG conjecture, demonstrating a new paradigm for automated theorem proving in quantum information science. \n- Relevance: The paper is primarily about quantum optimization and formal verification. It has no direct connection to quantum precision measurement, quantum sensing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. While it involves the QAOA algorithm in quantum computing, the focus is on theoretical proof and automated reasoning, not on experimental platforms or hardware. \n- Reading priority: High for researchers in quantum optimization, formal verification, or AI-assisted proof. Low for those focused on quantum metrology and sensing. \n- Possible inspiration: Could inspire the use of AI-assisted proof tools to tackle theoretical problems in quantum metrology, such as optimizing entangled state preparation or bounding estimation precision.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29687v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29687v1",
+  "local_pdf_path": ""
+}

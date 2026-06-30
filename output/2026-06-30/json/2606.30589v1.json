@@ -1,0 +1,23 @@
+{
+  "title": "Equilibrium and non-equilibrium phases of microwave-dressed polar molecules beyond rotational symmetries",
+  "arXiv_id": "2606.30589v1",
+  "abstract": "Recent experiments on molecular droplets have opened a new frontier of self-organization in strongly dipolar quantum matter. Microwave-dressing of polar molecules permits to tune both the strength and the angular structure of long-range interactions, potentially promoting a rich spectrum of quantum phases, from superfluid droplets with varying geometry and insulating or supersolid droplet arrays to strongly correlated crystals of individual molecules. Using path-integral Monte Carlo simulations of large molecular ensembles, we demonstrate that experimentally observed droplet arrays emerge as a metastable non-equilibrium state from the quenching of a gas-droplet phase transition under entirely broken rotational symmetry of the microwave-induced interaction potential. We moreover find that a crystalline phase of molecules, predicted for antidipolar interactions, is absent under conditions of recent experiments. This is traced back to the lack of angular symmetry in currently employed microwave-dressing, which qualitatively reshapes the many-body energy landscape and cannot be captured by effective scalar interaction parameters. Our results provide the first direct comparison of ab initio simulations and experiments and establish interaction anisotropy as a key aspect of molecular quantum gases.",
+  "authors": [
+    "Matteo Ciardi",
+    "Andreas Schindewolf",
+    "Tim Langen",
+    "Thomas Pohl"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "summary": "该论文利用路径积分蒙特卡洛模拟研究微波修饰的极性分子在完全破坏旋转对称性条件下的平衡与非平衡相。研究发现，实验中观察到的液滴阵列实际上是从气体-液滴相变淬火中产生的亚稳态非平衡态，而理论上预测的反偶极相互作用下的分子晶体相在实验条件下不存在，这是由于当前微波修饰缺乏角对称性，导致多体能量景观发生质变，无法用有效标量相互作用参数描述。",
+  "chinese_digest": "## 中文导读\n- 研究问题：微波修饰极性分子在多体系统中的平衡与非平衡相行为，特别是液滴阵列和晶体相的存在性。\n- 核心方法：路径积分蒙特卡洛模拟大规模分子系综，考虑微波诱导相互作用的完整角结构。\n- 主要结果：实验液滴阵列是亚稳态非平衡相；反偶极晶体相因旋转对称性完全破坏而缺失；相互作用各向异性是分子量子气体的关键因素。\n- 与量子精密测量/量子计算的关系：该工作主要关注分子量子物质的相变和自组织，与量子精密测量（如量子费希尔信息、自旋压缩）、量子传感、量子计算（如中性原子量子门、离子阱）无直接关联。未涉及里德伯原子、光学镊子、拉姆齐干涉、腔QED等具体技术。\n- 是否值得精读：对于研究极性分子量子物态或超冷化学的读者有价值，但对于量子精密测量或量子计算方向的读者，相关性较低。\n- 对我研究的可能启发：如果未来将极性分子用于量子传感（如分子转动态作为量子比特），可能需考虑各向异性相互作用对相干性的影响，但当前论文未直接提供此类见解。",
+  "english_digest": "## English Guide\n- Problem: Equilibrium and non-equilibrium phases of microwave-dressed polar molecules under broken rotational symmetry, focusing on droplet arrays and crystalline phases.\n- Method: Path-integral Monte Carlo simulations of large molecular ensembles with full angular structure of microwave-induced interactions.\n- Main result: Observed droplet arrays are metastable non-equilibrium states; predicted antidipolar crystal phase is absent due to complete lack of angular symmetry; interaction anisotropy is crucial.\n- Relevance: This paper is primarily about quantum many-body phases of polar molecules, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral-atom platforms, trapped ions, Fisher information, or related topics. It does not address metrological protocols, quantum gates, or experimental sensing platforms.\n- Reading priority: Low for researchers focused on quantum metrology or quantum computing. Medium for those studying dipolar quantum gases or self-organization.\n- Possible inspiration: Could inform future work on molecular quantum sensors if molecular rotational states are used as qubits, but no direct metrological perspective is provided.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30589v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30589v1",
+  "local_pdf_path": ""
+}

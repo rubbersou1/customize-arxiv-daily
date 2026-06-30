@@ -1,0 +1,21 @@
+{
+  "title": "Routes to Chaos in Class-B laser Dimer Necklaces",
+  "arXiv_id": "2606.26271v1",
+  "abstract": "Linear $\\mathcal{PT}$-symmetric dimer necklaces use cyclic coupling to organize phase-locked modes, while class-B laser--resonator dimers use carrier inversion to destabilize gain--loss dynamics and produce routes to chaos. We study a cyclic necklace of class-B laser--resonator dimers to determine how inter-dimer coupling and cyclic phase constraints modify carrier-mediated instabilities. The carrier inversion turns the necklace into an amplitude--phase--carrier system whose active-site gain controls intensities, while the linewidth-enhancement factor shifts phases. We derive the real dynamical equations, identify uniform fixed points above threshold, and classify their phase configurations under cyclic closure. Even necklaces support full synchronization, a uniform $π$ shift, and two alternating phase configurations; odd necklaces support only the first two. Linear stability of these configurations partitions the coupling plane into sixteen possible regions, including one region with no stable uniform fixed point. Long-time simulations for representative two- and three-dimer necklaces show stable lasing, multistability, and irregular lasing controlled by pump ratio and coupling strengths. Increasing the pump ratio expands stable domains and suppresses the region without stable uniform fixed points.",
+  "authors": [
+    "J. Diaz-Avila",
+    "A. A. Macias Infante",
+    "B. R. Jaramillo-Avila",
+    "B. M. Rodriguez-Lara"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "这篇论文研究了由类B激光-谐振器二聚体组成的环形项链结构中的混沌路径。通过引入循环耦合和载流子反转动力学，分析了二聚体间耦合和循环相位约束如何改变载流子介导的不稳定性。论文推导了实动力学方程，识别了阈值以上的均匀固定点，并在循环闭合条件下分类了其相位配置。偶数项链支持完全同步、均匀π相移和两种交替相位配置；奇数项链仅支持前两种。线性稳定性分析将耦合平面划分为16个可能区域，其中1个区域没有稳定的均匀固定点。长时间模拟显示了稳定激光、多稳态和由泵浦比与耦合强度控制的不规则激光行为。",
+  "chinese_digest": "## 中文导读\n- 研究问题：类B激光二聚体环形项链中的混沌路径与相位锁定机制。\n- 核心方法：基于PT对称二聚体模型，推导振幅-相位-载流子动力学方程，进行线性稳定性分析和数值模拟。\n- 主要结果：识别了均匀固定点的相位配置，发现偶数项链有4种配置、奇数项链有2种；耦合平面分为16个稳定性区域；泵浦比增大可抑制无稳定固定点的区域。\n- 与量子精密测量/量子计算的关系：该论文聚焦于经典激光系统的非线性动力学和混沌，未涉及量子效应（如量子纠缠、量子费舍尔信息、自旋压缩等），与量子精密测量、量子传感、量子计算、Rydberg原子、中性原子、离子阱、Fisher信息等方向无直接关联。论文未讨论量子体系中的量子噪声、量子增强或量子控制。\n- 是否值得精读：不推荐精读，除非对经典激光器混沌动力学有专门兴趣。\n- 对我研究的可能启发：无直接启发。但其中对耦合系统稳定性的分析方法（如固定点分类、参数空间分区）可能间接用于量子传感器阵列的稳定性分析。",
+  "english_digest": "## English Guide\n- Problem: Routes to chaos and phase-locking in class-B laser dimer necklaces.\n- Method: Derivation of amplitude-phase-carrier dynamical equations for PT-symmetric dimers, linear stability analysis, and numerical simulations. \n- Main result: Identification of uniform fixed-point phase configurations (4 for even necklaces, 2 for odd); 16 stability regions in coupling plane; pump ratio suppresses unstable region. \n- Relevance: This work focuses on classical laser nonlinear dynamics and chaos, with no quantum effects (e.g., entanglement, quantum Fisher information, spin squeezing). It is not directly related to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, neutral atoms, trapped ions, or Fisher information. The paper does not address quantum noise, quantum enhancement, or quantum control. \n- Reading priority: Low, unless specifically interested in classical laser chaos. \n- Possible inspiration: The stability analysis methods (fixed-point classification, parameter-space partitioning) may be indirectly applicable to stability analysis of quantum sensor arrays.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26271v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26271v1",
+  "local_pdf_path": ""
+}

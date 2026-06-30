@@ -1,0 +1,28 @@
+{
+  "title": "Field validation of GNSS-independent positioning enhancement using a wearable ultra-stable quantum magnetometer",
+  "arXiv_id": "2606.24612v1",
+  "abstract": "Increasing the resilience of positioning systems that currently rely on Global Navigation Satellite System (GNSS) signals can be achieved by incorporating stable and sensitive measurements of the permanent crustal anomalies in the Earth's magnetic field. We have realised this concept using an in-house-developed, wearable, Free-Induction-Decay Optically Pumped Magnetometer (FID-OPM) to carry out precise and stable measurements of the geomagnetic field in a walking trial. We present an end-to-end validation, including qualification of FID-OPM performance, alongside quantification of improvement in accuracy when data from this sensor is added to a dead-reckoning estimation of position. Using our wearable sensor system we achieve a Beckmann-distributed radial positioning error of 2.24 m over a route exceeding 500 m in length and spanning approximately 360 s.",
+  "authors": [
+    "Stirling Scholes",
+    "Dominic Hunter",
+    "Courtney Dyer",
+    "Marcin Mrozowski",
+    "Allan McWilliam",
+    "Phoebe Utting",
+    "David Burt",
+    "Paul F. Griffin",
+    "James McGilligan",
+    "Erling Riis",
+    "Stuart J. Ingleby"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文展示了一种不依赖全球导航卫星系统（GNSS）的定位增强方法，使用可穿戴的超稳定量子磁力仪（FID-OPM）测量地磁场异常，并结合航位推算实现位置估计。在步行实验中，该系统在500米以上路线、约360秒内实现了2.24米的径向定位误差。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用量子磁力仪增强不依赖GNSS的定位系统。\n- 核心方法：使用自由感应衰减光泵磁力仪（FID-OPM）测量地磁场永久异常，并结合航位推算进行位置估计。\n- 主要结果：在步行试验中，系统实现了2.24米的径向定位误差，验证了可行性。\n- 与量子精密测量/量子计算的关系：该工作属于量子传感（量子磁力仪）的应用，与量子精密测量直接相关，但与量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向关联较弱。\n- 是否值得精读：中等。如果关注量子磁力仪在导航中的实验应用，值得一读；但若主要兴趣在量子计量学基础理论或量子计算，则相关性有限。\n- 对我研究的可能启发：展示了量子磁力仪在真实环境中的性能，可能启发将其他量子传感平台（如Rydberg原子微波传感）用于类似定位或导航任务。",
+  "english_digest": "## English Guide\n- Problem: Enhancing GNSS-independent positioning using a quantum magnetometer.\n- Method: A wearable Free-Induction-Decay Optically Pumped Magnetometer (FID-OPM) measures geomagnetic anomalies for dead-reckoning position estimation.\n- Main result: Achieved 2.24 m radial positioning error over a 500 m route in a walking trial.\n- Relevance: Directly relevant to quantum sensing (magnetometry) and quantum metrology, but less relevant to quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information.\n- Reading priority: Moderate. Worth reading if interested in experimental applications of quantum magnetometers for navigation; otherwise, low priority.\n- Possible inspiration: Demonstrates real-world performance of quantum sensors, potentially inspiring similar applications using Rydberg-based microwave sensing or other quantum platforms for positioning.",
+  "relevance_score": 5.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.24612v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.24612v1",
+  "local_pdf_path": ""
+}

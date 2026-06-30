@@ -1,0 +1,22 @@
+{
+  "title": "Universality in strongly interacting bosonic clusters",
+  "arXiv_id": "2606.27823v1",
+  "abstract": "We develop an effective field theory (EFT) for strongly interacting bosonic clusters, using $^4$He as a paradigmatic example of universality in systems with large scattering length. At leading order (LO), two- and three-body zero-range interactions are entirely determined by the dimer and trimer ground-state energies. We show that ground-state energies for up to $N=15$ particles converge to cutoff-independent limits with extrapolation coefficients of natural size. At next-to-leading order (NLO), corrections stemming from the two-body interaction range and a four-body force, calibrated to the tetramer ground-state energy, reduce cutoff sensitivity. Close agreement with results from a realistic potential is found at LO and improved at NLO, demonstrating systematic convergence with few parameters at each order. The resulting EFT is directly applicable to larger clusters and bulk helium.",
+  "authors": [
+    "L. Madeira",
+    "F. Pederiva",
+    "U. van Kolck"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "nucl-th",
+    "physics.atm-clus"
+  ],
+  "summary": "这篇论文开发了一种用于强相互作用玻色子团簇的有效场论（EFT），以$^4$He为例展示了在具有大散射长度系统中的普适性。在领头阶，二体和三体零程相互作用完全由二聚体和三聚体基态能量确定，对最多N=15个粒子的基态能量计算收敛到截断无关极限，外推系数具有自然大小。在次领头阶，由二体相互作用范围和四体力引起的修正（通过四聚体基态能量校准）降低了截断敏感性。与来自现实势的结果在领头阶高度一致，并在次领头阶得到改进，展示了在每个阶次用少数参数的系统收敛性。该EFT可直接应用于更大的团簇和块体氦。",
+  "chinese_digest": "## 中文导读\n- 研究问题：强相互作用玻色子团簇（如$^4$He）中的普适性，即系统性质如何仅由大散射长度决定，不依赖于短程细节。\n- 核心方法：有效场论（EFT），在领头阶仅使用二体和三体零程相互作用（由二聚体和三聚体能量确定），在次领头阶引入二体作用范围和四体力修正。\n- 主要结果：对N≤15个粒子的基态能量实现了系统收敛，与真实势计算结果吻合，展示了EFT的预测能力。\n- 与量子精密测量/量子计算的关系：该论文主要涉及冷原子团簇的基态性质，未涉及量子计量学中的参数估计、量子传感、自旋压缩、Rydberg原子、离子阱、原子钟、Ramsey干涉、腔QED、光镊、量子控制或量子门等核心主题。它属于原子分子物理中少体/多体理论的基础研究，与量子精密测量或量子计算没有直接联系。\n- 是否值得精读：对于专注于量子精密测量和量子计算的研究者，不建议精读，因为其内容与这些方向无关。\n- 对我研究的可能启发：几乎没有直接启发。如果对强相互作用玻色子团簇的普适性理论感兴趣，该论文提供了有效的EFT框架。",
+  "english_digest": "## English Guide\n- Problem: Universality in strongly interacting bosonic clusters (e.g., $^4$He), where properties are determined solely by large scattering length, independent of short-range details.\n- Method: Effective field theory (EFT), with leading-order two- and three-body zero-range interactions (fixed by dimer and trimer energies), and next-to-leading-order corrections from two-body range and a four-body force.\n- Main result: Systematic convergence of ground-state energies for up to N=15 particles, with good agreement with realistic potentials, demonstrating the predictive power of the EFT.\n- Relevance: This paper focuses on the ground-state properties of cold atomic clusters, a topic in few-/many-body atomic physics. It does not address quantum metrology, quantum sensing, spin squeezing, Rydberg atoms, trapped ions, atomic clocks, Ramsey interferometry, atom interferometry, cavity QED, optical tweezers, quantum control, quantum gates, or Fisher information. Therefore, its relevance to quantum precision measurement and quantum computing is negligible.\n- Reading priority: Not recommended for researchers primarily interested in quantum metrology and quantum computing. It may be of interest to those studying universality in strongly interacting bosonic systems.\n- Possible inspiration: Minimal direct inspiration for the specified research areas. The EFT framework could be conceptually interesting for modeling interactions in other cold-atom platforms, but no immediate application to the listed topics.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27823v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27823v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Quantum tomography of free electrons",
+  "arXiv_id": "2606.25397v1",
+  "abstract": "Determining the quantum state of a given quantum-mechanical system is a fundamental task in physics. Quantum-state tomography has been pivotal for establishing quantum optics [1-4] and for revealing the properties of bound charges in materials [5-7]. An emerging other object for studying and utilizing quantum effects are free electrons, elementary particles that are central to high-resolution microscopy [8,9], electron-based quantum optics [10-17], ul-trafast electron microscopy [18-24] and particle accelerators [25-27]. However, free electrons are intrinsically incoherent, and we lack a broadly applicable method to measure and control their quantum state beyond special cases with discrete energy sidebands [28,29]. Here, we report a universal approach to measure arbitrary free-electron quantum states in continuous variables. Two monochromatic but spectrally shifted laser waves produce interfering quan-tum paths that directly reveal the density matrix and thus all essential properties of the pure wavepackets, the ensemble, and their interlinks. As a first application, we show how the quantum state of a single electron is modified by many-body Coulomb interactions of a sur-rounding electron gas. The reported concepts and results provide insight into otherwise hid-den correlations in electron beams and enable the controlled optimization of exceptional quantum states for free-electron quantum optics or quantum electron microscopy.",
+  "authors": [
+    "Y. Fang",
+    "J. Kuttruff",
+    "Z. Zhao",
+    "L. Moehrle",
+    "P. Hommelhoff",
+    "P. Baum"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.optics"
+  ],
+  "summary": "本文报道了一种测量自由电子连续变量量子态的通用方法。通过两束单色但光谱偏移的激光波产生干涉量子路径，直接揭示自由电子的密度矩阵及其纯波包、系综和相互关联的所有基本性质。作为首次应用，展示了单个电子的量子态如何被周围电子气体的多体库仑相互作用所改变。这项工作为自由电子量子光学或量子电子显微镜提供了控制优化量子态的手段。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何测量和控制自由电子的连续变量量子态？\n- 核心方法：利用两束单色但光谱偏移的激光波产生干涉量子路径，通过量子态层析直接重建密度矩阵。\n- 主要结果：首次实现了任意自由电子量子态的通用测量，并揭示了多体库仑相互作用对电子量子态的影响。\n- 与量子精密测量/量子计算的关系：本文聚焦于自由电子的量子态表征，与量子精密测量（如量子传感、Fisher信息、自旋压缩）及量子计算（如中性原子、离子阱、Rydberg原子）无直接关联。其方法可能间接启发电子束操控技术，但当前不直接适用于量子计量或量子计算平台。\n- 是否值得精读：对于自由电子量子光学或电子显微镜领域有价值，但对本研究方向参考意义有限。\n- 对我研究的可能启发：无直接启发，除非未来将自由电子用于量子传感或量子信息处理。",
+  "english_digest": "## English Guide\n- Problem: How to measure and control the continuous-variable quantum state of free electrons?\n- Method: Using two monochromatic but spectrally shifted laser waves to create interfering quantum paths, enabling quantum-state tomography to reconstruct the density matrix.\n- Main result: First universal measurement of arbitrary free-electron quantum states, revealing the effect of many-body Coulomb interactions on electron quantum states.\n- Relevance: This paper focuses on free-electron quantum state characterization, with no direct connection to quantum precision measurement (e.g., quantum sensing, Fisher information, spin squeezing) or quantum computing (e.g., neutral atoms, trapped ions, Rydberg atoms). It may indirectly inspire electron beam control but is not directly applicable to the target research areas.\n- Reading priority: Low for researchers in quantum metrology and quantum computing; high for free-electron quantum optics.\n- Possible inspiration: Minimal, unless free electrons are considered for future quantum sensing or quantum information tasks.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25397v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25397v1",
+  "local_pdf_path": ""
+}

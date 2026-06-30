@@ -1,0 +1,28 @@
+{
+  "title": "Doppler-enhanced superheterodyne Rydberg microwave receiver",
+  "arXiv_id": "2606.24247v1",
+  "abstract": "We report the enhanced sensitivity of the Rydberg microwave (MW) receiver by exploiting the Doppler effect in a vapor cell. A two-photon Rydberg ladder scheme is implemented via the co-propagation of probe and coupling lasers, which enhances the Doppler effect. When an MW field is applied, microwave dressing modifies the velocity-dependent resonance condition, enabling stronger contributions from atoms with non-zero velocities and leading to an enhancement of the EIT transmission. Based on this mechanism, we achieve a sensitivity of $35.1\\ \\mathrm{nV\\ cm^{-1}\\ Hz^{-1/2}}$ using the heterodyne technique, which is 1.5 times better than that obtained in the counter-propagating configuration. Meanwhile, the required local oscillator (LO) field is reduced by a factor of 17.6 compared with the counter-propagating configuration, which is advantageous for applications requiring minimal radiation and low power consumption. Moreover, the co-propagating configuration is more amenable to integration or portable sensing platforms because multiple laser fields can be delivered through a single optical fiber.",
+  "authors": [
+    "Yuwen Yin",
+    "Ruimin Chen",
+    "Shibing Ji",
+    "Jinlian Hu",
+    "Shaofeng Wang",
+    "Yunhui He",
+    "Jingxu Bai",
+    "Xiao-Qiang Shao",
+    "Yuechun Jiao",
+    "Jianming Zhao"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "summary": "本文报道了一种利用多普勒效应增强的Rydberg超外差微波接收器。通过在蒸气池中实现探测光和耦合光的同向传播，增强了多普勒效应。当施加微波场时，微波修饰改变了速度依赖的共振条件，使得非零速度的原子贡献增强，从而提高了电磁感应透明（EIT）传输效率。基于此机制，利用外差技术实现了35.1 nV cm⁻¹ Hz⁻¹/²的灵敏度，比反向传播配置提高了1.5倍，同时所需本地振荡器（LO）场强降低了17.6倍。同向传播配置更适合集成或便携式传感平台，因为多个激光场可通过单根光纤传输。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何提高Rydberg微波接收器的灵敏度并降低本地振荡器需求？\n- 核心方法：利用同向传播的探测光和耦合光增强多普勒效应，结合微波修饰和超外差技术。\n- 主要结果：灵敏度达35.1 nV cm⁻¹ Hz⁻¹/²，比反向传播配置提高1.5倍，本地振荡器场强降低17.6倍。\n- 与量子精密测量/量子计算的关系：该工作直接属于量子精密测量和量子传感领域，特别是基于Rydberg原子的微波传感。Rydberg原子因其大电偶极矩和高灵敏度，在量子计量学中具有重要应用。该技术可扩展至量子计算中的微波控制与读出，例如中性原子量子计算中Rydberg态的操控和纠缠门操作。此外，多普勒增强机制对原子干涉仪和Ramsey干涉仪中的噪声抑制或信号增强有启发意义。\n- 是否值得精读：是，该工作展示了实验上易于实现的灵敏度提升方案，对便携式量子传感器和集成化量子平台有重要意义。\n- 对我研究的可能启发：可借鉴同向传播配置优化Rydberg原子系统中的微波传感；该多普勒增强机制可能应用于spin squeezing或one-axis twisting中的噪声抑制；低LO场需求有利于减少对量子态的干扰，在量子控制中具有潜力。",
+  "english_digest": "## English Guide\n- Problem: How to enhance the sensitivity of Rydberg microwave receivers while reducing local oscillator (LO) field requirements?\n- Method: Exploiting the Doppler effect via co-propagation of probe and coupling lasers in a vapor cell, combined with microwave dressing and superheterodyne technique.\n- Main result: Achieved a sensitivity of 35.1 nV cm⁻¹ Hz⁻¹/² (1.5× improvement over counter-propagating configuration) and reduced LO field by a factor of 17.6.\n- Relevance: This work is highly relevant to quantum precision measurement and quantum sensing, particularly for Rydberg-atom-based microwave detection. Rydberg atoms are a key platform for quantum metrology due to their large electric dipole moments. The technique also connects to neutral-atom quantum computing, where Rydberg states are used for gates and entanglement. The Doppler-enhanced mechanism may inspire new approaches in atom interferometry, Ramsey interferometry, and spin squeezing protocols. The reduced LO requirement is advantageous for minimizing back-action in quantum control and readout.\n- Reading priority: High. The paper offers an experimentally feasible sensitivity improvement with implications for portable quantum sensors and integrated quantum platforms.\n- Possible inspiration: Adopt co-propagation configuration to optimize microwave sensing in other Rydberg systems; explore Doppler enhancement for noise mitigation in spin squeezing or one-axis twisting; leverage low LO field for non-invasive quantum state control in trapped-ion or neutral-atom qubits.",
+  "relevance_score": 9.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.24247v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.24247v1",
+  "local_pdf_path": ""
+}

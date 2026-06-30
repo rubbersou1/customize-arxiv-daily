@@ -1,0 +1,26 @@
+{
+  "title": "Improving Beam Quality in Gravitational-Wave Interferometers Illuminated by Higher-Order Laguerre-Gaussian Modes",
+  "arXiv_id": "2606.30210v1",
+  "abstract": "Higher-order Laguerre-Gaussian (LG) laser modes have been proposed to reduce test-mass thermal noise in laser interferometric gravitational-wave detectors, owing to their more homogeneous intensity profiles compared to the currently employed fundamental Gaussian beam. However, LG beams such as the LG$_{3,3}$ mode suffer significant beam quality degradation in Fabry-Perot arm cavities in GW detectors with realistic state-of-the-art mirror surface figure errors, due to scattering into degenerate modes of the same order, which are resonantly enhanced by shared cavity resonance conditions. In this work, we investigate an alternative ''donut-shaped'' LG$_{0,\\ell}$-like mode, specifically the LG$_{0,6}$ mode, and demonstrate strategies to improve its performance. These include the introduction of a tailored circular mirror mask with anti-reflective coating in the central region, which selectively increases the losses of parasitic degenerate modes while minimally impacting the LG$_{0,6}$ mode due to its limited overlap with the masked area. We further assess the marginal benefits of anticipated improvements in mirror surface figure errors and the potential reduction of cavity finesse. We demonstrate that these strategies can reduce the average contrast defect by more than two orders of magnitude and lower the mode loss by nearly a factor of five, achieving performance at or below the typical values observed in current detectors. This work opens up new research and development pathways for employing LG$_{0,\\ell}$-type modes that achieve significant thermal noise reduction while maintaining beam quality and optical performance comparable to current gravitational-wave interferometers.",
+  "authors": [
+    "Liu Tao",
+    "Yuefan Guo",
+    "Alberto Gatto",
+    "Eleonora Capocasa",
+    "Jérome Degallaix",
+    "Massimo Granata",
+    "Matteo Tacca",
+    "Matteo Barsuglia"
+  ],
+  "categories": [
+    "astro-ph.IM",
+    "physics.optics"
+  ],
+  "summary": "本文研究了在引力波干涉仪中使用高阶拉盖尔-高斯（LG）模式（如LG₀,₆模式）以降低测试质量热噪声，并针对其在实际镜面误差下因简并模式散射导致的束质量退化问题，提出了引入带抗反射涂层的圆形掩膜、改进镜面形貌和降低腔精细度等策略。结果表明，这些方法可将平均对比缺陷降低两个数量级以上，模式损耗降低近五倍，使束质量达到当前探测器水平。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何改善高阶LG模式在引力波干涉仪中的束质量，以降低热噪声。\n- 核心方法：在Fabry-Perot腔中引入带抗反射涂层的圆形掩膜，选择性地增加寄生简并模式的损耗，同时结合镜面形貌改进和腔精细度降低。\n- 主要结果：平均对比缺陷降低>100倍，模式损耗降低约5倍，达到当前探测器水平。\n- 与量子精密测量/量子计算的关系：本文属于经典引力波探测光学设计，与量子精密测量（如量子Fisher信息、自旋压缩）无直接关联；虽涉及干涉测量，但未涉及量子资源（如纠缠、压缩态）或量子传感协议。\n- 是否值得精读：对于专注于量子传感/量子计算的研究者，相关性低，不建议精读。\n- 对我研究的可能启发：无直接启发，但其中对高阶模式噪声抑制的思考方式（如模式选择性损耗）可能间接启发量子系统中的噪声管理。",
+  "english_digest": "## English Guide\n- Problem: How to improve beam quality of higher-order LG modes in gravitational-wave interferometers to reduce thermal noise.\n- Method: Introduce a circular mirror mask with anti-reflective coating in Fabry-Perot cavities, combined with improved mirror figure errors and reduced cavity finesse. \n- Main result: Average contrast defect reduced by >100 times, mode loss reduced by ~5 times, achieving performance comparable to current detectors.\n- Relevance: This paper focuses on classical gravitational-wave interferometry and optical beam shaping, with no direct connection to quantum metrology (e.g., quantum Fisher information, spin squeezing), quantum sensing, quantum computing, Rydberg atoms, or trapped ions. It does not involve quantum resources or protocols.\n- Reading priority: Low for researchers in quantum precision measurement or quantum computing; not recommended for detailed reading.\n- Possible inspiration: Indirectly, the approach of selectively suppressing parasitic modes might inspire noise management in quantum systems, but the connection is weak.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30210v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30210v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Dynamic Topological Light Control in Reconfigurable Non-Hermitian Metastacks",
+  "arXiv_id": "2606.29996v1",
+  "abstract": "Metasurfaces often require complex lithography for dynamic optical control. To overcome this, we utilize a lithography-free, non-Hermitian planar metastack comprising a distributed Bragg reflector and a vanadium dioxide (VO2) thin film. By virtue of temperature and thermal hysteresis as an active synthetic dimension and exploiting the VO2 insulator-to-metal transition, we actively tune topological interface states to achieve polarization-sensitive spectral control. Notably, our system hosts path-dependent exceptional points (EPs); the intermediate hysteretic states generate a continuum of hot and cold EP pairs that ultimately converge into a single, degenerate EP. Furthermore, we experimentally observe wide-range dynamic optical control, comprising reversible 8% spectral shifts with near-unity reflectance modulation, alongside potential for ultrafast dynamics. Ultimately, our CMOS-compatible design provides a scalable, simple platform for active and topological photonics.",
+  "authors": [
+    "Ryan Hogan",
+    "Zihan Lu",
+    "Han Peng",
+    "Jie Zhou",
+    "Yanling Xiao",
+    "Shining Zhu",
+    "Hui Liu"
+  ],
+  "categories": [
+    "physics.optics",
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "summary": "该论文提出了一种无需光刻的非厄米平面超堆栈结构，利用分布式布拉格反射镜和二氧化钒（VO2）薄膜，通过温度调控和热滞效应作为主动合成维度，实现动态拓扑界面态调控。系统展示了路径依赖的异常点（EPs），中间滞回态产生连续的热、冷EP对并最终合并为单一简并EP。实验上观察到可逆的8%光谱偏移和近全反射率调制，具备超快动态潜力。该CMOS兼容设计为主动拓扑光子学提供了可扩展平台。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何实现无需复杂光刻的动态光学控制？\n- 核心方法：利用VO2相变和热滞效应作为合成维度，构建非厄米平面超堆栈，调控拓扑界面态。\n- 主要结果：实现可逆光谱偏移（8%）、近全反射率调制，并观察到路径依赖的异常点行为。\n- 与量子精密测量/量子计算的关系：该工作属于拓扑光子学与主动超表面领域，与量子精密测量（如基于原子、离子或Rydberg系统的量子传感）和量子计算（如中性原子、离子阱量子门）无直接关联。文中未涉及量子Fisher信息、自旋压缩、Ramsey干涉、腔QED、光镊或量子控制等核心概念。\n- 是否值得精读：对于量子精密测量和量子计算方向的研究者，相关性较低，不建议精读。\n- 对我研究的可能启发：可能为量子传感中的光操控（如光学捕获或干涉仪）提供可调谐光学元件思路，但技术路径差异较大。",
+  "english_digest": "## English Guide\n- Problem: How to achieve dynamic optical control without complex lithography?\n- Method: Using VO2 phase transition and thermal hysteresis as a synthetic dimension in a non-Hermitian planar metastack to tune topological interface states.\n- Main result: Reversible 8% spectral shift, near-unity reflectance modulation, and observation of path-dependent exceptional points.\n- Relevance: This work is in topological photonics and active metasurfaces, with no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing, Ramsey interferometry, atom interferometry, cavity QED) or quantum computing (e.g., neutral atoms, trapped ions, Rydberg atoms, quantum gates).\n- Reading priority: Low for researchers in quantum sensing/metrology/computing.\n- Possible inspiration: Could inspire tunable optical components for quantum sensing setups (e.g., optical tweezers or interferometers), but the technical approach is quite different.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29996v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29996v1",
+  "local_pdf_path": ""
+}

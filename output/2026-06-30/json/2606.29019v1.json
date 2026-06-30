@@ -1,0 +1,20 @@
+{
+  "title": "Optically dense nanowire metamaterials are transparent to polarization",
+  "arXiv_id": "2606.29019v1",
+  "abstract": "We study the transport of light through dense opaque anisotropic metamaterials consisting of oriented nanowires. The nanowires consist of polymer photoresist that is structured by direct laser writing (DLW) with two-photon induced polymerization, with radii between $a = 0.5$ and $1~μ\\text{m}$. Our flat samples have a thickness up to 9 layers, from $L = 3~μ\\text{m}$ to $20~μ\\text{m}$. Within each layer, the nanowires are parallel and spaced with random nearest-neighbor distances; nanowires in adjacent layers are perpendicular. The diffuse optical transmission at $λ= 633~$nm is as low as $T = 12 \\%$, typical of optically dense, multiple scattering metamaterials, with a mean free path down to $\\ell = 1.1~μ\\text{m}$, much less than the sample thickness. It is striking that the linear polarization of the input light is maintained at the output of the dense nanowire samples, and not scrambled as in dense nanosphere arrays. Moreover, the linear output polarization faithfully tracks the input polarization. We propose that the polarization is maintained in our optically thick samples, since light is predominantly transported perpendicularly to the nanowire layers. The polarization vector then lies in the nanowire plane, consisting of a linear combination of parallel and perpendicular vectors that are both conserved upon subsequent scattering. Hence, the polarization remains independent of nanowire orientation, even after multiple scattering events. We propose that anisotropic scattering samples may find practical uses in white LEDs and its applications in lighting luminaires, optical communication, and encryption systems.",
+  "authors": [
+    "Shravan Raghunathan",
+    "Ad Lagendijk",
+    "Willem L. Vos"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "该论文研究了由定向纳米线构成的致密、不透明的各向异性超材料的光学传输特性。实验发现，尽管样品光学厚度大（透射率低至12%，平均自由程远小于厚度），但入射光的线性偏振在出射时得以保持，并能忠实跟踪输入偏振方向。作者提出，这是由于光主要垂直于纳米线层传输，偏振矢量位于纳米线平面内，其平行和垂直分量在多次散射中均被守恒，因此偏振不受纳米线取向影响。该发现对白光LED、光学通信和加密系统有潜在应用。",
+  "chinese_digest": "## 中文导读\n- 研究问题：致密纳米线超材料中偏振保持的机制是什么？\n- 核心方法：通过双光子聚合直接激光写入制备不同层数、不同半径的聚合物纳米线样品，测量633 nm波长下的光学透射率和偏振状态。\n- 主要结果：在光学厚度大、多次散射强的样品中，线性偏振保持完好，且输出偏振方向与输入一致。\n- 与量子精密测量/量子计算的关系：本文研究经典光学散射和偏振性质，不涉及量子效应、量子传感、量子计算或量子计量学中的核心概念（如量子Fisher信息、自旋压缩、拉姆齐干涉等）。\n- 是否值得精读：对于量子精密测量和量子计算领域，不推荐精读。\n- 对我研究的可能启发：无直接启发，但偏振保持机制可能对某些经典光学传感系统有参考价值，但与量子传感和量子计算无关。",
+  "english_digest": "## English Guide\n- Problem: What is the mechanism of polarization preservation in dense nanowire metamaterials?\n- Method: Fabrication of polymer nanowire samples with varying layers and radii via two-photon polymerization direct laser writing; measurement of optical transmission and polarization at 633 nm.\n- Main result: Linear polarization is maintained and faithfully tracks the input polarization even in optically thick, multiply scattering samples.\n- Relevance: This paper focuses on classical optical scattering and polarization, with no connection to quantum metrology, sensing, computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information.\n- Reading priority: Not recommended for researchers in quantum precision measurement or quantum computing.\n- Possible inspiration: No direct inspiration for quantum sensing or quantum computing; the polarization preservation mechanism might be of interest to classical optical sensor design, but not to the specified research fields.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29019v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29019v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Experimentally-determined performance limits for joint imaging and wavefront sensing with a photonic lantern",
+  "arXiv_id": "2606.27585v1",
+  "abstract": "The photonic lantern (PL) is a focal-plane wavefront sensor (WFS) that can be used for second-stage control of extreme adaptive optics (AO) systems. While the number of sensed modes and the dynamic range with respect to each mode have been relatively well characterized, little attention has been paid to the PL's sensitivity, i.e. how measurement noise impacts the accuracy of PL wavefront reconstruction. We compute the PL's sensitivity to photon noise as a function of spatial frequency, and compare it to existing WFSs, using simulations as well as experiments on the muirSEAL testbed. We further assess these metrics in the case where only a subset of PL ports are available for wavefront sensing. In this configuration, the remaining ports are used to spatially and spectrally reconstruct the observed scene using algorithms such as SPADE. Using more ports for wavefront sensing enables greater aberration sensitivity but leaves less spatial information for image reconstruction. This allows us to trade off between fewer samples with smaller aberrations and more samples with larger aberrations. This work sets the stage for AO system design incorporating the PL as a joint WFS and imager.",
+  "authors": [
+    "Aditya R. Sengupta",
+    "Vincent Chambouleyron",
+    "Rebecca Jensen-Clem",
+    "Emiel Por",
+    "Benjamin L. Gerard",
+    "Jordan Diaz",
+    "Zoe Weber-Porter",
+    "Yoo Jung Kim",
+    "Steph Sallum",
+    "Matthew DeMartino",
+    "Daren Dillon",
+    "Kevin Bundy",
+    "Anna K. Gagnebin",
+    "Philip Hinz",
+    "Caleb Dobias",
+    "Tara Crowe",
+    "Stephen S. Eikenberry",
+    "Rodrigo Amezcua-Correa",
+    "Stephanos Yerolatsitis"
+  ],
+  "categories": [
+    "astro-ph.IM",
+    "physics.optics"
+  ],
+  "summary": "这篇论文通过实验和模拟研究了光子灯笼（PL）作为焦面波前传感器的性能极限，重点关注其在不同空间频率下对光子噪声的灵敏度。论文比较了PL与现有波前传感器（WFS）的性能，并探讨了在仅使用部分PL端口进行波前传感时，如何权衡波前传感精度与图像重建的空间信息。结果表明，使用更多端口进行波前传感能提高像差灵敏度，但会减少用于图像重建的空间信息，从而为极端自适应光学系统的设计提供权衡依据。",
+  "chinese_digest": "## 中文导读\n- 研究问题：光子灯笼波前传感器在光子噪声下的性能极限，以及其在联合成像和波前传感中的权衡。\n- 核心方法：实验测量与模拟相结合，评估PL在不同空间频率下的灵敏度，并与现有WFS比较。\n- 主要结果：PL的灵敏度随空间频率变化；在部分端口用于波前传感时，需要在波前精度与图像信息之间权衡。\n- 与量子精密测量/量子计算的关系：本文涉及经典光学传感和自适应光学，与量子精密测量（如量子Fisher信息、自旋压缩）、量子计算（如中性原子、离子阱）无直接关联。主题属于经典自适应光学和成像，而非量子传感或量子计算平台。\n- 是否值得精读：不值得精读。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Performance limits of a photonic lantern wavefront sensor under photon noise, and the trade-off between joint imaging and wavefront sensing.\n- Method: Combined experimental measurements and simulations to evaluate sensitivity across spatial frequencies, comparing with existing wavefront sensors.\n- Main result: Sensitivity varies with spatial frequency; using more ports for wavefront sensing improves aberration sensitivity but reduces spatial information for image reconstruction.\n- Relevance: This paper focuses on classical adaptive optics and imaging, with no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It is not relevant to the user's research interests.\n- Reading priority: Low.\n- Possible inspiration: None for the specified fields.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27585v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27585v1",
+  "local_pdf_path": ""
+}

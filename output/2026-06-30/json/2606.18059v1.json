@@ -1,0 +1,22 @@
+{
+  "title": "Universal scaling and relaxation in decaying turbulence of Bose gases",
+  "arXiv_id": "2606.18059v1",
+  "abstract": "Understanding the relaxation dynamics of isolated quantum systems remains a central challenge in nonequilibrium physics. In this short review, we discuss recent experimental and theoretical advances in universal dynamics of turbulent Bose gases, with particular emphasis on nonthermal fixed points and wave turbulence in our experimental system at the São Carlos Institute of Physics of the University of São Paulo. We highlight the emergence of self-similar scaling behavior and its connection to particle and energy transport across momentum scales. In addition, we discuss an approach in which a differential equation has a universal scaling solution, providing a practical framework for extracting universal exponents from limited regions of the momentum distribution. Furthermore, we recap experimental observations of direct and inverse cascades in a three-dimensional trapped Bose--Einstein condensate, revealing distinct relaxation stages governed by universal scaling laws. These results demonstrate that turbulence plays a key role in far-from-equilibrium dynamics, offering a unified perspective on transport processes and thermalization in quantum many-body systems.",
+  "authors": [
+    "Arnol D. García-Orozco",
+    "Michelle A. Moreno-Armijos",
+    "Sarah Sab",
+    "Amilson Fritsch",
+    "Vanderlei Salvador Bagnato"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "这篇论文综述了玻色气体湍流中的普适标度与弛豫动力学，重点讨论了非热固定点和波湍流的实验与理论进展。作者介绍了在三维玻色-爱因斯坦凝聚体中观察到的直接和逆级联过程，以及通过微分方程的普适标度解提取指数的方法。研究揭示了远离平衡态的量子多体系统中输运和热化的统一视角。",
+  "chinese_digest": "## 中文导读\n- 研究问题：量子多体系统（玻色气体）在远离平衡态时的弛豫动力学和普适标度行为。\n- 核心方法：实验观测三维玻色-爱因斯坦凝聚体中的湍流现象，结合非热固定点和波湍流理论，利用微分方程的标度解分析动量分布。\n- 主要结果：发现了直接和逆级联过程，揭示了不同弛豫阶段由普适标度律支配。\n- 与量子精密测量/量子计算的关系：该论文主要关注量子多体系统的非平衡统计物理和湍流，与量子精密测量（如量子Fisher信息、自旋压缩）、量子计算（如中性原子量子门、离子阱）无直接关联。文中未涉及量子传感、里德伯原子、原子钟或量子控制等核心主题。\n- 是否值得精读：对于研究量子精密测量或量子计算的研究者，相关性较低，不建议优先精读。\n- 对我研究的可能启发：虽然不直接相关，但其中关于非平衡动力学和普适标度的思想可能在量子传感中的噪声抑制或量子控制中的退相干研究中具有间接参考价值。",
+  "english_digest": "## English Guide\n- Problem: Universal scaling and relaxation dynamics in quantum many-body systems (Bose gases) far from equilibrium.\n- Method: Experimental observation of turbulence in 3D Bose-Einstein condensates, combined with nonthermal fixed points and wave turbulence theory; scaling solutions of differential equations to extract exponents. \n- Main result: Direct and inverse cascades observed, revealing distinct relaxation stages governed by universal scaling laws.\n- Relevance: This paper focuses on non-equilibrium statistical physics and turbulence in quantum gases, with no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The topics of quantum control, atomic clocks, or cavity QED are not addressed.\n- Reading priority: Low priority for researchers in quantum precision measurement or quantum computing. Not recommended for detailed reading unless one seeks tangential insights into non-equilibrium dynamics.\n- Possible inspiration: The concepts of universal scaling and relaxation may offer indirect inspiration for understanding decoherence in quantum control or noise mitigation in quantum sensing, but the link is weak.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.18059v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.18059v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Applications of quantum annealing to magnetic dipole hyperfine structure constants: First results beyond energies for atoms",
+  "arXiv_id": "2606.20166v2",
+  "abstract": "We report the first results of the magnetic dipole hyperfine structure (HFS) constants of neutral $\\mathrm{Li}$, Li-like $\\mathrm{Be}$, neutral $\\mathrm{Na}$, and Na-like $\\mathrm{Mg}$ using a modified version of the Quantum Annealer Eigensolver (QAE) algorithm on D-Wave's quantum hardware. The results are benchmarked against relativistic configuration interaction with multiconfiguration Dirac Hartree-Fock (MCDHF) calculations using the General-purpose Relativistic Atomic Structure Package (GRASP), and simulated annealing. In our modified QAE, a zooming-and-sigma-annealing approach with a floating-point encoding scheme is adopted to estimate the ground-state eigenvalue and eigenvector of the relativistic Dirac-Coulomb Hamiltonian matrices ($H_{\\mathrm{DC}}$) constructed from 11 or fewer configuration state functions (CSFs). For calculations with extended correlation orbital sets, we applied a CSF truncation scheme, retaining only CSFs (up to 12) that make significant contributions to the ground-state wavefunction. Our modified QAE precision is kept limited to three decimal places (up to 10 qubits). Hardware demonstrations on the D-Wave quantum processing unit (QPU) yielded results that were completely consistent with GRASP (at the chosen precision) in determining the magnetic dipole HFS constants, with accuracy varying across systems and $H_{\\mathrm{DC}}$ matrix dimensions.",
+  "authors": [
+    "Boni Paul",
+    "Subimal Deb",
+    "Per Jönsson",
+    "Jörgen Ekman",
+    "Bhanu Pratap Das"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph",
+    "physics.chem-ph"
+  ],
+  "summary": "该论文首次报告了使用D-Wave量子退火硬件，通过改进的量子退火特征求解器（QAE）算法计算中性锂、类锂铍、中性钠和类钠镁的磁偶极超精细结构（HFS）常数。研究采用缩放-西格玛退火和浮点编码方案，估计了由少量组态波函数（CSFs）构成的相对论Dirac-Coulomb哈密顿矩阵的基态本征值和本征向量。对于更大相关轨道集，通过截断CSFs（保留最多12个主要贡献者）进行近似。在D-Wave量子处理单元上的演示结果与基于GRASP的多组态Dirac-Hartree-Fock计算在选定精度（小数点后三位）下完全一致，精度因系统和矩阵维度而异。",
+  "chinese_digest": "## 中文导读\n- 研究问题：利用量子退火硬件计算原子磁偶极超精细结构常数，这是原子物理中的精确计算问题。\n- 核心方法：改进的量子退火特征求解器（QAE）算法，结合缩放-西格玛退火和浮点编码，在D-Wave量子退火机上求解相对论Dirac-Coulomb哈密顿矩阵的基态。\n- 主要结果：对Li、Be+、Na、Mg+等轻原子系统，QAE结果与经典GRASP计算在三位小数精度内一致。\n- 与量子精密测量/量子计算的关系：论文主要聚焦于量子退火在原子结构计算中的应用，而非量子传感或精密测量协议本身。虽然超精细结构常数与原子钟、Rydberg原子传感间接相关，但论文未涉及量子Fisher信息、自旋压缩、Ramsey干涉仪等核心概念。量子计算方面，使用了量子退火硬件，但未涉及量子门、纠错或中性原子量子计算等前沿平台。\n- 是否值得精读：对于主要关注量子精密测量和量子计算实验方案的研究者，该论文相关性较低，不建议精读。\n- 对我研究的可能启发：可了解量子退火在原子物理计算中的潜力，但对直接推进量子传感或量子计算实验的帮助有限。",
+  "english_digest": "## English Guide\n- Problem: Computing magnetic dipole hyperfine structure constants for light atoms using quantum annealing hardware. \n- Method: Modified Quantum Annealer Eigensolver (QAE) with zooming-and-sigma-annealing and floating-point encoding on D-Wave quantum hardware, solving relativistic Dirac-Coulomb Hamiltonian matrices. \n- Main result: Results for Li, Be+, Na, Mg+ match classical GRASP calculations to three-decimal precision. \n- Relevance: This paper is primarily about quantum annealing applied to atomic structure calculations. It has marginal direct relevance to quantum metrology, sensing, or computing as defined by the user's interests (e.g., no quantum Fisher information, spin squeezing, Ramsey interferometry, Rydberg sensing, neutral-atom gates, or trapped-ion protocols). The connection to atomic clocks or Rydberg atoms is only indirect via hyperfine constants. \n- Reading priority: Low. Not recommended for those focused on quantum precision measurement or quantum computing experiments. \n- Possible inspiration: Could provide a perspective on using quantum hardware for atomic property calculations, but offers limited insight for designing quantum sensing protocols or quantum computing platforms.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.20166v2",
+  "arxiv_url": "http://arxiv.org/abs/2606.20166v2",
+  "local_pdf_path": ""
+}

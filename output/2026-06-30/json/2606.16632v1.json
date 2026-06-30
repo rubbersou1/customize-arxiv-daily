@@ -1,0 +1,22 @@
+{
+  "title": "Quantum enhancement and Doppler suppression of Kasevich-Chu atom interferometer with motional squeezing states",
+  "arXiv_id": "2606.16632v1",
+  "abstract": "Hybridization of internal and external atomic degrees of freedom in a Kasevich-Chu interferometer enables the possibility to enhance the sensitivity significantly even under quantum-standard limit. By introducing motional squeezing state as an input, we systematically derive the computational framework of quantum and classical Fisher information of two measurement protocols for arbitrary strength of Doppler effects. Through maximizing the corresponding classical Fisher information, we obtain the optimal control parameters and the corresponding quantum Fisher information. For population measurement, the largest sensitivity can be as large as four times than the semi-classical limit through enlarging the atom coherence length. For joint measurement of population and position, the competition between quantum enhancement and Doppler suppression induces two three behaviors, in one regime, the quantum enhancement dominates even in presence of strong Doppler broadening effects where the sensitivity is significantly enhanced; while in another regime, an optimal squeezing parameter is observed where the classical Fisher information reaches the maximum. Our results clearly demonstrate the robustness of external quantum enhancement against Doppler suppression. Our proposal can be readily applied to gravimeter of mobile platform where decoherence from noise will damage the many-body entanglement of internal spin squeezing.",
+  "authors": [
+    "Dongyang Yu",
+    "Yubin Wang",
+    "Fong En Oon",
+    "Qiang Lin"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文研究了在Kasevich-Chu原子干涉仪中引入运动压缩态作为输入，以增强灵敏度并抑制多普勒效应。作者系统推导了两种测量协议（布居数测量和联合测量）的量子Fisher信息和经典Fisher信息计算框架，通过最大化经典Fisher信息获得了最优控制参数。结果表明，布居数测量下灵敏度可达半经典极限的四倍，而联合测量中量子增强与多普勒抑制存在竞争关系，出现两种不同行为区域。该工作展示了外部量子增强对多普勒抑制的鲁棒性，可应用于移动平台重力仪。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用运动压缩态提升Kasevich-Chu原子干涉仪的灵敏度，并在多普勒效应存在下实现量子增强。\n- 核心方法：引入运动压缩态作为输入，基于量子Fisher信息和经典Fisher信息框架，系统分析两种测量协议（布居数测量和联合测量）的灵敏度极限，优化控制参数。\n- 主要结果：布居数测量下灵敏度可提升至半经典极限的四倍；联合测量中量子增强与多普勒抑制竞争，存在最优压缩参数；外部量子增强对多普勒效应具有鲁棒性。\n- 与量子精密测量/量子计算的关系：直接关联量子精密测量（原子干涉仪、Fisher信息、灵敏度增强）、量子传感（多普勒抑制、运动压缩态）以及量子控制（优化参数），与自旋压缩、中性原子平台（如光晶格、光镊）高度相关。\n- 是否值得精读：是，该工作为实验实现提供了理论框架，对移动平台重力仪等实际应用有直接指导意义。\n- 对我研究的可能启发：可借鉴其Fisher信息优化方法用于其他量子传感协议（如Rydberg原子微波传感），或探索运动压缩态与自旋压缩的协同增强效应。",
+  "english_digest": "## English Guide\n- Problem: How to enhance sensitivity and suppress Doppler effects in Kasevich-Chu atom interferometers using motional squeezing states. \n- Method: Introduce motional squeezing as input, derive quantum and classical Fisher information frameworks for two measurement protocols (population and joint measurements), and optimize control parameters. \n- Main result: Population measurement achieves up to 4× sensitivity over semi-classical limit; joint measurement shows competition between quantum enhancement and Doppler suppression with an optimal squeezing parameter; external quantum enhancement is robust against Doppler broadening. \n- Relevance: Directly relevant to quantum metrology (atom interferometry, Fisher information), quantum sensing (motional squeezing, Doppler suppression), and quantum control. Strong connections to spin squeezing, neutral-atom platforms (optical tweezers, optical lattices), and trapped ions. \n- Reading priority: High. Provides a practical theoretical framework for experimental implementation, especially for mobile gravimeters. \n- Possible inspiration: Apply the Fisher information optimization method to other sensing protocols (e.g., Rydberg-atom microwave sensing) or explore synergy between motional squeezing and spin squeezing for enhanced metrology.",
+  "relevance_score": 9.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.16632v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.16632v1",
+  "local_pdf_path": ""
+}

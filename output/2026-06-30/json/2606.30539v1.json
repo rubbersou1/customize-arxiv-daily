@@ -1,0 +1,22 @@
+{
+  "title": "Finite-size effects in Schulz-Shastry-Luttinger models for determining anyonic signatures in 1d spin chains",
+  "arXiv_id": "2606.30539v1",
+  "abstract": "We study finite-size properties of Schulz-Shastry-Luttinger liquids to reveal anyonic signatures, realized as low-energy excitations on top of the helical ground state in saturated spin-1/2 zigzag chains. The model features asymmetric and marginal couplings of density and phase gradients and belongs to the Schulz-Shastry class. We investigate periodic and Dirichlet boundary conditions and discuss its diagonalization as well as its stability. Although Dirichlet boundary conditions require a fine-tuning of coupling constants and universal parameters, only their magnitude is restricted for cyclic systems. We derive boundary characteristic quantities like Friedel oscillations and persistent currents. Finally, we discuss the bulk and boundary behavior of the longitudinal spin correlations including subleading corrections.",
+  "authors": [
+    "B. Perković",
+    "M. Bonkhoff",
+    "T. Posske"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.str-el",
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了Schulz-Shastry-Luttinger液体中的有限尺寸效应，以揭示一维自旋链中任意子（anyon）的签名。模型基于饱和自旋1/2之字形链的螺旋基态上的低能激发，具有密度和相位梯度的非对称及边际耦合，属于Schulz-Shastry类。作者探讨了周期性和Dirichlet边界条件，讨论了模型的对角化及其稳定性，并推导了边界特征量如Friedel振荡和持续电流，最后分析了纵向自旋关联的体态和边界行为，包括次主导修正。",
+  "chinese_digest": "## 中文导读\n- 研究问题：一维自旋链中任意子签名的有限尺寸效应。\n- 核心方法：使用Schulz-Shastry-Luttinger液体模型，结合周期性和Dirichlet边界条件进行解析对角化和稳定性分析。\n- 主要结果：揭示了边界条件对耦合常数和普适参数的精细调节要求，导出了Friedel振荡、持续电流以及纵向自旋关联的修正行为。\n- 与量子精密测量/量子计算的关系：该论文主要关注凝聚态物理中的任意子理论和一维自旋链模型，与量子精密测量（如量子Fisher信息、自旋压缩）或量子计算（如中性原子、离子阱、Rydberg原子平台）无直接关联。任意子虽与拓扑量子计算相关，但本文未涉及量子计算协议或实验平台。\n- 是否值得精读：不值得。该论文属于理论凝聚态物理范畴，与您的研究领域（量子传感、量子计量、量子计算实验平台）差距较大。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Finite-size effects in Schulz-Shastry-Luttinger models for determining anyonic signatures in 1d spin chains. \n- Method: Analytical diagonalization and stability analysis of the Schulz-Shastry model under periodic and Dirichlet boundary conditions. \n- Main result: Derived boundary characteristics (Friedel oscillations, persistent currents) and subleading corrections to longitudinal spin correlations. \n- Relevance: This paper is focused on condensed matter theory (anyons in 1D spin chains). It has no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing), quantum sensing, or quantum computing platforms (neutral atoms, trapped ions, Rydberg atoms, cavity QED). \n- Reading priority: Low. It does not align with your research interests in quantum metrology, sensing, or computation. \n- Possible inspiration: None.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30539v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30539v1",
+  "local_pdf_path": ""
+}

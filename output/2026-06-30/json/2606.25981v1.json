@@ -1,0 +1,22 @@
+{
+  "title": "Exact modes, hybridization and polarization rotation of electromagnetic fields propagating in topological insulating slab",
+  "arXiv_id": "2606.25981v1",
+  "abstract": "We study electromagnetic waves in slab waveguides with a topological insulator core characterized by a topological magnetoelectric parameter (ME). TIs are electrically insulating in the bulk with robust conducting states at their boundaries. Their electromagnetic response is described by an axion-like $Θ$ term that modifies Maxwell's electrodynamics, leading to rich and unconventional phenomena, as the topological ME effect. All supported modes are exact hybrid modes with nonvanishing longitudinal field components. This hybridization is a consequence of the boundary conditions produced by the $Θ$ term and is absent in topologically trivial, reciprocal and non-chiral slab waveguides. Modifications to the propagation condition and modes are shown for the asymmetric slab. The detailed solution of the exact modes, coupling of modes and the dispersion relations is made for the symmetric slab. By solving the full $Θ$-electrodynamics nonperturbatively, we derive the modal dispersion relations and explore polarization rotation and power transfer between modes. Our approach reveals qualitative and quantitative deviations from standard coupled-mode theory and captures new signatures of the topological ME response. Due to the smallness of the $Θ$-effects, we perform a perturbative analysis of mode propagation, based on writing a general solution as a superposition of exact modes of $Θ$-ED but expanding to first non-vanishing order. Also, we apply coupled-mode theory, that is predicated on building solutions as superpositions of modes of ordinary electrodynamics that fail to satisfy the boundary conditions imposed by the $Θ$-term but compensate at the expense of modifying the field profiles. These findings provide a comprehensive framework for light control in topological photonics and potential routes to experimentally probe the ME effect in guided settings.",
+  "authors": [
+    "Sebastián Filipini",
+    "Mauro Cambiaso",
+    "Alberto Martín-Ruiz",
+    "Luis F. Urrutia"
+  ],
+  "categories": [
+    "physics.optics",
+    "cond-mat.mes-hall"
+  ],
+  "summary": "这篇论文研究了电磁波在拓扑绝缘体（TI）平板波导中的传播模式。拓扑绝缘体具有体绝缘、表面导电的特性，其电磁响应由轴子类Θ项描述，导致拓扑磁电（ME）效应。论文发现所有支持的模式都是具有非零纵向场分量的精确混合模式，这种混合源于Θ项带来的边界条件，在平凡绝缘体波导中不存在。作者通过非微扰求解完整的Θ-电动力学，推导了对称平板波导的模式色散关系，并研究了模式间的偏振旋转和功率转移。此外，论文还进行了微扰分析和耦合模理论分析，揭示了与标准耦合模理论的定性和定量差异，为拓扑光子学中的光控制及实验探测ME效应提供了框架。",
+  "chinese_digest": "## 中文导读\n- 研究问题：拓扑绝缘体平板波导中电磁波的传播模式、混合与偏振旋转。\n- 核心方法：非微扰求解Θ-电动力学，推导精确模式色散关系；结合微扰分析和耦合模理论。\n- 主要结果：所有模式均为混合模式（纵向场非零），偏振旋转和功率转移受Θ项影响；微扰与耦合模理论揭示与标准理论的偏离。\n- 与量子精密测量/量子计算的关系：该研究属于拓扑光子学基础理论，与量子精密测量（如量子传感、量子Fisher信息、自旋压缩）、量子计算（如中性原子、离子阱、Rydberg原子、量子门）等方向无直接关联。论文未涉及量子测量协议、量子噪声、量子极限或量子信息处理平台。\n- 是否值得精读：对于量子精密测量或量子计算研究者，不建议精读，除非对拓扑光子学中的电磁模式控制有特殊兴趣。\n- 对我研究的可能启发：无直接启发，但拓扑绝缘体中的偏振控制可能间接启发光与量子传感器耦合的波导设计，但关联度极低。",
+  "english_digest": "## English Guide\n- Problem: Exact electromagnetic modes, hybridization, and polarization rotation in topological insulator slab waveguides. \n- Method: Nonperturbative solution of Θ-electrodynamics; derivation of exact mode dispersion relations; perturbative and coupled-mode analyses. \n- Main result: All modes are hybrid (non-zero longitudinal fields); polarization rotation and power transfer modified by the topological magnetoelectric term; deviations from standard coupled-mode theory. \n- Relevance: This paper focuses on topological photonics and classical electrodynamics. It has no direct connection to quantum precision measurement (quantum metrology, quantum sensing, Fisher information, spin squeezing), quantum computing (neutral atoms, trapped ions, Rydberg atoms, quantum gates), or related experimental platforms. Topics such as Ramsey interferometry, cavity QED, optical tweezers, and quantum control are not addressed. \n- Reading priority: Low. Not recommended for researchers in quantum metrology or quantum computing, unless interested in topological waveguide effects. \n- Possible inspiration: Minimal. The polarization control in topological insulators might inspire waveguide designs for coupling light to quantum sensors, but the link is very weak.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25981v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25981v1",
+  "local_pdf_path": ""
+}

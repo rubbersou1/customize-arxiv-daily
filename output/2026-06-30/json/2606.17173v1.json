@@ -1,0 +1,27 @@
+{
+  "title": "Tripartite entanglement of remote atomic qubits",
+  "arXiv_id": "2606.17173v1",
+  "abstract": "Distributed entanglement across multi-node quantum networks is essential for a wide range of quantum technologies, including modular quantum computers, distributed sensing and metrology, and multi-party secure communication protocols. Such large-scale quantum networks will require photonic interconnects to generate and sustain entangled states across localized nodes. Previously, three-node distributed Greenberger-Horne-Zeilinger (GHZ) states have been generated between solid-state qubits and atomic ensembles, but not yet in the platform of individual atomic qubits, which can be replicated, detected, and individually controlled with high fidelity. Here we report the first fully-distributed GHZ state of qubits across a three-node quantum network of single atomic memories, using photonic interconnects. We achieve a bounded fidelity of $0.841(17) \\leq \\mathcal{F} \\leq 0.881(17)$ at an entanglement generation rate of 0.095(5)/sec and measure a clear violation of Mermin's inequality while closing the detection loophole for the first time in a fully-distributed multipartite entangled state.",
+  "authors": [
+    "Isabella Goetting",
+    "Ashish Kalakuntla",
+    "Mikhail Shalaev",
+    "Harriet Bufan Shi",
+    "Ana Ferrari",
+    "Sagnik Saha",
+    "George Toh",
+    "Saki Male",
+    "Christopher Monroe"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "该论文报告了首个在三个独立单原子量子存储器节点之间实现完全分布式Greenberger-Horne-Zeilinger（GHZ）纠缠态的实验。通过光子互连，生成了三节点量子网络中的远程原子纠缠，保真度为0.841(17) ≤ F ≤ 0.881(17)，纠缠生成率为0.095(5)/秒，并首次在完全分布式的多体纠缠态中闭合探测漏洞，测量了Mermin不等式的明显违反。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在三个远程单原子量子节点之间生成和验证分布式纠缠态。\n- 核心方法：利用光子互连（photonic interconnects）在独立囚禁的单原子系统间建立纠缠，通过原子-光子纠缠交换实现三节点GHZ态。\n- 主要结果：成功生成三节点GHZ态，保真度约0.84-0.88，生成率~0.1 Hz，并首次在分布式多体纠缠态中闭合探测漏洞。\n- 与量子精密测量/量子计算的关系：分布式纠缠是量子网络、分布式量子传感和模块化量子计算的基础。该工作展示了单原子平台（如中性原子或离子）在构建可扩展量子网络方面的潜力，与中性原子量子计算、原子干涉仪、量子传感中的纠缠增强（如自旋压缩）密切相关。\n- 是否值得精读：是。对于从事量子网络、分布式量子计算、以及利用纠缠提升量子传感（如分布式原子钟、量子增强干涉）的研究者具有直接参考价值。\n- 对我研究的可能启发：可借鉴其光子互连方案，用于分布式量子精密测量（如多节点原子钟同步）或中性原子量子门中的远程纠缠生成。",
+  "english_digest": "## English Guide\n- Problem: How to generate and verify distributed entanglement among three remote single-atom qubits. \n- Method: Photonic interconnects are used to entangle individually trapped atomic qubits via atom-photon entanglement swapping. \n- Main result: First fully-distributed GHZ state across three atomic qubits with fidelity 0.84–0.88, generation rate ~0.1 Hz, and detection-loophole-free violation of Mermin’s inequality. \n- Relevance: Directly relevant to quantum networks, distributed quantum sensing, and modular quantum computing. The platform (single neutral atoms) connects to neutral-atom quantum computing, trapped ions, atomic clocks, and spin squeezing. The protocol can be applied to distributed metrology (e.g., multi-node atomic clocks) and entanglement-enhanced sensing. \n- Reading priority: High. Essential for researchers in quantum network, distributed quantum computation, and quantum-enhanced metrology. \n- Possible inspiration: The photonic interconnect method could be adapted for distributed quantum sensing (e.g., entangled atom interferometers) or for generating remote entanglement in Rydberg-based neutral-atom quantum gates.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.17173v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.17173v1",
+  "local_pdf_path": ""
+}

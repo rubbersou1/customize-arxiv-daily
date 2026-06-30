@@ -1,0 +1,20 @@
+{
+  "title": "Physics-constrained neural networks for surrogate modeling of lossless periodic structures",
+  "arXiv_id": "2606.28119v1",
+  "abstract": "We introduce a physics-constrained neural network (PCNN) for the rapid prediction of rigorous coupled-wave analysis (RCWA) outputs in the form of Jones matrices. Starting from energy conservation in lossless layered periodic structures, we use the fact that RCWA outputs lie on a Stiefel manifold. This energy constraint is enforced as a hard condition by projecting onto the manifold using differentiable symmetric orthogonalization. The resulting surrogate enforces energy conservation by construction while preserving differentiability for gradient-based inverse design. The performance and generality of the proposed approach are demonstrated through the inverse design of a diffractive waveguide combiner for augmented reality glasses.",
+  "authors": [
+    "Eric Prehn",
+    "Peter Jung"
+  ],
+  "categories": [
+    "physics.optics",
+    "cs.LG"
+  ],
+  "summary": "这篇论文提出了一种物理约束神经网络（PCNN），用于快速预测无损耗周期结构的严格耦合波分析（RCWA）输出（Jones矩阵）。通过利用无损耗层状周期结构中的能量守恒，作者将RCWA输出约束在Stiefel流形上，并采用可微分的对称正交化方法作为硬约束来强制执行能量守恒。该代理模型在保持可微分性以支持基于梯度的逆向设计的同时，确保了能量守恒。论文通过增强现实眼镜中衍射波导合束器的逆向设计展示了该方法的性能和通用性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何快速且物理一致地预测无损耗周期结构的电磁响应（Jones矩阵），用于逆向设计。\n- 核心方法：提出物理约束神经网络（PCNN），利用能量守恒将输出限制在Stiefel流形上，通过可微分对称正交化实现硬约束。\n- 主要结果：PCNN能准确预测RCWA输出，并成功应用于衍射波导合束器的逆向设计。\n- 与量子精密测量/量子计算的关系：该论文聚焦于经典电磁学和光学设计，未涉及量子系统、量子计量（如Fisher信息、自旋压缩）、量子计算硬件（如中性原子、离子阱、Rydberg原子）或量子传感协议。其核心概念（能量守恒、流形约束）与量子信息或量子测量中的几何方法无直接联系。因此相关性极低。\n- 是否值得精读：不值得。除非你对经典光学逆向设计或物理约束神经网络有特定兴趣。\n- 对我研究的可能启发：无直接启发。但其中利用流形约束确保物理守恒律的思想，在量子计量中可能用于约束量子Fisher信息的数值计算，但此论文未涉及量子领域。",
+  "english_digest": "## English Guide\n- Problem: How to rapidly and physically consistently predict the electromagnetic response (Jones matrices) of lossless periodic structures for inverse design.\n- Method: A physics-constrained neural network (PCNN) that enforces energy conservation as a hard constraint by projecting outputs onto the Stiefel manifold via differentiable symmetric orthogonalization.\n- Main result: The PCNN accurately predicts RCWA outputs and is successfully applied to the inverse design of a diffractive waveguide combiner for augmented reality glasses.\n- Relevance: This paper focuses on classical electromagnetics and optical design, with no connection to quantum systems, quantum metrology (e.g., Fisher information, spin squeezing), quantum computing hardware (neutral atoms, trapped ions, Rydberg atoms), or quantum sensing protocols. The core ideas (energy conservation, manifold constraints) are not directly related to quantum information or quantum measurement geometry. Relevance is extremely low.\n- Reading priority: Not recommended unless you have a specific interest in classical optical inverse design or physics-constrained neural networks.\n- Possible inspiration: No direct inspiration for quantum metrology/computing. The idea of enforcing physical constraints via manifold projection could, in principle, be adapted to constrain numerical calculations of quantum Fisher information, but this paper does not address quantum contexts.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28119v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28119v1",
+  "local_pdf_path": ""
+}

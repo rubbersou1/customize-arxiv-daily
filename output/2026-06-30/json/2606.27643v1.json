@@ -1,0 +1,28 @@
+{
+  "title": "First Demonstration of Optical Feedback Control to Parametric Instability at Advanced LIGO",
+  "arXiv_id": "2606.27643v1",
+  "abstract": "Increasing the circulating power in gravitational-wave detectors to the megawatt level is essential for future sensitivity improvement, but this is critically limited by optomechanical parametric instabilities. Current mitigation strategies are projected to be inadequate against instabilities when circulating power reaches a megawatt. Optical feedback offers a novel independent paradigm to mitigate parametric instability. In this Letter, we report the first demonstration of optical feedback control in a full-scale gravitational wave detector. We successfully suppressed an unstable mode at 10.428 kHz, reducing the parametric gain from R = 2 to R < 0.02. This work validates optical feedback control as an effective mitigation scheme for kilometre-scale interferometric gravitational-wave detectors, providing an effective strategy to allow detectors to reach the megawatt level.",
+  "authors": [
+    "Juntao Pan",
+    "Carl Blair",
+    "Vladimir Bossilkov",
+    "Jian Liu",
+    "Alex Adam",
+    "Chunnong Zhao",
+    "Li Ju",
+    "Anamaria Effler"
+  ],
+  "categories": [
+    "gr-qc",
+    "astro-ph.IM",
+    "physics.ins-det",
+    "physics.optics"
+  ],
+  "summary": "该论文首次在先进LIGO引力波探测器中演示了光学反馈控制对参量不稳定性的抑制。通过光学反馈，成功将10.428 kHz不稳定模式的参量增益从R=2降低至R<0.02，验证了该方法在公里级干涉仪中实现兆瓦级循环功率的可行性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何抑制引力波探测器中由光机耦合引起的参量不稳定性，以实现兆瓦级循环功率。\n- 核心方法：采用光学反馈控制，通过主动调节光场来抵消不稳定模式的正反馈效应。\n- 主要结果：首次在公里级全尺寸探测器上成功抑制了10.428 kHz的不稳定模式，参量增益降至0.02以下。\n- 与量子精密测量/量子计算的关系：该工作属于经典光机系统控制，与量子精密测量（如量子Fisher信息、自旋压缩）或量子计算（如中性原子、离子阱）无直接关联。但光学反馈控制技术本身可能启发量子传感中的噪声抑制策略。\n- 是否值得精读：对于从事引力波探测或经典光机系统研究的读者值得精读；对于量子精密测量/量子计算方向相关性较低，可泛读。\n- 对我研究的可能启发：光学反馈控制的思想可迁移至量子传感中的退相干抑制或量子门误差抑制，但需要量子化处理。",
+  "english_digest": "## English Guide\n- Problem: How to suppress optomechanical parametric instability in gravitational-wave detectors to enable megawatt-level circulating power.\n- Method: Optical feedback control actively modifies the optical field to counteract positive feedback of unstable modes.\n- Main result: First demonstration on a full-scale kilometer-scale detector, reducing parametric gain from R=2 to <0.02 at 10.428 kHz.\n- Relevance: This work focuses on classical optomechanical control, with no direct connection to quantum metrology (e.g., quantum Fisher information, spin squeezing) or quantum computing (e.g., neutral atoms, trapped ions). Optical feedback may inspire noise suppression in quantum sensors.\n- Reading priority: High for gravitational-wave/classical optomechanics; low for quantum sensing/computing. Skim reading recommended.\n- Possible inspiration: The concept of optical feedback could be adapted to suppress decoherence in quantum sensors or gate errors in quantum computing, but requires quantum-level treatment.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27643v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27643v1",
+  "local_pdf_path": ""
+}

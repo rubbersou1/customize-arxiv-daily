@@ -1,0 +1,21 @@
+{
+  "title": "Vortex NOON states for rotation sensing",
+  "arXiv_id": "2606.29509v1",
+  "abstract": "We introduce a scheme to generate NOON states of few-body bosonic vortices and demonstrate their application as high-precision rotation sensors. Our approach is based on cold atoms in a weakly anisotropic two-dimensional harmonic trap, where the single-particle p orbitals define an effective two-mode Bose-Hubbard model with vortex modes $(\\mathrm{p}_x\\pm\\mathrm{i}\\mathrm{p}_y)$ carrying opposite circulation. In the self-trapping regime, we show that the NOON manifold becomes spectrally isolated, and collective tunneling processes give rise to highly entangled vortex NOON states. However, these states emerge on prohibitively long timescales. To overcome this limitation, we develop two complementary acceleration strategies: geodesic counterdiabatic driving for small particle numbers, and resonance- and chaos-assisted tunneling in the semiclassical regime at larger particle numbers. Both approaches enable the generation of NOON states on experimentally relevant timescales while preserving near-unit fidelities. Finally, we quantify the metrological advantage of vortex NOON states by introducing an interferometric protocol that exploits their intrinsic sensitivity to rotation, enabling the detection of infinitesimal external rotations at the Heisenberg limit. Our work opens the door to rotation sensors based on atomic NOON states, generically realizable in bosonic Josephson junctions with vortex-type orbitals.",
+  "authors": [
+    "Simon Dengis",
+    "Nathan Dupont",
+    "Peter Schlagheck",
+    "Nathan Goldman"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "本文提出了一种利用冷原子在弱各向异性二维谐振阱中生成涡旋NOON态的方案，并展示了其作为高精度旋转传感器的应用。通过单粒子p轨道构建有效双模Bose-Hubbard模型，在自俘获区域实现NOON流形的光谱隔离，利用集体隧穿产生高度纠缠的涡旋NOON态。为克服其生成时间过长的问题，作者开发了两种加速策略：小粒子数下的测地线反绝热驱动和大粒子数半经典区的共振与混沌辅助隧穿。最后，通过引入干涉协议，展示了该NOON态在海森堡极限下检测极小外部旋转的能力。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用冷原子涡旋系统生成NOON态，并用于旋转传感？\n- 核心方法：基于二维谐振阱中冷原子的p轨道，构建双模Bose-Hubbard模型，通过集体隧穿生成涡旋NOON态，并采用反绝热驱动和混沌辅助隧穿加速生成过程。\n- 主要结果：在实验可行的时间尺度上生成高保真度涡旋NOON态，并实现海森堡极限的旋转测量。\n- 与量子精密测量/量子计算的关系：直接相关于量子计量学（旋转传感、海森堡极限）、量子纠缠生成（NOON态），与spin squeezing、one-axis twisting等纠缠增强计量方法有概念联系；可推广至中性原子量子计算平台（如光镊阵列）中的纠缠态制备。\n- 是否值得精读：是，对量子传感和纠缠加速生成有重要参考价值。\n- 对我研究的可能启发：可借鉴其加速策略（反绝热驱动、混沌辅助隧穿）用于其他量子计量平台（如Rydberg原子、离子阱）的纠缠态快速制备；其旋转传感协议可扩展至原子干涉仪或光钟中的转动测量。",
+  "english_digest": "## English Guide\n- Problem: How to generate NOON states in cold-atom vortex systems for rotation sensing? \n- Method: Using p orbitals in a weakly anisotropic 2D harmonic trap to form a two-mode Bose-Hubbard model, generating vortex NOON states via collective tunneling, with acceleration via counterdiabatic driving and chaos-assisted tunneling. \n- Main result: High-fidelity vortex NOON states on experimental timescales, enabling Heisenberg-limited rotation sensing. \n- Relevance: Directly relevant to quantum metrology (rotation sensing, Heisenberg limit), quantum entanglement (NOON states), and conceptually linked to spin squeezing and one-axis twisting. Applicable to neutral-atom quantum computing platforms (e.g., optical tweezers) for entangled state preparation. \n- Reading priority: Yes, highly relevant for quantum sensing and accelerated entanglement generation. \n- Possible inspiration: Acceleration strategies can be applied to other platforms (Rydberg atoms, trapped ions) for fast entanglement; rotation sensing protocol can be extended to atom interferometry or atomic clocks.",
+  "relevance_score": 9.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29509v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29509v1",
+  "local_pdf_path": ""
+}

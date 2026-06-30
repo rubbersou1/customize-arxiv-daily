@@ -1,0 +1,23 @@
+{
+  "title": "Observation of Non-Hermitian Skin Dynamics in the Liouvillian Regime",
+  "arXiv_id": "2606.27043v1",
+  "abstract": "Open quantum systems generally do not perfectly preserve phase coherence: coupling to uncontrolled environments requires a density-matrix description based on the Liouvillian framework beyond pure-state wave evolution. Realizing and probing such dynamics in a programmable platform is therefore essential for connecting coherent physics to realistic dissipative settings. Here we implement a tunable open-system quantum walk in a photonic mesh lattice, where controlled phase noise produces adjustable dephasing and non-reciprocal gain-loss imbalance provides an independently tunable non-Hermitian drive. This allows us to continuously interpolate between coherent quantum walks and incoherent classical walks, and to observe how directional transport evolves in the Liouvillian regime. Using non-Hermitian skin dynamics as a probe, we measure the center-of-mass drift over both the coherence and non-Hermiticity parameters, revealing a crossover from coherence-enhanced to decoherence-enhanced transport in quantitative agreement with quantum-channel simulations. We further program spatial and temporal interfaces to demonstrate interface accumulation and a long-time drift governed by the instantaneous channel. Our results establish a controllable photonic platform for simulating open quantum dynamics and show that decoherence can actively reshape non-Hermitian transport.",
+  "authors": [
+    "Shu Yang",
+    "Yeyang Sun",
+    "Lingrui Hong",
+    "Yi Yang"
+  ],
+  "categories": [
+    "physics.optics",
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "summary": "本文在光子网格晶格中实现了一种可调谐的开系统量子行走，通过控制相位噪声产生可调退相干，并利用非互易增益-损耗不平衡提供独立可调的非厄密驱动。实验观察到从相干量子行走到非相干经典行走的连续过渡，并利用非厄密皮肤动力学作为探针，测量了质心漂移随相干性和非厄密参数的变化，揭示了从相干增强到退相干增强传输的交叉现象。通过编程空间和时间界面，展示了界面累积和由瞬时通道控制的长时漂移。该工作建立了一个可控的光子平台用于模拟开放量子动力学，并表明退相干可以主动重塑非厄密传输。",
+  "chinese_digest": "## 中文导读\n- 研究问题：开放量子系统中非厄密皮肤动力学在Liouvillian框架下的实现与观测。\n- 核心方法：在光子网格晶格中构建可调谐的开系统量子行走，通过相位噪声和增益-损耗平衡独立控制退相干和非厄密驱动。\n- 主要结果：观察到相干行走与非相干行走的连续过渡，以及退相干增强的非厄密传输；实现了界面积累和长时漂移。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦于非厄密开放系统动力学和输运，与量子精密测量（如量子Fisher信息、自旋压缩）、量子计算（如中性原子、离子阱、Rydberg原子）的核心主题（如纠缠生成、量子门、误差缓解）无直接关联。光子平台虽可模拟量子过程，但非本文关注方向。\n- 是否值得精读：对于从事非厄密物理或开放量子系统模拟的研究者可能有用，但对量子精密测量和量子计算领域的研究者参考价值有限。\n- 对我研究的可能启发：退相干对量子系统动力学的影响（如退相干增强传输）可能为量子传感中的噪声管理提供间接思路，但需要进一步转化。",
+  "english_digest": "## English Guide\n- Problem: Observation of non-Hermitian skin dynamics in the Liouvillian regime of open quantum systems. \n- Method: A tunable open-system quantum walk in a photonic mesh lattice with controlled phase noise and non-reciprocal gain-loss imbalance. \n- Main result: Continuous crossover from coherent to incoherent classical walks, decoherence-enhanced transport, interface accumulation, and long-time drift. \n- Relevance: The paper is primarily about non-Hermitian open-system dynamics and transport in photonic platforms. It has no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing), quantum computing (neutral atoms, trapped ions, Rydberg atoms), or related experimental platforms (optical tweezers, cavity QED). The relevance score is low (3/10). \n- Reading priority: Low for researchers focused on quantum metrology, sensing, or quantum computing. Medium for those interested in non-Hermitian physics or open quantum system simulation. \n- Possible inspiration: The observation that decoherence can actively reshape transport might offer indirect insights for noise mitigation in quantum sensors, but the connection is tenuous.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27043v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27043v1",
+  "local_pdf_path": ""
+}

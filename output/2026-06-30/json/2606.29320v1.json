@@ -1,0 +1,23 @@
+{
+  "title": "Geometric Approach to Zero-Memory Quantum Dot Reservoir Computing",
+  "arXiv_id": "2606.29320v1",
+  "abstract": "Physical reservoir computing offers an energy-efficient alternative to conventional neural networks, where the intrinsic memory capacity in the physical system plays a central role. We demonstrate that memory capacity can be engineered extrinsically in memoryless systems by exploiting the computational space-time tradeoff, substituting temporal memory with spatial degrees of freedom. Our approach utilizes multidimensional input nodes to function as a spatial memory axis, thereby removing the dependency on intrinsic history-dependent dynamics in the reservoir. We validate this framework through numerical simulations of a generalized quantum dot, whose discrete energy levels provide strong nonlinearity crucial for reservoir computing as well. By coupling this inherent nonlinearity with our extrinsic memory, we show that memoryless quantum reservoir can achieve high performance on both chaotic Mackey-Glass future prediction and nonlinear transformation tasks. Furthermore, by analyzing the geometry of the quantum state trajectories, we identify the physical mechanism underlying this memory emergence: extrinsic memory constructs a hysteresis loop within the quantum Hilbert space, and this loop becomes topologically stable when the evolution of the system state synchronizes with the input signal's frequency. Our work decouples reservoir computing from material-specific memory properties, significantly expanding the range of candidate systems for quantum neuromorphic computing.",
+  "authors": [
+    "Bongsu Kim",
+    "Oscar Lee",
+    "Sangjun Jeon",
+    "Kun Woo Kim"
+  ],
+  "categories": [
+    "cond-mat.dis-nn",
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "summary": "这篇论文提出了一种几何方法来实现零记忆量子点储层计算。传统物理储层计算依赖系统固有的记忆能力，而该工作通过引入多维输入节点作为空间记忆轴，用空间自由度替代时间记忆，从而在无记忆的量子点系统中实现了高性能的储层计算。作者通过数值模拟验证了该方法在混沌Mackey-Glass时间序列预测和非线性变换任务上的有效性，并利用量子态轨迹的几何分析揭示了记忆涌现的物理机制：外源性记忆在量子希尔伯特空间中构建了迟滞环，当系统状态演化与输入信号频率同步时，该环具有拓扑稳定性。这项工作将储层计算与材料特定的记忆特性解耦，扩展了量子神经形态计算的候选系统范围。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在无内在记忆的物理系统中实现储层计算，并利用空间自由度替代时间记忆。\n- 核心方法：通过多维输入节点构建空间记忆轴，利用量子点离散能级的非线性，结合外源性记忆机制（迟滞环）实现计算。\n- 主要结果：在无记忆量子点系统中成功实现了对混沌时间序列和非线性变换的高性能预测，并揭示了迟滞环的拓扑稳定性条件。\n- 与量子精密测量/量子计算的关系：该工作属于量子神经形态计算范畴，与量子精密测量和量子传感（如量子Fisher信息、自旋压缩、原子干涉仪等）无直接关联。论文未涉及Rydberg原子、中性原子、离子阱、原子钟、Ramsey干涉、腔QED、光镊、量子控制、量子门、误差缓解等主题。\n- 是否值得精读：对于量子精密测量和量子计算方向的读者，相关性较低，不建议精读。\n- 对我研究的可能启发：如果关注量子计算中的非线性动力学或量子储备池计算，该文的几何方法（迟滞环）可能为设计新型量子传感协议提供思路，但直接启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to achieve reservoir computing in memoryless physical systems by substituting temporal memory with spatial degrees of freedom. \n- Method: Using multidimensional input nodes as a spatial memory axis, leveraging the nonlinearity of quantum dot discrete energy levels, and constructing extrinsic memory via hysteresis loops in Hilbert space.\n- Main result: High-performance chaotic time-series prediction and nonlinear transformation tasks in a memoryless quantum dot system; topological stability of the hysteresis loop when synchronized with input frequency.\n- Relevance: This work focuses on quantum neuromorphic computing and reservoir computing, with no direct connection to quantum precision measurement, quantum sensing (e.g., quantum Fisher information, spin squeezing, atom interferometry), or mainstream quantum computing platforms (Rydberg atoms, neutral atoms, trapped ions, atomic clocks, cavity QED, optical tweezers, quantum control, quantum gates, error mitigation). \n- Reading priority: Low for researchers in quantum metrology and quantum sensing; moderate for those interested in quantum reservoir computing.\n- Possible inspiration: The geometric approach (hysteresis loop) might inspire novel sensing protocols involving nonlinear dynamics, but the direct overlap with the described research interests is minimal.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29320v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29320v1",
+  "local_pdf_path": ""
+}

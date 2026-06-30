@@ -1,0 +1,28 @@
+{
+  "title": "Long-term laser frequency stabilization with an FPGA-controlled scanning cavity",
+  "arXiv_id": "2606.09720v1",
+  "abstract": "We present an FPGA-based implementation of a scanning transfer cavity lock (STCL) for laser frequency stabilization, allowing for the simultaneous stabilization of multiple laser sources with respect to a single reference laser by means of a continuously scanned Fabry-Perot cavity. By exploiting the FPGA architecture to simultaneously perform cavity scanning, peak detection, and feedback actuation, we minimize latency and allow independent control loops for several lasers within a single device, offering direct scalability. The system performance is analyzed through heterodyne measurements from short ($<1\\,$s) to long ($\\sim20\\,$hours) timescales. The end-to-end locking performance is validated through atomic spectroscopy of ytterbium atoms in a magneto-optical trap, demonstrating sub-MHz absolute frequency stability over several hours for the stability transfer across $\\sim 150\\,$nm in the visible-wavelength range. Importantly, we demonstrate a novel fast-scanning approach based on acousto-optic modulator (AOM) frequency modulation, enabled by the low detection latency of our FPGA implementation. This increases significantly the effective locking bandwidth and reduces the intrinsic noise of the system with respect to standard piezo-actuated scanning of the cavity length, allowing to reach sub-$100\\,$kHz long-term stability and offering perspectives for laser-line narrowing. Owing to its modularity, low cost and ease of implementation within the open-source PyRPL firmware package for the STEMlab Red Pitaya platform, our architecture offers a compact and flexible alternative to existing STCL and locked-cavity implementations, providing a practical approach to the operation of a state-of-the-art cold-atom experiment without relying on any atomic references for laser stabilization.",
+  "authors": [
+    "R. Forti",
+    "R. Panza",
+    "A. Muzi Falconi",
+    "S. Sbernardori",
+    "A. Vardé",
+    "M. Marinelli",
+    "A. Carini",
+    "F. Scazza"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "cond-mat.quant-gas",
+    "physics.ins-det",
+    "physics.optics"
+  ],
+  "summary": "本文介绍了一种基于FPGA的扫描转移腔锁定（STCL）系统，用于激光频率的长期稳定。该系统利用FPGA架构同时执行腔扫描、峰值检测和反馈驱动，实现对多个激光器相对于单个参考激光器的独立锁定。通过声光调制器（AOM）频率调制的快速扫描方法，有效提高了锁定带宽并降低了噪声。系统性能通过外差测量和镱原子磁光阱中的原子光谱验证，展示了在可见光波段跨约150纳米范围内亚MHz的绝对频率稳定性，长期稳定性可达亚100 kHz。该系统具有模块化、低成本、易于实现的特点，为冷原子实验提供了一种紧凑灵活的激光稳定方案。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何实现多激光器的高精度、长期频率稳定，以支持量子精密测量和量子计算实验。\n- 核心方法：基于FPGA的扫描转移腔锁定（STCL）系统，结合AOM快速频率调制，实现低延迟、高带宽的反馈控制。\n- 主要结果：系统在长达20小时的时间尺度上实现了亚MHz（长期亚100 kHz）的频率稳定性，并在镱原子磁光阱中验证了其实用性。\n- 与量子精密测量/量子计算的关系：激光频率稳定是原子钟、原子干涉仪、Rydberg原子传感、中性原子量子计算等实验的基础。该系统为这些方向提供了低成本、可扩展的激光控制方案，直接支持量子传感和量子计算硬件平台。\n- 是否值得精读：是。对于从事冷原子、离子阱、光钟、Rydberg系统等实验的研究者，该工作提供了实用的激光稳定技术，有助于提升实验性能。\n- 对我研究的可能启发：可借鉴其FPGA控制架构和AOM快速扫描方法，用于优化我实验中激光器的线宽和稳定性，特别是在多激光器协同工作的场景（如Rydberg原子量子门或原子干涉仪）。",
+  "english_digest": "## English Guide\n- Problem: How to achieve long-term, high-precision frequency stabilization of multiple lasers for quantum precision measurement and quantum computing experiments.\n- Method: An FPGA-based scanning transfer cavity lock (STCL) system with AOM-based fast frequency modulation, enabling low-latency, high-bandwidth feedback control.\n- Main result: The system demonstrates sub-MHz (long-term sub-100 kHz) frequency stability over ~20 hours, validated with atomic spectroscopy in an ytterbium magneto-optical trap.\n- Relevance: Laser stabilization is crucial for atomic clocks, atom interferometry, Rydberg atom sensing, neutral-atom quantum computing, and trapped-ion systems. This work provides a compact, scalable, and low-cost solution directly applicable to these quantum platforms.\n- Reading priority: High. This is a practical, experimentally relevant paper for researchers working with cold atoms, trapped ions, optical tweezers, or Rydberg systems.\n- Possible inspiration: The FPGA-based control and AOM scanning method can be adapted to improve laser linewidth and stability in multi-laser setups, e.g., for Rydberg atom quantum gates or atom interferometry protocols.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.09720v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.09720v1",
+  "local_pdf_path": ""
+}

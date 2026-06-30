@@ -1,0 +1,22 @@
+{
+  "title": "Direct Observation of X-ray Double-Slit Interference in Momentum Space",
+  "arXiv_id": "2606.28176v1",
+  "abstract": "Young's double-slit experiment is conventionally deemed a spatial phenomenon emerging from free-space transport. In this Letter, we invert this perspective to demonstrate that Young's interference can be accessed directly as a pure momentum-space observable. Using a perfect-crystal diffraction to project the field's reciprocal-space profile immediately downstream of the aperture, we resolve the complete hard X-ray double-slit fringe structure without any propagation arm, focusing optics, or imaging detector. This direct capture of the field's invariant momentum marginal establishes a compact, lensless, and propagation-free approach to coherence diagnostics, proving that the fundamental physics of wave interference can be detached from real-space propagation.",
+  "authors": [
+    "Fugui Yang",
+    "Xiaoxiao Liang",
+    "Tianchong Zhang",
+    "Xiaowei Zhang"
+  ],
+  "categories": [
+    "physics.optics",
+    "physics.app-ph"
+  ],
+  "summary": "这篇论文通过完美晶体衍射直接测量了硬X射线在动量空间中的双缝干涉条纹，无需传播臂、聚焦光学或成像探测器。实验展示了干涉现象可以脱离实空间传播，仅作为动量空间的可观测量被直接捕获，为相干性诊断提供了一种紧凑、无透镜、无传播的新方法。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在动量空间中直接观测双缝干涉，并验证干涉现象可脱离实空间传播。\n- 核心方法：使用完美晶体衍射在孔径后方直接投影场的倒易空间轮廓，从而捕获X射线双缝干涉的完整条纹结构。\n- 主要结果：实现了无传播、无透镜的硬X射线相干性诊断，证明波干涉的基本物理可以从实空间传播中分离出来。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦X射线干涉的相干性诊断，与量子精密测量（如量子传感、量子Fisher信息、自旋压缩等）或量子计算（如中性原子、离子阱、Rydberg原子门）无直接技术或概念关联。其中涉及的干涉原理虽为基础物理，但未涉及量子态操控、量子增强测量或量子信息处理。\n- 是否值得精读：对于量子精密测量或量子计算方向的研究者，该论文相关性极低，不建议精读。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to directly observe double-slit interference in momentum space without real-space propagation.\n- Method: Use perfect-crystal diffraction to project the reciprocal-space profile immediately after the aperture, capturing the complete hard X-ray fringe structure. \n- Main result: Demonstrated a compact, lensless, propagation-free approach to coherence diagnostics, proving that wave interference can be detached from real-space propagation.\n- Relevance: The paper focuses on classical X-ray interference and coherence diagnostics, with no direct connection to quantum metrology, quantum sensing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, cavity QED, optical tweezers, quantum control, quantum gates, or microwave sensing using Rydberg systems. It does not involve quantum state manipulation, quantum-enhanced measurements, or quantum information processing.\n- Reading priority: Low. Not recommended for researchers in quantum precision measurement or quantum computing.\n- Possible inspiration: None for the specified research interests.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28176v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28176v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,23 @@
+{
+  "title": "A unified framework for determining transition dipole polarization in solid-state spin defects",
+  "arXiv_id": "2606.28784v1",
+  "abstract": "Spin-photon interfaces based on solid-state defects are key building blocks for scalable quantum networks and hybrid quantum platforms. Optimizing light-matter coupling in these systems requires precise knowledge of the optical transition dipole polarization, yet for many promising quantum emitters this quantity is hard to determine and therefore remains poorly characterized. Here, we develop a framework for reconstructing electric transition dipole polarization in spin-1/2 solid-state defects directly from ensemble spectroscopy. The approach combines the response of photoluminescence spectra to magnetic field, optical polarization, and strain. Applied to erbium ions in silicon, a particularly challenging system containing multiple crystallographic subsites, the framework identifies strain-induced shifts as the origin of asymmetric ensemble spectra and enables simultaneous determination of the optical dipole polarization and strain-orbital coupling tensor. The resulting model predicts how cavity-ion coupling depends on crystallographic orientation and magnetic-field direction, which we verify using single erbium ions coupled to a nanophotonic cavity. Together, these results establish a broadly applicable route for extracting microscopic properties of solid-state quantum emitters from ensemble spectroscopy and for engineering optimized spin-photon and spin-phonon interfaces.",
+  "authors": [
+    "Gaia Da Prato",
+    "Yong Yu",
+    "Wolfgang Tittel",
+    "Simon Gröblacher"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.mes-hall",
+    "physics.optics"
+  ],
+  "summary": "本文提出了一种统一框架，用于从固态自旋缺陷的系综光谱中直接重建电偶极跃迁的极化方向。该方法结合了光致发光光谱对磁场、光极化和应变的响应，通过分析光谱的不对称性，同时确定了光学偶极极化和应变-轨道耦合张量。以硅中的铒离子为例，该框架成功解释了系综光谱的不对称性，并预测了腔-离子耦合对晶体取向和磁场方向的依赖性，并通过单离子耦合纳米光子腔的实验进行了验证。该工作为从系综光谱中提取固态量子发射体的微观性质以及优化自旋-光子与自旋-声子界面提供了通用途径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何从系综光谱中确定固态自旋缺陷（如硅中铒离子）的光学跃迁偶极极化方向，以优化量子网络和混合量子平台中的光-物质耦合。\n- 核心方法：发展了一个结合磁场、光极化和应变响应的统一框架，通过分析光致发光光谱的不对称性，反演出偶极极化方向和应变-轨道耦合张量。\n- 主要结果：成功确定了硅中铒离子的光学偶极极化，解释了系综光谱的不对称性，并预测了腔-离子耦合对晶体取向和磁场方向的依赖性，通过单离子实验验证。\n- 与量子精密测量/量子计算的关系：该工作直接服务于固态量子比特（如自旋缺陷）的优化，这对于基于中性原子、俘获离子或固态缺陷的量子计算和量子传感平台至关重要。精确的偶极极化知识有助于设计高效的量子门和自旋-光子接口，提升量子传感的灵敏度（如磁测量）和量子计算的保真度。\n- 是否值得精读：值得精读。该框架具有通用性，可推广到其他固态量子发射体，对实验设计有直接指导意义。\n- 对我研究的可能启发：可借鉴其系综光谱分析方法来表征其他量子系统（如里德伯原子阵列、光晶格中的原子）的偶极特性；其应变-轨道耦合分析思路可能对优化中性原子或离子阱中的量子控制有参考价值。",
+  "english_digest": "## English Guide\n- Problem: How to determine the optical transition dipole polarization of solid-state spin defects (e.g., erbium ions in silicon) from ensemble spectroscopy to optimize light-matter coupling for quantum networks and hybrid quantum platforms.\n- Method: A unified framework combining the response of photoluminescence spectra to magnetic field, optical polarization, and strain, enabling simultaneous reconstruction of dipole polarization and strain-orbital coupling tensor from asymmetric ensemble spectra.\n- Main result: Successful determination of the optical dipole polarization for erbium ions in silicon, explanation of asymmetric ensemble spectra, and prediction of cavity-ion coupling dependence on crystallographic orientation and magnetic field, verified by single-ion experiments.\n- Relevance: Directly relevant to quantum sensing and quantum computing. The framework provides a tool to characterize and optimize spin-photon interfaces in solid-state qubits, which share common challenges with other platforms like neutral atoms, trapped ions, and Rydberg systems. Knowledge of dipole polarization is crucial for designing efficient quantum gates, high-fidelity readout, and sensitive magnetometry.\n- Reading priority: High priority. The method is generalizable and experimentally oriented, offering practical insights for designing better quantum hardware.\n- Possible inspiration: The ensemble spectroscopy approach could be adapted to characterize dipole properties in other quantum systems (e.g., Rydberg atoms, optical tweezers arrays). The strain-orbital coupling analysis may inspire better control strategies for neutral atoms or trapped ions in the presence of environmental perturbations.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28784v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28784v1",
+  "local_pdf_path": ""
+}

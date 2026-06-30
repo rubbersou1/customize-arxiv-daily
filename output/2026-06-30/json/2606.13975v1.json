@@ -1,0 +1,25 @@
+{
+  "title": "Implementation of two-qubit Rydberg operations on neutral Rb-87 atoms in systems with different intermediate states",
+  "arXiv_id": "2606.13975v1",
+  "abstract": "This work presents an experimental setup for implementing two-qubit operations on neutral atoms ($^{87}$Rb) with the possibility of using two different Rydberg excitation schemes. One of them uses 5P$_{1/2}$ as the intermediate level and applies the second-stage beam locally to the addressed atoms. The second scheme uses the 6P$_{3/2}$ level; in this scheme, the particles to be entangled are moved to a separate zone through which both Rydberg beams pass. The advantages and limitations of both schemes are analyzed. Based on numerical modeling performed with a Julia package developed by the authors, it is demonstrated that the spatial configuration has a greater effect on quantum-operation fidelity than the choice of intermediate level. An experimental implementation of the scheme using the 6P$_{3/2}$ level is demonstrated, making it possible to achieve a two-qubit operation fidelity of 94%.",
+  "authors": [
+    "I. V. Iukhnovets",
+    "O. V. Bychkova",
+    "I. B. Bobrov",
+    "A. P. Gordeev",
+    "M. Y. Goloshchapov",
+    "G. I. Struchalin",
+    "S. S. Straupe"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文介绍了在铷-87（$^{87}$Rb）中性原子上实现两比特Rydberg操作的实验装置，并对比了两种不同的Rydberg激发方案：一种使用5P$_{1/2}$作为中间能级并局部施加第二束激光，另一种使用6P$_{3/2}$能级并将原子移动到单独区域通过两束Rydberg激光。通过数值模拟，作者发现空间构型对量子操作保真度的影响大于中间能级的选择，并实验演示了使用6P$_{3/2}$能级的方案，实现了94%的两比特操作保真度。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在中性Rb-87原子系统中实现高保真度的两比特Rydberg量子门，并比较不同中间态激发方案的性能。\n- 核心方法：实验搭建两种Rydberg激发方案（5P$_{1/2}$和6P$_{3/2}$），结合Julia包进行数值建模，分析空间构型和中间能级对保真度的影响，并实验验证。\n- 主要结果：空间构型比中间能级选择对保真度影响更大；使用6P$_{3/2}$方案实现了94%的两比特门保真度。\n- 与量子精密测量/量子计算的关系：该论文直接涉及中性原子量子计算中的Rydberg门实现，属于量子计算硬件平台的关键技术。Rydberg原子也是量子传感（如微波传感）的重要平台，但本文更侧重于量子计算中的门操作。\n- 是否值得精读：是，对于从事中性原子量子计算、Rydberg原子实验或量子门优化研究的学者具有直接参考价值。\n- 对我研究的可能启发：可借鉴其空间构型优化思路，用于提高Rydberg原子量子传感中的相干操控保真度；其数值建模方法可用于分析自旋压缩或Ramsey干涉仪中的退相干效应。",
+  "english_digest": "## English Guide\n- Problem: How to achieve high-fidelity two-qubit Rydberg gates in neutral Rb-87 atoms, comparing different intermediate-state excitation schemes.\n- Method: Experimental setup with two Rydberg excitation schemes (5P$_{1/2}$ and 6P$_{3/2}$), numerical modeling using a Julia package, and experimental demonstration of the 6P$_{3/2}$ scheme.\n- Main result: Spatial configuration affects gate fidelity more than intermediate-level choice; a 94% two-qubit gate fidelity was demonstrated with the 6P$_{3/2}$ scheme.\n- Relevance: Directly relevant to neutral-atom quantum computing, Rydberg atom platforms, and quantum gate engineering. Also relevant to quantum sensing (e.g., Rydberg-based microwave sensing) due to shared hardware and control techniques, though the focus here is on computation.\n- Reading priority: High, especially for those working on Rydberg atom quantum computing, gate optimization, or experimental neutral-atom systems.\n- Possible inspiration: The spatial configuration optimization approach can be applied to improve coherence in Rydberg-based quantum sensors (e.g., spin squeezing or atom interferometry); the numerical modeling framework may help analyze decoherence in Ramsey interferometry or cavity QED setups.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.13975v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.13975v1",
+  "local_pdf_path": ""
+}

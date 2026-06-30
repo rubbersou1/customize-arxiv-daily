@@ -1,0 +1,20 @@
+{
+  "title": "Emergent energy scales in magnonic systems with relative motion",
+  "arXiv_id": "2606.29316v1",
+  "abstract": "Relative motion between interacting systems can generate emergent energy scales that are absent in isolated systems. While uniform motion can be eliminated by a Galilean transformation, relative motion between interacting systems generally cannot. In the presence of characteristic spatial structures, relative motion gives rise to a Doppler frequency scale determined by the characteristic wavevector of the excitation and the relative velocity of the system. This emergent scale provides a fundamental mechanism for driving nonequilibrium phenomena in moving systems. In particular, the emergent energy scale is determined by how the relative motion probes the spatial structure of the relevant excitation. In this tutorial, we illustrate these ideas using magnonic systems as a concrete platform. We first discuss motion-induced magnon transport between relatively moving ferromagnets, in which the Doppler frequency serves as an effective nonequilibrium bias in the perturbative regime. This mechanism produces magnon currents even in the absence of conventional driving forces such as temperature gradients or chemical potential differences. We then introduce motion-induced parametric instabilities. When the emergent scale becomes sufficiently large to resonantly create magnon pairs, the perturbative description breaks down, and the magnonic vacuum becomes unstable. Above a critical velocity threshold, spontaneous magnon-pair creation emerges, resulting in strongly enhanced transport and nonequilibrium dynamics. Connections to related phenomena, including quantum friction, Cherenkov emission, and Zeldovich superradiance, are also highlighted. The concept of an emergent energy scale provides a unifying framework for understanding transport phenomena and instabilities in quantum systems with relative motion.",
+  "authors": [
+    "Daigo Oue"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "physics.optics",
+    "quant-ph"
+  ],
+  "summary": "这篇教程性论文讨论了相对运动在磁振子系统中如何产生新的能量尺度。当两个相互作用的系统存在相对运动时，多普勒效应会引入一个由相对速度和系统特征波矢决定的能量尺度。这个能量尺度可以驱动非平衡现象，如磁振子输运和参量不稳定性。文章具体分析了运动诱导的磁振子输运（即使没有温度梯度或化学势差）和当相对速度超过临界阈值时发生的磁振子对自发产生（类似于量子摩擦、切伦科夫辐射和泽尔多维奇超辐射）。",
+  "chinese_digest": "## 中文导读\n- 研究问题：相对运动如何产生新的能量尺度并驱动磁振子系统中的非平衡现象。\n- 核心方法：通过多普勒效应引入特征能量尺度，并结合微扰论和参量不稳定性分析。\n- 主要结果：揭示了相对运动可以诱导磁振子输运和参量不稳定性，导致磁振子对的自发产生。\n- 与量子精密测量/量子计算的关系：本文主要聚焦于磁振子（自旋波）的凝聚态物理，与量子精密测量（如量子费希尔信息、自旋压缩）和量子计算（如中性原子、离子阱）的核心平台和协议没有直接关联。虽然磁振子与自旋系统有关，但本文未涉及量子传感的极限、控制或读出。\n- 是否值得精读：对于专注于量子精密测量和量子计算的研究者，本文相关性较低，不建议精读。\n- 对我研究的可能启发：如果研究涉及运动效应或非平衡自旋动力学，本文提供了一个有趣的框架，但需要将概念迁移到原子或离子系统中。",
+  "english_digest": "## English Guide\n- Problem: How relative motion generates emergent energy scales and drives nonequilibrium phenomena in magnonic systems.\n- Method: Introducing a Doppler energy scale from relative motion, analyzed via perturbation theory and parametric instability.\n- Main result: Relative motion can induce magnon transport and parametric instabilities, leading to spontaneous magnon pair creation.\n- Relevance: This paper is primarily about condensed matter physics of magnons (spin waves). It does not directly address quantum precision measurement (e.g., quantum Fisher information, spin squeezing) or quantum computing (e.g., neutral atoms, trapped ions, Rydberg atoms). The connection to your research interests is weak.\n- Reading priority: Low. Not recommended for detailed reading given your focus on quantum metrology and quantum computing.\n- Possible inspiration: If your work involves motion-induced effects or nonequilibrium spin dynamics in quantum sensors, the concept of an emergent energy scale might offer a new perspective, but significant translation to atomic platforms would be needed.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29316v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29316v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Action on the Sphere: An Interfering Mean-Field Propagator for the Bose-Hubbard Dimer",
+  "arXiv_id": "2606.30276v1",
+  "abstract": "The Bose-Hubbard system has been studied extensively both theoretically and experimentally, in particular in the context of ultracold atomic gases in optical lattices. Even in the two-mode case the many-particle dynamics display complex interference effects resulting in revival and breakdown phenomena as well as tunnelling. The most basic theoretical description is the mean-field approximation, which can be derived from a time-dependent variational principle assuming the many-particle wave function is an SU(2) coherent state. Here we build on this to construct a simple initial-value coherent state propagator, summing over mean-field trajectories and keeping track of their phases, given by the corresponding mean-field actions. This yields an approximation to the full time-dependent many-particle state, and is able to reproduce breakdown and revival dynamics. Applying a time-slicing procedure on top of this, we are able to accurately capture many-particle tunnelling effects. While in this paper we focus our analysis on the Bose-Hubbard dimer, the methods developed can be applied to more general SU(2) Hamiltonians, and can be extended to SU(M) systems.",
+  "authors": [
+    "Elana F Todd-Miller",
+    "Eva-Maria Graefe"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "math-ph"
+  ],
+  "summary": "本文针对Bose-Hubbard二聚体系统，基于平均场近似和SU(2)相干态，构建了一个简单的初值相干态传播子。通过对平均场轨迹求和并追踪其相位，该方法能够近似描述全时间依赖的多粒子态，并再现量子崩塌与复苏动力学。进一步引入时间切片技术，可准确捕捉多粒子隧穿效应。该方法可推广至一般SU(2)哈密顿量及SU(M)系统。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用平均场传播子近似描述Bose-Hubbard二聚体的多粒子动力学，特别是干涉效应、崩塌与复苏及隧穿现象。\n- 核心方法：基于SU(2)相干态的时间变分原理，构造初值相干态传播子，对平均场轨迹求和并计入相位，结合时间切片技术。\n- 主要结果：该方法能有效再现多粒子动力学中的干涉、崩塌与复苏及隧穿效应，且具有可扩展性。\n- 与量子精密测量/量子计算的关系：该研究主要关注Bose-Hubbard模型的理论方法，与量子精密测量、量子传感、自旋压缩、里德伯原子、中性原子量子计算、离子阱、Fisher信息等方向无直接关联。虽然Bose-Hubbard模型在冷原子和光晶格实验中常见，但本文侧重平均场理论方法，而非量子增强测量或量子计算协议。\n- 是否值得精读：对于研究Bose-Hubbard系统或平均场近似方法的读者有一定价值，但对于关注量子精密测量、量子传感或量子计算硬件平台的研究者，相关性较低。\n- 对我研究的可能启发：若涉及Bose-Hubbard模型或SU(2)哈密顿量的动力学模拟，该方法或可借鉴用于简化多粒子干涉计算，但需注意其与实验量子计量或量子门操作的直接联系较弱。",
+  "english_digest": "## English Guide\n- Problem: How to construct an interfering mean-field propagator to describe many-particle dynamics in the Bose-Hubbard dimer, including interference, revival, and tunneling effects.\n- Method: A time-dependent variational principle with SU(2) coherent states is used to build an initial-value coherent state propagator, summing over mean-field trajectories with phases, and incorporating time-slicing.\n- Main result: The method accurately captures interference, revival, and tunneling dynamics, and is extendable to general SU(2) and SU(M) Hamiltonians.\n- Relevance: This work is primarily a theoretical study of the Bose-Hubbard dimer and mean-field propagation. It has no direct connection to quantum metrology, quantum sensing, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, Fisher information, or related experimental platforms. The focus is on many-particle interference and tunneling, not on quantum-enhanced measurements or quantum computation protocols.\n- Reading priority: Low for researchers focused on quantum precision measurement, quantum sensing, or quantum computing hardware. Moderate for those interested in Bose-Hubbard dynamics or mean-field methods.\n- Possible inspiration: The propagator technique might be useful for modeling many-particle interference in systems described by SU(2) Hamiltonians, but its relevance to metrology or quantum gates is minimal.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30276v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30276v1",
+  "local_pdf_path": ""
+}

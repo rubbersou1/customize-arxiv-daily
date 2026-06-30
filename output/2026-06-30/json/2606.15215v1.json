@@ -1,0 +1,27 @@
+{
+  "title": "Atom Optics for Multidimensional Raman Interferometry",
+  "arXiv_id": "2606.15215v1",
+  "abstract": "The coherent control of atomic wave packets in multiple momentum dimensions is a central challenge in Raman atom optics and a key requirement for multidimensional atom interferometry. In this paper, a momentum-basis theoretical framework is developed for two-dimensional Raman interactions. We formulate the atom-laser interaction for two-dimensional Raman beams and obtain the effective two-level ground-state Hamiltonian after adiabatic elimination of the excited states. The resulted Hamiltonian is constructed on the reachable momentum-state lattice and includes AC Stark shifts, intra-dimensional Raman couplings, and cross-dimensional Raman coupling terms, thereby describing multidimensional Raman dynamics beyond a simple superposition of independent single-dimensional models. The framework is used to analyze the principles and operating conditions of two-dimensional atom interferometry. Cross-dimensional Raman coupling and sequential reverse Raman transitions are identified as the main mechanisms that redistribute atoms into non-target momentum states and reduce the contrast of atomic interferometer fringe. Experimentally, Ramsey fringes are observed in a cold-atom fountain interferometer, with a contrast of $14.8\\%$ at an interrogation time of $T=10~{\\rm ms}$, in good agreement with the theoretical calculation. The conditions required for velocity-sensitive multidimensional atom interferometry are further clarified, including detuning control, velocity-class selection, and suppression of undesired inter-dimensional transitions. This work provides a theoretical and experimental basis for multidimensional Raman atom interferometry.",
+  "authors": [
+    "Yingpeng Zhao",
+    "Yiyang Shao",
+    "Wenjian Tong",
+    "Shuning Bao",
+    "Yuanlong Zhang",
+    "Mengnan Yi",
+    "Shengzhe Wang",
+    "Ke Shen",
+    "Bin Wu",
+    "Yanying Feng"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "本文开发了一个基于动量基的多维拉曼干涉理论框架，用于二维拉曼原子光学。通过绝热消除激发态，得到了有效两能级基态哈密顿量，该哈密顿量包含AC斯塔克位移、维内拉曼耦合和跨维拉曼耦合项，从而超越了简单的一维模型叠加。利用该框架分析了二维原子干涉的原理和运行条件，识别出跨维拉曼耦合和顺序反向拉曼跃迁是导致原子重新分布到非目标动量态并降低干涉条纹对比度的主要机制。实验上，在冷原子喷泉干涉仪中观测到拉姆齐条纹，在询问时间T=10 ms时对比度为14.8%，与理论计算吻合。本文进一步阐明了速度敏感的多维原子干涉所需的条件，包括失谐控制、速度类选择以及抑制不需要的维间跃迁。这项工作为多维拉曼原子干涉提供了理论和实验基础。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何实现和描述多维拉曼原子干涉，特别是解决跨维耦合导致的对比度损失问题。\n- 核心方法：建立动量格点上的有效两能级哈密顿量，包含跨维耦合项；结合冷原子喷泉实验验证。\n- 主要结果：揭示了跨维拉曼耦合和顺序反向拉曼跃迁是降低干涉对比度的主要因素；在T=10 ms时实现14.8%的对比度。\n- 与量子精密测量/量子计算的关系：该工作直接涉及原子干涉仪这一量子传感核心平台，其多维扩展可提升惯性传感精度；同时，对动量态的多维控制也为中性原子量子计算中的量子门操作提供了新思路。\n- 是否值得精读：值得精读，尤其对于从事原子干涉仪、拉曼光学和中性原子量子计算的研究者。\n- 对我研究的可能启发：其跨维耦合分析框架可推广至其他多通道量子传感方案（如自旋压缩中的多模纠缠），或用于设计更鲁棒的量子门。",
+  "english_digest": "## English Guide\n- Problem: How to realize and describe multidimensional Raman atom interferometry, especially mitigating contrast loss from cross-dimensional coupling.\n- Method: A momentum-basis effective two-level Hamiltonian including cross-dimensional Raman couplings; validated with cold-atom fountain experiments.\n- Main result: Identified cross-dimensional coupling and sequential reverse Raman transitions as main contrast-reduction mechanisms; achieved 14.8% contrast at T=10 ms.\n- Relevance: Directly relevant to quantum sensing (atom interferometry for inertial measurements) and neutral-atom quantum computing (multidimensional momentum control for gates).\n- Reading priority: High, for researchers in atom interferometry, Raman optics, and neutral-atom quantum computing.\n- Possible inspiration: The cross-coupling analysis framework could be adapted to multi-mode quantum sensing (e.g., spin squeezing) or to design more robust quantum gates.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.15215v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.15215v1",
+  "local_pdf_path": ""
+}

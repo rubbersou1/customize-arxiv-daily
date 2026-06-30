@@ -1,0 +1,23 @@
+{
+  "title": "Arduino based interferometer stabilizer equipped with a digital lock-in amplifier",
+  "arXiv_id": "2606.30199v1",
+  "abstract": "Interferometric sensors are ubiquitous in precision metrology, yet their performance is fundamentally limited by environmental noise and thermal drift. To achieve maximum sensitivity, these systems must be actively stabilized at the quadrature point of the interference fringe. Commercial stabilization solutions, typically based on analog lock-in amplifiers or FPGA architectures, are often prohibitively expensive and do not not offer the flexibility needed for custom experimental setups. In this work, we present an open-source, compact and low-cost digital stabilization system built upon the dual-core Arduino Giga R1 microcontroller. The system features a custom analog front-end with programmable gain amplifiers (PGAs) and active signal conditioning, enabling direct integration with standard amplified photodiodes. We implement a firmware-based digital lock-in amplifier running at a 100 kHz sampling rate, which performs real-time demodulation and PID feedback control without the latency bottlenecks of PC-based loops. Experimental characterization demonstrates that the system effectively suppresses long-term thermal drift and actively rejects external perturbations. The resulting device provides a standalone, Arduino-based alternative for laser frequency stabilization and interferometric control in educational and research laboratories.",
+  "authors": [
+    "Giuseppe Emanuele Lio",
+    "Saravanan Rajamani",
+    "Alessandro Pitanti",
+    "Stefano Roddaro",
+    "Simone Zanotto"
+  ],
+  "categories": [
+    "physics.optics",
+    "physics.ins-det"
+  ],
+  "summary": "本文介绍了一种基于Arduino Giga R1微控制器的低成本、开源数字干涉仪稳定器，集成了数字锁相放大器。该系统通过自定义模拟前端和固件实现的100 kHz采样率数字锁相环，实时解调并执行PID反馈控制，有效抑制了热漂移和外部扰动，为激光频率稳定和干涉控制提供了经济实用的替代方案。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何以低成本实现干涉仪的主动稳定，以抑制环境噪声和热漂移。\n- 核心方法：基于双核Arduino Giga R1微控制器，设计数字锁相放大器（采样率100 kHz），结合可编程增益放大器和主动信号调理，实现实时解调与PID反馈控制。\n- 主要结果：系统成功抑制长期热漂移并主动抑制外部扰动，验证了数字锁相环在低成本平台上的有效性。\n- 与量子精密测量/量子计算的关系：该稳定器可直接用于量子传感实验中的激光频率稳定（如原子钟、Rydberg原子激发、光镊阵列控制），但未涉及量子Fisher信息、自旋压缩等核心度量。\n- 是否值得精读：中等。若您正在搭建或优化干涉仪类量子测量装置，可作为经济、灵活的稳定方案参考；若重点在量子度量极限或量子计算算法，则相关性较低。\n- 对我研究的可能启发：可借鉴其硬件架构与数字锁相环实现，用于降低量子传感实验中的激光噪声，但需自行升级至更高采样率或FPGA方案以满足量子极限要求。",
+  "english_digest": "## English Guide\n- Problem: How to achieve low-cost active stabilization of interferometers to suppress environmental noise and thermal drift.\n- Method: A dual-core Arduino Giga R1 microcontroller running a digital lock-in amplifier at 100 kHz sampling, with programmable gain amplifiers and PID feedback. The system performs real-time demodulation and control without PC latency.\n- Main result: The system effectively cancels long-term thermal drift and actively rejects external perturbations, demonstrating a viable low-cost alternative for interferometric stabilization.\n- Relevance: Directly applicable to laser frequency stabilization in quantum sensing experiments (e.g., atomic clocks, Rydberg atom excitation, optical tweezers control), but does not address quantum Fisher information, spin squeezing, or quantum computing hardware. Relevance to quantum metrology is indirect and limited to enabling technology.\n- Reading priority: Moderate. Useful if you need a practical, low-cost stabilizer for interferometric setups in quantum sensing; low priority if your focus is on fundamental quantum limits or quantum computing.\n- Possible inspiration: The digital lock-in architecture could be adapted for noise reduction in quantum sensors; however, for metrology at the quantum limit, consider upgrading to higher-bandwidth FPGA-based solutions.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30199v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30199v1",
+  "local_pdf_path": ""
+}

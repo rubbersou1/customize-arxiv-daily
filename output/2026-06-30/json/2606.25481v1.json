@@ -1,0 +1,25 @@
+{
+  "title": "Statistical Characteristics of Tunneling States in Strong-Field Atomic Ionization",
+  "arXiv_id": "2606.25481v1",
+  "abstract": "The state of the tunneling electron under the potential barrier is important in strong laser-atom interaction but is difficult to identify. Recent experiments showed that the tunneling electron may be located in a bound state with high symmetry [Phys. Rev. Lett. 134, 213201 (2025)]. However, the quantitative characteristic of the tunneling state in a tunneling event remains unclear. Here, we study tunneling ionization of atoms in strong circular laser fields. The calculated photoelectron momentum distribution (PMD) through numerical solution of time-dependent Schrödinger equation (TDSE) presents an isotropic ring-shaped distribution and the most probable momentum (MPM) along the ring can be easily identified. The kinetic energy related to MPM is remarkably smaller than that predicted by the strong-field approximation (SFA) that ignores Coulomb potential. Surprisingly, for different target atoms and laser parameters, the kinetic energy difference of MPM between TDSE and SFA is always close to half of the corresponding Coulomb potential at the tunnel exit. This phenomenon can be well described by a proposed model, which indicates that the tunneling electron is in an exit-position-dependent quasibound state agreeing with the virial theorem. These results quantitatively reveal the characteristics of tunneling states from a statistical perspective.",
+  "authors": [
+    "M. W. Cao",
+    "Z. Y. Chen",
+    "J. N. Wu",
+    "S. Q. Shen",
+    "S. Wang",
+    "W. Y. Li",
+    "J. Y. Che",
+    "Y. J. Chen"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文研究了强激光场中原子隧穿电离过程中隧穿电子的统计特性。通过数值求解含时薛定谔方程（TDSE），计算了光电子动量分布（PMD），发现了各向同性的环状分布和可辨识的最概然动量（MPM）。与忽略库仑势的强场近似（SFA）相比，TDSE得到的MPM动能显著更小，且两者差值始终接近隧穿出口处库仑势能的一半。作者提出一个模型，表明隧穿电子处于依赖于出口位置的准束缚态，符合位力定理，从而从统计角度定量揭示了隧穿态的特征。",
+  "chinese_digest": "## 中文导读\n- 研究问题：强激光场原子隧穿电离中隧穿电子的量子态统计特征。\n- 核心方法：数值求解含时薛定谔方程（TDSE）模拟光电子动量分布，并与强场近似（SFA）对比，分析动能差异。\n- 主要结果：TDSE与SFA的MPM动能差恒等于隧穿出口库仑势能的一半，表明隧穿电子处于准束缚态。\n- 与量子精密测量/量子计算的关系：该研究主要属于强场原子物理和电离动力学，与量子精密测量（如量子传感、量子费希尔信息）、量子计算（如中性原子量子计算、离子阱量子计算）没有直接关联。论文不涉及量子计量学、自旋压缩、Rydberg原子、光学晶格、量子控制等本领域核心主题。\n- 是否值得精读：不值得精读。对于量子精密测量和量子计算方向，该论文相关性极低。\n- 对我研究的可能启发：无直接启发。该工作可能为强场物理提供见解，但不涉及本领域关注的量子资源（如纠缠、压缩态）、测量精度极限或量子门操作。",
+  "english_digest": "## English Guide\n- Problem: Statistical characteristics of the tunneling electron state in strong-field atomic ionization. \n- Method: Numerical solution of the time-dependent Schrödinger equation (TDSE) to compute photoelectron momentum distributions (PMD), compared with strong-field approximation (SFA). \n- Main result: The kinetic energy difference of the most probable momentum (MPM) between TDSE and SFA is always half the Coulomb potential at the tunnel exit, indicating a quasibound state of the tunneling electron. \n- Relevance: This paper is primarily in strong-field atomic physics and ionization dynamics, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It does not address metrological resources, quantum control, or gate operations. \n- Reading priority: Low. Not relevant to the specified research areas. \n- Possible inspiration: None for quantum metrology or quantum computing. The findings are specific to tunneling ionization and do not offer insights into quantum sensing protocols, error mitigation, or hardware platforms of interest.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25481v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25481v1",
+  "local_pdf_path": ""
+}

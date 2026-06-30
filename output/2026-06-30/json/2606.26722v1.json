@@ -1,0 +1,26 @@
+{
+  "title": "Socratic agents for autonomous scientific discovery in high-dimensional physical systems",
+  "arXiv_id": "2606.26722v1",
+  "abstract": "The automation of scientific discovery has reached an inflection point. While AI systems now operate instruments, optimize parameters and generate hypotheses, most remain procedural: they execute workflows fixed by human designers. True autonomous science demands epistemic autonomy--the capacity to construct, challenge and revise physical explanations in response to evidence. Here we introduce AHOIS, a multi-agent AI scientist that embeds Socratic midwifery into closed-loop experimentation. A physics-critic agent interrogates hypotheses through causal questioning, constraint checking, counterexample generation and falsification-criteria formulation. We evaluate AHOIS on a real multimode-fibre optical platform, a high-dimensional system with complex wave transformations, indirect detection, environmental drift and multi-modal acquisition. Without prior encoding schemes, classifiers or speckle models, the system autonomously proposed and validated a random-interference encoding hypothesis, discovered task-adaptive sparse-measurement strategies, diagnosed distinct failure modes (encoding instability, fluorescence contamination and detector noise) and translated a published imaging protocol into an executable workflow on a non-original configuration. The discovered encoding yielded 16x16 measurements with effective rank 56.9 and classification accuracies of 76.97% on MNIST and 83.17% on Fashion-MNIST. Ablations show that Socratic interrogation improves physical consistency, hypothesis completeness, uncertainty calibration and experimental-plan validity. These results establish a route from workflow automation towards evidence-grounded, self-correcting autonomous discovery in complex physical environments.",
+  "authors": [
+    "Xianrui Zeng",
+    "Pengfei Liu",
+    "Yirui Zang",
+    "Yang Shen",
+    "Fei Yu",
+    "Chunlei Yu",
+    "Minghao Liu",
+    "Yang Du"
+  ],
+  "categories": [
+    "cs.AI",
+    "physics.optics"
+  ],
+  "summary": "该论文介绍了一个名为AHOIS的多智能体AI科学家系统，它通过嵌入苏格拉底式问答方法实现自主科学发现。系统在一个真实的多模光纤光学平台上进行了评估，这是一个高维物理系统。在没有先验编码方案或模型的情况下，系统自主提出并验证了随机干扰编码假说，发现了任务自适应稀疏测量策略，诊断了不同的故障模式，并将已发表的成像协议转化为可执行的工作流程。实验结果展示了系统在复杂物理环境中实现证据驱动、自我修正的自主发现能力。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何实现高维物理系统中真正的自主科学发现，即系统能够自主构建、质疑和修正物理解释。\n- 核心方法：提出一个多智能体AI系统AHOIS，包含一个物理评论家智能体，通过因果提问、约束检查、反例生成和证伪标准制定来检验假说，并闭环执行实验。\n- 主要结果：在光学平台上，系统自主发现了随机干扰编码假说、稀疏测量策略，诊断了多种故障，并转化了成像协议。\n- 与量子精密测量/量子计算的关系：相关性有限。论文聚焦于一般高维物理系统中的自主发现，未涉及量子纠缠、Fisher信息、自旋压缩等量子精密测量和量子计算的核心概念。虽然光学平台与量子光学有交集，但方法更偏向AI与实验自动化，而非量子传感或量子计算的具体协议或硬件。\n- 是否值得精读：对于研究AI辅助实验自动化或通用科学发现方法的读者有参考价值；但对于专注于量子精密测量、量子计算（如Rydberg原子、离子阱、自旋压缩）的读者，直接相关性较低。\n- 对我研究的可能启发：其闭环实验、假说检验和故障诊断的自动化框架，可能启发量子实验中自动化校准、误差诊断或自适应测量策略的设计，但需要进一步将方法扩展到量子系统。",
+  "english_digest": "## English Guide\n- Problem: How to achieve autonomous scientific discovery in high-dimensional physical systems, where the system can construct, challenge, and revise physical explanations. \n- Method: Introduces AHOIS, a multi-agent AI system with a physics-critic agent that uses Socratic questioning, constraint checking, counterexample generation, and falsification criteria to test hypotheses in a closed-loop experimentation setting.\n- Main result: On a multimode fiber optical platform, the system autonomously discovered a random-interference encoding hypothesis, adaptive sparse-measurement strategies, diagnosed failure modes, and translated a published imaging protocol.\n- Relevance: Limited. The paper focuses on general autonomous discovery in complex physical systems, not on quantum metrology, quantum sensing, or quantum computing. It does not address quantum Fisher information, spin squeezing, Rydberg atoms, trapped ions, or specific quantum protocols. The optical platform is classical, and the AI method is generic.\n- Reading priority: Low for researchers specifically focused on quantum precision measurement or quantum computing hardware. Potentially useful for those interested in AI-driven experimental automation or general scientific discovery.\n- Possible inspiration: The closed-loop framework for hypothesis testing and fault diagnosis could inspire automated calibration, error detection, or adaptive measurement schemes in quantum experiments, but significant adaptation would be required.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26722v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26722v1",
+  "local_pdf_path": ""
+}

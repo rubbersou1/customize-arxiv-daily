@@ -1,0 +1,20 @@
+{
+  "title": "Luttinger liquid parameters in one-dimensional Rydberg arrays",
+  "arXiv_id": "2606.16128v1",
+  "abstract": "We investigate Berezinskii-Kosterlitz-Thouless (BKT) transitions in one-dimensional Rydberg chains, where commensurate critical regimes associated with the melting of crystalline orders with period larger than five and incommensurate floating phases are both described by Luttinger liquid theory. The central quantity is the Luttinger liquid parameter $K$, which characterizes the universal low-energy theory and controls the relevance of perturbations driving BKT transitions. We extract $K$ using Friedel oscillations and the recently developed crosscap method introduced in Phys. Rev. Lett. 134, 076501 (2025). As benchmarks, we first apply the crosscap method to a $\\mathbb{Z}_3$ dual hard-core boson chain and a spin-1 XY chain with single-ion anisotropy, obtaining BKT transition points consistent with previous results after finite-size extrapolation. We then compute $K$ in the Rydberg chain along lines with fixed correlation-oscillation period near BKT transitions. Along the commensurate period-five line, the critical values of $K$ predicted by sine-Gordon theory reveal two BKT transitions separating the disordered phase, the critical phase, and the $\\mathbb{Z}_5$ crystalline phase. The results from Friedel oscillations and the crosscap method agree with each other and are further supported by energy-gap scaling and Binder-cumulant analysis. To obtain reliable values of $K$ from Friedel oscillations, we use a multi-harmonic fitting scheme throughout the analysis. Along incommensurate lines, the BKT points obtained from Friedel oscillations agree with those extracted from entanglement entropy. Finally, we show that the values of $K$ obtained from the two methods are mutually consistent inside the incommensurate floating phase.",
+  "authors": [
+    "Shu-Ao Liao",
+    "Li-Ping Yang",
+    "Jin Zhang"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "该论文研究一维里德伯原子链中的Berezinskii-Kosterlitz-Thouless（BKT）转变，重点提取Luttinger液体参数K。作者通过Friedel振荡和交叉帽方法计算K，并验证了在周期五的晶格相与无序相之间的两个BKT转变点，以及非公度浮游相中的BKT转变。研究使用多谐波拟合方案提高Friedel振荡的可靠性，并通过能量间隙标度和Binder累积分析支持结果。",
+  "chinese_digest": "## 中文导读\n- 研究问题：一维里德伯原子链中BKT转变的Luttinger液体参数提取。\n- 核心方法：使用Friedel振荡和交叉帽方法计算Luttinger参数K，结合多谐波拟合和有限尺寸标度。\n- 主要结果：确定了周期五晶格相与无序相之间的两个BKT转变点，以及非公度浮游相中的BKT转变，验证了两种方法的一致性。\n- 与量子精密测量/量子计算的关系：该工作主要关注凝聚态物理中的量子相变和临界现象，与量子精密测量（如量子Fisher信息、自旋压缩）、量子传感（如原子干涉仪、里德伯传感器）、量子计算（如中性原子量子门）的直接关联较弱。里德伯原子虽作为平台，但论文重点不在传感或计算应用。\n- 是否值得精读：如果对里德伯原子系统中的量子相变或Luttinger液体理论感兴趣，可精读。但若核心兴趣是量子精密测量或量子计算，则相关性有限。\n- 对我研究的可能启发：可能启发在里德伯原子阵列中利用临界现象增强传感灵敏度，但需进一步研究量子Fisher信息与临界指数的关系。",
+  "english_digest": "## English Guide\n- Problem: Extracting Luttinger liquid parameters in 1D Rydberg arrays near BKT transitions.\n- Method: Friedel oscillations and crosscap method to compute the Luttinger parameter K, with multi-harmonic fitting and finite-size scaling.\n- Main result: Identified two BKT transitions for the period-five crystal phase and transitions in incommensurate floating phases, with consistent results from both methods.\n- Relevance: The paper focuses on quantum phase transitions and critical phenomena in condensed matter physics, with limited direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing), quantum sensing (e.g., atom interferometry, Rydberg sensors), or quantum computing (e.g., neutral-atom gates). Although Rydberg atoms are used, the work does not address metrology or computation applications.\n- Reading priority: Low for researchers primarily interested in quantum metrology, sensing, or computing. Moderate for those studying Rydberg lattice models or Luttinger liquids.\n- Possible inspiration: Could inspire using criticality in Rydberg arrays for enhanced sensing, but requires further work linking critical exponents to quantum Fisher information.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.16128v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.16128v1",
+  "local_pdf_path": ""
+}

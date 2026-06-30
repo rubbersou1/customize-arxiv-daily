@@ -1,0 +1,21 @@
+{
+  "title": "Sp(2N, R) interferometry in multi-mode Gaussian bosonic systems for optimal metrology and quantum control",
+  "arXiv_id": "2606.25768v1",
+  "abstract": "Multi-mode interferometers for bosons in Gaussian states are important systems for quantum metrology with precision beyond the standard quantum limit and for bosonic quantum computing. However, there is a lack of theoretical foundation for generic $N$-mode Gaussian interferometry. In this work, we study quantum metrology and quantum control in multi-mode bosonic systems with quadratic Hamiltonians, exploiting the fundamental Sp$(2N,R)$ symmetry of such interferometers. We show that the optimal quantum control to maximize sensitivity requires aligning squeezing and displacement in the same direction. We propose Sp$(2N,R)$ echo, a multi-mode generalization of the SU$(1,1)$ interferometry, to achieve the sensitivity of phase estimation set by the quantum Fisher information. In addition, we introduce a geometrical means for reversing many-body dynamics with Sp$(2N,R)$ dynamical symmetry, such as dynamics of the bosonic Kitaev chain. Our schemes are readily realizable in optical, atomic, and mechanical platforms.",
+  "authors": [
+    "Chenwei Lv",
+    "Renbao Liu"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "physics.optics"
+  ],
+  "summary": "本文研究了多模玻色子高斯态干涉仪的量子计量与量子控制，利用Sp(2N,R)对称性，提出了最优量子控制需将压缩与位移对齐，并推广了SU(1,1)干涉仪为Sp(2N,R)回波方案，以实现由量子Fisher信息设定的相位估计灵敏度。此外，引入了几何方法用于反转具有Sp(2N,R)动力学对称性的多体动力学（如玻色Kitaev链），方案在光学、原子和机械平台上可实验实现。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用多模高斯玻色系统的Sp(2N,R)对称性实现最优量子计量与量子控制？\n- 核心方法：基于Sp(2N,R)对称性，提出压缩与位移对齐的最优控制策略，并推广SU(1,1)干涉仪为Sp(2N,R)回波方案。\n- 主要结果：Sp(2N,R)回波方案可达到量子Fisher信息设定的相位估计灵敏度，并提供了反转多体动力学的几何方法。\n- 与量子精密测量/量子计算的关系：直接相关。该工作为多模高斯干涉仪提供了理论基础，可用于量子传感（如原子干涉仪、光晶格钟）、量子计算（玻色子量子计算）中的最优控制与误差抑制。\n- 是否值得精读：是。文中提出的Sp(2N,R)对称性框架对中性原子、离子阱、光学镊子等平台中的多模干涉仪设计具有指导意义。\n- 对我研究的可能启发：可借鉴其几何方法优化Rydberg原子或离子阱中的多体自旋压缩与纠缠生成，或用于设计基于中性原子的量子门操作中的控制脉冲。",
+  "english_digest": "## English Guide\n- Problem: How to achieve optimal quantum metrology and quantum control in multi-mode Gaussian bosonic systems using Sp(2N,R) symmetry?\n- Method: Optimal control by aligning squeezing and displacement; generalization of SU(1,1) interferometry to Sp(2N,R) echo. Geometric reversal of many-body dynamics with Sp(2N,R) symmetry.\n- Main result: Sp(2N,R) echo achieves sensitivity set by quantum Fisher information; geometric method for reversing dynamics (e.g., bosonic Kitaev chain).\n- Relevance: Highly relevant. Directly applicable to quantum sensing (atom interferometry, atomic clocks), quantum computing (bosonic computing), and control in platforms like trapped ions, neutral atoms, and optical tweezers.\n- Reading priority: High. The framework is useful for designing spin squeezing, entanglement generation, and error mitigation in Rydberg atom arrays or ion traps.\n- Possible inspiration: Apply the geometric reversal method to improve readout or suppress noise in Ramsey interferometry with Rydberg atoms; use Sp(2N,R) symmetry to optimize microwave sensing in Rydberg systems.",
+  "relevance_score": 9.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25768v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25768v1",
+  "local_pdf_path": ""
+}

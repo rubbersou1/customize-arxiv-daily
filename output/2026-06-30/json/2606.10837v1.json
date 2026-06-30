@@ -1,0 +1,21 @@
+{
+  "title": "Enhanced nondipole momentum offsets in triple ionization of atoms driven by mid-infrared laser fields",
+  "arXiv_id": "2606.10837v1",
+  "abstract": "We investigate the dependence on wavelength of nondipole effects in triple ionization of Ne driven by intense infrared and mid-infrared laser pulses using a three-dimensional semiclassical model that fully accounts for nondipole effects and the Coulomb singularity in the electron-core interaction. We find in triple ionization of strongly driven Ne a large positive average momentum offset along the direction of laser propagation, which vanishes in the dipole approximation. This positive momentum offset significantly increases with increasing wavelength of the laser pulse. This increase is present for all triple ionization events as well as for the main direct and delayed pathways of triple ionization. We attribute the increase of the momentum offset to the contribution of the effect of the magnetic field of the laser pulse on the bound electrons. This contribution counterbalances the decrease in the strength of the recollisions with increasing wavelength. We find that 1200 nm is an ideal wavelength for experimentally measuring the momentum offset related to correlated three-electron escape.",
+  "authors": [
+    "Samuel James Praill",
+    "Georgios Petros Katsoulis",
+    "Daria Romero Torres",
+    "Agapi Emmanouilidou"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文利用三维半经典模型研究了强中红外激光脉冲驱动的氖原子三重电离中的非偶极效应。研究发现，在激光传播方向上存在较大的正平均动量偏移，且该偏移随激光波长增加而显著增大，这归因于激光磁场对束缚电子的影响。论文指出1200 nm是实验测量相关三电子逃逸动量偏移的理想波长。",
+  "chinese_digest": "## 中文导读\n- 研究问题：强激光场中原子多电子电离的非偶极动量偏移及其波长依赖性。\n- 核心方法：三维半经典模型，完全考虑非偶极效应和库仑奇点。\n- 主要结果：三重电离中正平均动量偏移随波长增大，归因于磁场对束缚电子的影响。\n- 与量子精密测量/量子计算的关系：本文属于强场原子物理和超快激光物理领域，与量子精密测量（如原子干涉仪、Rydberg原子传感）、量子计算（如中性原子量子门）无直接关联。论文不涉及量子度量学、Fisher信息、自旋压缩、光学晶格、离子阱、腔QED或量子控制等主题。\n- 是否值得精读：不值得，除非对强场电离中的非偶极效应有特殊兴趣。\n- 对我研究的可能启发：无直接启发，但可关注强激光与原子相互作用中的动量转移机制，可能对极端条件下的原子操控有间接参考价值。",
+  "english_digest": "## English Guide\n- Problem: Wavelength dependence of nondipole momentum offsets in triple ionization of atoms by intense mid-infrared laser pulses.\n- Method: 3D semiclassical model with full nondipole effects and Coulomb singularity.\n- Main result: Positive average momentum offset increases with wavelength, attributed to magnetic field effects on bound electrons; 1200 nm is optimal for experimental observation.\n- Relevance: This paper belongs to strong-field atomic physics and ultrafast laser physics. It has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, cavity QED, or quantum control. The topic is far from the specified research interests.\n- Reading priority: Low. Not recommended for those focused on quantum metrology or quantum computing.\n- Possible inspiration: None directly. May offer indirect insight into momentum transfer mechanisms in intense laser-atom interactions, which could be relevant for extreme-condition atomic manipulation.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.10837v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.10837v1",
+  "local_pdf_path": ""
+}

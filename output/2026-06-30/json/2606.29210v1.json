@@ -1,0 +1,21 @@
+{
+  "title": "Embedded Random Matrix Ensembles to Statistical Shell Model: Operation of $q$-normal forms",
+  "arXiv_id": "2606.29210v1",
+  "abstract": "Embedded random matrix ensembles operating in nuclear shell model spaces, with nucleons occupying a finite set of single particle orbits and interacting via a two-body interaction, form the basis for statistical shell model. With sufficiently strong interaction, the level densities in shell model spaces take close to a Gaussian form and transition strength distributions close to a bivariate Gaussian form. In practice, partitioning via spherical configurations ($\\tilde{m}$) and angular momentum $J$ (also isospin where appropriate) are essential. The resulting statistical spectroscopy or statistical shell model was applied successfully in the past in some studies of nuclear level densities, orbit occupancies, $β$-decay matrix elements and so on. Going beyond these, recently it is recognized that embedded ensembles, in a better approximation, generate in-fact $q$-normal form ($q=1$ gives Gaussian and $q=0$ Wigner's semi-circle) for density of eigenvalues, bivariate $q$-normal form for transition strengths and conditional $q$-normal form for strength functions. These then allow us to develop statistical shell model with $q$-normal forms. These new developments in embedded ensembles and statistical shell model are briefly reviewed in this paper. Also described, using some examples, is the role of the $q$ parameter in generating statistical properties of general quantum many-particle systems.",
+  "authors": [
+    "V. K. B. Kota",
+    "N. D. Chavda",
+    "Manan Vyas"
+  ],
+  "categories": [
+    "nucl-th",
+    "quant-ph"
+  ],
+  "summary": "这篇论文综述了嵌入随机矩阵系综在统计壳模型中的应用。作者指出，当核子占据有限单粒子轨道并通过两体相互作用时，嵌入系综的能级密度、跃迁强度分布和强度函数可以分别用q-正态分布、双变量q-正态分布和条件q-正态分布来描述（q=1对应高斯分布，q=0对应维格纳半圆）。这些新进展允许基于q-正态形式发展统计壳模型，并展示了q参数在描述一般量子多体系统统计性质中的作用。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何用随机矩阵系综描述核壳模型中的统计性质？\n- 核心方法：嵌入随机矩阵系综，引入q-正态分布（q=1高斯，q=0维格纳半圆）描述能级密度、跃迁强度和强度函数。\n- 主要结果：q-正态形式能更好地近似嵌入系综的统计性质，并可用于发展统计壳模型。\n- 与量子精密测量/量子计算的关系：本文主要属于核物理和随机矩阵理论，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。论文未涉及任何量子增强测量、量子门、误差缓解或具体量子平台。\n- 是否值得精读：不推荐精读，除非对核物理中的统计壳模型或随机矩阵理论有特殊兴趣。\n- 对我研究的可能启发：q-正态分布或可作为描述量子多体系统（如自旋压缩）统计性质的数学工具，但需要进一步探索其与量子计量学的联系。",
+  "english_digest": "## English Guide\n- Problem: How to describe statistical properties of nuclear shell models using random matrix ensembles?\n- Method: Embedded random matrix ensembles with q-normal distributions (q=1 Gaussian, q=0 Wigner semicircle) for level densities, transition strengths, and strength functions.\n- Main result: q-normal forms provide a better approximation for statistical shell model.\n- Relevance: This paper belongs to nuclear physics and random matrix theory. It has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. No discussion of quantum-enhanced measurements, quantum gates, error mitigation, or specific hardware platforms.\n- Reading priority: Low priority unless you have specific interest in nuclear statistical shell models or random matrix theory.\n- Possible inspiration: The q-normal distribution might be a mathematical tool for describing statistical properties of quantum many-body systems (e.g., spin squeezing), but further exploration is needed to connect to quantum metrology.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29210v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29210v1",
+  "local_pdf_path": ""
+}

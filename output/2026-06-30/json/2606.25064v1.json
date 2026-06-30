@@ -1,0 +1,21 @@
+{
+  "title": "Quantum Geometry in the Continuum: Solitons in Shallow Lattices",
+  "arXiv_id": "2606.25064v1",
+  "abstract": "The quantum geometry of electronic, photonic, and atomic lattice systems quantifies the distance in Hilbert space between Bloch states at neighboring lattice momenta. This quantity has profound implications for flat-band systems especially, characterizing surprising behavior such as superfluidity and superconductivity when the group velocity is zero and no transport would be expected for non-interacting particles. However, when the band is not flat, the effects of quantum geometry are often intertwined with and partly masked by the band dispersion. Here, we show that in weakly interacting bosonic systems in the critical dimension (i.e., two dimensions for Kerr nonlinearity), the deviation from critical behavior due to the presence of the lattice is governed by the quantum geometry, which is directly proportional to the fourth-order dispersion. Furthermore, we identify the family of continuous lattice potentials that saturates the bound on the quantum metric for a given effective mass tensor.",
+  "authors": [
+    "Koorosh Sadri",
+    "Mikael C. Rechtsman"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "nlin.PS",
+    "physics.optics"
+  ],
+  "summary": "这篇论文研究了连续系统中的量子几何，特别是浅晶格中的孤子。论文指出，量子几何（即希尔伯特空间中布洛赫态之间的度量）在平带系统中具有深远影响，例如导致超流和超导。但当能带不平坦时，量子几何效应常与能带色散交织并部分掩盖。本文证明，在临界维度（二维）的弱相互作用玻色系统中，由晶格引起的临界行为偏差由量子几何主导，且与四阶色散成正比。此外，论文确定了在给定有效质量张量下饱和量子度量边界的连续晶格势族。",
+  "chinese_digest": "## 中文导读\n- 研究问题：浅晶格中孤子的量子几何效应，以及量子几何如何影响弱相互作用玻色系统的临界行为。\n- 核心方法：理论分析，结合量子几何（量子度量）与连续晶格势中的孤子动力学。\n- 主要结果：量子几何与四阶色散直接相关，并主导临界行为偏差；识别了饱和量子度量边界的晶格势族。\n- 与量子精密测量/量子计算的关系：相关性较低。论文主要关注凝聚态物理中的量子几何和孤子，未直接涉及量子计量学、量子传感、量子Fisher信息、自旋压缩、里德伯原子、中性原子量子计算、离子阱、原子钟、拉姆齐干涉、腔QED、光镊、量子控制或量子门等主题。\n- 是否值得精读：对于专注于量子精密测量和量子计算的研究者，不值得精读。\n- 对我研究的可能启发：无直接启发。但若研究涉及冷原子在晶格中的几何效应，可能间接相关。",
+  "english_digest": "## English Guide\n- Problem: The role of quantum geometry in solitons in shallow lattices, and how it affects critical behavior in weakly interacting bosonic systems. \n- Method: Theoretical analysis combining quantum geometry (quantum metric) with soliton dynamics in continuous lattice potentials. \n- Main result: Quantum geometry is directly proportional to fourth-order dispersion and governs deviations from critical behavior; a family of lattice potentials saturating the quantum metric bound is identified. \n- Relevance: Low relevance (3/10). The paper focuses on condensed matter physics (quantum geometry and solitons) and does not address quantum metrology, sensing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, Ramsey interferometry, cavity QED, optical tweezers, quantum control, or quantum gates. \n- Reading priority: Not recommended for researchers focused on quantum precision measurement or quantum computing. \n- Possible inspiration: Minimal. Could be indirectly relevant if one studies geometric effects in cold-atom lattice systems.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25064v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25064v1",
+  "local_pdf_path": ""
+}

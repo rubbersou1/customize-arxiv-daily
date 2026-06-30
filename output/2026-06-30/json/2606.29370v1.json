@@ -1,0 +1,23 @@
+{
+  "title": "Breathing mode of quantum droplets in dipolar quantum gases: A sum-rule analysis",
+  "arXiv_id": "2606.29370v1",
+  "abstract": "We theoretically investigate the ground-state properties and breathing-mode collective excitations of three-dimensional dipolar Bose gases in anisotropic harmonic traps incorporating quantum fluctuations. Combining a Gaussian variational ansatz with a non-perturbative sum-rule analysis, we derive explicit analytical expressions for both axial and radial breathing-mode frequencies, which are validated by numerical solutions of the time-dependent extended Gross-Pitaevskii equation. Our theoretical predictions show excellent agreement with existing experimental data for $^{166}$Er and $^{162}$Dy gases. By constructing comprehensive phase diagrams across the parameter space of the $s$-wave scattering length, atom number, and trap aspect ratio, we reveal both discontinuous first-order phase transitions and smooth crossovers between the dilute Bose-Einstein condensate and dense quantum droplet phases. We confirm that the enhanced incompressibility induced by quantum fluctuations significantly elevates the breathing-mode frequencies in the droplet phase compared to conventional weakly interacting Bose gases. Furthermore, the system undergoes a phase transition and a crossover over the scattering length under the quasi-two-dimensional and quasi-one-dimensional confinements, characterized by discontinuous jumps and continuous crossovers in peak density and atomic cloud sizes, respectively. Our work offers a rigorous and highly accurate framework to characterize collective excitations in dipolar quantum gases, providing quantitative insights for forthcoming ultracold atom experiments in lanthanide atoms and polar molecules.",
+  "authors": [
+    "Xinran Zhang",
+    "Junli Liu",
+    "Huiyun Xiao",
+    "Xiao-Long Chen",
+    "Yunbo Zhang"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "quant-ph"
+  ],
+  "summary": "本文理论研究了三维偶极玻色气体在各项异性谐振势阱中、包含量子涨落时的基态性质和呼吸模式集体激发。通过结合高斯变分拟设与非微扰求和规则分析，推导了轴向和径向呼吸模式频率的解析表达式，并通过数值求解含时扩展Gross-Pitaevskii方程进行了验证。理论预测与$^{166}$Er和$^{162}$Dy气体的现有实验数据高度吻合。通过构建s波散射长度、原子数和阱纵横比参数空间中的完整相图，揭示了稀薄玻色-爱因斯坦凝聚相与稠密量子液滴相之间不连续的一级相变和平滑的交叉。研究确认量子涨落导致的不可压缩性增强显著提高了液滴相的呼吸模式频率。此外，在准二维和准一维约束下，系统在散射长度上经历相变和交叉，分别表现为峰值密度和原子云尺寸的不连续跳跃和连续交叉。该工作为表征偶极量子气体中的集体激发提供了严格且高精度的框架。",
+  "chinese_digest": "## 中文导读\n- 研究问题：三维偶极玻色气体中量子液滴的呼吸模式集体激发特性。\n- 核心方法：高斯变分拟设结合非微扰求和规则分析，并与含时扩展Gross-Pitaevskii方程数值解及实验数据对比。\n- 主要结果：推导了呼吸模式频率的解析表达式，验证了与实验的一致性；揭示了从BEC到量子液滴的相变/交叉；发现量子涨落显著提高液滴相频率。\n- 与量子精密测量/量子计算的关系：该研究属于超冷原子物理领域，与量子传感、量子计算的相关性较低。它主要关注偶极气体的基态和集体激发，不直接涉及量子计量学中的参数估计、Fisher信息、自旋压缩或量子门操作。然而，偶极气体中的量子液滴作为新型量子态，其集体激发模式未来可能在量子传感中作为敏感探针，但当前工作未直接探索这一方向。\n- 是否值得精读：对于专注于量子精密测量和量子计算的读者，相关性中等偏低，可作为背景了解偶极量子气体的前沿进展。\n- 对我研究的可能启发：偶极气体中量子涨落增强的不可压缩性可能启发新型量子传感方案，但需要进一步研究如何将其与自旋压缩、干涉仪等计量协议结合。",
+  "english_digest": "## English Guide\n- Problem: Breathing mode collective excitations of quantum droplets in three-dimensional dipolar Bose gases.\n- Method: Gaussian variational ansatz combined with non-perturbative sum-rule analysis, validated by numerical solutions of the time-dependent extended Gross-Pitaevskii equation and experimental data.\n- Main result: Analytical expressions for breathing-mode frequencies; phase diagram showing BEC-to-droplet transition/crossover; enhanced incompressibility due to quantum fluctuations raises droplet frequencies.\n- Relevance: This paper falls under ultracold atomic physics and is not directly related to quantum precision measurement, quantum sensing, quantum computing, spin squeezing, or Fisher information. It does not address metrological protocols, gate operations, or quantum control. The topic of dipolar quantum gases is tangential to the user's core interests. Relevance score: 4/10.\n- Reading priority: Low. The paper is more relevant to the physics of quantum droplets and collective excitations than to quantum metrology or computing.\n- Possible inspiration: The enhanced incompressibility in quantum droplets might inspire novel sensing mechanisms, but this is not explored in the paper. No direct inspiration for spin squeezing, Ramsey interferometry, or Rydberg-based sensing.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29370v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29370v1",
+  "local_pdf_path": ""
+}

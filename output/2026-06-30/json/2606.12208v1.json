@@ -1,0 +1,20 @@
+{
+  "title": "Weakly interacting Bose gases in the canonical ensemble",
+  "arXiv_id": "2606.12208v1",
+  "abstract": "Based on the canonical description of a non-interacting Bose gas, we work out how both thermodynamic and statistical properties change perturbatively with respect to weak two-particle interactions. Up to first order, we obtain a recursion formula for the canonical partition function, which consists of the same Feynman diagrams as the grand-canonical description but with different Feynman rules. Resumming this recursion formula for the canonical partition function allows one to characterize the statistics of the ground-state occupancy by its respective cumulants. We demonstrate the applicability of this approach by analyzing a dilute Bose gas with contact interaction in a box trap. To this end, we used Dirichlet boundary conditions in view of their relevance for current experiments with atomic gases, where the box trap is implemented, for instance, with digital mirror devices.",
+  "authors": [
+    "Jonata S. Soares",
+    "Axel Pelster",
+    "Arnaldo Gammal"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "本文研究了正则系综中弱相互作用玻色气体的热力学和统计性质。基于无相互作用玻色气体的正则描述，通过微扰论处理弱两体相互作用，推导出正则配分函数的递推公式。该公式与巨正则描述中的费曼图相同，但遵循不同的费曼规则。通过重新求和该递推公式，可以表征基态占据数的累积量。作者以盒势阱中具有接触相互作用的稀薄玻色气体为例，采用狄利克雷边界条件，以适应当前使用数字微镜器件等实验实现盒势阱的原子气体实验。",
+  "chinese_digest": "## 中文导读\n- 研究问题：正则系综中弱相互作用玻色气体的统计性质，特别是基态占据数的涨落特性。\n- 核心方法：基于无相互作用玻色气体的正则描述，引入弱相互作用的微扰展开，推导出正则配分函数的递推公式，并采用费曼图技术（但使用不同费曼规则）。\n- 主要结果：得到了基态占据数累积量的解析表达式，并以盒势阱中的稀薄玻色气体为例进行了数值演示。\n- 与量子精密测量/量子计算的关系：本文主要关注统计物理和冷原子热力学性质，未直接涉及量子传感、量子计量或量子计算中的具体协议、算法或硬件。虽然冷原子系统是量子精密测量（如原子干涉仪、光钟）的重要平台，但本文讨论的是平衡态统计性质，而非非平衡量子传感或量子信息处理。\n- 是否值得精读：对于专门从事量子精密测量或量子计算的研究者，本文相关性较低，不建议精读。对于从事冷原子统计物理或量子热力学的研究者，可能有一定参考价值。\n- 对我研究的可能启发：本文对弱相互作用玻色气体基态占据数涨落的分析，可能间接关联到量子传感中原子数噪声对测量精度的影响，但联系较为间接。",
+  "english_digest": "## English Guide\n- Problem: Statistical properties of weakly interacting Bose gases in the canonical ensemble, focusing on ground-state occupancy fluctuations. \n- Method: Perturbative expansion around the non-interacting canonical description, deriving a recursion formula for the canonical partition function with modified Feynman rules. \n- Main result: Analytical expressions for cumulants of ground-state occupancy, demonstrated for a dilute Bose gas in a box trap with Dirichlet boundary conditions. \n- Relevance: This paper is primarily about equilibrium statistical physics of cold atoms. It does not directly address topics such as quantum metrology, quantum sensing, quantum Fisher information, spin squeezing, Rydberg atoms, trapped ions, atomic clocks, quantum gates, or error mitigation. The connection to quantum precision measurement or quantum computing is very indirect (e.g., through understanding atomic number noise in Bose gases used in sensors). \n- Reading priority: Low. Not recommended for researchers focused on quantum sensing, quantum metrology, or quantum computing. \n- Possible inspiration: The analysis of ground-state occupancy fluctuations may provide background knowledge on fundamental noise sources in cold-atom-based quantum sensors, but the link is weak.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.12208v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.12208v1",
+  "local_pdf_path": ""
+}

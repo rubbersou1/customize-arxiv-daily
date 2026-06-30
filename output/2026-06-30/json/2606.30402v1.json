@@ -1,0 +1,35 @@
+{
+  "title": "Quantum Computations on Fusion Blanket Molten Salts",
+  "arXiv_id": "2606.30402v1",
+  "abstract": "Molten salts such as FLiBe (2LiF--BeF$_2$) are leading blanket materials for breeding and recovering tritium in fusion reactors. Predicting tritium speciation requires accurate electronic ground-state energies for representative molten-salt clusters, a demanding task for correlated electronic-structure methods. Here we report the first application of heterogeneous quantum--classical computing to tritium binding in FLiBe. Clusters drawn from ab initio molecular dynamics are partitioned by an embedded-wavefunction (EWF) method into atom-centered fragments, and the largest fragments are solved on IBM quantum hardware using extended sample-based quantum diagonalization (ext-SQD). Across nine clusters, the heterogeneous quantum--classical workflow reproduces fragment ground-state energies with agreement to full configuration interaction within 0.7~kcal/mol and a mean absolute deviation of 0.3~kcal/mol. In contrast, fragmented and unfragmented conformational energy differences and tritium binding energies differ by 12~kcal/mol and 110~kcal/mol on average, respectively, identifying fragment construction rather than fragment solution as the dominant source of algorithmic bias. To the best of our knowledge, this is the first such demonstration for a charged ionic system and in particular an inorganic molten salt, where electrostatic and polarization effects make the accurate treatment of electronic correlation particularly challenging. These results also identify areas of future research towards an accurate and scalable quantum--classical workflow to compute free-energy estimates of tritium speciation in fusion blankets.",
+  "authors": [
+    "Susanta Das",
+    "Thiago J. Pinheiro Dos Santos",
+    "Subhamoy Bhowmik",
+    "Milana Bazayeva",
+    "Zhen Li",
+    "Akhil Shajan",
+    "Danil Kaliakin",
+    "Fangchun Liang",
+    "Vyacheslav S. Bryantsev",
+    "Al Geist",
+    "Abigail McClain Gomez",
+    "Thaddeus Pellegrini",
+    "Robert Walkup",
+    "Seetharami R. Seelam",
+    "Mario Motta",
+    "Kenneth M. Merz,",
+    "Thomas Beck"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.chem-ph"
+  ],
+  "summary": "该论文首次将异构量子-经典计算方法应用于聚变堆包层熔盐（如FLiBe）中氚的结合能计算。通过嵌入波函数方法将分子动力学模拟中的团簇划分为原子中心片段，并在IBM量子硬件上使用扩展样本量子对角化求解最大片段。结果表明，该方法能再现片段基态能量，与全组态相互作用的平均偏差为0.3 kcal/mol，但片段构建偏差是算法误差的主要来源。这是对带电离子系统（尤其是无机熔盐）的首次量子计算演示。",
+  "chinese_digest": "## 中文导读\n- 研究问题：聚变堆包层熔盐中氚结合能的量子计算模拟。\n- 核心方法：异构量子-经典计算（嵌入波函数+扩展样本量子对角化）。\n- 主要结果：片段基态能量精度达0.3 kcal/mol，但片段构建偏差显著。\n- 与量子精密测量/量子计算的关系：论文属于量子计算在化学模拟中的应用，与量子精密测量（如量子Fisher信息、自旋压缩、拉姆齐干涉）无直接关联；不涉及Rydberg原子、中性原子、离子阱、光晶格钟等实验平台或传感协议。\n- 是否值得精读：不推荐。除非您对量子计算在材料科学中的应用有广泛兴趣。\n- 对我研究的可能启发：可能提供量子-经典混合算法的误差分析思路，但与您关注的核心方向（量子传感、计量、控制）不直接相关。",
+  "english_digest": "## English Guide\n- Problem: Quantum computation of tritium binding energies in fusion blanket molten salts (FLiBe).\n- Method: Heterogeneous quantum-classical computing with embedded-wavefunction and extended sample-based quantum diagonalization on IBM hardware.\n- Main result: Fragment ground-state energies accurate to 0.3 kcal/mol, but fragment construction is the dominant error source.\n- Relevance: Low (3/10). The paper focuses on quantum chemistry simulation, not on quantum precision measurement, sensing, metrology, or quantum computing hardware (e.g., Rydberg atoms, trapped ions, neutral atoms, spin squeezing, Fisher information). No direct connection to Ramsey interferometry, cavity QED, or atomic clocks.\n- Reading priority: Low. Not recommended unless you are broadly interested in quantum-classical algorithms for material science.\n- Possible inspiration: Error analysis in hybrid quantum-classical workflows may offer methodological insights, but the core topics (quantum metrology, sensing, control) are not addressed.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30402v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30402v1",
+  "local_pdf_path": ""
+}

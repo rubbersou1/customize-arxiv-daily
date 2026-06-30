@@ -1,0 +1,25 @@
+{
+  "title": "Scheme for Transport-based Global Entanglement Distribution using Quantum Processors",
+  "arXiv_id": "2606.15421v1",
+  "abstract": "We propose a scheme for distributing entanglement over global distances in a heralded manner by using satellites to physically transport entangled processor nodes with rare-earth-ion qubits. A full analysis of channel losses, errors and background light is performed to determine the fidelity and number of entangled pairs that can be distributed between two ground stations. We show that the scheme works already with a single satellite and can distribute close to the theoretical maximum number of entangled pairs that can be generated in a satellite overpass. In addition, we argue that in theory transportation-based schemes outperform other satellite-based schemes and can be scaled up to a constellation without additional channel losses. Daytime operation seems feasible as long as the sky is clear, with an EPR pair fidelity ranging from 99.3% at shorter network lengths to 93.9% with global coverage and can be further improved by active error correction or entanglement purification.",
+  "authors": [
+    "Erik Lundblad",
+    "Mira Abu Yahia",
+    "Antonius Johannes Renders",
+    "Andreas Walther",
+    "Adam Kinos",
+    "Lars Rippe"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph",
+    "physics.optics"
+  ],
+  "summary": "本文提出了一种基于卫星物理传输纠缠处理器节点（使用稀土离子量子比特）来在全球范围内分发纠缠的方案。该方案通过卫星携带纠缠处理器节点，在卫星过境时与地面站建立纠缠，从而实现全球尺度的纠缠分发。作者分析了信道损耗、错误和背景光对纠缠保真度和纠缠对数量的影响，结果显示单颗卫星即可接近理论最大纠缠对数量，且白天操作可行，保真度在99.3%到93.9%之间，可通过主动纠错或纠缠纯化进一步提升。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用卫星物理传输纠缠处理器节点实现全球范围的纠缠分发。\n- 核心方法：卫星携带稀土离子量子比特的纠缠处理器节点，在卫星过境时与地面站建立纠缠，通过物理传输实现纠缠分发。\n- 主要结果：单颗卫星即可接近理论最大纠缠对数量，白天操作可行，保真度在99.3%（短距离）到93.9%（全球覆盖）之间。\n- 与量子精密测量/量子计算的关系：该方案主要关注量子通信和纠缠分发，与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子量子计算、离子阱、Fisher信息等方向无直接关联。\n- 是否值得精读：对于主要关注量子精密测量和量子计算的研究者，该论文相关性较低，不太值得精读。\n- 对我研究的可能启发：纠缠分发是量子网络的基础，可能对分布式量子传感或量子计算中的纠缠资源分配有间接启发，但非直接相关。",
+  "english_digest": "## English Guide\n- Problem: How to distribute entanglement over global distances using satellites physically transporting entangled processor nodes. \n- Method: Use satellites to carry entangled processor nodes with rare-earth-ion qubits; establish entanglement with ground stations during satellite overpass. \n- Main result: A single satellite can achieve near-theoretical maximum entangled pairs; daytime operation feasible with fidelity from 99.3% (short distance) to 93.9% (global coverage). \n- Relevance: This work focuses on quantum communication and entanglement distribution, with no direct connection to quantum metrology, quantum sensing, Rydberg atoms, spin squeezing, neutral-atom quantum computing, trapped ions, or Fisher information. \n- Reading priority: Low for researchers primarily interested in quantum precision measurement and quantum computing. \n- Possible inspiration: The concept of entanglement distribution may indirectly inspire distributed quantum sensing or resource allocation in quantum computing, but is not directly applicable.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.15421v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.15421v1",
+  "local_pdf_path": ""
+}

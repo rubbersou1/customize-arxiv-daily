@@ -1,0 +1,23 @@
+{
+  "title": "Spin mixing induced dynamics of spinor solitons in $F=1$ Bose Einstein condensates",
+  "arXiv_id": "2606.14231v1",
+  "abstract": "We explore soliton interactions in a homogeneous spinor $F=1$ Bose Einstein Condensate (BEC) in the presence of a magnetic field, focusing on dark bright dark and bright dark bright configurations. We investigate how these interactions depend on the phase differences among bright solitons and their influence during the dynamics. Our findings align with prior non spinor results, i.e., repulsion among in phase bright solitons and attraction among out of phase pairs in self repulsive atomic BECs. The potential bright soliton attraction, added to the short range repulsion of dark dark soliton interactions, can lead to bound states. However, we find that these bound states break in the presence of spinor interactions due to the particle exchange dynamics between the hyperfine states of the components. Additonally, we develop an effective classical model to describe the soliton dynamics, using a Lagrangian approach. The accuracy of the model is tested by comparing it against numerical simulations. Our results suggest that the proposed model captures the essential features of soliton behavior in the presence of spin interactions, and provides congruent soliton trajectories and interspecies particle exchange dynamics in most of the cases.",
+  "authors": [
+    "T. Panagos",
+    "A. Romero-Ros",
+    "G. C. Katsimiga",
+    "P. Schmelcher",
+    "P. G. Kevrekidis"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "quant-ph"
+  ],
+  "summary": "该论文研究了在均匀自旋为1的玻色-爱因斯坦凝聚体中，磁场存在下的孤子相互作用，重点关注暗-亮-暗和亮-暗-亮两种构型。研究发现，亮孤子间的相互作用（同相排斥、反相吸引）与先前非自旋结果一致，但自旋相互作用导致束缚态不稳定，因为超精细态之间发生了粒子交换动力学。作者还开发了一个有效的经典模型来描述孤子动力学，并使用拉格朗日方法，通过数值模拟验证了模型的准确性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：自旋为1的BEC中自旋混合诱导的孤子动力学。\n- 核心方法：数值模拟与经典拉格朗日模型。\n- 主要结果：自旋相互作用破坏孤子束缚态，引起超精细态间粒子交换。\n- 与量子精密测量/量子计算的关系：该研究涉及自旋动力学和量子相干性，但与量子精密测量、量子传感、Fisher信息、自旋压缩、里德伯原子、中性原子量子计算、离子阱、原子钟等核心主题无直接关联。论文更侧重于BEC中孤子的非线性动力学，而非量子计量学或量子计算中的协议、算法或硬件。\n- 是否值得精读：对于专注于量子精密测量或量子计算的研究者，相关性较低，不建议精读。\n- 对我研究的可能启发：可能为理解自旋混合对量子相干性的影响提供一些背景，但缺乏直接应用。",
+  "english_digest": "## English Guide\n- Problem: Spin mixing induced dynamics of spinor solitons in F=1 BEC. \n- Method: Numerical simulations and an effective classical Lagrangian model. \n- Main result: Spinor interactions destabilize soliton bound states and induce particle exchange between hyperfine states. \n- Relevance: The paper is tangentially related to spin dynamics and quantum coherence but lacks direct connection to quantum precision measurement, quantum sensing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, or quantum gates. It focuses on nonlinear soliton dynamics in BEC, not on metrology or computing protocols. \n- Reading priority: Low for researchers in quantum metrology or quantum computing. \n- Possible inspiration: May offer background insights into spin-mixing effects on coherence, but no direct application to the listed interests.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.14231v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.14231v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Nonlinear refractive index of warm rubidium vapor",
+  "arXiv_id": "2606.24676v1",
+  "abstract": "The potential to precisely control both the linear and nonlinear index of refraction through optical manipulation of the atomic states has recently pushed warm alkali vapors to the forefront of research in the field of quantum sensors, quantum memories, and quantum fluids of light. Rubidium (Rb) vapor in centimeter-scale glass cells or millimeter-scale MEMS cells has proven to be a very promising platform for these applications, yet only a handful of research works have been dedicated to the investigation of the (non)linear refractive index of Rb vapor. We present results of theoretical calculations of the (non)linear refractive index of warm Rb vapor, based on the optical Bloch equations for 6-level Rb atoms interacting with a probe laser. They are compared to the experimental results obtained using an interferometric technique, showing excellent quantitative agreement. A Kerr nonlinear refractive index $n_2$ of up to $10^{-4}$ cm$^2$/W is obtained. Python scripts for all theoretical calculations presented in this work are provided, including the refractive index calculation, that can readily be used in practical implementations for simulating the (non)linear refractive index of Rb vapor including the effects of Doppler broadening, transit time broadening, pressure broadening, saturation, optical pumping, and spin-exchange collisions.",
+  "authors": [
+    "L. Kardum",
+    "G. Premec",
+    "N. Šantić",
+    "D. Aumiler"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "physics.optics",
+    "quant-ph"
+  ],
+  "summary": "本文通过实验和理论计算研究了温铷蒸气在量子传感、量子记忆和量子光流体等应用中的非线性折射率。基于6能级铷原子与探测激光相互作用的布洛赫方程，理论计算了线性和非线性折射率，并通过干涉测量实验验证，结果吻合良好。获得了高达10^{-4} cm^2/W的克尔非线性折射率n2，并提供了包含多普勒展宽、渡越展宽、压力展宽、饱和、光泵浦和自旋交换碰撞效应的Python计算脚本。",
+  "chinese_digest": "## 中文导读\n- 研究问题：温铷蒸气的线性和非线性折射率（特别是克尔非线性）的理论计算与实验验证。\n- 核心方法：基于6能级铷原子的光学布洛赫方程理论建模，结合干涉测量实验进行对比。\n- 主要结果：获得了高达10^{-4} cm^2/W的克尔非线性折射率n2，理论与实验定量一致，并提供了开源Python计算脚本。\n- 与量子精密测量/量子计算的关系：温铷蒸气是量子传感器（如原子钟、磁力计）、量子记忆和量子光流体的重要平台。本文对非线性折射率的精确建模有助于优化基于原子蒸气的量子传感协议（如非线性干涉仪、压缩态生成）和量子计算中的光-原子耦合控制。然而，论文更侧重于基础光学性质，而非直接提出新的量子测量协议或计算方案。\n- 是否值得精读：中等。如果从事基于温原子蒸气的量子传感或量子记忆实验，尤其是涉及非线性光学效应（如四波混频、压缩光）的研究，值得精读；否则可作为背景了解。\n- 对我研究的可能启发：提供的Python脚本可直接用于模拟铷蒸气中的非线性效应，有助于设计基于自旋压缩或Rydberg原子的量子传感实验中的光场传播与相位积累。",
+  "english_digest": "## English Guide\n- Problem: Theoretical and experimental investigation of the linear and nonlinear refractive index (especially Kerr nonlinearity) of warm rubidium vapor. \n- Method: Optical Bloch equations for a 6-level Rb atom interacting with a probe laser, validated by interferometric experiments. \n- Main result: A Kerr nonlinear refractive index n2 up to 10^{-4} cm^2/W is obtained, with excellent theory-experiment agreement; open-source Python scripts are provided. \n- Relevance: Warm Rb vapor is a key platform for quantum sensors (atomic clocks, magnetometers), quantum memories, and quantum fluids of light. Accurate modeling of its nonlinear refractive index is relevant for optimizing protocols in quantum metrology (e.g., nonlinear interferometers, squeezed-state generation) and quantum computing (light-atom coupling). However, the paper focuses on fundamental optical properties rather than novel metrology or computing schemes. \n- Reading priority: Moderate. Essential if you work on warm-vapor-based quantum sensing or memory involving nonlinear optics; otherwise a useful background reference. \n- Possible inspiration: The provided Python scripts can be used to simulate nonlinear effects in Rb vapor, which is helpful for designing phase accumulation or squeezing experiments in quantum sensing with Rydberg atoms or spin-squeezed ensembles.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.24676v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.24676v1",
+  "local_pdf_path": ""
+}

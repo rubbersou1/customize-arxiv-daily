@@ -1,0 +1,22 @@
+{
+  "title": "Finite temperature precursors of Mottness in the Fermi Hubbard model",
+  "arXiv_id": "2606.27204v2",
+  "abstract": "We investigate finite-temperature precursors of Mottness in the repulsive Hubbard model above the spin-ordering temperature, using numerically exact determinant quantum Monte Carlo. We show that the finite-temperature crossover is accompanied by a pronounced suppression of charge fluctuations, despite the presence of a gapless single-particle spectra, demonstrating that Mottness first emerges via two-particle response in an anomalous metallic regime, before appearing in single-particle spectral functions. We further show that a gap formation in the density of states occurs through momentum-resolved redistribution of spectral weight across the Brillouin zone, that begins at the onset of anomalous metallic regime, rather than through gap formation in single-particle spectral functions at individual momenta. Upon doping, the anomalous-metallic regime generates transport and spectroscopic signatures characteristic of doped Mott insulators. This shows that the transport and spectroscopic anomalies of the doped Hubbard model do not require the presence of a fully formed Mott insulator at half-filling, but instead originate from the strong charge-response renormalization and spectral-weight redistribution that develop within the precursor anomalous metallic regime at half-filling.",
+  "authors": [
+    "Sayantan Roy",
+    "Abhisek Samanta",
+    "Nandini Trivedi"
+  ],
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci",
+    "cond-mat.quant-gas"
+  ],
+  "summary": "这篇论文使用精确的行列式量子蒙特卡洛方法，研究了费米-哈伯德模型中在自旋有序温度以上的有限温前驱体行为。作者发现，在单粒子谱仍呈现无能隙的情况下，电荷涨落被显著抑制，表明莫特绝缘体行为首先通过双粒子响应在反常金属态中出现，然后才在单粒子谱函数中显现。通过掺杂，该反常金属态产生了掺杂莫特绝缘体的输运和谱学特征，说明这些异常并不需要半满时完全形成的莫特绝缘体，而是源于半满时前驱体反常金属态中的强电荷响应重整化和谱权重重新分布。",
+  "chinese_digest": "## 中文导读\n- 研究问题：费米-哈伯德模型中莫特绝缘体在有限温下的前驱体行为及其物理起源。\n- 核心方法：精确的行列式量子蒙特卡洛数值模拟。\n- 主要结果：在自旋有序温度以上、单粒子谱仍无能隙时，电荷涨落已被强烈抑制；莫特行为首先通过双粒子响应出现；掺杂后产生类似掺杂莫特绝缘体的输运异常。\n- 与量子精密测量/量子计算的关系：本文主要关注强关联电子系统的量子多体物理，不直接涉及量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱或Fisher信息等方向。\n- 是否值得精读：对于量子精密测量或量子计算领域的研究者，相关性较低，不建议精读。\n- 对我研究的可能启发：无直接启发，但文中关于强关联系统中电荷涨落抑制和谱权重重新分布的分析方法，可能对理解某些量子传感平台中的退相干机制有间接参考价值。",
+  "english_digest": "## English Guide\n- Problem: Finite-temperature precursors of Mottness in the Fermi-Hubbard model above the spin-ordering temperature.\n- Method: Numerically exact determinant quantum Monte Carlo simulations.\n- Main result: Charge fluctuations are strongly suppressed even when the single-particle spectrum remains gapless; Mott behavior first emerges via two-particle response; upon doping, transport anomalies characteristic of doped Mott insulators appear.\n- Relevance: This paper focuses on strongly correlated electron systems and does not directly address quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or related topics. Relevance score is low (2/10).\n- Reading priority: Low for researchers in quantum metrology or quantum computing.\n- Possible inspiration: The analysis of charge fluctuation suppression and spectral weight redistribution may offer indirect insights into decoherence mechanisms in certain quantum sensing platforms, but the connection is weak.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27204v2",
+  "arxiv_url": "http://arxiv.org/abs/2606.27204v2",
+  "local_pdf_path": ""
+}

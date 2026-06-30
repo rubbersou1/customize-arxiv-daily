@@ -1,0 +1,20 @@
+{
+  "title": "Private training in quantum machine learning",
+  "arXiv_id": "2606.29293v1",
+  "abstract": "With the emergence of machine learning (ML) models trained on large datasets containing potentially sensitive data, a major question in AI safety is how to make learning private with respect to the training data. Similar to classical machine learning, quantum machine learning (QML) models are not devoid of privacy vulnerabilities. Differential privacy (DP) is a standard tool for training ML models on sensitive data, but its impact in QML remains poorly understood. In this work we study private training in hybrid variational QML models using a classical private DP-SGD optimizer applied to pipelines with classical inputs and outputs. We analyze the interplay between gradient clipping and calibrated noise addition in DP-SGD, and its impact on optimization and accuracy for noisy and noiseless quantum models. We first explain why quantum noise does not provide a satisfactory replacement for the calibrated noise in DP-SGD for ensuring privacy. We then show how the deterministic bounds on gradient norms for a wide class of quantum models translate into explicit control of the detrimental clipping bias introduced by DP-SGD. Finally, we formulate a numerical comparison protocol under fixed clipping threshold and privacy budget and evaluate it on synthetic and image-classification tasks for equivalent quantum and classical models. Our results suggest that quantum models can retain higher accuracy in private-training regimes where the formal privacy guarantee is ensured by a classical DP-SGD mechanism.",
+  "authors": [
+    "Tigran Sedrakyan",
+    "Frédéric Grosshans",
+    "Elham Kashefi"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "本文研究了量子机器学习中的隐私训练问题，特别是使用经典的差分隐私SGD（DP-SGD）优化器对混合变分量子模型进行私有训练。作者分析了梯度裁剪和噪声添加对量子模型优化和准确性的影响，指出量子噪声不能替代DP-SGD中的校准噪声来保证隐私。他们展示了量子模型梯度范数的确定性界限如何有助于控制DP-SGD引入的裁剪偏差，并在合成和图像分类任务上进行了数值比较，结果表明量子模型在隐私训练中能保持更高的准确性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何将差分隐私（DP）应用于量子机器学习（QML）训练，以保护训练数据隐私。\n- 核心方法：使用经典DP-SGD优化器，对混合变分QML模型进行私有训练，分析梯度裁剪和噪声添加的影响。\n- 主要结果：量子噪声不能替代DP-SGD的校准噪声；量子模型梯度范数的确定性界限可控制裁剪偏差；量子模型在隐私训练中比经典模型有更高准确性。\n- 与量子精密测量/量子计算的关系：本文主要聚焦量子机器学习中的隐私保护，与量子精密测量（如量子计量学、量子传感、Fisher信息）、量子计算硬件（如Rydberg原子、中性原子、离子阱）或量子控制、量子门等方向无直接关联。未涉及量子计量学、量子传感、自旋压缩、原子钟、干涉仪等主题。\n- 是否值得精读：如果研究兴趣在量子机器学习隐私，则值得；否则，对量子精密测量或量子计算硬件方向帮助有限。\n- 对我研究的可能启发：可能为量子计算中的数据处理提供隐私保护思路，但对量子传感、计量学实验或理论研究无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to achieve differential privacy (DP) in quantum machine learning (QML) training to protect sensitive training data.\n- Method: Apply classical DP-SGD optimizer to hybrid variational QML models, analyzing gradient clipping and noise addition.\n- Main result: Quantum noise cannot replace calibrated noise in DP-SGD for privacy; deterministic bounds on QML gradient norms help control clipping bias; QML models retain higher accuracy under DP training compared to classical models.\n- Relevance: This paper focuses on privacy in QML, with no direct connection to quantum precision measurement, quantum sensing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, atom interferometry, cavity QED, optical tweezers, quantum control, quantum gates, or performance limits in quantum metrology. Relevance score: 3/10.\n- Reading priority: Low, unless your research involves quantum ML privacy. Not recommended for those focused on quantum metrology, sensing, or computing hardware.\n- Possible inspiration: Could provide ideas for privacy-preserving data processing in quantum computing, but offers little to quantum sensing or metrology experiments.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29293v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29293v1",
+  "local_pdf_path": ""
+}

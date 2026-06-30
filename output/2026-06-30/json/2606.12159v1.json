@@ -1,0 +1,20 @@
+{
+  "title": "Grand-canonical phase diagram and chiral-current suppression at $π$ flux in a bosonic two-leg ladder",
+  "arXiv_id": "2606.12159v1",
+  "abstract": "We investigate the ground-state phase diagram of repulsively interacting bosons on a two-leg ladder threaded by a uniform artificial magnetic flux, using the cluster Gutzwiller mean-field method. In the strong-rung-coupling regime, self-consistent calculations are performed on a $2\\times4$ cluster. By analyzing the superfluid order parameter, leg-resolved currents, chiral current, the current ratio on adjacent legs, and the density imbalance between the two legs, we distinguish Mott-insulating from superfluid regimes and characterize the observed states as Meissner-like, vortex-like (superfluid or Mott insulating), or biased-ladder. In regions overlapping with previous DMRG studies, our results qualitatively agree with the established phase structure, demonstrating that the cluster Gutzwiller approach balances computational efficiency and physical accuracy. We then construct the first grand-canonical $t$--$μ$ phase diagrams for this system, revealing how the magnetic flux modifies the shape, tilt, and extent of the Mott lobes. We further explore previously inaccessible regimes, including higher fillings $ρ\\gtrsim1$ and the intermediate interaction window $U/t\\in[7.69,9.09]$. Special attention is paid to $\\varphi=π$, where the effective triangular-ladder mapping becomes singular. Owing to the equivalence of $\\varphi=π$ and $-π$ modulo $2π$, a combined symmetry forbids net chiral currents, leading to a nonchiral Mott-insulating state, in contrast to the chiral-superfluid tendency expected away from $\\varphi=π$. Our results offer a computationally efficient route for mapping the global phase structure of bosonic flux ladders and provide guidance for future ultracold-atom experiments in artificial gauge fields.",
+  "authors": [
+    "Meng Zhang",
+    "Qingyun Xu",
+    "Zhi Lin"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "本文利用团簇Gutzwiller平均场方法，研究了在均匀人工磁场下双腿玻色子梯子基态相图。重点分析了π磁通下的手征电流抑制现象，并首次构建了该系统的巨正则t-μ相图，揭示了磁通如何改变莫特瓣的形状、倾斜和范围。文章还探讨了高填充和中等相互作用区域，并指出在φ=π处由于对称性导致净手征电流消失，形成非手征莫特绝缘态。",
+  "chinese_digest": "## 中文导读\n- 研究问题：双腿玻色子梯子在人工磁场下的相变和手征电流行为。\n- 核心方法：团簇Gutzwiller平均场方法（2×4团簇），自洽计算超流序参量、电流等。\n- 主要结果：首次给出巨正则相图，发现π磁通下净手征电流被抑制，形成非手征莫特绝缘态。\n- 与量子精密测量/量子计算的关系：本文研究超冷原子在人工规范场中的量子多体物理，与量子传感、量子计算平台（如中性原子、离子阱）无直接关联，未涉及量子计量学、Fisher信息、自旋压缩、Rydberg原子等核心主题。\n- 是否值得精读：对于量子精密测量或量子计算方向的研究者，不值得精读。\n- 对我研究的可能启发：基本无直接启发，但若涉及超冷原子人工规范场模拟，可参考其相图计算方法。",
+  "english_digest": "## English Guide\n- Problem: Phase diagram and chiral current behavior in a bosonic two-leg ladder under artificial magnetic flux.\n- Method: Cluster Gutzwiller mean-field method (2×4 cluster), self-consistent calculation of superfluid order parameter and currents.\n- Main result: First grand-canonical phase diagrams; at φ=π, net chiral current is suppressed due to symmetry, leading to a nonchiral Mott insulator.\n- Relevance: Low. The paper focuses on ultracold-atom physics in artificial gauge fields, but does not address quantum metrology, quantum sensing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, or atomic clocks. It is a theoretical many-body study with no direct experimental or protocol relevance to the specified interests.\n- Reading priority: Low for researchers in quantum precision measurement or quantum computing.\n- Possible inspiration: Minimal; could be relevant only if one is specifically studying ultracold atoms in synthetic gauge fields as a platform, but no direct link to sensing or computation.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.12159v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.12159v1",
+  "local_pdf_path": ""
+}

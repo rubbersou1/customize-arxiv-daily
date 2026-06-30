@@ -1,0 +1,18 @@
+{
+  "title": "Sensitivity of Fitting High Order Zernikes",
+  "arXiv_id": "2606.25873v1",
+  "abstract": "The sensitivity of fitting Zernike coefficients to wavefront data due to an error or uncertainty in the exact position of the edge of the wavefront data is derived. The results indicate that fitting higher and higher order Zernikes rapidly becomes a useless exercise unless the true edge of the wavefront data is known with sufficient precision.",
+  "authors": [
+    "Gregg M. Gallatin"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "这篇论文推导了由于波前数据边缘位置误差或不确定性，对拟合Zernike系数灵敏度的影响。结果表明，除非精确知道波前数据的真实边缘，否则拟合越来越高阶的Zernike多项式会迅速变得毫无意义。",
+  "chinese_digest": "## 中文导读\n- 研究问题：波前数据边缘位置误差对高阶Zernike多项式拟合灵敏度的影响。\n- 核心方法：理论推导灵敏度公式。\n- 主要结果：高阶Zernike拟合对边缘误差极其敏感，需精确边缘信息。\n- 与量子精密测量/量子计算的关系：该论文主要涉及光学波前拟合技术，未直接讨论量子传感、量子计量、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息或量子控制等方向。论文内容属于经典光学数据处理，与量子精密测量和量子计算的实验平台（如光镊、腔QED、原子钟等）无直接关联。\n- 是否值得精读：不值得精读。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Sensitivity of fitting high-order Zernike coefficients to wavefront edge position errors.\n- Method: Theoretical derivation of sensitivity formulas.\n- Main result: Fitting high-order Zernike polynomials becomes useless without precise knowledge of the wavefront edge.\n- Relevance: This paper focuses on classical optical wavefront fitting and has no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or quantum control. It does not address any of the specified research interests.\n- Reading priority: Not recommended for reading.\n- Possible inspiration: No direct inspiration for the described research fields.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25873v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25873v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Dual-isotope narrow-line MOT of dysprosium by phase modulation",
+  "arXiv_id": "2606.23958v1",
+  "abstract": "We report on the characterization of a narrow-line magneto-optical trap (MOT), where two different isotopes of the dysprosium (Dy) atom can be simultaneously loaded and trapped. We rely on phase modulation via high-power, free-space electro-optic modulators (EOMs) to generate optical sidebands at the correct detuning for two different isotopes. This technique is applied on the slowing transition at 421 nm and the MOT transition at 626 nm. Using modular resonant electronic circuits, we match the sideband separation to the isotope shift among the two target isotopes, realizing mixtures of the bosonic isotopes 164Dy -162Dy and 162Dy -160Dy. We exploit the interplay between radiation forces and gravity in the narrow-line MOT to control the spatial position of the two isotopes with the EOM drive frequency. We demonstrate full control of the isotopic mixture with the EOM drive, offering new and cost-effective capabilities for controlling mixtures of atomic species that can be trapped in a narrow-line MOT.",
+  "authors": [
+    "M. Dürbeck",
+    "L. Reihs",
+    "J. Seifert",
+    "B. Choudhari",
+    "J. P. Marulanda-Serna",
+    "N. Werum",
+    "M. De Pas",
+    "G. Meijer",
+    "G. Valtolina"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "cond-mat.quant-gas"
+  ],
+  "summary": "本文报道了一种利用相位调制技术，在镝（Dy）原子的窄线宽磁光阱（MOT）中同时捕获两种不同同位素（如164Dy-162Dy和162Dy-160Dy）的方法。通过自由空间电光调制器（EOM）产生光学边带，匹配同位素频移，实现对同位素混合物的控制。研究还利用窄线宽MOT中辐射力与重力的相互作用，通过调节EOM驱动频率来控制两种同位素的空间位置，为控制窄线宽MOT中捕获的原子混合物提供了新且经济有效的能力。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用相位调制技术同时捕获和操控镝原子的不同同位素，以支持量子精密测量和量子计算中的原子平台。\n- 核心方法：采用高功率自由空间EOM产生光学边带，匹配同位素频移；利用窄线宽MOT中辐射力与重力的平衡控制同位素空间分布。\n- 主要结果：成功实现了两种同位素混合物的同时装载和空间位置控制，展示了EOM驱动频率对同位素混合的完全调控能力。\n- 与量子精密测量/量子计算的关系：镝原子具有复杂的能级结构，可用于量子传感（如磁场、电场测量）和量子计算（如中性原子量子比特）。该技术为构建多同位素量子系统提供了新工具，可能用于增强量子Fisher信息（通过多组分纠缠）或实现基于Rydberg原子的量子门。对原子钟、Ramsey干涉仪和自旋压缩等方向有潜在价值。\n- 是否值得精读：是，尤其对从事中性原子量子计算、量子传感和原子光学的研究者。\n- 对我研究的可能启发：可借鉴相位调制方法在镝原子系统中实现多同位素操控，用于设计多物种量子传感器或探索同位素依赖的量子效应（如自旋交换相互作用）。",
+  "english_digest": "## English Guide\n- Problem: How to simultaneously trap and control different isotopes of dysprosium using phase modulation, to support atomic platforms for quantum precision measurement and quantum computing.\n- Method: Free-space EOMs generate optical sidebands matching isotope shifts; interplay between radiation pressure and gravity in a narrow-line MOT controls spatial positions of isotopes.\n- Main result: Successful co-trapping and spatial control of isotope mixtures (e.g., 164Dy-162Dy), with full tunability via EOM drive frequency.\n- Relevance: Dysprosium's complex level structure is relevant to quantum sensing (e.g., magnetic/electric field sensing) and neutral-atom quantum computing. This technique enables multi-isotope systems, potentially enhancing quantum Fisher information via multi-component entanglement or enabling Rydberg-based quantum gates. Relevant to atomic clocks, Ramsey interferometry, and spin squeezing.\n- Reading priority: High, for researchers in neutral-atom quantum computing, quantum sensing, and atomic optics.\n- Possible inspiration: Apply phase modulation to other multi-isotope systems for designing multi-species quantum sensors or exploring isotope-dependent quantum effects (e.g., spin-exchange interactions).",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.23958v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.23958v1",
+  "local_pdf_path": ""
+}

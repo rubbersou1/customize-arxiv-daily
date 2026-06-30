@@ -1,0 +1,22 @@
+{
+  "title": "Quantum percolation theory for dynamic propagation connectivity of transport networks",
+  "arXiv_id": "2606.30218v1",
+  "abstract": "Connectivity degradation in transport networks under structural disturbance is a central problem in network resilience research. Existing methods rely mainly on percolation theory and topological connectivity measures. They focus on whether paths exist and whether connected components fragment. These approaches cannot capture functional degradation where network topology remains intact but propagation ability has already declined substantially. This paper introduces quantum percolation theory into transport network connectivity analysis and proposes Dynamic Propagation Connectivity (DPC) as a new measure that characterises network propagation ability under disturbance. By mapping a transport network under disturbance into a propagation operator system, this paper establishes a spectral analysis framework for DPC and defines the time-averaged participation index as its core quantification. This paper provides a series of rigorous theoretical results. DPC remains constant under homogeneous disturbance and degrades under heterogeneous disturbance. This paper establishes a quantitative relationship between the degradation rate, the minimum eigenvalue spacing of the propagation operator, and heterogeneous deviation strength. This paper proves a separation theorem between DPC and algebraic connectivity. It derives an analytical expression for DPC and a second-order perturbation approximation on the ring graph. Numerical experiments on three transport benchmark networks verify all theoretical conclusions and confirm degradation monotonicity, separation from algebraic connectivity, and degradation amplification by network size. This paper provides a theoretical framework for transport network resilience assessment that goes beyond topological connectivity.",
+  "authors": [
+    "Junxiang Xu",
+    "Chence Niu",
+    "Divya Jayakumar Nair",
+    "Vinayak Dixit"
+  ],
+  "categories": [
+    "quant-ph",
+    "math.OC"
+  ],
+  "summary": "这篇论文将量子渗透理论引入交通网络连接性分析，提出动态传播连接性（DPC）作为衡量网络在扰动下传播能力的新指标。通过将受扰动的交通网络映射为传播算子系统，建立了DPC的谱分析框架，并定义了时间平均参与指数作为核心量化指标。论文证明了DPC在均匀扰动下保持不变、在异质扰动下退化，建立了退化率与传播算子最小特征值间距及异质扰动强度之间的定量关系，并证明了DPC与代数连接性之间的分离定理。在环图上推导了DPC的解析表达式和二阶摄动近似。数值实验验证了所有理论结论。",
+  "chinese_digest": "## 中文导读\n- 研究问题：交通网络在结构扰动下传播能力的动态退化问题，传统拓扑连接性指标无法捕捉功能退化。\n- 核心方法：借用量子渗透理论中的概念（传播算子、谱分析、时间平均参与指数），将网络传播动力学映射为算子系统，建立DPC指标。\n- 主要结果：DPC在均匀扰动下不变、异质扰动下退化；退化率与特征值间距和异质强度定量相关；DPC与代数连接性分离；环图上获得解析解。\n- 与量子精密测量/量子计算的关系：本文仅借用量子力学中的数学语言（如算符、谱）来研究交通网络，与量子精密测量（量子费舍尔信息、自旋压缩、原子钟等）、量子计算（量子门、中性原子、离子阱等）无直接关联。论文不涉及任何量子传感器、量子控制、量子协议或量子硬件平台。\n- 是否值得精读：不建议精读，除非对网络科学中的数学方法感兴趣。\n- 对我研究的可能启发：无直接启发。但量子渗透理论在量子信息中也有应用（如量子网络中的纠缠渗透），本文的DPC概念可能启发量子网络中的连通性度量，但需要进一步转化。",
+  "english_digest": "## English Guide\n- Problem: Dynamic degradation of propagation ability in transport networks under structural disturbance, which is not captured by traditional topological connectivity measures. \n- Method: Borrowing concepts from quantum percolation theory (propagation operator, spectral analysis, time-averaged participation index) to formulate a Dynamic Propagation Connectivity (DPC) metric. \n- Main result: DPC remains constant under homogeneous disturbance and degrades under heterogeneous disturbance; degradation rate is quantitatively linked to eigenvalue spacing and heterogeneous deviation strength; DPC separates from algebraic connectivity; analytical expression on ring graph obtained. \n- Relevance: This paper uses quantum mechanical language (operators, spectra) as a mathematical tool for network analysis, but has no direct connection to quantum precision measurement (quantum Fisher information, spin squeezing, atomic clocks, Ramsey interferometry), quantum sensing (Rydberg atoms, cavity QED, atom interferometry), or quantum computing (neutral atoms, trapped ions, quantum gates). It does not involve any quantum sensor, control, protocol, or hardware platform. \n- Reading priority: Low. Only if interested in mathematical methods for network science. \n- Possible inspiration: The concept of DPC might be adapted to quantum network connectivity (e.g., entanglement percolation), but this would require significant re-interpretation and extension.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30218v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30218v1",
+  "local_pdf_path": ""
+}

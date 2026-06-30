@@ -1,0 +1,19 @@
+{
+  "title": "Degeneracy-reshaped spin squeezing in high-spin Fermi-Hubbard systems weakly coupled to light",
+  "arXiv_id": "2606.23330v1",
+  "abstract": "We study spin squeezing in strongly interacting high-spin Fermi-Hubbard systems weakly coupled to light. We show that spin squeezing dynamics is qualitatively modified by the degeneracies associated with the internal spin structure. We identify these degeneracies as the microscopic origin of the breakdown of conventional maximal-spin description and develop an effective framework based on population eigenstates that quantitatively reproduces spin squeezing evolution. Our results uncover a generic mechanism by which degeneracy reshapes collective spin dynamics.",
+  "authors": [
+    "Hubert Dunikowski",
+    "Emilia Witkowska"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "本文研究强相互作用的高自旋费米-哈伯德系统在弱耦合光下的自旋压缩动力学。研究表明，内部自旋结构的简并性会定性改变自旋压缩行为，并揭示了这种简并性是传统最大自旋描述失效的微观起源。作者发展了一个基于布居本征态的有效框架，能够定量再现自旋压缩的演化，从而揭示简并性重塑集体自旋动力学的一般机制。",
+  "chinese_digest": "## 中文导读\n- 研究问题：高自旋费米-哈伯德系统中自旋压缩动力学如何受内部自旋简并性影响？\n- 核心方法：通过弱耦合光探测，结合基于布居本征态的有效理论框架，解析简并性对自旋压缩的调控。\n- 主要结果：自旋压缩动力学被简并性定性重塑，传统最大自旋近似失效；新框架定量描述演化。\n- 与量子精密测量/量子计算的关系：自旋压缩是量子精密测量（如量子传感、原子钟）的关键资源，本文揭示的简并性机制可用于优化中性原子或费米平台中的压缩态制备，提升测量精度；同时高自旋系统为量子计算提供更多编码维度。\n- 是否值得精读：是，尤其对从事自旋压缩、费米系统量子计量和光-物质界面研究的学者。\n- 对我研究的可能启发：可借鉴其简并性调控思路，应用于光镊中的高自旋原子或Rydberg系统，以设计新型自旋压缩协议。",
+  "english_digest": "## English Guide\n- Problem: How does internal spin degeneracy reshape spin squeezing dynamics in high-spin Fermi-Hubbard systems? \n- Method: Weak coupling to light, effective framework based on population eigenstates. \n- Main result: Degeneracy qualitatively modifies squeezing, breaking conventional maximal-spin description; new framework quantitatively reproduces evolution. \n- Relevance: Directly relevant to quantum metrology (spin squeezing enhances sensitivity in atomic clocks, quantum sensing) and quantum computing (high-spin platforms offer more qudit states). Also connects to neutral atoms, optical tweezers, and cavity QED. \n- Reading priority: High — provides a generic mechanism for engineering squeezed states in degenerate fermionic systems. \n- Possible inspiration: Apply degeneracy-reshaping idea to Rydberg atom arrays or trapped ions for improved squeezing and metrological gain.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.23330v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.23330v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Existence and absence of Bose-Einstein condensation in the interacting random Kac-Luttinger model",
+  "arXiv_id": "2606.30277v1",
+  "abstract": "In this paper, we study interacting bosons at zero temperature in a random and higher-dimensional continuum model introduced by Kac and Luttinger. For weak interactions we prove that there is condensation in the lowest eigenstate of the one-particle Hamiltonian (type-I BEC). For strong interactions, however, we show that condensation in a localized state cannot occur. We also prove generalized condensation, where a family of eigenstates of the one-particle Hamiltonian is macroscopically occupied as a whole. Combining these results yields a scenario where there is generalized condensation into a family of eigenstates of the one-particle Hamiltonian, but none of them is macroscopically occupied itself (type-III BEC). This proves a transition in the type of condensation. To the best of our knowledge, this is the first rigorous result in this direction for a random continuum model in higher dimensions.",
+  "authors": [
+    "C. Boccato",
+    "J. Kerner",
+    "M. Pechmann",
+    "W. Spitzer"
+  ],
+  "categories": [
+    "math-ph",
+    "math.PR",
+    "math.SP",
+    "quant-ph"
+  ],
+  "summary": "本文研究了Kac-Luttinger随机连续模型中零温下相互作用的玻色子。对于弱相互作用，证明了在单粒子哈密顿量的最低本征态中存在玻色-爱因斯坦凝聚（BEC，类型I）；对于强相互作用，证明了在局域态中不可能发生凝聚。此外，还证明了广义凝聚（单粒子哈密顿量的一组本征态被宏观占据），但其中没有任何一个本征态本身被宏观占据（类型III BEC），从而揭示了凝聚类型的转变。这是该随机连续模型在更高维度上的首个严格结果。",
+  "chinese_digest": "## 中文导读\n- 研究问题：随机Kac-Luttinger模型中相互作用玻色子的凝聚行为，特别是弱相互作用和强相互作用下的BEC类型。\n- 核心方法：严格数学分析，使用泛函积分、随机算子谱理论等工具。\n- 主要结果：证明了弱相互作用下的类型I BEC、强相互作用下局域态中无凝聚，以及类型III广义凝聚的存在，揭示了凝聚类型的转变。\n- 与量子精密测量/量子计算的关系：本文完全属于凝聚态物理和数学物理范畴，研究玻色子凝聚的严格数学性质，与量子精密测量（如量子费雪信息、自旋压缩）、量子传感、量子计算（如中性原子量子计算、离子阱、里德伯原子）、原子钟、腔QED等方向无直接关联。文中未涉及任何实验协议、控制、误差缓解或硬件平台。\n- 是否值得精读：不值得。该论文为纯理论数学物理研究，与您的研究方向（量子精密测量、量子传感、量子计算）不相关。\n- 对我研究的可能启发：无。",
+  "english_digest": "## English Guide\n- Problem: Study of Bose-Einstein condensation (BEC) in the interacting random Kac-Luttinger model, focusing on condensation types under weak and strong interactions. \n- Method: Rigorous mathematical analysis using functional integrals and spectral theory of random operators. \n- Main result: Proves type-I BEC for weak interactions, absence of BEC in localized states for strong interactions, and type-III generalized condensation, demonstrating a transition in condensation type. \n- Relevance: This paper belongs entirely to condensed matter physics and mathematical physics, investigating rigorous properties of boson condensation. It has no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing), quantum sensing, quantum computing (e.g., neutral-atom computing, trapped ions, Rydberg atoms), atomic clocks, cavity QED, or any experimental protocols, control, or readout. \n- Reading priority: Not recommended. The paper is purely theoretical and unrelated to your research focus on quantum metrology, sensing, and computing. \n- Possible inspiration: None.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30277v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30277v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Fractionalized Vortices Drive Kosterlitz-Thouless Transitions in Dipole-Conserving Systems",
+  "arXiv_id": "2606.25340v1",
+  "abstract": "Finite-temperature dipole-conserving superfluids in two dimensions pose a direct challenge to the usual Kosterlitz-Thouless (KT) paradigm: the primary phase field lacks quasi-long-range order, and the conventional vortex has only finite self-energy. We show that KT criticality nevertheless survives through a fractionalization of the vortex sector. In the dipole-conserving XY model, a minimal classical lattice realization of a fractonic superfluid, the conventional vortex is a finite-energy composite of two unconventional vortices in compact dipole fields. These fractionalized constituents have logarithmically divergent self-energies and are the defects that unbind at the transition; correspondingly, the ordinary helicity modulus remains nonsingular. Using Metropolis Monte Carlo supplemented by parallel tempering, generalized helicity moduli, and direct vortex-density measurements, we establish a phase diagram controlled by the deconfinement of these two vortex species. In the isotropic model, they deconfine simultaneously, producing a single KT transition. Coupling anisotropy splits the transition into two, separated by a phase with partial dipole quasi-long-range order, whereas removing the mixed-derivative coupling recombines the transitions even for anisotropic stiffnesses. Our theoretical and numerical results identify a fractionalized-defect mechanism for finite-temperature criticality in higher-moment-conserving matter and point to a hierarchy of KT transitions in multipole-conserving systems.",
+  "authors": [
+    "Han-Xie Wang",
+    "Shuai A. Chen",
+    "Zheng Yan",
+    "Peng Ye"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.stat-mech",
+    "cond-mat.str-el"
+  ],
+  "summary": "这篇论文研究了二维偶极矩守恒超流体的有限温度相变，发现其Kosterlitz-Thouless（KT）相变通过涡旋分数化机制实现。在偶极守恒XY模型中，传统涡旋分解为两个具有对数发散自能的分数化涡旋，它们在高斯耦合下的解禁闭驱动了KT相变。通过蒙特卡洛模拟和广义螺旋模量测量，论文建立了相图：各向同性模型中两个分数化涡旋同时解禁闭导致单一KT相变；各向异性耦合可将相变分裂为两个，中间出现部分偶极准长程有序相；而移除混合导数耦合则使相变重新合并。该工作揭示了高矩守恒系统中有限温度临界性的分数化缺陷机制，并指出多极守恒系统中可能存在KT相变的层次结构。",
+  "chinese_digest": "## 中文导读\n- 研究问题：偶极矩守恒的二维超流体是否还能发生KT相变？其缺陷机制是什么？\n- 核心方法：经典偶极守恒XY模型，Metropolis蒙特卡洛+并行回火，广义螺旋模量，涡旋密度测量。\n- 主要结果：传统涡旋分解为两个分数化涡旋，它们具有对数发散自能，其解禁闭驱动KT相变；各向异性可导致双KT相变。\n- 与量子精密测量/量子计算的关系：该工作属于统计物理和凝聚态理论，与量子精密测量、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。分数化涡旋和偶极守恒概念可能间接影响某些量子模拟平台（如偶极相互作用系统）的相变理解，但当前论文未涉及量子传感或量子计算协议。\n- 是否值得精读：对于从事量子精密测量或量子计算的研究者，精读价值较低。\n- 对我研究的可能启发：暂无直接启发；若研究偶极相互作用量子系统中的热化或拓扑相，可参考其分数化缺陷分析方法。",
+  "english_digest": "## English Guide\n- Problem: Can Kosterlitz-Thouless (KT) transitions occur in two-dimensional dipole-conserving superfluids, and what is the underlying defect mechanism?\n- Method: Classical dipole-conserving XY model, Metropolis Monte Carlo with parallel tempering, generalized helicity moduli, vortex density measurements.\n- Main result: Conventional vortices fractionalize into two constituents with logarithmically divergent self-energies; their unbinding drives KT transitions. Anisotropy can split the transition into two.\n- Relevance: This work is in statistical physics and condensed matter theory. It has no direct connection to quantum precision measurement, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The concept of fractionalized vortices might be tangentially relevant to certain quantum simulation platforms with dipole interactions, but the paper does not address quantum sensing or computing protocols.\n- Reading priority: Low for researchers focused on quantum metrology or quantum computing.\n- Possible inspiration: The fractionalized defect analysis might be applied to thermalization or topological phases in dipole-interacting quantum systems, but no immediate inspiration for quantum sensing or computing.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25340v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25340v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Intrinsic Indistinguishability of Identical Particles and How Particle Labels Affect It",
+  "arXiv_id": "2606.29312v1",
+  "abstract": "We investigate indistinguishability of identical bosons and fermions undergoing arbitrary particle-number-preserving evolutions of their visible degrees of freedom. For the projective indistinguishability measure, defined by the projection of the visible state onto the symmetric/anti-symmetric subspace, we derive an equivalent expression in terms of the dynamically invariant internal state. We further generalize the textbook symmetrization/anti-symmetrization framework for bosons and fermions to arbitrary partial distinguishability by deriving an explicit reconstruction formula for the multiparticle visible state in terms of the indistinguishability function encoding the dynamical invariants. We give complete characterization of the class-functions of indistinguishability by projective measures on generalized symmetries. Finally, we reveal a strikingly counterintuitive effect: introducing additional particle label states can increase the multiparticle indistinguishability of identical particles. The effect originates from the cancellation of collective multiparticle phases.",
+  "authors": [
+    "Valery Shchesnovich"
+  ],
+  "categories": [
+    "quant-ph",
+    "math-ph"
+  ],
+  "summary": "该论文研究了全同粒子（玻色子和费米子）在任意粒子数守恒演化下的不可区分性。作者提出了一个投影不可区分性度量，并将其等价表达为动态不变内部态的函数。论文进一步将标准对称化/反对称化框架推广到部分可区分情形，给出了多粒子可见态的重构公式。最后，论文揭示了一个反直觉效应：引入额外的粒子标记态可以增加多粒子全同粒子的不可区分性，其根源在于集体多粒子相位的抵消。",
+  "chinese_digest": "## 中文导读\n- 研究问题：全同粒子在演化中的不可区分性度量，以及粒子标签对不可区分性的影响。\n- 核心方法：利用投影测量和动态不变内部态，建立不可区分性的数学形式；通过对称化/反对称化框架推广到部分可区分情形。\n- 主要结果：给出了不可区分性的等价表达，揭示了粒子标签可增加不可区分性的反直觉效应。\n- 与量子精密测量/量子计算的关系：论文主要关注量子基础中的粒子不可区分性理论，未直接涉及量子计量学、量子传感、量子计算中的具体协议、误差抑制、或硬件平台（如Rydberg原子、中性原子、离子阱、原子钟等）。\n- 是否值得精读：对于研究量子基础或全同粒子统计的读者可能有价值，但对本领域的直接应用性较低。\n- 对我研究的可能启发：可能为理解多粒子纠缠态中的粒子区分性提供理论视角，但需进一步联系实际实验系统。",
+  "english_digest": "## English Guide\n- Problem: Quantifying indistinguishability of identical particles under number-conserving evolutions and the effect of particle labels. \n- Method: Projective indistinguishability measure expressed via dynamical invariants; generalization of symmetrization framework to partial distinguishability. \n- Main result: Equivalent expression for indistinguishability; counterintuitive increase of indistinguishability by adding particle labels due to cancellation of collective multiparticle phases. \n- Relevance: This paper is primarily a theoretical study in quantum foundations. It does not address quantum metrology, sensing, computing protocols, hardware (Rydberg atoms, neutral atoms, trapped ions, atomic clocks), Fisher information, spin squeezing, or experimental implementations. \n- Reading priority: Low for researchers focused on applied quantum sensing/quantum computing. \n- Possible inspiration: Could provide foundational insights into particle distinguishability in multi-particle entangled states, but direct applicability to precision measurement or quantum gate design is limited.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29312v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29312v1",
+  "local_pdf_path": ""
+}

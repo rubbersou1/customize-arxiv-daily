@@ -1,0 +1,29 @@
+{
+  "title": "Coexisting Regular and Chaotic Dynamics in the Dysprosium Feshbach Spectrum",
+  "arXiv_id": "2606.28233v1",
+  "abstract": "Strongly dipolar gases, such as dysprosium, erbium and thulium, exhibit dense Feshbach spectra whose level statistics have been associated with quantum chaos arising from couplings among many molecular channels. Here, we combine a precise calibration of the Feshbach spectrum of $^{162}$Dy with spectroscopic measurements of the differential magnetic moments of bound states associated with more than 80 resonances between 0 and 30 G. These magnetic moments provide an eigenstate-sensitive probe of the molecular states underlying the resonance spectrum. We find that the level statistics are not uniform: resonances associated with states near the center of the magnetic-moment distribution display enhanced level repulsion, whereas those near the lower edge remain close to Poisson statistics. Our results reveal hidden structure within the chaotic dysprosium Feshbach spectrum and identify molecular-state composition as a key ingredient in the emergence of quantum chaos in strongly dipolar scattering.",
+  "authors": [
+    "Julie Veschambre",
+    "Alexandre Journeaux",
+    "Maxime Lecomte",
+    "Alice Belmon",
+    "Ethan Uzan",
+    "Inès de Verdelhan",
+    "Patricia Christina Marques Castilho",
+    "Jakub Zakrzewski",
+    "Jean Dalibard",
+    "Raphael Lopes"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "nlin.CD",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文研究了镝（Dy）原子Feshbach谱中并存的正则和混沌动力学。通过精确校准$^{162}$Dy的Feshbach谱，并结合对80多个共振（0-30 G范围内）束缚态微分磁矩的光谱测量，作者发现能级统计并非均匀：磁矩分布中心附近的共振表现出增强的能级排斥，而低边缘附近的共振则接近泊松统计。结果表明，分子态组成是强偶极散射中量子混沌出现的关键因素，揭示了混沌Feshbach谱中的隐藏结构。",
+  "chinese_digest": "## 中文导读\n- 研究问题：镝原子Feshbach谱中量子混沌的起源和隐藏结构。\n- 核心方法：精确校准Feshbach谱，结合微分磁矩的谱学测量，分析能级统计。\n- 主要结果：磁矩分布中心区域共振呈现增强的能级排斥（混沌特征），边缘区域接近泊松统计（正则特征）。\n- 与量子精密测量/量子计算的关系：该研究主要关注原子分子物理中的量子混沌基础问题，与量子精密测量（如量子传感、Fisher信息）和量子计算（如中性原子量子门）无直接关联。论文不涉及Rydberg原子、自旋压缩、拉姆齐干涉等主题，也未讨论实验协议或性能极限。\n- 是否值得精读：对于量子混沌和偶极气体研究的学者有价值，但对量子精密测量和量子计算方向的研究者参考价值有限。\n- 对我研究的可能启发：无直接启发，但理解Feshbach共振的混沌特性可能对设计基于偶极气体的量子传感器有间接影响。",
+  "english_digest": "## English Guide\n- Problem: Origin and hidden structure of quantum chaos in the dysprosium Feshbach spectrum.\n- Method: Precise calibration of Feshbach spectrum combined with spectroscopic measurements of differential magnetic moments, analysis of level statistics.\n- Main result: Enhanced level repulsion (chaotic) in the center of the magnetic-moment distribution, near-Poisson statistics (regular) at the edges.\n- Relevance: This work focuses on fundamental quantum chaos in atomic/molecular physics and has no direct connection to quantum precision measurement, quantum sensing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped-ion systems, or atomic clocks. It does not address protocols, algorithms, error mitigation, or performance limits.\n- Reading priority: Low for researchers in quantum metrology and quantum computing; moderate for those studying dipolar quantum gases or chaos.\n- Possible inspiration: Indirectly relevant for understanding background physics in dipolar systems that may be used for sensing, but no immediate actionable insights.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28233v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28233v1",
+  "local_pdf_path": ""
+}

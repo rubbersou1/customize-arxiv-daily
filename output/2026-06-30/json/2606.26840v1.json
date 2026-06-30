@@ -1,0 +1,22 @@
+{
+  "title": "Taming the single-cylinder scattering through time-modulation -- The role of the modulation phase",
+  "arXiv_id": "2606.26840v1",
+  "abstract": "Dielectric particles with time-modulated electromagnetic properties exhibit intriguing scattering phenomena, entailing unique response and possibilities in meta-structures made of such particles. In this work, we investigate the scattering properties of an infinitely-long cylinder with periodically time-modulated permittivity. We demonstrate parametric scattering amplification, depending on the strength of the modulation, as well as controllable angular scattering pattern, ranging from enhanced forward to enhanced backward, or even scattering cancellation. This angular tunability is achieved through appropriate control of the modulation phase, highlighting its critical role in multi-modal time-modulated scattering systems.",
+  "authors": [
+    "J. Yan",
+    "I. Katsantonis",
+    "M. Mostafa",
+    "V. Asadchy",
+    "M. Kafesaki"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "本文研究了具有周期性时间调制介电常数的无限长圆柱体的散射特性。通过调节调制强度，实现了参量散射放大；通过控制调制相位，可以调控散射角分布，实现增强前向散射、增强后向散射甚至散射消除。这项工作强调了调制相位在多模态时间调制散射系统中的关键作用。",
+  "chinese_digest": "## 中文导读\n- 研究问题：时间调制介电圆柱体的散射特性调控。\n- 核心方法：通过周期性时间调制介电常数，并改变调制强度与相位，分析散射模式的变化。\n- 主要结果：实现了参量散射放大和角度可调的散射模式（前向/后向增强或消除），调制相位是关键控制参数。\n- 与量子精密测量/量子计算的关系：该工作属于经典电磁散射理论，与量子传感、量子计量、量子计算等方向无直接联系。文中未涉及量子系统、纠缠、Fisher信息、自旋压缩、Rydberg原子、离子阱、原子钟等核心概念。\n- 是否值得精读：对于量子精密测量和量子计算领域的研究者，不值得精读。\n- 对我研究的可能启发：时间调制方法可能为经典系统中的散射控制提供思路，但与本量子研究方向关联微弱。",
+  "english_digest": "## English Guide\n- Problem: Controlling the scattering properties of a time-modulated dielectric cylinder. \n- Method: Periodic time modulation of permittivity; tuning modulation strength and phase to shape scattering patterns.\n- Main result: Parametric scattering amplification and tunable angular patterns (forward/backward enhancement or cancellation) are achieved; modulation phase plays a critical role.\n- Relevance: This work is in classical electromagnetics and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. \n- Reading priority: Low for researchers in quantum metrology and quantum computing.\n- Possible inspiration: Time-modulation techniques might inspire classical control of scattering, but the relevance to quantum systems is minimal.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26840v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26840v1",
+  "local_pdf_path": ""
+}

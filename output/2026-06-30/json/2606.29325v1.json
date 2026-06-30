@@ -1,0 +1,20 @@
+{
+  "title": "Generic Number-of-Copies Amplification for Pseudorandom States",
+  "arXiv_id": "2606.29325v1",
+  "abstract": "We show that any quantum pseudorandom state that is secure against single-copy distinguishers, i.e. a $1$-PRS, can be amplified to $t$-copy security, i.e. to a $t$-PRS, without additional assumptions, for any polynomial $t$ in the security parameter. Prior work (Ananth and Goldin, arXiv 2025) was only able to show this for a restricted class of $1$-PRS constructions, namely ones whose generators only use a small number of ancilla qubits. Technically, we show that by carefully accounting for the randomness that is used in the construction, and using quantum extractors, it is possible to eliminate an ancilla register of any length and obtain a meaningful $t$-PRS outcome.",
+  "authors": [
+    "Zvika Brakerski",
+    "Miri Zenilman"
+  ],
+  "categories": [
+    "quant-ph",
+    "cs.CR"
+  ],
+  "summary": "这篇论文提出了一种通用的量子伪随机态（PRS）放大方法：任何能够抵抗单拷贝区分攻击的1-PRS都可以被放大为t拷贝安全的t-PRS，且无需额外假设。关键在于通过仔细核算构造中使用的随机性并利用量子提取器，可以消除任意长度的辅助寄存器，从而得到有意义的t-PRS结果。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何将单拷贝安全的量子伪随机态（1-PRS）放大为多拷贝安全的t-PRS。\n- 核心方法：利用量子提取器并仔细管理构造中的随机资源，消除辅助寄存器。\n- 主要结果：证明了任意1-PRS都可以被放大为t-PRS，且适用于所有多项式t。\n- 与量子精密测量/量子计算的关系：该工作属于量子密码学和量子信息理论基础，与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向没有直接联系。它主要关注量子态的伪随机性，而非测量精度或传感协议。\n- 是否值得精读：对于专注于量子精密测量或实用量子计算的读者，不太需要精读。\n- 对我研究的可能启发：如果研究涉及量子随机性资源或量子密码学，可能有一定参考价值，但与当前研究兴趣交集很小。",
+  "english_digest": "## English Guide\n- Problem: How to amplify a single-copy secure pseudorandom state (1-PRS) to a t-copy secure t-PRS.\n- Method: Use quantum extractors and carefully account for randomness in the construction to eliminate ancilla registers.\n- Main result: Any 1-PRS can be amplified to a t-PRS for any polynomial t without additional assumptions.\n- Relevance: This work belongs to quantum cryptography and quantum information theory. It has no direct connection to quantum precision measurement, quantum sensing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or related experimental platforms.\n- Reading priority: Low for researchers focused on quantum metrology or practical quantum computing.\n- Possible inspiration: May be relevant if your research involves quantum randomness resources or quantum cryptography, but otherwise offers little overlap with the stated interests.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29325v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29325v1",
+  "local_pdf_path": ""
+}

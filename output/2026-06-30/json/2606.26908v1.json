@@ -1,0 +1,22 @@
+{
+  "title": "High order harmonic Optical Reconstruction by delayed time-depeNdent Ellipticity perturbaTion: HORNET",
+  "arXiv_id": "2606.26908v1",
+  "abstract": "We present and demonstrate an all-optical \\textit{in situ} method for temporal characterisation of high-order harmonics generated in gas with a linearly polarised intense infrared (IR) laser. By using a delayed cross-polarised replica of the IR pulse with a lower amplitude, we introduce a weak and time-dependent ellipticity in the IR driving field. Since the XUV emission is very sensitive to the ellipticity of the driving field, it is perturbed precisely at the times when ellipticity is significant. The detected emission is then reduced only if the unperturbed XUV emission is substantial at these times. Perturbed XUV spectra are recorded for several delays and exhibit changes both in amplitude and in their spectral content. An iterative ptychographic algorithm is used to retrieve the electric field of individual harmonics in a very robust way. Experimental measurements are in good agreement with simulations. The reconstructed temporal profiles show a steady evolution of the XUV pulse duration and chirp with the harmonic order. The highest harmonics exhibit a positive chirp and are emitted in the rising front of the IR driving pulse, while the lowest ones exhibit a negative chirp and are emitted throughout the entire pulse.",
+  "authors": [
+    "Lucas Perez",
+    "Corentin Picot",
+    "Stefan Skupin",
+    "Fabrice Catoire",
+    "Eric Constant"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "该论文提出并展示了一种全光学原位方法（HORNET），用于表征在气体中由线性偏振强红外激光产生的高次谐波的时域特性。通过引入一个延迟的、交叉偏振的弱红外复制脉冲，在驱动场中施加一个弱且时间依赖的椭圆度。由于极紫外（XUV）发射对驱动场的椭圆度非常敏感，仅在椭圆度显著的时刻才会受到扰动。通过记录不同延迟下的扰动XUV光谱，并使用迭代叠层成像算法反演单个谐波的电场，重建了谐波的时域轮廓。实验结果表明，谐波脉冲持续时间和啁啾随谐波阶次稳定变化：最高阶谐波呈现正啁啾并在驱动脉冲上升沿发射，最低阶谐波呈现负啁啾并在整个脉冲期间发射。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何原位表征高次谐波的时域特性。\n- 核心方法：利用延迟的交叉偏振弱脉冲引入时间依赖椭圆度扰动，结合叠层成像算法反演谐波电场。\n- 主要结果：重建了各阶谐波的时域轮廓，揭示了谐波脉冲宽度和啁啾随阶次的演化规律。\n- 与量子精密测量/量子计算的关系：该工作属于超快光学和强场物理领域，与量子精密测量和量子计算的核心方向（如量子传感、自旋压缩、里德伯原子、中性原子量子计算、离子阱、原子钟、拉姆齐干涉、腔QED、光镊、量子控制、量子门、基于里德伯系统的微波传感等）没有直接关联。论文不涉及任何量子信息理论、量子度量学（如Fisher信息）、量子纠缠或量子增强测量。\n- 是否值得精读：不值得，除非对高次谐波产生技术本身有特殊兴趣。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to perform in-situ temporal characterization of high-order harmonics. \n- Method: Introduce a time-dependent ellipticity perturbation via a delayed cross-polarized replica, and retrieve the harmonic electric field using an iterative ptychographic algorithm. \n- Main result: Temporal profiles of individual harmonics are reconstructed, showing a systematic evolution of pulse duration and chirp with harmonic order. \n- Relevance: This work belongs to ultrafast optics and strong-field physics. It has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or any other topics listed in the research interests. \n- Reading priority: Low, unless one is specifically interested in high-harmonic generation techniques. \n- Possible inspiration: None for the specified research areas.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26908v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26908v1",
+  "local_pdf_path": ""
+}

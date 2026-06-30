@@ -1,0 +1,20 @@
+{
+  "title": "Exact Helicity-Orbital Coupled Dynamics in Chiral Media: An Optical Dirac Framework for Photonic Rabi Oscillations",
+  "arXiv_id": "2606.30295v1",
+  "abstract": "We demonstrate that light propagation in reciprocal chiral photonic media admits a unified description in terms of an emergent Dirac structure in helicity space. Starting from Maxwell's equations, we reformulate the electromagnetic field as a four-component spinor governed by an effective non-Hermitian optical Dirac equation. In this representation, the magnetoelectric response of the chiral medium appears as a helicity-dependent background that modifies the spectrum and eigenmodes, while the breaking of the spin-degenerate condition generates the intrinsic spin-orbit coupling between helicity and orbital degrees of freedom. After projection onto the positive-frequency sector, the theory reduces to an exact two-level helicity-orbital model. This model is found to have an analytical solution and describes coherent Rabi-like oscillations between spin-orbit-coupled vector modes. Chirality controls the helicity splitting and detuning, whereas the electromagnetic mismatch of the medium determines the coupling strength responsible for oscillatory spin-orbit conversion. The resulting dynamics is constrained by exact conservation of the total angular momentum, leading to reversible conversion between spin and orbital angular momentum with well-defined selection rules. Our work establishes an optical Dirac framework for structured light in chiral media, and provides experimentally accessible predictions for chirality-controlled oscillations, polarization dynamics, and orbital angular momentum conversion in structured optical fields.",
+  "authors": [
+    "Xuhui Cheng",
+    "Longlong Feng"
+  ],
+  "categories": [
+    "physics.optics",
+    "quant-ph"
+  ],
+  "summary": "这篇论文提出了一种在手性光子介质中描述光传播的新框架，将麦克斯韦方程组转化为一个光学狄拉克方程，并投影到正频率部分后得到一个精确的二能级螺旋-轨道耦合模型。该模型能够解析求解，描述了自旋-轨道耦合矢量模式之间的拉比振荡，其中手性控制螺旋分裂和失谐，而电磁失配决定耦合强度。研究展示了自旋与轨道角动量之间的可逆转换，并给出了在结构光场中可实验验证的预测。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何统一描述手性光子介质中的光传播及其螺旋-轨道耦合动力学？\n- 核心方法：从麦克斯韦方程组出发，将电磁场表示为四分量旋量，构建非厄米光学狄拉克方程，并投影到正频率部分得到二能级螺旋-轨道耦合模型。\n- 主要结果：模型解析求解，展示手性控制的拉比振荡和自旋-轨道角动量转换，守恒定律约束转换过程。\n- 与量子精密测量/量子计算的关系：本文主要研究经典光学中的螺旋-轨道耦合现象，与量子精密测量（如量子费希尔信息、自旋压缩）、量子计算（如中性原子、离子阱）、Rydberg原子等方向无直接关联。其拉比振荡概念虽与量子控制类似，但属于经典光学领域，不涉及量子资源或测量极限。\n- 是否值得精读：对于量子精密测量和量子计算研究者，相关性较低，不建议精读。\n- 对我研究的可能启发：无直接启发，但光学中的耦合模型可能为某些量子控制协议提供类比，不过价值有限。",
+  "english_digest": "## English Guide\n- Problem: How to unify the description of light propagation in chiral photonic media and its helicity-orbital coupled dynamics?\n- Method: Reformulate Maxwell's equations into an optical Dirac equation, project onto positive-frequency sector to obtain an exact two-level helicity-orbital model.\n- Main result: Analytical solution showing chirality-controlled Rabi-like oscillations and spin-orbit angular momentum conversion with conservation laws.\n- Relevance: This paper focuses on classical optics and structured light, with no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The Rabi oscillation concept is analogous but in a classical context, not quantum resource or measurement limit.\n- Reading priority: Low for researchers in quantum precision measurement and quantum computing.\n- Possible inspiration: Minimal; the coupling model might offer a classical analog for certain quantum control schemes, but impact is limited.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30295v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30295v1",
+  "local_pdf_path": ""
+}

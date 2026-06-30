@@ -1,0 +1,23 @@
+{
+  "title": "Adiabatic preparation of a fractional quantum Hall fluid by coherently pumping atoms from a Bose-Einstein condensate",
+  "arXiv_id": "2606.15951v1",
+  "abstract": "We propose a protocol to adiabatically prepare a many-particle fractional quantum Hall fluid of bosonic ultracold atoms exploiting a time-dependent coherent coupling of a strongly interacting atomic state with a large dilute Bose-Einstein condensate. Starting from an empty cloud, atoms with well-defined angular momentum are coherently pumped into the fluid by Raman beams with a Laguerre-Gauss profile. Compared to number-conserving schemes which rely on finite-size-induced topological gaps, we identify an adiabatic path in the Fock space which avoids crossing topological phase transitions and thus maintains a sizable adiabatic gap open at all times. The efficiency of our preparation protocol is numerically assessed for typical experimental parameters up to particle numbers that largely exceed the experimental state-of-the-art. The crucial advantage of including an anharmonic confinement is finally highlighted.",
+  "authors": [
+    "Alberto Tabarelli de Fatis",
+    "Christof Weitenberg",
+    "Alexander Schnell",
+    "André Eckardt",
+    "Iacopo Carusotto"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "quant-ph"
+  ],
+  "summary": "该论文提出了一种绝热制备玻色超冷原子分数量子霍尔流体的协议，通过时间依赖的相干耦合将原子从大块玻色-爱因斯坦凝聚体泵浦到强相互作用原子态。与依赖有限尺寸诱导拓扑间隙的粒子数守恒方案不同，该方法在Fock空间中识别了一条避免拓扑相变交叉的绝热路径，从而始终保持可观的绝热间隙。数值评估表明，对于远超当前实验水平的粒子数，该协议在典型实验参数下是有效的，并强调了非简谐约束的关键优势。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在实验中有效制备多粒子分数量子霍尔流体？\n- 核心方法：利用拉盖尔-高斯光束的拉曼耦合，从BEC中相干泵浦原子，沿避免拓扑相变的绝热路径制备。\n- 主要结果：数值验证了在典型实验参数下，可制备远超当前实验规模的分数量子霍尔流体，非简谐约束是关键。\n- 与量子精密测量/量子计算的关系：该工作主要关注拓扑量子物质的制备，与量子传感、计量、里德伯原子、自旋压缩、费希尔信息等方向无直接关联。其涉及的冷原子平台虽与中性原子量子计算有交集，但论文焦点在拓扑物态而非量子信息处理或测量。\n- 是否值得精读：对于关注分数量子霍尔效应或冷原子拓扑物态制备的研究者值得精读，但对于量子精密测量或量子计算方向相关性低。\n- 对我研究的可能启发：可能启发利用原子相干操控实现复杂量子态，但与本研究的量子传感/计量主题关联微弱。",
+  "english_digest": "## English Guide\n- Problem: How to efficiently prepare a many-particle fractional quantum Hall fluid in experiment?\n- Method: Coherently pumping atoms from a BEC using Laguerre-Gauss Raman beams along an adiabatic path that avoids topological phase transitions.\n- Main result: Numerically demonstrated preparation of fractional quantum Hall fluids with particle numbers far exceeding current experimental state-of-the-art, with anharmonic confinement being crucial.\n- Relevance: This work focuses on topological quantum matter preparation using ultracold atoms. It has low relevance to quantum sensing, metrology, Fisher information, spin squeezing, Rydberg atoms, trapped ions, or quantum computing. The cold-atom platform overlaps with neutral-atom quantum computing, but the paper does not address quantum information processing or measurement.\n- Reading priority: Low for researchers in quantum precision measurement or quantum computing; high for those interested in fractional quantum Hall effects or topological state preparation.\n- Possible inspiration: May inspire coherent manipulation techniques for complex quantum states, but the direct link to quantum sensing/metrology is minimal.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.15951v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.15951v1",
+  "local_pdf_path": ""
+}

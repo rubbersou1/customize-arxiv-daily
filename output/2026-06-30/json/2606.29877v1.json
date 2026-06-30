@@ -1,0 +1,20 @@
+{
+  "title": "Broadband gain characterization of Co:MgF$_2$ for mid-infrared femtosecond pulse amplification",
+  "arXiv_id": "2606.29877v1",
+  "abstract": "The broadband gain characteristics of Co:MgF$_2$ were investigated to assess its potential as a gain medium for ultrashort-pulse amplification around the 2 $μ$m spectral region. Single-pass gain measurements performed using femtosecond seed pulses revealed broadband amplification in the 1.5-2.4 $μ$m region. The temporal dynamics and spectra of the gain were experimentally characterized and utilized for numerical simulations to assess the feasibility of Co:MgF$_2$ as a broadband gain medium for ultrashort pulses. The results indicate its potential for broadband amplification in future short-wave infrared to mid-infrared ultrafast laser systems, particularly when combined with coherent waveform synthesis or post-compression techniques.",
+  "authors": [
+    "Natsuki Kanda",
+    "Kaito Nishimiya",
+    "Eiji J. Takahashi"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "这篇论文研究了Co:MgF₂作为中红外飞秒脉冲放大增益介质的宽带增益特性。通过使用飞秒种子脉冲进行单程增益测量，发现在1.5-2.4微米区域具有宽带放大能力。实验表征了增益的时间动力学和光谱，并用于数值模拟以评估其作为超短脉冲宽带增益介质的可行性。结果表明，该材料在未来的短波红外到中红外超快激光系统中具有宽带放大潜力，特别是结合相干波形合成或后压缩技术时。",
+  "chinese_digest": "## 中文导读\n- 研究问题：评估Co:MgF₂晶体在中红外波段（~2微米）作为飞秒脉冲放大增益介质的宽带性能。\n- 核心方法：利用飞秒种子脉冲进行单程增益测量，实验表征增益的时间动力学和光谱，并结合数值模拟。\n- 主要结果：Co:MgF₂在1.5-2.4微米区域展现出宽带放大能力，适用于未来超快激光系统。\n- 与量子精密测量/量子计算的关系：该论文属于激光物理和超快光学领域，与量子精密测量（如量子传感、量子Fisher信息、自旋压缩等）、量子计算（如中性原子、离子阱、Rydberg原子等）无直接关联。它可能间接为量子实验中的激光源（如用于操控原子或离子的激光）提供技术参考，但并非核心。\n- 是否值得精读：不值得精读。该论文与您的研究兴趣（量子计量学、量子传感、量子计算等）相关性很低。\n- 对我研究的可能启发：几乎没有直接启发，除非您正在开发特定波段的中红外激光源用于量子实验，但即便如此，其内容也偏向材料科学和激光工程。",
+  "english_digest": "## English Guide\n- Problem: To evaluate the broadband gain characteristics of Co:MgF₂ as a gain medium for femtosecond pulse amplification in the mid-infrared (around 2 μm).\n- Method: Single-pass gain measurements using femtosecond seed pulses, experimental characterization of temporal dynamics and spectra, and numerical simulations.\n- Main result: Co:MgF₂ exhibits broadband amplification in the 1.5-2.4 μm region, showing potential for future ultrafast laser systems.\n- Relevance: This paper is in the field of laser physics and ultrafast optics. It has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It could indirectly relate to laser sources for quantum experiments, but the focus is on material gain properties.\n- Reading priority: Low. The paper is not relevant to your core research interests in quantum metrology, quantum sensing, or quantum computing.\n- Possible inspiration: Minimal direct inspiration. It may be useful only if you are specifically developing mid-infrared laser sources for quantum control, but the content is more about laser engineering than quantum science.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29877v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29877v1",
+  "local_pdf_path": ""
+}

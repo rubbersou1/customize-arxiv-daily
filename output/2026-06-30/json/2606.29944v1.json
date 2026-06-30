@@ -1,0 +1,24 @@
+{
+  "title": "Soft-Radiation-Induced Decoherence of Heavy-Quark Spin Entanglement at the Electron-Ion Collider",
+  "arXiv_id": "2606.29944v1",
+  "abstract": "Using the soft-gluon theorem, we identify a soft-recoil mechanism by which unresolved gluon radiation induces decoherence in the spin correlations of heavy quark-antiquark pairs produced in deep-inelastic scattering. We show the eikonal soft contribution preserves the Born spin structure, whereas the subleading soft term generates stochastic recoil-induced rotations of the spin-correlation plane. Upon tracing over the unresolved gluon, these rotations produce an effective dephasing channel: the normal-axis correlation remains unchanged at this order, while the in-plane spin coherences are suppressed. We estimate the resulting reduction of concurrence and Bell-CHSH violation, and propose a radiation-binned EIC observable based on the ratio of in-plane to normal spin correlations. This observable isolates the characteristic anisotropic suppression predicted by the soft-recoil mechanism and provides a measurable handle on radiation-induced spin decoherence of an entangled quark-antiquark pair produced in a deep-inelastic scattering process.",
+  "authors": [
+    "Sanskriti Agrawal",
+    "Muneeb Zahoor",
+    "Raktim Abir"
+  ],
+  "categories": [
+    "hep-ph",
+    "hep-ex",
+    "hep-th",
+    "nucl-th",
+    "quant-ph"
+  ],
+  "summary": "这篇论文利用软胶子定理，研究了在电子-离子对撞机（EIC）的深度非弹性散射过程中，未分辨的软辐射如何导致重夸克-反重夸克对自旋纠缠的退相干。作者发现软辐射的领头阶（eikonal）贡献保持Born自旋结构，而次领头阶贡献则通过随机反冲效应引起自旋关联平面的旋转。在积分掉未分辨的软胶子后，这种旋转导致有效的退相干通道：法向自旋关联不变，而面内自旋相干性被抑制。论文估计了这种效应对并发度（concurrence）和贝尔-CHSH不等式的破坏，并提出了基于面内与法向自旋关联比的辐射分箱观测量，以隔离这种各向异性抑制，从而为实验测量提供可观测的探针。",
+  "chinese_digest": "## 中文导读\n- 研究问题：高能对撞机中软辐射如何导致重夸克自旋纠缠的退相干。\n- 核心方法：软胶子定理、eikonal近似、退相干信道模型。\n- 主要结果：次领头阶软辐射引起面内自旋相干性抑制，法向关联不变；提出基于关联比的辐射分箱观测量。\n- 与量子精密测量/量子计算的关系：本文属于高能物理（QCD、对撞机物理），与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。论文讨论的是高能过程的自旋纠缠退相干，而非量子计量学或量子计算平台中的相干控制或测量极限。\n- 是否值得精读：不值得精读。对于研究量子精密测量和量子计算的读者，相关性极低。\n- 对我研究的可能启发：无直接启发。但退相干机制（随机反冲导致的自旋旋转）的数学形式（如各向异性抑制）可能对理解其他系统中的退相干有间接参考价值，但需要额外转化。",
+  "english_digest": "## English Guide\n- Problem: How soft radiation induces decoherence of heavy-quark spin entanglement in high-energy colliders. \n- Method: Soft-gluon theorem, eikonal approximation, dephasing channel model. \n- Main result: Subleading soft radiation suppresses in-plane spin coherences while normal-axis correlation remains unchanged; a radiation-binned observable based on the ratio of in-plane to normal spin correlations is proposed. \n- Relevance: This paper belongs to high-energy physics (QCD, collider physics) and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It discusses decoherence of spin entanglement in high-energy processes, not quantum metrology or quantum computing platforms. \n- Reading priority: Not recommended. The relevance to the specified research fields is extremely low. \n- Possible inspiration: Minimal. The mathematical structure of anisotropic decoherence due to random recoil-induced rotations might be abstractly applicable to other systems, but significant adaptation would be required.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29944v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29944v1",
+  "local_pdf_path": ""
+}

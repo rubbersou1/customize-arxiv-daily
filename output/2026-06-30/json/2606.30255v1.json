@@ -1,0 +1,23 @@
+{
+  "title": "Photonic Violation of Wigner's Inequality",
+  "arXiv_id": "2606.30255v1",
+  "abstract": "Teaching quantum mechanics is challenging, not least because the theory often conflicts with our classical worldview. Quantum correlations in particular are notoriously counter-intuitive. Their non-classical behavior is typically revealed through Bell-type inequalities. Among these, Wigner's Inequality constitutes a particularly accessible test, as it relies on minimal set-theoretic assumptions. In this pedagogical paper, we derive Wigner's Inequality, describe a quantum-optical setup to experimentally violate it, and provide access to the raw data, enabling students and instructors to perform their own analyses. Our measured data shows clear violations of Wigner's Inequality, directly illustrating the non-classical nature of quantum correlations. By connecting theory, experiment, and data analysis, this paper equips educators with a resource for engaging students in authentic scientific practice and developing a deeper understanding of quantum systems.",
+  "authors": [
+    "Maximilian Rottensteiner",
+    "Dorian Schiffer",
+    "Tobias Pausch",
+    "Alois Mair",
+    "Anton Zeilinger"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.ed-ph"
+  ],
+  "summary": "这篇教学论文介绍了Wigner不等式的推导，描述了一个量子光学实验装置来违反该不等式，并提供了原始数据，使学生和教师能够自己分析数据。实验数据清晰地显示了Wigner不等式的违反，直接说明了量子关联的非经典性质。论文连接了理论、实验和数据分析，为教育工作者提供了吸引学生深入理解量子系统的资源。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何通过教学实验展示量子关联的非经典性质？\n- 核心方法：推导Wigner不等式，利用量子光学实验装置（如纠缠光子对）测量关联并检验不等式违反。\n- 主要结果：实验数据明确违反Wigner不等式，验证了量子非局域性。\n- 与量子精密测量/量子计算的关系：论文本身是教学性质的，未直接涉及量子计量、量子传感、Fisher信息、自旋压缩、Rydberg原子、中性原子量子计算、离子阱、原子钟、腔QED、光镊、量子控制或量子门等核心方向。其关联性主要体现在量子纠缠作为量子计量和量子计算的基础资源，但论文并未探讨实际应用或性能极限。\n- 是否值得精读：对于本领域研究者，不建议精读，因为它主要面向教学，缺乏技术深度和与前沿方向的直接联系。\n- 对我研究的可能启发：几乎没有直接启发，但可作为理解量子纠缠基本概念的辅助材料。",
+  "english_digest": "## English Guide\n- Problem: How to demonstrate non-classical quantum correlations in a pedagogical experiment?\n- Method: Derive Wigner's inequality, use a quantum optics setup (e.g., entangled photon pairs) to measure correlations and test the inequality violation.\n- Main result: Experimental data clearly violate Wigner's inequality, confirming quantum nonlocality.\n- Relevance: This is a pedagogical paper with no direct connection to quantum precision measurement, quantum sensing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, cavity QED, optical tweezers, quantum control, or quantum gates. While quantum entanglement is a resource for metrology and computing, the paper does not address applications or performance limits.\n- Reading priority: Not recommended for researchers in the specified areas; it is primarily an educational resource.\n- Possible inspiration: Minimal direct inspiration for current research; may serve as a basic conceptual reference for entanglement.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30255v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30255v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Solving Nonequilibrium Dynamics via Influence Matrix Bootstrap: Floquet-PXP Model",
+  "arXiv_id": "2606.19430v1",
+  "abstract": "Studies of integrable systems have profoundly deepened the fundamental understanding of quantum many-body physics. While equilibrium properties such as ground states and thermodynamics can often be characterized efficiently, accurately characterizing nonequilibrium integrable dynamics remains a significant challenge. Here, we address this problem in the \"Rule 201\" quantum cellular automaton, an integrable Trotterization of the PXP Hamiltonian. Using the tensor-network approach of the influence matrix, we develop local conditions called generalized zipper conditions that allow exact solutions of local dynamics. We also introduce a numerical bootstrap method for solving influence matrices with finite but relatively large bond dimensions. This uncovers a rich landscape of nonequilibrium behavior exhibiting initial-state dependence. As an example, we investigate the fate of persistent oscillating dynamics under local non-integrable perturbations, and present analytical results for non-thermal relaxation constrained by conservation laws. We also obtain numerically exact results for entanglement growth across a broad class of initial states. Furthermore, from an information-theoretic perspective, we identify a refined structure of multitime correlations termed the hidden Markov order: the memory encoded in the dynamics separates into finite-length and long-range distributed components, which becomes transparent in an exact split-index matrix-product-state representation of the influence matrix. Our approach enables unified investigations of nonthermalizing and thermalizing regimes of nonequilibrium dynamics within a single analytically tractable model, and can be tested experimentally in state-of-the-art quantum simulators such as Rydberg atom arrays.",
+  "authors": [
+    "Xiao-Yang Yang",
+    "He-Ran Wang",
+    "Zhong Wang"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "cond-mat.str-el",
+    "math-ph"
+  ],
+  "summary": "本文研究了不可积分的Floquet-PXP模型（即“Rule 201”量子元胞自动机）的非平衡动力学。作者利用影响矩阵的张量网络方法，提出了称为广义拉链条件的局部条件，使得局部动力学可以精确求解。他们还引入了一种数值自举方法来求解具有有限但相对较大键维的影响矩阵。研究揭示了非平衡行为对初始状态的依赖性，并分析了局部不可积扰动下持续振荡动力学的命运，给出了由守恒律约束的非热弛豫的解析结果。此外，他们从信息论角度识别了多时间关联的精细结构——隐马尔可夫序，并在影响矩阵的精确分裂指标矩阵乘积态表示中变得透明。该方法可在最先进的量子模拟器（如里德伯原子阵列）中进行实验验证。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何精确刻画不可积量子系统的非平衡动力学？\n- 核心方法：利用影响矩阵的张量网络方法，发展广义拉链条件实现精确解，并引入数值自举方法处理有限键维影响矩阵。\n- 主要结果：揭示了非平衡行为的初始态依赖性；在局部不可积扰动下给出了由守恒律约束的非热弛豫解析结果；获得了多种初始态下纠缠增长的数值精确结果；识别了多时间关联中的隐马尔可夫序结构。\n- 与量子精密测量/量子计算的关系：该工作为理解里德伯原子阵列等量子模拟器中的复杂动力学提供了理论工具。虽然不直接涉及计量协议，但影响矩阵方法可用于分析量子传感中的噪声与关联，而隐马尔可夫序对量子纠错和量子控制有潜在启发。\n- 是否值得精读：值得精读，尤其对于从事里德伯原子量子模拟和量子多体动力学理论的研究者。\n- 对我研究的可能启发：影响矩阵的自举方法可推广到量子计量中多参数估计的噪声建模；隐马尔可夫序的分析有助于设计更高效的量子门或读出方案。",
+  "english_digest": "## English Guide\n- Problem: How to accurately characterize nonequilibrium dynamics in non-integrable quantum systems?\n- Method: Tensor-network influence matrix approach with generalized zipper conditions for exact solutions, and a numerical bootstrap method for finite bond dimension influence matrices.\n- Main result: Revealed initial-state dependence of nonequilibrium behavior; analytical results for non-thermal relaxation under local integrability-breaking perturbations; numerically exact entanglement growth for various initial states; identified hidden Markov order in multi-time correlations.\n- Relevance: The work provides theoretical tools for understanding complex dynamics in Rydberg atom arrays and other quantum simulators. While not directly about metrology, the influence matrix method can be applied to noise analysis in quantum sensing, and the hidden Markov order has implications for quantum error mitigation and control.\n- Reading priority: High, especially for researchers working on Rydberg atom quantum simulation and quantum many-body dynamics.\n- Possible inspiration: The bootstrap method for influence matrices could be adapted for noise modeling in multi-parameter quantum estimation; the hidden Markov order analysis may help design more efficient quantum gates or readout schemes.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.19430v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.19430v1",
+  "local_pdf_path": ""
+}

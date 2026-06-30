@@ -1,0 +1,21 @@
+{
+  "title": "Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation",
+  "arXiv_id": "2606.30245v1",
+  "abstract": "We investigate the nonlinear optical response of a two-dimensional mesoscopic quantum ring subjected to a spiral dislocation, with emphasis on third-harmonic generation (THG). The topological defect is modeled through a torsion-induced deformation of space, which modifies the effective metric without introducing curvature. By combining the minimal-coupling prescription in curved space with a radial ring confinement and a perpendicular magnetic field, we derive the effective radial Schrödinger problem, obtain the bound states, and evaluate the nonlinear susceptibilities within the electric-dipole approximation. We show that the axial symmetry of the topologically deformed ring preserves the dipole selection rule $Δm=\\pm 1$ and therefore suppresses second-harmonic generation, while THG remains allowed through multistep transition chains. The study is further expanded through three complementary analyses that can be implemented without changing the Hamiltonian: a dephasing-controlled study of spectral resolution, three-dimensional waterfall spectra showing the dependence on $β$ and $B$, and a channel-resolved decomposition of the THG amplitude. Together, these results establish the spiral dislocation as a robust geometric knob for tuning nonlinear optical activity in mesoscopic ring-shaped nanostructures.",
+  "authors": [
+    "Carlos Magno O. Pereira",
+    "Denise Assafrão",
+    "Edilberto O. Silva"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "summary": "本文研究了一个带有螺旋位错的二维介观量子环中的三次谐波产生（THG）的非线性光学响应。通过将拓扑缺陷建模为空间扭曲引起的形变，结合弯曲空间中的最小耦合方案、径向环约束和垂直磁场，推导了有效的径向薛定谔问题，获得了束缚态，并在电偶极近似下评估了非线性磁化率。研究表明，拓扑变形环的轴对称性保留了偶极选择定则Δm=±1，因此抑制了二次谐波产生，而THG通过多步跃迁链仍然允许。此外，文章通过退相干控制的光谱分辨、三维瀑布谱和通道分辨分解等补充分析，展示了螺旋位错作为调节介观环状纳米结构非线性光学活动的鲁棒几何旋钮。",
+  "chinese_digest": "## 中文导读\n- 研究问题：螺旋位错拓扑缺陷如何影响介观量子环的非线性光学响应，特别是三次谐波产生。\n- 核心方法：在弯曲空间中结合最小耦合、径向约束和磁场，求解有效薛定谔方程，并利用电偶极近似计算非线性磁化率。\n- 主要结果：轴对称性抑制二次谐波，但允许三次谐波产生；螺旋位错可作为调节非线性光学的几何工具。\n- 与量子精密测量/量子计算的关系：该论文主要关注拓扑缺陷对非线性光学的影响，未涉及量子计量、量子传感、Fisher信息、自旋压缩、Rydberg原子、中性原子量子计算、离子阱、原子钟、Ramsey干涉、原子干涉、腔QED、光镊、量子控制、量子门、微波传感等核心方向。\n- 是否值得精读：不值得。论文属于凝聚态物理中的非线性光学和拓扑缺陷研究，与量子精密测量和量子计算领域几乎没有直接关联。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How does a spiral dislocation topological defect affect the nonlinear optical response, particularly third-harmonic generation, in a mesoscopic quantum ring?\n- Method: Combining minimal coupling in curved space, radial confinement, and a magnetic field to solve the effective Schrödinger equation, and evaluating nonlinear susceptibilities within the electric-dipole approximation.\n- Main result: Axial symmetry suppresses second-harmonic generation but allows third-harmonic generation; the spiral dislocation serves as a geometric knob for tuning nonlinear optical activity.\n- Relevance: This paper focuses on topological defects and nonlinear optics in condensed matter, with no connection to quantum metrology, quantum sensing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, Ramsey interferometry, atom interferometry, cavity QED, optical tweezers, quantum control, quantum gates, or microwave sensing.\n- Reading priority: Low. Not relevant to the specified research interests.\n- Possible inspiration: None.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30245v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30245v1",
+  "local_pdf_path": ""
+}

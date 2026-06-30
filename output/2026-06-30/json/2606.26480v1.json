@@ -1,0 +1,21 @@
+{
+  "title": "Non-Hermitian Bloch Oscillations",
+  "arXiv_id": "2606.26480v1",
+  "abstract": "We establish a general framework for non-Hermitian Bloch oscillations by investigating the wave-packet dynamics in one-dimensional non-Hermitian lattices driven by a dc force. The equations of motion for the momentum, center of mass, and group velocity of a wave packet are derived, where an anomalous group velocity due to the non-Hermiticity is identified. We show that nonreciprocal non-smooth Bloch oscillations, characterized by periodic jumps in group velocity, can emerge, and we analyze the role of finite-size effects. In non-Hermitian lattices with unidirectional hopping under open boundary conditions, we further uncover the emergence of periodic temporal Goos--Hänchen shifts together with an anomalous wave propagation along the direction of vanishing hopping.",
+  "authors": [
+    "Yanyan He",
+    "Tomoki Ozawa"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.mes-hall",
+    "physics.optics"
+  ],
+  "summary": "这篇论文建立了一个非厄米布洛赫振荡的一般框架，通过研究一维非厄米晶格中受直流力驱动的波包动力学，推导了波包动量、质心和群速度的运动方程，并识别出由非厄米性引起的反常群速度。论文展示了非互易非光滑布洛赫振荡（群速度周期性跳跃）的出现，分析了有限尺寸效应，并在具有单向跳跃的非厄米晶格中发现了周期性时间古斯-汉欣位移以及沿跳跃消失方向的异常波传播。",
+  "chinese_digest": "## 中文导读\n- 研究问题：非厄米晶格中布洛赫振荡的动力学行为，特别是非厄米性如何影响波包运动。\n- 核心方法：理论推导非厄米晶格中波包的运动方程，结合数值模拟分析群速度、质心等动力学量。\n- 主要结果：发现了非互易非光滑布洛赫振荡和周期性时间古斯-汉欣位移等新现象。\n- 与量子精密测量/量子计算的关系：论文主要涉及非厄米拓扑物理和波包动力学，与量子精密测量（如量子费希尔信息、自旋压缩）、量子计算（如门操作、量子控制）、Rydberg原子、中性原子、离子阱、原子钟、Ramsey干涉仪、腔QED、光镊等方向无直接联系。非厄米系统在量子传感中偶有应用，但本文未涉及传感或度量学内容。\n- 是否值得精读：不值得。\n- 对我研究的可能启发：无。",
+  "english_digest": "## English Guide\n- Problem: Dynamics of Bloch oscillations in non-Hermitian lattices, specifically how non-Hermiticity modifies wave-packet motion.\n- Method: Theoretical derivation of equations of motion for wave packets in non-Hermitian lattices, combined with numerical simulations of dynamical quantities such as group velocity and center of mass.\n- Main result: Discovery of nonreciprocal non-smooth Bloch oscillations and periodic temporal Goos–Hänchen shifts.\n- Relevance: This paper focuses on non-Hermitian topological physics and wave-packet dynamics, with no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing), quantum computing (e.g., gates, control), or experimental platforms such as Rydberg atoms, neutral atoms, trapped ions, atomic clocks, Ramsey interferometry, atom interferometry, cavity QED, or optical tweezers. Although non-Hermitian systems have occasional applications in quantum sensing, this work does not address sensing or metrology.\n- Reading priority: Low.\n- Possible inspiration: None.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26480v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26480v1",
+  "local_pdf_path": ""
+}

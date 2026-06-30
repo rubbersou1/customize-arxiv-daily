@@ -1,0 +1,19 @@
+{
+  "title": "Coherent control of orthogonal continuum states in XUV photoionization",
+  "arXiv_id": "2606.16964v1",
+  "abstract": "We demonstrate coherent control of orthogonal continuum electron states in the XUV photoionization of atomic hydrogen using polarization-tailored driving fields. By combining polarization mixing with carrier-envelope-phase (CEP) control, we generate a pair of orthogonal momentum-space basis states whose populations and relative phase can be independently tuned via the polarization-mixing parameter and CEP, respectively. The resulting photoelectron wave packets are prepared as coherent superpositions within this effective two-dimensional subspace, with quantum coherence confirmed by interference visibilities reaching 99% in the photoelectron momentum distributions (PMDs). We further demonstrate that a bichromatic driving-field configuration extends this framework to a four-dimensional continuum manifold, with basis states distinguished by both angular emission patterns and radial momentum distributions, and with independent amplitude and phase control preserved across the higher-dimensional subspace. These results establish that polarization-tailored XUV fields provide a flexible route to independent amplitude and phase control within low-dimensional subspaces of the photoelectron continuum, with the engineered dynamics directly observable in momentum-resolved spectra.",
+  "authors": [
+    "Neha Kukreti",
+    "Amol R. Holkundkar"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文展示了在极紫外（XUV）光电离过程中，利用偏振定制的驱动场对正交连续态进行相干控制。通过结合偏振混合和载波包络相位（CEP）控制，研究人员在原子氢的光电离中生成了一对正交动量空间基态，其布居和相对相位可独立调节。产生的光电子波包在此有效二维子空间中制备为相干叠加态，量子相干性通过光电子动量分布中高达99%的干涉可见度得到确认。此外，双色驱动场配置将这一框架扩展到四维连续流形，基态通过角度发射模式和径向动量分布区分，并在更高维子空间中保持独立的振幅和相位控制。这些结果确立了偏振定制XUV场为光电子连续谱低维子空间中的独立振幅和相位控制提供了灵活途径，工程化的动力学可直接在动量分辨光谱中观测到。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在XUV光电离中实现对正交连续电子态的相干控制？\n- 核心方法：使用偏振定制驱动场（偏振混合+CEP控制）在原子氢中生成并操控正交动量空间基态，通过干涉测量验证相干性。\n- 主要结果：实现了二维和四维连续子空间中的独立振幅和相位控制，干涉可见度高达99%。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦于光电子连续态的相干控制，与量子精密测量（如量子Fisher信息、自旋压缩）、量子计算（如量子门、中性原子计算）或Rydberg原子系统无直接关联。虽然相干控制技术可能间接启发量子控制方法，但论文主题远离量子传感、计量和计算的核心平台（如离子阱、光镊、原子钟）。\n- 是否值得精读：对于量子精密测量或量子计算领域的研究者，不建议精读，因其物理系统（XUV光电离）和应用目标（连续态控制）与上述领域差异较大。\n- 对我研究的可能启发：相干控制方法（如偏振混合和CEP）可能为其他量子系统的操控提供思路，但直接相关性较低。",
+  "english_digest": "## English Guide\n- Problem: How to achieve coherent control of orthogonal continuum electron states in XUV photoionization?\n- Method: Using polarization-tailored driving fields (polarization mixing + CEP control) to generate and manipulate orthogonal momentum-space basis states in atomic hydrogen, with coherence verified via interferometry.\n- Main result: Independent amplitude and phase control in 2D and 4D continuum subspaces, with interference visibility up to 99%.\n- Relevance: This work focuses on coherent control of photoelectron continua, with no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing), quantum computing (e.g., quantum gates, neutral-atom platforms), or Rydberg atoms. While coherent control techniques may inspire general quantum control, the system (XUV photoionization) and goals are far from quantum sensing, metrology, or computation using trapped ions, optical tweezers, or atomic clocks.\n- Reading priority: Not recommended for researchers in quantum precision measurement or quantum computing, as the physical system and applications are distinct.\n- Possible inspiration: The polarization-tailored control method could conceptually inspire control strategies in other quantum systems, but direct relevance is low.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.16964v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.16964v1",
+  "local_pdf_path": ""
+}

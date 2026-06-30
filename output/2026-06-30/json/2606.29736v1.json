@@ -1,0 +1,23 @@
+{
+  "title": "All-optical Synchronization of Breather Solitons in a Kerr Microresonator",
+  "arXiv_id": "2606.29736v1",
+  "abstract": "Microresonator Kerr solitons are promising candidates for the realization of miniaturized on-chip optical frequency combs. For specific system parameters, these solitons are associated with oscillatory instabilities, leading to breathing dynamics characterized by periodically modulated temporal and spectral profiles. In this regime, the solitons form a frequency comb comprised of primary comb lines surrounded by sidebands separated by the breathing frequency. Here, we numerically and experimentally demonstrate that the breathing sidebands can be all-optically synchronized to a weak monochromatic laser injected into the cavity, thus providing direct control of the soliton oscillation frequency. We judiciously characterize the synchronization process, and show that it is accompanied by a strong reduction of noise in the soliton's breathing. Our results provide fundamental insights on oscillatory dissipative structures, and could enable new forms of composite optical frequency combs.",
+  "authors": [
+    "Wang Liao",
+    "Stuart G. Murdoch",
+    "Stephane Coen",
+    "Gregory Moille",
+    "Kartik Srinivasan",
+    "Miro Erkintalo"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "本文通过数值模拟和实验证明，在Kerr微谐振腔中，呼吸孤子的边带可以全光学同步到注入腔内的弱单色激光，从而直接控制孤子振荡频率。研究还表明，同步过程显著降低了孤子呼吸的噪声。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何控制微谐振腔中呼吸孤子的振荡频率并降低其噪声。\n- 核心方法：全光学同步——将弱单色激光注入谐振腔，使呼吸边带与激光频率同步。\n- 主要结果：成功实现了呼吸孤子频率的锁定，并观察到噪声显著降低。\n- 与量子精密测量/量子计算的关系：该工作主要关注非线性光学和频率梳，与量子精密测量（如量子Fisher信息、自旋压缩）或量子计算（如中性原子、离子阱）无直接关联；可能间接用于光学时钟或传感中的频率参考，但非核心方向。\n- 是否值得精读：对于本领域（量子精密测量、量子计算）而言，不推荐精读。\n- 对我研究的可能启发：若涉及光学频率梳的噪声抑制或同步技术，可参考其全光同步方法，但整体相关性较低。",
+  "english_digest": "## English Guide\n- Problem: How to control the oscillation frequency and reduce noise of breather solitons in Kerr microresonators.\n- Method: All-optical synchronization by injecting a weak monochromatic laser to lock the breathing sidebands.\n- Main result: Successful frequency locking of breather solitons with significant noise reduction.\n- Relevance: This work focuses on nonlinear optics and frequency combs, with no direct connection to quantum metrology (e.g., quantum Fisher information, spin squeezing) or quantum computing (e.g., neutral atoms, trapped ions). It may be tangentially relevant to optical clocks or sensing as a frequency reference, but not central.\n- Reading priority: Low for this research area.\n- Possible inspiration: The all-optical synchronization technique could be applied to noise suppression in optical frequency combs for precision measurements, but overall relevance is limited.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29736v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29736v1",
+  "local_pdf_path": ""
+}

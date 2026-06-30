@@ -1,0 +1,22 @@
+{
+  "title": "Scattering theory for cavity-assisted spin-motion-photon interactions",
+  "arXiv_id": "2606.26542v1",
+  "abstract": "Cavity-assisted photon scattering (CAPS) is a powerful mechanism for realizing strong interactions between the internal states of stationary qubits and flying photons, underpinning a broad range of hybrid atom-photon protocols including remote entanglement generation and heralded atom-photon gates. Recently, the motional quantum state has emerged as an important building block for quantum information processing with atomic qubits, both as a coherently controllable degree of freedom and as a fundamental error channel through undesired spin-motion coupling. For the resonant-coupling regime of cavity quantum electrodynamics relevant to CAPS operations, however, the analytical formulation of spin-motion-photon coupling has so far remained elusive. Here, we develop a complete analytical framework for CAPS that incorporates the coherent interaction between atomic motion and a reflected photon by extending scattering theory to include the motional degree of freedom. The resulting compact operator-based input-output relation applies uniformly across various cavity geometries, spin-dependent trapping potentials, and nonidentical multiple spins. As an exemplary application, we use the framework to elucidate how atomic motion affects CAPS-based atom-photon gates, identifying the parameter regimes that suppress motion-induced errors. Our framework provides a theoretical foundation both for mitigating motional errors in CAPS operations and for deliberately exploiting motion-photon interaction at the atom-photon interface.",
+  "authors": [
+    "Seigo Kikura",
+    "Aruku Senoo",
+    "Akihisa Goban",
+    "Shinichi Sunami"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "该论文开发了一个完整的解析框架，用于描述腔辅助光子散射（CAPS）中自旋-运动-光子的耦合。通过将散射理论扩展到包含运动自由度，作者推导出一个基于算符的紧凑输入-输出关系，该关系统一适用于各种腔几何结构、自旋依赖的囚禁势以及多个非全同自旋。作为应用示例，该框架被用于阐明原子运动如何影响基于CAPS的原子-光子门，并确定了抑制运动诱导误差的参数区间。该工作为减轻CAPS操作中的运动误差以及有意利用原子-光子界面处的运动-光子相互作用提供了理论基础。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何解析描述腔辅助光子散射（CAPS）过程中原子运动自由度与自旋、光子之间的相干耦合？\n- 核心方法：将量子散射理论扩展到包含运动自由度，推导出基于算符的紧凑输入-输出关系。\n- 主要结果：得到了一个统一的解析框架，适用于不同腔几何、自旋依赖囚禁势和多自旋系统，并分析了运动误差对原子-光子门保真度的影响。\n- 与量子精密测量/量子计算的关系：该工作直接关联中性原子量子计算和腔QED平台中的量子门操作（如远程纠缠生成、原子-光子门），并为提高这些系统中量子操控的保真度提供了理论指导。虽然未直接涉及量子Fisher信息或自旋压缩，但运动-光子耦合的精确控制对于实现高精度量子传感（如原子干涉仪中的相位测量）和量子计算中的低错误率门操作至关重要。\n- 是否值得精读：是。对于从事中性原子、腔QED、量子门和量子控制的研究者，该框架提供了处理运动效应的系统工具。\n- 对我研究的可能启发：可直接应用于分析我关注的Rydberg原子-腔系统或光镊阵列中运动导致的退相干和门错误；其方法可扩展到评估运动对自旋压缩和量子Fisher信息的影响。",
+  "english_digest": "## English Guide\n- Problem: How to analytically describe the coherent coupling between atomic motion, spin, and photons in cavity-assisted photon scattering (CAPS)?\n- Method: Extending scattering theory to include the motional degree of freedom, deriving a compact operator-based input-output relation.\n- Main result: A unified analytical framework applicable to various cavity geometries, spin-dependent potentials, and multiple spins, with analysis of motional errors in atom-photon gates.\n- Relevance: Directly relevant to neutral-atom quantum computing and cavity QED platforms, providing theoretical tools to improve gate fidelity. While not focused on Fisher information or spin squeezing, precise control of motion-photon coupling is crucial for high-precision quantum sensing (e.g., atom interferometry) and low-error quantum gates.\n- Reading priority: High. Essential for researchers working on neutral atoms, cavity QED, quantum gates, and quantum control.\n- Possible inspiration: Can be applied to analyze motional decoherence and gate errors in Rydberg-atom or optical tweezer systems; methods may be extended to evaluate the impact of motion on spin squeezing and quantum Fisher information.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26542v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26542v1",
+  "local_pdf_path": ""
+}

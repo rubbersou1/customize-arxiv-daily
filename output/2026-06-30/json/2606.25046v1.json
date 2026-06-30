@@ -1,0 +1,42 @@
+{
+  "title": "Generation of continuous-wave laser light at 148.4 nm using cavity-enhanced second harmonic generation in $BaMgF_4$",
+  "arXiv_id": "2606.25046v1",
+  "abstract": "We experimentally investigate the potential of $BaMgF_4$ crystals to create a continuous-wave (CW) solid state laser at the vacuum ultraviolet (VUV) wavelength of 148.4 nm via cavity-enhanced second harmonic generation. This investigation is motivated by the development of a nuclear optical clock based on a transition between the ground and isomeric state in the $^{229}Th$ nucleus. For this purpose, a $BaMgF_4$ crystal was grown, optically polished and periodically poled. The crystal was inserted into a power-enhancement cavity, resonant at the fundamental wavelength of 296.8 nm and the generated laser light at 148.4 nm was characterized. Within this proof-of-concept investigation, a VUV output power of typically ($16\\pm1$) pW is obtained. This marks the first time that this type of crystal is used to generate VUV laser light. The experimental findings are compared to theoretical expectations and provide a clear path for future improvements.",
+  "authors": [
+    "Keerthan Subramanian",
+    "Hiroki Tanaka",
+    "Simon J. Herr",
+    "Nutan Kumari Sah",
+    "Gaurav Jha",
+    "Florian Zacherl",
+    "Srinivasa Arasada Pradeep",
+    "Valerii Andriushkov",
+    "Ke Zhang",
+    "Darius Fenner",
+    "Yumiao Wang",
+    "Milena Hugenschmidt",
+    "Frank Kühnemann",
+    "Gaetano G. M. Bonetti",
+    "Shoichi Ui",
+    "Matthias Bickermann",
+    "Chenxi Ma",
+    "Xian Zheng",
+    "Michael Zopf",
+    "Bettina Lommel",
+    "Jan C. Müller",
+    "Stephan Hannig",
+    "Dmitry Budker",
+    "Ferdinand Schmidt-Kaler",
+    "Lars von der Wense"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "该论文实验研究了BaMgF₄晶体通过腔增强二次谐波产生连续波真空紫外激光（148.4 nm）的可行性，旨在为基于²²³Th核同质异能跃迁的核光钟提供光源。实验中生长了BaMgF₄晶体并进行了光学抛光和周期性极化，将其置于共振于基波（296.8 nm）的功率增强腔内，最终获得了约16 pW的VUV输出功率。这是首次使用该类型晶体产生VUV激光，实验结果与理论预期一致，并为未来改进提供了明确方向。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何产生用于核光钟的连续波真空紫外激光源。\n- 核心方法：利用BaMgF₄晶体的非线性光学效应，通过腔增强二次谐波产生148.4 nm激光。\n- 主要结果：首次实现BaMgF₄晶体产生VUV激光，输出功率约16 pW。\n- 与量子精密测量/量子计算的关系：该工作直接服务于基于²²³Th核跃迁的核光钟开发，核光钟是量子精密测量的重要前沿，具有极高频率精度潜力。但论文本身聚焦于激光源技术，未涉及量子传感、量子计算、Rydberg原子、自旋压缩等具体方向。\n- 是否值得精读：对于从事光钟、特别是核光钟或VUV激光源的研究者值得精读；对于主要关注量子传感、量子计算、Rydberg系统等方向的研究者，相关性中等。\n- 对我研究的可能启发：若您关注光钟或精密激光源，该工作提供了新型晶体材料用于VUV产生的思路；否则，启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to generate continuous-wave vacuum ultraviolet laser light for nuclear optical clocks.\n- Method: Cavity-enhanced second harmonic generation in BaMgF₄ crystals.\n- Main result: First demonstration of VUV laser generation using BaMgF₄, with ~16 pW output power.\n- Relevance: Directly supports the development of nuclear optical clocks (high-precision quantum metrology), but does not address quantum sensing, quantum computing, Rydberg atoms, spin squeezing, or Fisher information. Moderate relevance to quantum metrology through clock applications.\n- Reading priority: High for researchers in optical clocks, especially nuclear clocks or VUV sources; moderate for others.\n- Possible inspiration: For those working on clock lasers or precision frequency sources, this work introduces a new nonlinear crystal for VUV generation. Otherwise, limited direct inspiration for quantum sensing/computing.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25046v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25046v1",
+  "local_pdf_path": ""
+}

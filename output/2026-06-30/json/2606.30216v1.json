@@ -1,0 +1,24 @@
+{
+  "title": "All-Optical Control of Birefringence in a Cold Atomic Ensemble",
+  "arXiv_id": "2606.30216v1",
+  "abstract": "We demonstrate all-optical control of birefringence in a cold atomic cloud of ytterbium. By optically dressing the excited $^{3}\\mathrm{P}_1$ state via an off-resonant coupling to the $^{3}\\mathrm{D}_1$ level, we induce polarization-dependent light shifts of the Zeeman sublevels, resulting in a tunable polarization-dependent refractive index. For a circularly polarized dressing beam, we observe a rotation of the probe linear polarization, characteristic of the Faraday effect, in the absence of any magnetic field. In addition, for a linearly polarized dressing beam, the probe acquires ellipticity without rotation, corresponding to linear birefringence. More generally, the polarization of the dressing beam controls the axis of rotation of the probe polarization on the Poincaré sphere. Our results establish cold atoms as a versatile platform for engineering and controlling light-induced birefringence and open new perspectives for the fast and reconfigurable control of optical response of resonant media.",
+  "authors": [
+    "Apoorva Apoorva",
+    "Naudson Lucas Lopes Matias",
+    "Bérengère Pinoche",
+    "Daniel Benedicto Orenes",
+    "Robin Kaiser",
+    "Raphaël Saint-Jalm"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "physics.optics"
+  ],
+  "summary": "本文在冷镱原子气团中实现了双折射的全光学控制。通过非共振耦合激发态³P₁和³D₁能级，利用光致斯塔克效应诱导塞曼子能级的偏振依赖光移，从而产生可调谐的偏振依赖折射率。对于圆偏振的修饰光束，观察到无磁场下的法拉第效应（线偏振探针的旋转）；对于线偏振修饰光束，探针获得椭圆度而无旋转（线性双折射）。修饰光束的偏振可控制探针偏振在庞加莱球上的旋转轴。该工作将冷原子确立为工程和控制光致双折射的多功能平台，为快速、可重构的共振介质光学响应控制开辟了新前景。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在冷原子系统中实现纯光学的、可调谐的双折射控制？\n- 核心方法：利用非共振光场耦合镱原子的³P₁和³D₁能级，通过光移效应在塞曼子能级间引入偏振依赖的能量差，从而控制介质的偏振响应。\n- 主要结果：实现了无磁场下的法拉第旋转（圆偏振修饰）和线性双折射（线偏振修饰），且修饰光束偏振可任意控制探针偏振演化方向。\n- 与量子精密测量/量子计算的关系：该技术可直接用于量子传感中的偏振操控与噪声抑制（例如原子钟、干涉仪中的偏振杂散光抑制），也可为中性原子量子计算中的光镊阵列提供偏振态快速重配置工具。虽未直接涉及Rydberg原子或自旋压缩，但其光控双折射机制可拓展至Rydberg能级系统，用于微波传感的偏振控制。\n- 是否值得精读：是。实验实现清晰，对量子计量学中偏振相关测量（如磁力计、原子钟）有直接启发。\n- 对我研究的可能启发：可将类似全光学偏振控制方案用于Rydberg原子微波传感中的偏振杂散场抑制，或用于离子阱量子门中的光偏振校准。",
+  "english_digest": "## English Guide\n- Problem: How to achieve fully optical, tunable control of birefringence in cold atoms without magnetic fields?\n- Method: Off-resonant dressing of the ³P₁ state via coupling to the ³D₁ level in ytterbium, inducing polarization-dependent light shifts on Zeeman sublevels.\n- Main result: Demonstration of magnetic-field-free Faraday rotation (circular dressing) and linear birefringence (linear dressing), with full control over the probe polarization evolution on the Poincaré sphere.\n- Relevance: Directly applicable to quantum sensing (e.g., atomic clocks, magnetometers) by enabling fast polarization control and noise rejection. While not directly about Rydberg atoms, spin squeezing, or Fisher information, the technique can be extended to Rydberg systems for microwave sensing polarization control. It also supports neutral-atom quantum computing platforms (optical tweezers) by enabling reconfigurable polarization states.\n- Reading priority: High. The experimental demonstration is clear and offers practical tools for metrology.\n- Possible inspiration: Adapt this all-optical birefringence control to Rydberg-atom microwave sensors for suppressing polarization noise, or to trapped-ion quantum gates for precise polarization calibration of control lasers.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30216v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30216v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The unreasonable effectiveness of the cathetus rule in ancient and modern optics",
+  "arXiv_id": "2606.28851v1",
+  "abstract": "The \"cathetus rule\" in optics alleges that the image of an object-point, formed by reflection or refraction at a surface, lies on the perpendicular (\"cathetus\") from the object-point to or through the surface. The first known statement of the rule, attributed to Euclid, was for a plane or spherical mirror. The rule was extended to refraction by Ptolemy.... Kepler was universally credited with the first disproof-and-salvage of the cathetus rule until 2018, when Benedetti's priority was exposed by Goulding.\n  Kepler notwithstanding, the rule was reaffirmed by Tacquet for plane and spherical mirrors, except for the case in which the rays converge toward a point behind the eye; this became known as the \"Barrovian case\" because it troubled Barrow, in spite of his modern concept of an image. Barrow demolished the cathetus rule for the tangential image except in the paraxial limit, and Newton salvaged it for the sagittal image. The rule then seems to fade from history.\n  But the rule is equivalent to the assumption that the image is stigmatic and the cathetus well defined. This narrow assumption is approximately true in the first-order (paraxial, \"Gaussian\") analysis of lenses and mirrors; and unacknowledged applications of the ancient rule can indeed be discerned in modern expositions of that subject. Moreover, the validity of the rule for the sagittal image fills a critical gap in meridional ray-tracing through spherical surfaces: by tracing the chief ray from an off-axis object-point, then applying the cathetus rule to the successive surfaces, one can locate successive sagittal image-points on the chief ray (produced rectilinearly through surfaces as necessary), and hence assess astigmatism to leading order, without tracing any rays outside the meridional plane.",
+  "authors": [
+    "Gavin R. Putland"
+  ],
+  "categories": [
+    "physics.hist-ph",
+    "physics.optics"
+  ],
+  "summary": "这篇论文探讨了光学中“垂线规则”（cathetus rule）的历史演变与现代应用。该规则认为，物体点经反射或折射形成的像位于从物体点到反射/折射面的垂线上。论文追溯了该规则从欧几里得、托勒密到开普勒、巴罗、牛顿等人的发展，指出尽管开普勒和巴罗推翻了该规则在一般情况下的有效性，但它在近轴（高斯）光学中近似成立，并且在现代球面光学系统中，对于矢状像的定位仍有重要应用，可用于评估像散而不需追踪子午面外的光线。",
+  "chinese_digest": "## 中文导读\n- 研究问题：光学中“垂线规则”的历史正确性及其现代意义。\n- 核心方法：历史文献分析与现代光学理论（近轴近似、矢状像）的对比。\n- 主要结果：该规则在近轴极限下近似有效，且在现代球面光学中可用于定位矢状像并评估像散。\n- 与量子精密测量/量子计算的关系：该论文属于经典光学历史与几何光学，与量子精密测量（如量子Fisher信息、自旋压缩）、量子计算（如中性原子、离子阱）等方向无直接关联。论文不涉及量子效应、纠缠、测量精度极限或量子信息处理。\n- 是否值得精读：不值得精读。\n- 对我研究的可能启发：几乎没有启发，除非对经典光学成像系统的理论背景有兴趣，但难以直接应用于量子传感或量子计算。",
+  "english_digest": "## English Guide\n- Problem: Historical validity and modern significance of the cathetus rule in optics. \n- Method: Historical analysis and comparison with modern optical theory (paraxial approximation, sagittal image). \n- Main result: The rule holds approximately in the paraxial limit and is useful for locating sagittal images and assessing astigmatism in modern spherical optics. \n- Relevance: This paper is about classical optics history and geometrical optics, with no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing), quantum computing (e.g., neutral atoms, trapped ions), or related experimental platforms. It does not involve quantum effects, entanglement, measurement limits, or quantum information processing. \n- Reading priority: Not recommended. \n- Possible inspiration: Minimal; only if interested in classical imaging theory, but not applicable to quantum sensing or quantum computing.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28851v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28851v1",
+  "local_pdf_path": ""
+}

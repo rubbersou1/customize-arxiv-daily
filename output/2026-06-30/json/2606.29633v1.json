@@ -1,0 +1,22 @@
+{
+  "title": "Squeezing as a catalyst for non-Gaussian advantage in characterization of nonlinear media",
+  "arXiv_id": "2606.29633v1",
+  "abstract": "We address the precise characterization of coupling strength of nonlinear media in continuous-variable (CV) quantum systems using coherent and squeezed vacuum states as Gaussian probes, together with their photon-added and photon-subtracted counterparts as non-Gaussian probes. We consider three main classes of nonlinear Hamiltonians, namely quadrature nonlinearities, generalized squeezing and Kerr-type interactions. By analytically evaluating the quantum Fisher information (QFI), we compare the performance of Gaussian and non-Gaussian probes and assess the optimal probe based on the probe parameters, energy resource and non-Gaussianity. Our results are twofold as follows: first, for coherent-state family, the improvement provided by photon addition at fixed coherent amplitude originates mainly from the extra energy carried by the probe and does not provide a genuine metrological resource, since the same precision can be achieved by a Gaussian coherent-state signal of a larger energy, which can be more easily produced. Second, in contrast, photon addition and subtraction become effective resources when applied to already nonclassical states such as squeezed vacuum states. In this case, they lead to a significant enhancement of the QFI, particularly for higher-order interactions. Although Gaussian squeezed states remain optimal at equal energy constraint, photon-added and photon-subtracted squeezed states achieve comparable sensitives with significantly lower squeezing requirements. Since large squeezing level remains experimentally challenging, these non-Gaussian probes offer a practical route towards enhanced estimation of the nonlinear coupling strength within currently accessible squeezing regimes.",
+  "authors": [
+    " Manju",
+    "Samaneh Hesabi",
+    "Siting Tang",
+    "Peter van Loock",
+    "Matteo G. A. Paris"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "该论文研究了在连续变量量子系统中，使用高斯探针（相干态和压缩真空态）及其光子增加/减去后的非高斯探针来表征非线性介质耦合强度的问题。通过解析计算量子Fisher信息，比较了不同探针的性能，并评估了基于探针参数、能量资源和非高斯性的最优探针。主要发现是：对于相干态家族，光子增加带来的改进主要源于额外能量，并非真正的计量学资源；而对于压缩真空态，光子增加/减去能显著提升量子Fisher信息，尤其是在高阶相互作用中，且能在较低压缩要求下达到接近最优压缩态的灵敏度。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用高斯和非高斯探针（特别是压缩态及其光子调制版本）来精确表征非线性介质的耦合强度。\n- 核心方法：解析计算量子Fisher信息，比较相干态、压缩真空态及其光子增加/减去态在三种非线性哈密顿量（正交非线性、广义压缩、Kerr型）下的计量性能。\n- 主要结果：光子增加/减去仅在应用于已非经典的压缩真空态时才成为有效资源，可在较低压缩水平下实现与最优压缩态相当的灵敏度，为实验上难以达到的大压缩水平提供了实用替代方案。\n- 与量子精密测量/量子计算的关系：直接涉及量子计量学中的最优探针设计，其非高斯态调控技术（光子增加/减去）与基于Rydberg原子、中性原子、离子阱等平台的量子控制、量子门操作及量子传感密切相关；压缩态和自旋压缩是精密测量的核心概念，而该工作提供了一种降低压缩要求的新途径。\n- 是否值得精读：是，该工作对实验实现非线性参数估计具有直接指导意义，尤其适合关注量子传感和量子计量实验的研究者。\n- 对我研究的可能启发：可借鉴其非高斯态增强策略，应用于Rydberg原子或离子阱系统中的自旋压缩和量子Fisher信息优化；其关于能量约束与性能权衡的分析方法可用于设计更高效的量子传感协议。",
+  "english_digest": "## English Guide\n- Problem: How to characterize the coupling strength of nonlinear media using Gaussian and non-Gaussian probes, focusing on squeezed states and their photon-added/subtracted variants.\n- Method: Analytical evaluation of quantum Fisher information for three classes of nonlinear Hamiltonians, comparing coherent, squeezed vacuum, and their non-Gaussian counterparts under energy constraints.\n- Main result: Photon addition/subtraction becomes a genuine resource only when applied to nonclassical states like squeezed vacuum, enabling comparable sensitivity at significantly lower squeezing levels, which is experimentally advantageous.\n- Relevance: Directly addresses quantum metrology and sensing; the non-Gaussian state engineering is relevant to platforms like Rydberg atoms, neutral atoms, and trapped ions, where spin squeezing and quantum control are key. The work provides a practical path to enhance precision without demanding extreme squeezing.\n- Reading priority: High, especially for researchers working on experimental quantum sensing, metrology protocols, or quantum control in atomic systems.\n- Possible inspiration: The non-Gaussian enhancement strategy could be adapted for spin squeezing in Rydberg or ion systems; the energy-constrained optimization approach is useful for designing practical quantum sensors and gates.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29633v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29633v1",
+  "local_pdf_path": ""
+}

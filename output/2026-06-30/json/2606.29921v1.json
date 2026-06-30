@@ -1,0 +1,21 @@
+{
+  "title": "Bifurcation structure of soliton self-injection locking in microresonators",
+  "arXiv_id": "2606.29921v1",
+  "abstract": "Self-injection locking (SIL) of a diode laser to a high quality-factor microresonator has recently become increasingly important in hybrid integrated photonics, providing access to compact sub-Hz linewidth lasers. It was also shown to facilitate the access to dissipative Kerr solitons - the key to a low-noise coherent frequency comb on a photonic chip. However, the existence and stability ranges of SIL soliton states in experimentally controlled parameters are still not fully understood. Here we study the bifurcation structure of solutions in a model of soliton SIL in the weak-backscattering limit. We show that SIL produces soliton-number-dependent existence ranges of multi-soliton solutions in free-laser detuning and feedback phase parameters. We identify exclusive single-soliton existence regions and demonstrate dynamical access to single solitons in this region by direct numerical simulations using prescribed parameter sweeps.",
+  "authors": [
+    "S. Deshmukh",
+    "T. M. Schneider",
+    "A. Tikan"
+  ],
+  "categories": [
+    "physics.optics",
+    "nlin.PS"
+  ],
+  "summary": "该论文研究了微谐振器中孤子自注入锁定（SIL）的分岔结构。在弱背向散射极限下，通过模型分析揭示了SIL产生的多孤子解在自由激光失谐和反馈相位参数中的存在范围依赖于孤子数，并识别了单孤子解的独占区域。直接数值模拟验证了通过预设参数扫描在该区域动态访问单孤子的可行性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：微谐振器中孤子自注入锁定（SIL）的分岔结构及单孤子解的稳定存在范围。\n- 核心方法：建立弱背向散射极限下的理论模型，通过分岔分析和直接数值模拟研究参数空间中的解结构。\n- 主要结果：发现SIL产生的多孤子解的存在范围依赖于孤子数，确定了单孤子解的独占区域，并通过参数扫描实现了单孤子的动态获取。\n- 与量子精密测量/量子计算的关系：本文属于集成光子学与频率梳领域，与量子精密测量（如原子钟、干涉仪）或量子计算（如中性原子、离子阱）无直接关联。微谐振器频率梳可用于光钟或光谱学，但本文核心是孤子动力学，而非量子传感或计算硬件。\n- 是否值得精读：不推荐精读，除非对微谐振器频率梳的生成机制有专门兴趣。\n- 对我研究的可能启发：无直接启发，但微谐振器可作为量子传感中窄线宽激光源的一部分，需结合具体应用场景。",
+  "english_digest": "## English Guide\n- Problem: Bifurcation structure of soliton self-injection locking (SIL) in microresonators, specifically the existence and stability of single-soliton states.\n- Method: Theoretical modeling in the weak-backscattering limit, bifurcation analysis, and direct numerical simulations with parameter sweeps.\n- Main result: Multi-soliton solutions have soliton-number-dependent existence ranges; exclusive single-soliton regions are identified and accessed dynamically.\n- Relevance: This paper focuses on integrated photonics and frequency combs, with no direct link to quantum precision measurement (e.g., atomic clocks, interferometry) or quantum computing (e.g., Rydberg atoms, trapped ions, spin squeezing, Fisher information). It is not relevant to the specified research areas.\n- Reading priority: Low — not recommended for readers primarily interested in quantum metrology, sensing, or computing.\n- Possible inspiration: Minimal; microresonator combs could serve as laser sources for quantum sensors, but this paper does not address quantum aspects.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29921v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29921v1",
+  "local_pdf_path": ""
+}

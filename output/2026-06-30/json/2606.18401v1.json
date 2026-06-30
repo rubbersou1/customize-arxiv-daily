@@ -1,0 +1,20 @@
+{
+  "title": "Negative diffusivity of excitons in electron-hole plasmas",
+  "arXiv_id": "2606.18401v1",
+  "abstract": "We develop a minimal hydrodynamic framework to describe exciton transport in the presence of an electron hole plasma in 2D semiconductors. Treating excitons, electrons, and holes as coupled fluids, we show that exciton diffusion is strongly renormalized by momentum exchange with the plasma. In the collisional regime, mutual diffusion leads to a nontrivial redistribution of transport coefficients but preserves the positivity of the exciton diffusivity. In contrast, when plasma inertia and collective charge oscillations are accounted for, the exciton diffusive mode hybridizes with acoustic plasma modes, giving rise to a dynamical instability manifested as an effective negative diffusion coefficient. We demonstrate that this instability originates from the nonequilibrium coupling between slow excitons and fast plasma degrees of freedom, rather than from nonlinear diffusion or thermodynamic effects. Our results provide a unified physical mechanism for negative exciton diffusivity reported in recent experiments and establish collective plasma dynamics as a key control parameter of exciton transport in 2D materials.",
+  "authors": [
+    "H. Terças",
+    "V. N. Mantsevich"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.quant-gas"
+  ],
+  "summary": "这篇论文研究二维半导体中电子-空穴等离子体环境下的激子输运现象。作者发展了一个最小流体动力学框架，将激子、电子和空穴视为耦合流体，发现激子扩散系数因与等离子体的动量交换而强烈重整化。在碰撞区域，互扩散导致输运系数重新分布但保持扩散系数为正；而当考虑等离子体惯性和集体电荷振荡时，激子扩散模式与声学等离子体模式混合，产生动力学不稳定性，表现为有效的负扩散系数。该不稳定性源于慢激子与快等离子体自由度之间的非平衡耦合，而非非线性扩散或热力学效应。结果解释了近期实验中观察到的负激子扩散率，并确立了集体等离子体动力学作为二维材料中激子输运的关键控制参数。",
+  "chinese_digest": "## 中文导读\n- 研究问题：二维半导体中电子-空穴等离子体环境中激子的负扩散率物理机制。\n- 核心方法：建立耦合流体动力学模型，分析激子、电子和空穴的动量交换及集体振荡对扩散系数的影响。\n- 主要结果：发现等离子体惯性导致激子扩散模式与声学等离子体模式杂交，产生动力学不稳定性，表现为有效负扩散系数。\n- 与量子精密测量/量子计算的关系：本文研究的是半导体激子输运，属于凝聚态物理基础问题，与量子精密测量（如量子Fisher信息、自旋压缩）、量子计算（如中性原子、离子阱、Rydberg原子）等方向无直接关联。论文未涉及量子传感、量子门、原子钟、Ramsey干涉或腔QED等主题。\n- 是否值得精读：对于专注于量子精密测量和量子计算的研究者，不推荐精读。\n- 对我研究的可能启发：无直接启发，但流体动力学方法或可类比某些量子多体系统中的输运问题。",
+  "english_digest": "## English Guide\n- Problem: Mechanism of negative exciton diffusivity in electron-hole plasmas in 2D semiconductors. \n- Method: Coupled hydrodynamic framework treating excitons, electrons, and holes as fluids, analyzing momentum exchange and collective plasma oscillations. \n- Main result: Plasma inertia hybridizes exciton diffusion with acoustic plasma modes, causing a dynamical instability and effective negative diffusion coefficient. \n- Relevance: This paper focuses on exciton transport in condensed matter physics, with no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing), quantum computing (e.g., neutral atoms, trapped ions, Rydberg atoms), atomic clocks, Ramsey interferometry, or cavity QED. \n- Reading priority: Low priority for researchers in quantum metrology and quantum computing. \n- Possible inspiration: The hydrodynamic approach might be transferable to transport problems in some quantum many-body systems, but the specific topic is far from the stated interests.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.18401v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.18401v1",
+  "local_pdf_path": ""
+}

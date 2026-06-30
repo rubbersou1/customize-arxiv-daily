@@ -1,0 +1,20 @@
+{
+  "title": "Working with measurement-based computations on qudits",
+  "arXiv_id": "2606.30525v1",
+  "abstract": "Measurement-based quantum computing is a universal model of quantum computation in which successive product measurements of an entangled resource state drive the computation. The non-deterministic nature of measurements necessitates adaptivity to ensure an overall deterministic computation. Flow structures characterise cases in which such an adaptive correction procedure is possible. Recently, flow has been defined in a setting where the resource states are prime-dimensional qudit graph states rather than the usual qubit graph states. Yet, this qudit flow definition is more burdensome to work with than analogous definitions for qubits.\n  Here, we give a simpler definition of qudit flow and consider various useful properties of this flow, drawing on results for the qubit case. In particular, we show how to focus qudit flow and argue that focused flow is canonical. We improve the previous algebraic formulation to capture focused flow and use it to obtain an $O(n^3)$ flow-finding algorithm (where $n$ is the number of qudits), matching the best known complexity for qubit flows and improving on the previous $O(n^4)$ result for qudits. Furthermore, we explore multiple flow-preserving transformations, thus opening a pathway to using flow for optimisation. These transformations include pivoting, removal and insertion of certain types of vertices, and reversibility of flow. Lastly, we propose an algorithmic approach to generating large qudit computations with flow, for testing or machine learning.",
+  "authors": [
+    "Piotr Mitosek",
+    "Miriam Backens"
+  ],
+  "categories": [
+    "quant-ph",
+    "cs.DS"
+  ],
+  "summary": "这篇论文主要研究基于测量的量子计算在qudit（高维量子比特）系统中的实现。作者给出了qudit流（flow）的一个更简单的定义，并探讨了其性质，包括如何将其聚焦化、提出了一个O(n^3)的流查找算法（优于之前的O(n^4)），以及多种流保持变换（如枢轴旋转、顶点移除/插入、流可逆性）。最后，他们提出了一种算法方法来生成具有流的大规模qudit计算，用于测试或机器学习。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何简化并高效处理qudit系统中基于测量的量子计算所需的“流”结构。\n- 核心方法：重新定义qudit流，引入聚焦流概念，设计O(n^3)的流查找算法，并研究多种流保持变换。\n- 主要结果：提出了更简单的qudit流定义，改进了算法复杂度，并展示了多种流保持操作。\n- 与量子精密测量/量子计算的关系：论文属于量子计算的基础理论（测量基量子计算模型），与您关注的量子精密测量、量子传感、Rydberg原子、中性原子量子计算、离子阱、原子钟、自旋压缩、Fisher信息等方向没有直接关联。它不涉及实验平台、传感协议或性能极限。\n- 是否值得精读：对于您的研究方向，不值得精读。\n- 对我研究的可能启发：几乎没有直接启发。如果您对基于测量的量子计算模型有理论兴趣，可以了解，但与本领域核心主题无关。",
+  "english_digest": "## English Guide\n- Problem: Simplifying and efficiently handling the 'flow' structure for measurement-based quantum computation on qudits. \n- Method: Redefining qudit flow, introducing focused flow, designing an O(n^3) flow-finding algorithm, and exploring flow-preserving transformations. \n- Main result: A simpler definition of qudit flow, improved algorithm complexity, and demonstration of multiple flow-preserving operations. \n- Relevance: This paper is purely theoretical work on the measurement-based quantum computing model, with no direct connection to your research focus on quantum precision measurement, quantum sensing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, spin squeezing, or Fisher information. It does not address experimental platforms, sensing protocols, or performance limits. \n- Reading priority: Low for your research direction. \n- Possible inspiration: Minimal. Only if you have a theoretical interest in the measurement-based model of quantum computation.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30525v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30525v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Gaussian quantum steering of coupled three-mode squeezed vacuum in an expanding universe",
+  "arXiv_id": "2606.29144v1",
+  "abstract": "The coupled three-mode squeezed vacuum is a representative multimode squeezed Gaussian state featuring unique steerability. This work investigates Gaussian quantum steering distributions of the coupled three-mode squeezed vacuum under an expanding universe. Due to causal separation between the interior and exterior spacetime regions, quantum information behind the event horizon is inaccessible to Alice, Bob and Charlie. We separately analyze steering behaviors for physically accessible and inaccessible modes. Our analysis shows that greater total mean photon number and momentum, combined with reduced expansion volume and expansion rate, enhance quantum steering strength. Notably, Gaussian quantum steering for physically inaccessible modes undergoes the \"sudden death\" phenomenon when a critical threshold parameter $φ$ is exceeded. These results deliver novel insights into quantum correlations in curved spacetime.",
+  "authors": [
+    "Guang-Wei Mi",
+    "Xiaofen Huang",
+    "Tinggui Zhang"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "该论文研究了三模压缩真空态在膨胀宇宙背景下的高斯量子导引分布。通过分析可观测和不可观测模式的导引行为，发现总平均光子数、动量、膨胀体积和膨胀率对量子导引强度有显著影响，且不可观测模式的导引在临界参数下会发生“突然死亡”现象。",
+  "chinese_digest": "## 中文导读\n- 研究问题：膨胀宇宙中三模压缩真空态的量子导引特性。\n- 核心方法：利用高斯态量子导引理论，分析耦合三模压缩真空态在膨胀宇宙时空中的导引分布。\n- 主要结果：增大总平均光子数和动量、减小膨胀体积和膨胀率可增强量子导引强度；不可观测模式的导引在临界参数下出现“突然死亡”。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦宇宙学背景下的量子关联，与量子精密测量、量子传感的典型平台（如里德伯原子、中性原子、离子阱等）及常用度量（Fisher信息、自旋压缩等）无直接关联，对量子计算中的门操作、纠错等也无直接贡献。\n- 是否值得精读：不推荐。该论文属于量子引力/宇宙学方向，与您的研究领域差异较大。\n- 对我研究的可能启发：无直接启发，但可了解量子关联在弯曲时空中的行为，作为背景知识。",
+  "english_digest": "## English Guide\n- Problem: Gaussian quantum steering of coupled three-mode squeezed vacuum in an expanding universe.\n- Method: Gaussian quantum steering theory applied to multimode squeezed states in curved spacetime.\n- Main result: Quantum steering strength is enhanced by larger photon number and momentum, reduced expansion volume and rate; steering of inaccessible modes undergoes sudden death.\n- Relevance: This paper belongs to quantum gravity/cosmology, with no direct link to quantum metrology, sensing, Rydberg atoms, spin squeezing, trapped ions, Fisher information, or quantum computing platforms. Relevance score is low due to the distinct research focus.\n- Reading priority: Not recommended for your research interests.\n- Possible inspiration: None directly, but may serve as background on quantum correlations in curved spacetime.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29144v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29144v1",
+  "local_pdf_path": ""
+}

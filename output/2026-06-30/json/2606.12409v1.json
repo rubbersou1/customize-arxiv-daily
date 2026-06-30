@@ -1,0 +1,30 @@
+{
+  "title": "A Pfaffian quantum Hall state of ultracold bosons",
+  "arXiv_id": "2606.12409v1",
+  "abstract": "Fractional quantum Hall states are a cornerstone of topological physics, hosting fractionally charged quasiparticles with exotic statistics that promise to enable topologically protected quantum information processing. Among these, the Pfaffian state introduced by Moore and Read implements a p-wave pairing structure that supports excitations with non-Abelian exchange statistics. Despite extensive study in electronic systems, direct access to its pairing structure has remained limited. Here we realize a three-particle bosonic Pfaffian state of ultracold $^{87}\\mathrm{Rb}$ atoms in an optical lattice subject to a Floquet-engineered synthetic magnetic field. Using a Bayesian-optimized adiabatic protocol, we prepare a state exhibiting Pfaffian pairing correlations. Site-resolved measurements of multi-point density correlations reveal a pronounced suppression of short-range three-body coincidences, reflecting the underlying pairing structure. We further probe the state's transport response through Hall drift measurements. Our results establish a bottom-up approach to engineering non-Abelian topological order and lay the groundwork for future explorations of anyonic braiding in synthetic matter.",
+  "authors": [
+    "Joyce Kwan",
+    "Perrin Segura",
+    "Yanfei Li",
+    "Tizian Blatz",
+    "Annie Zhi",
+    "Brice Bakkali-Hassani",
+    "Annabelle Bohrdt",
+    "Martin Greiter",
+    "Fabian Grusdt",
+    "Markus Greiner"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.str-el",
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "summary": "这篇论文在超冷玻色子系统中实验实现了Pfaffian量子霍尔态，这是一种支持非阿贝尔任意子的拓扑态。研究团队利用光晶格中的铷-87原子和Floquet工程合成磁场，通过贝叶斯优化绝热协议制备出具有Pfaffian配对关联的状态。通过位点分辨的多点密度关联测量，观察到短程三体重合的显著抑制，验证了其配对结构，并通过霍尔漂移测量探测了输运响应。该工作为在合成物质中工程非阿贝尔拓扑序和探索任意子编织奠定了基础。",
+  "chinese_digest": "## 中文导读\n- 研究问题：在超冷原子系统中实现非阿贝尔拓扑序（Pfaffian量子霍尔态）。\n- 核心方法：使用光晶格中的铷-87原子，结合Floquet工程合成磁场和贝叶斯优化绝热协议制备态，通过多点密度关联和霍尔漂移测量表征。\n- 主要结果：成功制备出具有Pfaffian配对关联的态，观察到短程三体重合抑制，并测量了霍尔漂移。\n- 与量子精密测量/量子计算的关系：该工作与量子计算高度相关，因为非阿贝尔任意子可应用于拓扑量子计算。但与量子精密测量、量子传感、Rydberg原子、自旋压缩、Fisher信息等方向直接关联较弱。它涉及中性原子平台（铷）和光晶格，而非离子阱或里德伯原子。\n- 是否值得精读：如果关注拓扑量子计算或超冷原子中的拓扑态工程，值得精读；但如果主要兴趣在精密测量和传感，则相关性一般。\n- 对我研究的可能启发：该工作展示了中性原子平台在实现复杂拓扑态方面的能力，可能启发未来在原子阵列中利用拓扑性质进行量子传感或量子控制的研究。",
+  "english_digest": "## English Guide\n- Problem: Experimental realization of a non-Abelian topological order (Pfaffian quantum Hall state) in ultracold bosons.\n- Method: Using Rb-87 atoms in an optical lattice with a Floquet-engineered synthetic magnetic field, a Bayesian-optimized adiabatic protocol to prepare the state, and site-resolved multi-point density correlations and Hall drift measurements for characterization.\n- Main result: Successfully prepared a state with Pfaffian pairing correlations, observed suppression of short-range three-body coincidences, and measured Hall drift.\n- Relevance: Highly relevant to quantum computing due to potential use of non-Abelian anyons for topological quantum computation. However, direct relevance to quantum precision measurement, quantum sensing, Rydberg atoms, spin squeezing, Fisher information, trapped ions, or atomic clocks is low. It involves neutral atoms (Rb) and optical lattices, not Rydberg atoms or trapped ions.\n- Reading priority: Recommended for those interested in topological quantum computing or topological state engineering in ultracold atoms. Less relevant for those focused on quantum metrology and sensing.\n- Possible inspiration: Demonstrates the capability of neutral-atom platforms for realizing complex topological states, which may inspire future work on using topological properties for quantum sensing or control in atomic arrays.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.12409v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.12409v1",
+  "local_pdf_path": ""
+}

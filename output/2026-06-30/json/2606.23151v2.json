@@ -1,0 +1,35 @@
+{
+  "title": "An Al$^+$ clock with $1.6\\times10^{-18}$ systematic uncertainty and its frequency ratios",
+  "arXiv_id": "2606.23151v2",
+  "abstract": "Advances in optical clocks motivate a redefinition of the second, requiring rigorous evaluations of systematic uncertainties and robust consistency among the clocks. Here, we report the full evaluation of the systematic frequency shifts of an $^{27}\\mathrm{Al}^+$ single-ion clock, and the measurement of its absolute frequency and frequency ratio with a $^{87}$Sr optical lattice clock at PTB. The evaluated total systematic fractional frequency uncertainty is $1.6\\times10^{-18}$, mainly limited by the accuracy of the relevant atomic coefficients and by background gas collisions. The absolute frequency of the clock has been measured to be $ν_{\\mathrm{Al}^+}=1 121 015 393 207 859.19(24)\\,$Hz, obtained by comparison with two primary caesium fountain clocks at PTB. The frequency ratio between the Al and Sr optical clocks has been determined to be $ν_{\\mathrm{Al}^+}/ν_{^{87}\\mathrm{Sr}}=2.611 701 431 781 462 668(36)$, limited by the accuracy of the Sr clock. This ratio differs by $8.6σ$ and $1.2σ$ from the 2021 and 2025 frequency ratio published by the BACON collaboration, respectively. These results represent an important contribution toward a future redefinition of the second using optical clocks, and underscore the importance of independent measurements of clock-candidate frequency ratios across different institutions.",
+  "authors": [
+    "Fabian Dawel",
+    "Johannes Kramer",
+    "Derwell Drapier",
+    "Lennart Pelzer",
+    "Kai Dietze",
+    "Mirza A. Ali",
+    "Marek Hild",
+    "Vincent Barbé",
+    "Steven A. King",
+    "Joshua Klose",
+    "Kilian Stahl",
+    "Johannes Rahm",
+    "Navraj Poudel",
+    "Sören Dörscher",
+    "Stefan Weyers",
+    "Erik Benkler",
+    "Christian Lisdat",
+    "Piet O. Schmidt"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文报告了德国PTB研究所对一台基于27Al+离子的单离子光钟的系统不确定度评估，总系统分数频率不确定度达到1.6×10^{-18}，主要受限于原子系数精度和背景气体碰撞。论文还测量了该时钟的绝对频率，并通过与两台铯喷泉钟的比较得到ν_Al+ = 1 121 015 393 207 859.19(24) Hz。此外，确定了Al+光钟与87Sr光晶格钟的频率比为ν_Al+/ν_Sr = 2.611 701 431 781 462 668(36)，该比值与BACON合作组2021年和2025年的结果分别存在8.6σ和1.2σ的偏差。这些结果对光学钟重新定义秒的进程有重要贡献，并强调了不同机构之间独立测量频率比的重要性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何评估一台Al+离子光钟的系统不确定度，并测量其绝对频率及与Sr光钟的频率比，以支持秒的重新定义。\n- 核心方法：利用PTB的Al+单离子钟与Sr光晶格钟进行频率比测量，并与两台铯喷泉钟比对得到绝对频率；对碰撞、黑体辐射、引力红移等系统效应进行详细评估。\n- 主要结果：总系统不确定度1.6×10^{-18}，绝对频率测量结果，以及Al+/Sr频率比与BACON合作组存在显著偏差。\n- 与量子精密测量/量子计算的关系：高度相关。该工作属于原子钟这一量子精密测量核心方向，直接涉及量子传感（光学钟）、离子阱平台（trapped ions）、量子控制（激光冷却与钟跃迁操控）、以及频率比的精密测量，为量子计量学提供了实验基准。与量子计算的关系较弱，但离子阱平台是量子计算的硬件候选之一。\n- 是否值得精读：是。对于关注原子钟、量子计量学、离子阱实验及频率测量的人士，该论文提供了最前沿的系统不确定度评估和交叉验证结果。\n- 对我研究的可能启发：可借鉴其系统误差评估方法（如背景气体碰撞建模）用于其他量子传感器（如Rydberg原子微波传感器）的不确定度分析；其频率比测量策略也可应用于量子传感中的多通道比较。",
+  "english_digest": "## English Guide\n- Problem: How to evaluate the systematic uncertainty of an Al+ single-ion optical clock and measure its absolute frequency and frequency ratio with a Sr lattice clock, contributing to the redefinition of the second.\n- Method: Frequency ratio measurement between Al+ and Sr clocks at PTB, absolute frequency measurement via Cs fountain clocks, and detailed evaluation of systematic shifts including collisions, blackbody radiation, and gravitational redshift.\n- Main result: Total systematic uncertainty 1.6×10^{-18}, absolute frequency ν_Al+ = 1 121 015 393 207 859.19(24) Hz, and Al+/Sr ratio differing from BACON collaboration results by 8.6σ (2021) and 1.2σ (2025).\n- Relevance: Highly relevant. This work directly addresses quantum precision measurement (atomic clocks), quantum sensing (optical frequency standards), trapped-ion platforms, and quantum control. It provides experimental benchmarks for quantum metrology and Fisher information limits. However, it has indirect relevance to quantum computing (ion traps are a hardware platform) and no direct connection to Rydberg atoms, spin squeezing, or one-axis twisting.\n- Reading priority: High. Essential for researchers in atomic clocks, quantum metrology, trapped ions, and frequency metrology.\n- Possible inspiration: The systematic uncertainty evaluation methodology can be adapted for other quantum sensors (e.g., Rydatom-based microwave sensors). The frequency ratio comparison across institutions highlights the need for independent cross-validation in quantum metrology.",
+  "relevance_score": 9.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.23151v2",
+  "arxiv_url": "http://arxiv.org/abs/2606.23151v2",
+  "local_pdf_path": ""
+}

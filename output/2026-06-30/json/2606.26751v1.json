@@ -1,0 +1,19 @@
+{
+  "title": "Giant Second-Harmonic Generation in 3R-MoS2/MLM Hybrid Metasurfaces Cavities",
+  "arXiv_id": "2606.26751v1",
+  "abstract": "Nonlinear 2D materials such as 3R-phase molybdenum disulfide (3R-MoS2) offer strong second-order optical nonlinearities in an atomically thin platform, making them attractive for on-chip frequency conversion, quantum light generation, and integrated nonlinear nanophotonics. However, the second harmonic generation (SHG) efficiency of monolayer or few-layer 3R-MoS2 deposited on planar substrates remains fundamentally limited by weak light-matter interaction, poor phase matching, and small interaction volumes. Here, we introduce NanoPhotoNet-PINL, a physics informed AI-driven inverse design framework based on a hybrid one-dimensional convolutional neural network and deep neural network autoencoder, tailored for nonlinear MLMs metasurfaces. The model directly maps target dual-resonant reflection spectra at the fundamental and second-harmonic wavelengths to the required multi-layer geometries and material compositions that maximize the effective nonlinear overlap with an embedded 3R-MoS2 sheet. By integrating Maxwell-based nonlinear electrodynamics into the inverse design loop, we compute the second-harmonic conversion efficiency and modal overlap factors for each predicted MLMs design, enabling physics-guided training and evaluation. Our approach achieves an inverse-design prediction efficiency exceeding ~99.2 % along the linear spectral manifold, while the optimized dual-resonant MLMs yield more than three orders of magnitude enhancement in SHG intensity compared to a bare 3R-MoS2 flake on a planar substrate. NanoPhotoNet-PINL establishes a generalizable paradigm for intelligent inverse design of nonlinear multi-layer metasurfaces and phase-matched dual-resonant cavities for high-efficiency second-order processes.",
+  "authors": [
+    "Omar A. M. Abdelraouf"
+  ],
+  "categories": [
+    "physics.optics",
+    "quant-ph"
+  ],
+  "summary": "这篇论文介绍了一种基于物理信息驱动的人工智能逆设计框架NanoPhotoNet-PINL，用于优化3R-MoS2/多层介质超表面混合腔体，以实现巨幅二次谐波增强。通过将麦克斯韦非线性电动力学纳入逆设计循环，该框架直接映射目标双共振反射谱到多层几何结构和材料组成，在保持线性光谱预测效率超过99.2%的同时，使二次谐波强度比裸3R-MoS2薄片增强三个数量级以上。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何通过逆设计优化非线性超表面腔体，实现二次谐波巨幅增强。\n- 核心方法：提出NanoPhotoNet-PINL混合神经网络逆设计框架，结合一维卷积神经网络和深度自编码器，以麦克斯韦非线性电动力学指导训练。\n- 主要结果：双共振多层介质超表面设计使二次谐波强度比平面基底上的3R-MoS2薄片增强超过1000倍。\n- 与量子精密测量/量子计算的关系：该工作聚焦非线性光学频率转换，与量子精密测量（如量子传感、量子Fisher信息、原子干涉）或量子计算（如中性原子、离子阱、Rydberg原子）无直接关联。文中未涉及量子噪声、纠缠、自旋压缩或量子极限等核心概念。\n- 是否值得精读：不值得精读。该论文属于非线性纳米光子学领域，与您指定的量子精密测量和量子计算方向相关性极低。\n- 对我研究的可能启发：无直接启发。若您对非线性光学在量子传感中的应用（如参量放大）有兴趣，可进一步关注，但本文未讨论量子增强效应。",
+  "english_digest": "## English Guide\n- Problem: Inverse design of nonlinear metasurface cavities for giant second-harmonic generation. \n- Method: A physics-informed AI framework (NanoPhotoNet-PINL) using hybrid CNN and autoencoder, with Maxwell-based nonlinear electrodynamics integrated into the training loop. \n- Main result: Over 1000-fold enhancement of SHG intensity compared to bare 3R-MoS2 on a planar substrate. \n- Relevance: This paper is in nonlinear nanophotonics and has no direct connection to quantum precision measurement, quantum sensing, quantum Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, or any of the specified quantum topics. It does not address quantum noise, entanglement, or quantum metrological limits. \n- Reading priority: Not recommended. The relevance to your research interests is negligible. \n- Possible inspiration: None directly. If you are interested in nonlinear optics for quantum sensing (e.g., squeezed light generation), this work might be tangentially related, but it does not discuss quantum-enhanced performance.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26751v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26751v1",
+  "local_pdf_path": ""
+}

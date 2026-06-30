@@ -1,0 +1,18 @@
+{
+  "title": "Spontaneous symmetry breaking under Bose--Einstein condensation",
+  "arXiv_id": "2606.12606v1",
+  "abstract": "Due to high current interest to Bose-Einstein condensation, the related topics, such as spontaneous gauge symmetry breaking, ergodic decomposition, and particle fluctuations, are intensively discussed in literature. These discussions, unfortunately, involve quite a number of controversies and confusions. The goal of the present brief survey is to clarify some of these confusions, concentrating on the principal points, such as the relationship between the conditions of Bose-Einstein condensation, the Bogolubov method of quasiaverages, spontaneous gauge symmetry breaking, ergodic decomposition, the presumed existence of nonthermodynamic particle fluctuations leading to the so-called ``grand canonical catastrophe\", and the requirements for system stability.",
+  "authors": [
+    "V. I. Yukalov"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "该论文是一篇关于玻色-爱因斯坦凝聚（BEC）中自发对称性破缺问题的综述。它澄清了BEC条件、Bogolubov准平均方法、自发规范对称性破缺、遍历分解以及粒子数涨落（包括所谓的“巨正则灾难”）等概念之间的争议和混淆，强调了系统稳定性的要求。",
+  "chinese_digest": "## 中文导读\n- 研究问题：澄清BEC中自发对称性破缺及相关概念（如粒子数涨落、遍历分解）中的混淆和争议。\n- 核心方法：理论综述和概念分析，基于Bogolubov准平均方法。\n- 主要结果：指出了非热力学粒子涨落（“巨正则灾难”）的存在性问题，并强调了系统稳定性条件。\n- 与量子精密测量/量子计算的关系：该论文主要关注BEC的基础理论问题，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。虽然BEC某些平台（如中性原子）可用于量子计算，但本文未涉及相关应用。\n- 是否值得精读：不值得精读，除非你对BEC基础理论非常感兴趣。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Clarifying controversies and confusions regarding spontaneous symmetry breaking, ergodic decomposition, and particle fluctuations in Bose-Einstein condensation (BEC).\n- Method: Theoretical survey and conceptual analysis using Bogolubov's quasiaverage method.\n- Main result: Points out the questionable existence of non-thermodynamic particle fluctuations (\"grand canonical catastrophe\") and emphasizes system stability requirements.\n- Relevance: The paper is purely foundational theory of BEC, with no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or any experimental or algorithmic aspects of these fields.\n- Reading priority: Low, unless you have a deep interest in BEC foundational theory.\n- Possible inspiration: No direct inspiration for quantum measurement or computing research.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.12606v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.12606v1",
+  "local_pdf_path": ""
+}

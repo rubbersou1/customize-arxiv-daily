@@ -1,0 +1,25 @@
+{
+  "title": "Binary Dipolar Condensates of Dysprosium Isotopes with Tunable Spatial Order",
+  "arXiv_id": "2606.26606v1",
+  "abstract": "Dipolar quantum mixtures provide a unique route to interaction-driven many-body phases, where long-range anisotropic interactions intertwine the density, spin and spatial order. Here we realize binary Bose--Einstein condensates of the highly magnetic isotopes $^{162}$Dy and $^{164}$Dy in a technically minimal, single-species-like apparatus. Their nearly identical single-particle properties yield naturally matched trapping potentials, while dense intra- and inter-species Feshbach spectra provide strong interaction tunability. We use this platform to drive an interaction-controlled miscibility transition of a dipolar binary condensate, accompanied by a reconfiguration of the condensate interface from core--shell-like to side-by-side and exchanged core--shell-like geometries. At fixed interactions, population imbalance provides a second control knob by reshaping the effective mean-field pressures and continuously tuning the phase-separated order. These results establish dysprosium isotope mixtures as a compact platform for engineering miscibility, interfaces, and spatial order in dipolar quantum matter, with direct connections to coupled density--spin physics and binary supersolidity.",
+  "authors": [
+    "Shenshuang Nie",
+    "Zibin Jiang",
+    "Junrong Huang",
+    "Xiao Luo",
+    "Fucheng Qin",
+    "Kaiyue Wang",
+    "Mingyang Guo"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文报道了在一种技术上简约的、类似单种原子的装置中，实现了高度磁性同位素¹⁶²Dy和¹⁶⁴Dy的二元玻色-爱因斯坦凝聚体。由于这两种同位素的单粒子性质几乎相同，它们自然地拥有匹配的陷阱势，而丰富的种内和种间Feshbach共振谱提供了强大的相互作用可调性。利用这一平台，作者驱动了偶极二元凝聚体的相互作用可控的混溶-不混溶转变，伴随着凝聚体界面从核-壳状到并排和交换核-壳状几何结构的重构。在固定相互作用下，粒子数不平衡通过重塑有效平均场压力，提供了第二个控制旋钮，可以连续调谐相分离的有序性。这些结果确立了镝同位素混合物作为一个紧凑平台，用于在偶极量子物质中工程化混溶性、界面和空间有序性，并与耦合的密度-自旋物理和二元超固态有直接联系。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用高度磁性的镝同位素二元凝聚体实现可调的空间有序性和混溶性转变。\n- 核心方法：同时制备¹⁶²Dy和¹⁶⁴Dy的BEC，利用Feshbach共振调节相互作用，通过原位成像观察相分离几何结构。\n- 主要结果：实现了从核-壳到并排再到交换核-壳的连续几何重构，粒子数不平衡可作为额外控制参数。\n- 与量子精密测量/量子计算的关系：该平台提供了高度可控的多体自旋系统，可用于研究自旋压缩和纠缠生成，对量子传感（如原子干涉仪）有潜在应用；但论文本身侧重于基础多体物理，未直接涉及量子计量协议或量子计算。\n- 是否值得精读：中等。如果关注偶极量子气体中的自旋动力学或纠缠生成，值得精读；否则可作为背景参考。\n- 对我研究的可能启发：可借鉴其相互作用调控和相分离控制技术，用于设计基于中性原子的量子传感器或自旋压缩实验。",
+  "english_digest": "## English Guide\n- Problem: How to achieve tunable spatial order and miscibility transition using binary dipolar condensates of dysprosium isotopes.\n- Method: Simultaneous BEC of ¹⁶²Dy and ¹⁶⁴Dy with Feshbach tuning of interactions and in-situ imaging of phase separation.\n- Main result: Continuous reconfiguration of condensate interface from core-shell to side-by-side and exchanged core-shell; population imbalance as additional control knob.\n- Relevance: The platform offers a highly controllable many-body spin system relevant to spin squeezing and entanglement generation, with potential applications in quantum sensing (e.g., atom interferometry). However, the paper focuses on fundamental many-body physics rather than quantum metrology protocols or quantum computing.\n- Reading priority: Moderate. Worth reading if you are interested in dipolar quantum gases, spin dynamics, or entanglement generation; otherwise a background reference.\n- Possible inspiration: The techniques for interaction control and phase separation could be adapted for designing neutral-atom quantum sensors or spin-squeezing experiments.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26606v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26606v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,29 @@
+{
+  "title": "High-Performance Nanophononic Resonators in Self-Suspended WSe$_2$ Domes and Drums",
+  "arXiv_id": "2606.25946v1",
+  "abstract": "Van der Waals materials are ideally suited for the implementation of high-frequency nanophononic resonators with atomically flat interfaces. Here, we present two versatile van der Waals-based nanophononic architectures: First, we introduce self-supporting nano-domes of WSe$_2$ as a scalable platform for the simultaneous generation of hundreds of high-quality nanoacoustic resonators with resonance frequencies in the 100 GHz range. Second, we engineer self-supporting nano-drums that reach record-high working frequencies for 2D-semiconductor transducers beyond 1 THz. Through optical pump-probe spectroscopy experiments and photoelastic linear chain model calculations, we gain a detailed understanding of the intricate interplay between phononic mode hybridization across heterostructures, the differences between modes close to the center and edge of the acoustic Brillouin zone, and the temporal structure of the photoelastic response. Both architectures have potential applications in low-cost nanoacoustic probing and the ultrafast modulation of quantum emitters in two-dimensional semiconductors. While nano-drums surpass the THz frequency barrier, nano-domes appear as an accessible, low-cost alternative for developing scalable nanophononic technologies.",
+  "authors": [
+    "Jens-Christian Drawer",
+    "Bo Han",
+    "Edson Rafael Cardozo de Oliveira",
+    "Chushuang Xiang",
+    "Vita Solovyeva",
+    "Kenji Watanabe",
+    "Takashi Taniguchi",
+    "Norberto Daniel Lanzillotti-Kimura",
+    "Christian Schneider",
+    "Martin Esmann"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "physics.optics"
+  ],
+  "summary": "这篇论文介绍了两种基于WSe₂的纳米声子谐振器架构：自支撑纳米穹顶和纳米鼓。纳米穹顶可同时生成数百个高质量纳米声学谐振器，共振频率在100 GHz范围；纳米鼓则实现了超过1 THz的创纪录工作频率。通过光学泵浦-探测光谱实验和光弹性线性链模型计算，作者详细理解了声子模式杂化、布里渊区中心与边缘模式的差异以及光弹性响应的时间结构。这些架构在低成本纳米声学探测和二维半导体量子发射器的超快调制方面有潜在应用。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何实现高频、可扩展的纳米声子谐振器，用于超快调制和声学探测。\n- 核心方法：利用自支撑WSe₂穹顶和鼓结构，结合光学泵浦-探测实验与光弹性线性链模型。\n- 主要结果：穹顶结构产生百GHz谐振器阵列，鼓结构突破THz频率障碍。\n- 与量子精密测量/量子计算的关系：该工作主要关注纳米声子学和二维半导体物理，与量子传感、量子计量、量子计算等方向无直接关联。文中提及的量子发射器调制属量子光学应用，但未涉及量子Fisher信息、自旋压缩、Rydberg原子、离子阱、中性原子量子计算等核心主题。\n- 是否值得精读：对于专注于纳米声子学或二维材料声子工程的研究者值得精读；对于量子精密测量和量子计算领域的研究者，相关性较低。\n- 对我研究的可能启发：若研究涉及量子传感器中的声子耦合或超快控制，可借鉴其高频谐振器设计；但直接启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to realize high-frequency, scalable nanophononic resonators for ultrafast modulation and acoustic probing.\n- Method: Self-suspended WSe₂ domes and drums, combined with optical pump-probe experiments and photoelastic linear chain model calculations.\n- Main result: Dome arrays achieve hundreds of GHz resonators; drums surpass the THz barrier.\n- Relevance: This work focuses on nanophononics and 2D semiconductor physics, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The mention of quantum emitter modulation is peripheral.\n- Reading priority: Low for those in quantum metrology and quantum computing; high for nanophononics or 2D materials researchers.\n- Possible inspiration: If your work involves phonon coupling in quantum sensors or ultrafast control, the high-frequency resonator design may be of interest; otherwise, limited inspiration.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25946v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25946v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Coupling Efficiency and Laser-Induced Damage Threshold Characterization of an End-Capped Optical Fiber with a Sub-Nanosecond Pulsed Laser",
+  "arXiv_id": "2606.29383v1",
+  "abstract": "This report presents experimental measurements of coupling efficiency and laser-induced damage thresholds for a polarization-maintaining (PM) fiber patchcord with integrated end caps, evaluated at 532 nm using a compact actively Q-switched DPSS laser with sub-nanosecond pulses. It also describes the development of a custom free-space coupling array through which the problem of low coupling efficiency was identified and successfully addressed. No instantaneous damage was observed at peak power densities exceeding 10 GW/cm$^2$. Sustained operation at 30 kHz was maintained over extended durations (>5 h) at peak power densities of ~13 GW/cm$^2$, while prolonged 1 kHz operation led to gradual degradation at peak power densities of ~24 GW/cm$^2$. The broader context of this work is the investigation of stimulated Raman scattering (SRS) in optical fibers for nonlinear frequency conversion. This process requires the efficient delivery of high-peak-power pulses into the fiber, which serves as the nonlinear medium. In the course of these experiments, a substantial dataset was accumulated on fiber coupling performance and damage thresholds under repeated high-intensity illumination at 532 nm. These characterization data offer practical insight into the operational limits of end-capped PM fibers in demanding pulsed laser applications.",
+  "authors": [
+    "George Stavrakakis",
+    "Kostas G Mavrakis",
+    "Mikis Mylonakis",
+    "Giannis Zacharakis"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "本文报告了在532 nm波长下，使用亚纳秒脉冲激光对带有端盖的保偏光纤跳线进行耦合效率和激光诱导损伤阈值的实验测量。研究开发了定制自由空间耦合阵列，解决了低耦合效率问题。实验发现，在峰值功率密度超过10 GW/cm²时未观察到瞬时损伤；在30 kHz重复频率下，可在约13 GW/cm²的峰值功率密度下稳定运行超过5小时；而在1 kHz重复频率下，约24 GW/cm²的峰值功率密度会导致逐渐退化。该工作背景是研究光纤中受激拉曼散射用于非线性频率转换，需要高效传输高峰值功率脉冲。这些表征数据为端盖保偏光纤在高功率脉冲激光应用中的操作极限提供了实用见解。",
+  "chinese_digest": "## 中文导读\n- 研究问题：端盖保偏光纤在亚纳秒脉冲激光下的耦合效率和损伤阈值表征。\n- 核心方法：实验测量532 nm亚纳秒脉冲激光的耦合效率，并通过定制自由空间耦合阵列优化；在不同重复频率和峰值功率密度下测试损伤阈值。\n- 主要结果：成功解决了低耦合效率问题；未观察到瞬时损伤阈值低于10 GW/cm²；30 kHz下可稳定运行于~13 GW/cm²；1 kHz下~24 GW/cm²导致逐渐退化。\n- 与量子精密测量/量子计算的关系：相关性极低。该论文专注于光纤耦合和非线性频率转换的工程问题，未涉及量子传感、量子计量、Rydberg原子、中性原子量子计算、离子阱、Fisher信息、自旋压缩等核心主题。可能对需要高功率激光传输的量子实验平台有间接参考价值，但无直接关联。\n- 是否值得精读：不值得。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Characterization of coupling efficiency and laser-induced damage threshold for end-capped polarization-maintaining fibers with sub-nanosecond pulsed lasers.\n- Method: Experimental measurements at 532 nm using a Q-switched DPSS laser; custom free-space coupling array developed to address low efficiency; damage thresholds tested at various repetition rates and peak power densities.\n- Main result: Low coupling efficiency resolved; no instantaneous damage below ~10 GW/cm²; stable operation at ~13 GW/cm² (30 kHz) for >5 h; gradual degradation at ~24 GW/cm² (1 kHz).\n- Relevance: Very low (1/10). This paper focuses on fiber optics engineering for nonlinear frequency conversion, with no direct connection to quantum metrology, quantum sensing, Rydberg atoms, spin squeezing, neutral-atom quantum computing, trapped ions, Fisher information, or related topics. It may offer tangential insight for high-power laser delivery in quantum experiments but is not central to the research area.\n- Reading priority: Not recommended.\n- Possible inspiration: None directly.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29383v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29383v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Exact calculation of entanglement negativity for a 1+1D massless scalar field using phase space methods",
+  "arXiv_id": "2606.30231v1",
+  "abstract": "Quantum fields exhibit a rich entanglement structure which is still not fully understood. In this work, we study the entanglement structure of the vacuum state of a massless scalar field in (1+1)-dimensions -- a paradigmatic case for both high energy and condensed matter physics. We fully characterize the entanglement negativity between two arbitrary compact spacelike-separated regions of the field by calculating the logarithmic negativity along with the modes carrying it, called negativity cores. We achieve this using a framework based on the Kähler structure of Gaussian states, wherein we calculate the diagonalization of the operator associated with the partially-transposed restricted linear complex structure. In doing so, we extend the methods of this framework by proposing a basis-independent definition of the transpose operation. The explicit diagonalization we perform is enabled by a reformulation of the eigenvalue problem as a boundary value problem in the complex plane. Our results also suggest extensions to higher dimensions and fermionic fields.",
+  "authors": [
+    "Jason Pye",
+    "Atharva Hingane",
+    "Robert H. Jonsson"
+  ],
+  "categories": [
+    "hep-th",
+    "math-ph",
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了(1+1)维无质量标量场真空态的纠缠结构，利用基于Kähler结构的高斯态框架，精确计算了两个任意紧致类空间隔区域之间的纠缠负性（对数负性）及其携带模式（负性核）。作者通过将部分转置限制线性复结构的对角化问题重新表述为复平面上的边值问题，实现了显式对角化，并提出了转置操作的基无关定义。结果表明该方法可推广到更高维度和费米子场。",
+  "chinese_digest": "## 中文导读\n- 研究问题：(1+1)维无质量标量场真空态中两个分离区域间的纠缠负性精确计算。\n- 核心方法：基于Kähler结构的高斯态框架，将部分转置算符的对角化转化为复平面边值问题。\n- 主要结果：得到了对数负性和负性核的解析表达式，并提出了转置的基无关定义。\n- 与量子精密测量/量子计算的关系：该工作主要属于量子场论和量子信息基础理论，虽涉及纠缠度量，但未直接讨论量子传感、计量、量子计算硬件（如Rydberg原子、离子阱、光镊）或Fisher信息等具体方向。纠缠负性可用于多体纠缠表征，但论文未涉及实验实现或协议优化。\n- 是否值得精读：如果主要关注量子场论中的纠缠结构，值得精读；但如果聚焦于量子精密测量或量子计算应用，相关性较低。\n- 对我研究的可能启发：其解析方法可能为分析某些量子传感器中的纠缠结构提供理论工具，但需要进一步桥接到具体平台。",
+  "english_digest": "## English Guide\n- Problem: Exact calculation of entanglement negativity for a 1+1D massless scalar field vacuum state between two spacelike-separated regions.\n- Method: Gaussian state framework based on Kähler structure, reformulating diagonalization of the partially-transposed operator as a boundary value problem in the complex plane.\n- Main result: Analytical expressions for logarithmic negativity and negativity cores, plus a basis-independent definition of transposition.\n- Relevance: The paper is primarily a theoretical study in quantum field theory and fundamental quantum information. It does not directly address quantum sensing, metrology, quantum computing platforms (e.g., Rydberg atoms, trapped ions, optical tweezers), Fisher information, spin squeezing, or experimental protocols. Hence relevance to your research focus is low.\n- Reading priority: Low, unless you are specifically interested in entanglement measures in QFT. Not essential for daily arXiv recommendations in quantum precision measurement or quantum computing.\n- Possible inspiration: The analytical techniques for entanglement negativity might be adapted to study entanglement in many-body systems relevant to quantum sensors, but the paper does not make such connections.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30231v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30231v1",
+  "local_pdf_path": ""
+}

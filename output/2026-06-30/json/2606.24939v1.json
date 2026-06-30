@@ -1,0 +1,25 @@
+{
+  "title": "Bright-state source cancellation in dissipative shortcut Raman atom optics",
+  "arXiv_id": "2606.24939v1",
+  "abstract": "Spontaneous Raman scattering limits shortcut-assisted atom optics, but its microscopic origin is obscured once the lossy excited state is adiabatically eliminated. We organize the problem around a single quantity: in the instantaneous dark-bright basis the lower-manifold optical source is carried entirely by the bright-state amplitude, $S=Ωb$, so that primary spontaneous scattering reduces to the compact functional. This recovers the known dissipative-STIRAP loss in transparent form and makes the action of a shortcut explicit: ideal counterdiabatic STIRSAP cancels the bright-state \\emph{source}, not the optical decay coefficient. We show this cancellation is exact in the full three-level model at the counterdiabatic point, for arbitrary one-photon detuning, Rabi frequency, and pulse duration. The residual source splits into orthogonal quadratures -- shortcut mismatch (real) and two-photon Doppler detuning (imaginary) -- which invites a velocity-selective protocol that nulls the Doppler quadrature for a chosen momentum class with a second, phase-shifted lower-state field. Our central result is that this source nulling is never superior to simply chirping the two-photon detuning: the two coincide only when the selected class $δ_c$ is small compared with the bright-state gap, and the nulling degrades and then fails as $δ_c\\to|μ|$  -- precisely the regime of launched or warm clouds and high-order large-momentum-transfer (LMT) optics that motivates velocity selection. The controlling quantity is the magnitude of the residual Hamiltonian perturbation a scheme leaves behind, not the residual source it cancels. As a complement to existing multi-pulse decay budgets, we cast a single-pulse mode-error budget for LMT interferometry entirely in terms of the bright-state source, and delineate when shortcut-assisted Raman control reduces the total scattering cost.",
+  "authors": [
+    "Asad Ali",
+    "Saif Al-Kuwari",
+    "M. I. Hussain",
+    "H. Kuniyil",
+    "M. T. Rahim",
+    "Saeed Haddadi"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph",
+    "physics.optics"
+  ],
+  "summary": "这篇论文研究了耗散捷径拉曼原子光学中亮态源抵消的机制。作者发现在绝热消除损耗激发态后，自发拉曼散射的限制源于亮态振幅携带的光源。通过引入反绝热驱动（STIRSAP），可以在完整的三能级模型中精确抵消亮态源，而不仅仅是光学衰减系数。残余源被分解为正交分量（捷径失配和双光子多普勒失谐），并提出了速度选择性协议来抵消特定动量类别的多普勒分量。然而，研究表明这种源抵消并不优于简单的双光子失谐啁啾，且在大动量转移（LMT）干涉测量中，控制残余哈密顿量扰动比抵消源更为关键。论文还构建了基于亮态源的单脉冲模式误差预算，用于LMT干涉测量。",
+  "chinese_digest": "## 中文导读\n- 研究问题：在耗散捷径拉曼原子光学中，如何理解和优化亮态源抵消机制，以减少自发散射对原子干涉测量的限制。\n- 核心方法：将问题组织在瞬时暗-亮基下，定义亮态源S=Ωb，分析反绝热驱动（STIRSAP）对源的抵消效果，并分解残余源为捷径失配和多普勒失谐正交分量，提出速度选择性协议。\n- 主要结果：反绝热驱动在完整三能级模型中精确抵消亮态源，但残余源的多普勒分量抵消并不优于简单啁啾；控制残余哈密顿量扰动比抵消源更重要；构建了基于亮态源的单脉冲模式误差预算。\n- 与量子精密测量/量子计算的关系：论文直接关联原子干涉测量（Ramsey干涉、LMT干涉），这是量子精密测量和量子传感的核心平台；涉及拉曼跃迁和原子光学，对中性原子量子计算中的门操作和读出有影响；与Rydberg原子系统（微波传感）和离子阱中的相干控制有共通原理。\n- 是否值得精读：是，尤其对于从事原子干涉仪、大动量转移光学、量子控制或误差分析的研究者。\n- 对我研究的可能启发：亮态源框架可推广到其他量子传感平台（如Rydberg原子微波传感）的散射误差分析；速度选择性协议为多普勒退相干抑制提供新思路；误差预算方法可直接用于优化量子门保真度。",
+  "english_digest": "## English Guide\n- Problem: Understanding and optimizing bright-state source cancellation in dissipative shortcut Raman atom optics to reduce spontaneous scattering in atom interferometry.\n- Method: Organize the problem in the instantaneous dark-bright basis, define the bright-state source S=Ωb, analyze counterdiabatic STIRSAP cancellation, decompose residual source into shortcut mismatch and two-photon Doppler detuning, and propose a velocity-selective protocol.\n- Main result: Counterdiabatic driving exactly cancels the bright-state source in the full three-level model, but Doppler nulling is not superior to simple chirping; controlling residual Hamiltonian perturbation is more important; a single-pulse mode-error budget for LMT interferometry is constructed.\n- Relevance: Directly relevant to atom interferometry (Ramsey, LMT), which is central to quantum precision measurement and sensing. Principles apply to neutral-atom quantum computing (gate control, readout), Rydberg-atom microwave sensing, and trapped-ion coherent control.\n- Reading priority: High, especially for researchers working on atom interferometers, LMT optics, quantum control, or error analysis.\n- Possible inspiration: The bright-state source framework can be extended to scattering error analysis in other quantum sensing platforms (e.g., Rydberg-atom microwave sensors). Velocity-selective protocols offer new ways to suppress Doppler dephasing. Error budgeting methods can be directly applied to optimize quantum gate fidelities.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.24939v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.24939v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Coherent manipulation of the biphoton generation in cavity-QED system",
+  "arXiv_id": "2606.29764v1",
+  "abstract": "We theoretically investigate the coherent manipulation of biphoton generation via spontaneous four-wave mixing in a cavity-QED system with a single atom. The atom is driven by pumping, coupling, and driving fields, and the generation of the Stokes and anti-Stokes photons are enhanced by two cavities. By solving the master equation in the steady state, we analyze the spectral brightness, as well as the degree of the auto-correlation and cross-correlation. Our results show that when the pumping and driving fields are in two-photon resonance, the dark state established between the ground and Rydberg states. efficiently enhances the controllability of the driving field over the biphoton generation and the quantum statistics. In contrast, under large two-photon detuning, the control capability of the driving field is significantly reduced. The coupling field, which directly relates to the electromagnetically induced transparency, modifies the linewidth of the biphoton, while the atom-cavity coupling strength only changes the brightness without affecting the linewidth.",
+  "authors": [
+    "Jia-Ni Yang",
+    "Xin-Yi Ling",
+    "Yuan Feng",
+    "Xiao-Jun Zhang",
+    "Jin-Hui Wu"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.optics"
+  ],
+  "summary": "本文在腔量子电动力学系统中理论研究了通过自发四波混频产生双光子的相干操控。系统包含一个被泵浦场、耦合场和驱动场驱动的单个原子，斯托克斯和反斯托克斯光子被两个腔增强。通过求解稳态主方程，分析了光谱亮度及自相关和互相关程度。结果表明，当泵浦场和驱动场处于双光子共振时，基态与里德伯态之间建立的暗态有效增强了驱动场对双光子产生和量子统计的可控性；而在大双光子失谐下，驱动场的控制能力显著降低。与电磁感应透明直接相关的耦合场改变双光子的线宽，而原子-腔耦合强度仅改变亮度而不影响线宽。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在腔QED系统中通过里德伯原子实现双光子产生的相干操控？\n- 核心方法：采用自发四波混频，利用泵浦、耦合和驱动场驱动单个原子，通过主方程求解稳态，分析双光子光谱和量子统计。\n- 主要结果：双光子共振下暗态增强驱动场可控性；耦合场调控线宽；原子-腔耦合仅影响亮度。\n- 与量子精密测量/量子计算的关系：里德伯原子是中性原子量子计算和量子传感的关键平台，双光子操控可应用于量子信息处理；腔QED增强光-物质耦合，对量子传感（如微波-光学转换）有潜在意义。但论文未直接涉及Fisher信息、自旋压缩或量子计量极限。\n- 是否值得精读：中等。对里德伯原子和腔QED系统有参考价值，但缺乏直接与精密测量性能指标（如Fisher信息、灵敏度）的关联。\n- 对我研究的可能启发：可借鉴里德伯暗态增强控制的方法，用于设计基于里德伯原子的量子传感协议。",
+  "english_digest": "## English Guide\n- Problem: How to achieve coherent manipulation of biphoton generation in a cavity-QED system using Rydberg atoms?\n- Method: Spontaneous four-wave mixing with pump, coupling, and drive fields; master equation in steady state; analysis of spectral brightness and correlations.\n- Main result: Dark state under two-photon resonance enhances controllability; coupling field modifies linewidth; atom-cavity coupling affects only brightness.\n- Relevance: Directly related to Rydberg atoms and cavity QED, which are relevant to neutral-atom quantum computing and quantum sensing. However, no explicit connection to Fisher information, spin squeezing, or metrological bounds. Suitable for researchers interested in quantum control and light-matter interfaces.\n- Reading priority: Moderate. Useful for Rydberg/cavity-QED platforms, but not essential for quantum metrology theory.\n- Possible inspiration: The dark-state control scheme could be adapted for Rydberg-based quantum sensors or microwave-to-optical transduction.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29764v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29764v1",
+  "local_pdf_path": ""
+}

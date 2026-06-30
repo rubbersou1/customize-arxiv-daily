@@ -1,0 +1,27 @@
+{
+  "title": "Fermi gas of polar molecules in the Pauli-blocked regime",
+  "arXiv_id": "2606.14135v1",
+  "abstract": "Quantum gases of polar molecules have recently emerged as a powerful platform for exploring exotic many-body dynamics and correlated quantum behavior. To achieve the full potential of this platform, the production of deeply degenerate quantum gases of molecules in arbitrary confinement geometries is necessary. Here, we successfully evaporate fermionic KRb molecules in both 3D and quasi-2D geometries to well below their Fermi temperatures utilizing dipolar collisions. As we evaporate deeper into degeneracy in both geometries, we enter the Pauli-blocked regime with polar molecules, which we independently confirm for the first time by measuring the Pauli suppression of elastic collisions. Moreover, the Pauli suppression of collisions contributes to the limitation of our final molecular temperature to about 25% of the Fermi temperature in both geometries, particularly limiting quasi-2D evaporation where the Pauli blockade drastically reduces an otherwise large elastic to inelastic scattering ratio. This work demonstrates the production of degenerate Fermi gases of polar molecules both in a 3D harmonic trap and in mono- and bi-layer 2D configurations. Further, our work explores the fundamental limits on evaporation of molecular Fermi gases set by the Pauli-exclusion principle, which could be overcome in the future by introducing distinguishable scattering partners.",
+  "authors": [
+    "Junyu Lin",
+    "Annette N. Carroll",
+    "Phillip Martin",
+    "Calder Miller",
+    "Reuben R. W. Wang",
+    "Kevin Xu",
+    "John L. Bohn",
+    "Tim de Jongh",
+    "Jun Ye"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文报道了在三维和准二维几何结构中，利用偶极碰撞将费米性KRb分子蒸发到远低于其费米温度，成功进入泡利阻塞态。通过测量弹性碰撞的泡利抑制效应，首次独立证实了极性分子的泡利阻塞。研究还发现泡利抑制限制了最终分子温度，约为费米温度的25%，尤其在准二维蒸发中，泡利阻塞显著降低了弹性与非弹性散射比。该工作展示了在三维谐波陷阱及单层、双层二维构型中产生简并极性分子费米气体的能力，并探讨了泡利不相容原理对分子费米气体蒸发的根本限制。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何实现极性分子费米气体的深度简并，并进入泡利阻塞态？\n- 核心方法：利用偶极碰撞对KRb分子进行蒸发冷却，在三维和准二维几何中降低温度至费米温度以下，通过测量弹性碰撞的泡利抑制来验证阻塞效应。\n- 主要结果：成功产生了简并的极性分子费米气体，首次独立证实泡利阻塞；温度被限制在费米温度的25%左右；泡利阻塞限制了二维蒸发效率。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦超冷分子物理和量子简并气体，与量子精密测量（如量子传感、Fisher信息、自旋压缩）和量子计算（如中性原子量子计算、离子阱）的直接关联较弱。极性分子可能用于量子模拟或分子钟，但本文未涉及这些应用。\n- 是否值得精读：对于超冷分子或费米气体领域的研究者有价值，但对于量子精密测量和量子计算方向的读者，相关性较低。\n- 对我研究的可能启发：可借鉴其泡利阻塞对碰撞抑制的机制，用于理解量子气体中的噪声或退相干，但直接启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to achieve deep degeneracy of polar molecular Fermi gases and enter the Pauli-blocked regime?\n- Method: Evaporative cooling of KRb molecules via dipolar collisions in 3D and quasi-2D geometries; measurement of Pauli suppression of elastic collisions to confirm blocking.\n- Main result: Successful production of degenerate polar molecular Fermi gas; first independent confirmation of Pauli blocking; final temperature limited to ~25% of Fermi temperature; Pauli blocking limits quasi-2D evaporation efficiency.\n- Relevance: This work focuses on ultracold molecular physics and quantum degenerate gases, with weak direct connection to quantum precision measurement (e.g., quantum sensing, Fisher information, spin squeezing) or quantum computing (e.g., neutral atoms, trapped ions, Rydberg atoms). Polar molecules may be relevant for quantum simulation or molecular clocks, but these are not addressed here.\n- Reading priority: Low for researchers in quantum metrology and quantum computing; moderate for those in ultracold molecules or Fermi gases.\n- Possible inspiration: The Pauli blocking mechanism for collision suppression could inform studies of noise or decoherence in quantum gases, but direct inspiration for precision measurement or computation is limited.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.14135v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.14135v1",
+  "local_pdf_path": ""
+}

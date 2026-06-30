@@ -1,0 +1,28 @@
+{
+  "title": "Kinetic energy from the cubic sum rule of the dynamic structure factor",
+  "arXiv_id": "2606.30123v1",
+  "abstract": "The third frequency moment sum rule of the dynamic structure factor $S(\\mathbf{q},ω)$ is explored for the first time as an alternative estimator of the kinetic energy $K$ of quantum many-body systems. As a practical example, the uniform electron gas at warm dense matter conditions is considered. First, $K$ is extracted from quasi-exact \\emph{ab initio} path integral Monte Carlo results for the imaginary-time density--density correlation function $F(\\mathbf{q},τ)$ and the expected excellent self-consistency with the thermodynamic differentiation route is confirmed. Second, $K$ is extracted from approximate dielectric formalism results for $S(\\mathbf{q},ω)$ and it is observed that common semi-classical approximations lead to a wave-number dependent $K$ with an incorrect short-wavelength limit. Our results are expected to be of broad interest for a great variety of applications, including time-dependent density functional theory, dielectric formalism schemes and warm dense matter models, as well as for the design of dedicated x-ray Thomson scattering experiments with the potential to provide model-free access to the full electronic equation of state.",
+  "authors": [
+    "Fotios Kalkavouras",
+    "Panagiotis Tolias",
+    "Sebastian Schwalbe",
+    "Thomas Gawne",
+    "Alexander Benedix Robles",
+    "Jan Vorberger",
+    "Zhandos Moldabekov",
+    "Maximilian Böhme",
+    "Tobias Dornheim"
+  ],
+  "categories": [
+    "physics.plasm-ph",
+    "cond-mat.quant-gas",
+    "physics.chem-ph"
+  ],
+  "summary": "本文探索了动态结构因子S(q,ω)的三次频率矩求和规则作为量子多体系统动能K的替代估计量。以均匀电子气在温稠密物质条件下的情况为例，首先从路径积分蒙特卡罗的虚时密度-密度关联函数中提取K，验证了与热力学微分路径的自洽性；其次从近似介电形式的结果中提取K，发现常见的半经典近似会导致波数依赖的K在短波长极限下不正确。结果对含时密度泛函理论、介电形式方案、温稠密物质模型以及X射线汤姆孙散射实验设计有广泛意义。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用动态结构因子的立方求和规则估计量子多体系统的动能。\n- 核心方法：分析动态结构因子S(q,ω)的三次频率矩，结合路径积分蒙特卡罗模拟和介电形式近似。\n- 主要结果：验证了虚时路径积分蒙特卡罗方法的自洽性，并指出常见半经典近似在短波长极限下的缺陷。\n- 与量子精密测量/量子计算的关系：本文聚焦于凝聚态物理和温稠密物质中的动能估计，未涉及量子计量学、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱或Fisher信息等方向。\n- 是否值得精读：对于量子精密测量和量子计算领域的研究者，本文相关性较低，不建议精读。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to estimate the kinetic energy of quantum many-body systems using the cubic sum rule of the dynamic structure factor.\n- Method: Analysis of the third frequency moment of S(q,ω), combined with path integral Monte Carlo and dielectric formalism approximations.\n- Main result: Self-consistency of imaginary-time PIMC is confirmed, while semi-classical approximations yield incorrect short-wavelength limits.\n- Relevance: The paper is focused on warm dense matter and condensed matter physics, with no connection to quantum metrology, sensing, computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. Relevance score is low (2/10).\n- Reading priority: Low for researchers in quantum precision measurement and quantum computing.\n- Possible inspiration: None directly applicable to the listed research interests.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30123v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30123v1",
+  "local_pdf_path": ""
+}

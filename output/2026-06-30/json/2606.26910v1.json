@@ -1,0 +1,29 @@
+{
+  "title": "An ultralow-loss integrated photonic platform for discrete-variable quantum information processing",
+  "arXiv_id": "2606.26910v1",
+  "abstract": "Photonic integrated circuits offer a scalable and robust route toward quantum information technologies by consolidating photon sources and linear optical networks onto compact, wafer-manufacturable chips. Although silicon photonics has enabled diverse discrete-variable quantum breakthroughs -- spanning multiphoton entanglement, quantum networking, and photonic qubit fusion for quantum computing -- scaling these platforms beyond proof-of-principle demonstrations remains severely constrained by a critical system-level bottleneck. Optical loss compounds rapidly across photon generation, routing, and state analysis, causing multiphoton generation probabilities to plummet exponentially as circuit depth and complexity grow. Here we overcome this rate-loss barrier by demonstrating a monolithic, ultralow-loss silicon nitride (Si$_3$N$_4$) integrated photonic platform engineered for high-performance discrete-variable quantum information processing. Our architecture seamlessly integrates narrowband photon-pair sources with low-loss qubit-fusion circuits and reconfigurable state-analysis interferometers. The on-chip sources prepare Einstein-Podolsky-Rosen (EPR) states with a fidelity of 0.9875(3) and exhibit near-unity photon indistinguishability, yielding a heralded Hong-Ou-Mandel interference visibility of 0.990(6). By executing on-chip fusion of two EPR states, we synthesize and characterize four-photon Greenberger-Horne-Zeilinger states with a record fidelity of 0.943(8) and a fourfold count rate of 27 Hz -- more than two orders of magnitude higher than previous silicon-photonic implementations. Combined with standard CMOS-compatible fabrication on 150-mm-diameter wafers, these results establish ultralow-loss Si$_3$N$_4$ integrated photonics as a definitive, manufacturable platform for deployable, large-scale quantum information processors.",
+  "authors": [
+    "Yi-Han Luo",
+    "Ruiyang Chen",
+    "Zeying Zhong",
+    "Sanli Huang",
+    "Sicheng Zeng",
+    "Zhenyuan Shang",
+    "Yue Hu",
+    "Zhen Chen",
+    "Yuan Chen",
+    "Xue Bai",
+    "Junqiu Liu"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.optics"
+  ],
+  "summary": "这篇论文展示了一种超低损耗的氮化硅（Si₃N₄）集成光子平台，专为离散变量量子信息处理设计。该平台将窄带光子对源、低损耗量子比特融合电路和可重构态分析干涉仪单片集成，实现了高保真度的EPR态制备（0.9875）和四光子GHZ态合成（保真度0.943，四重计数率27 Hz），比以往硅光子平台提高了两个数量级。该平台基于CMOS兼容工艺，在150毫米晶圆上制造，为可部署的大规模量子信息处理器提供了可制造的解决方案。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何克服集成光子平台在离散变量量子信息处理中的速率-损耗障碍，实现可扩展的量子信息处理。\n- 核心方法：采用超低损耗的氮化硅（Si₃N₄）集成光子平台，单片集成窄带光子对源、低损耗量子比特融合电路和可重构态分析干涉仪，利用CMOS兼容工艺在150毫米晶圆上制造。\n- 主要结果：实现了EPR态制备保真度0.9875(3)，四光子GHZ态合成保真度0.943(8)，四重计数率27 Hz，比以往硅光子平台高两个数量级。\n- 与量子精密测量/量子计算的关系：该平台主要面向量子计算中的光子融合和纠缠生成，与量子精密测量（如量子传感、Fisher信息、自旋压缩）直接关联较弱，但低损耗光子学对量子传感中的光子数态操控和干涉测量有潜在间接贡献。\n- 是否值得精读：如果专注于量子精密测量或Rydberg系统，建议选择性阅读；若关注量子计算光子平台，则值得精读。\n- 对我研究的可能启发：低损耗集成光子学可能用于量子传感中的光子态制备和干涉，但当前工作更侧重于量子计算，对Rydberg原子、离子阱等平台参考价值有限。",
+  "english_digest": "## English Guide\n- Problem: How to overcome the rate-loss barrier in integrated photonic platforms for scalable discrete-variable quantum information processing.\n- Method: A monolithic, ultralow-loss silicon nitride (Si₃N₄) integrated photonic platform that seamlessly integrates narrowband photon-pair sources, low-loss qubit-fusion circuits, and reconfigurable state-analysis interferometers, fabricated using CMOS-compatible processes on 150-mm wafers.\n- Main result: Demonstrated EPR state fidelity of 0.9875(3), four-photon GHZ state fidelity of 0.943(8), and fourfold count rate of 27 Hz, more than two orders of magnitude higher than previous silicon photonic implementations.\n- Relevance: This work is primarily relevant to photonic quantum computing and entanglement generation. It has limited direct connection to quantum precision measurement topics such as quantum metrology, Fisher information, spin squeezing, Rydberg atoms, trapped ions, or atomic clocks. The low-loss photonics could indirectly benefit photonic-based quantum sensing, but the focus is on computing.\n- Reading priority: Low for researchers focused on quantum sensing, metrology, or Rydberg/ion platforms; high for those working on photonic quantum computing.\n- Possible inspiration: The ultralow-loss platform might inspire future hybrid systems where photonic components are integrated with atomic or ionic sensors, but the current paper does not address such applications.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26910v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26910v1",
+  "local_pdf_path": ""
+}

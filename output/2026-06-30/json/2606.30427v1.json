@@ -1,0 +1,21 @@
+{
+  "title": "Modulation theory formulation of atomic light-matter interaction",
+  "arXiv_id": "2606.30427v1",
+  "abstract": "We provide a re-formulation of the light-matter interaction of trapped-atom systems in terms of classical modulation theory. We introduce commuting ``mean'' quadrature operators together with ``deviation'' operators that describe the quantum fluctuations resulting from the uncertainty principle. From the ``mean'' position operator stems an accurate approximate expression for the internal transition coupling strengths in terms of Bessel functions which matches that of classical modulation theory. The error of the approximation is a direct result of quantum fluctuations. We also show that this result can also be obtained with WKB theory. The validity of our approach is numerically verified and supported by an expansion of the exact expression using a recurrence relation between orthogonal polynomials. Compared to the exact solution, our result is analytically more tractable, numerically more stable, and admits a transparent physical interpretation which connects the classical and quantum pictures.",
+  "authors": [
+    "Matteo Simoni",
+    "Ivan Rojkov",
+    "Jonathan Home"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "summary": "这篇论文重新阐述了俘获原子系统中光与物质相互作用的经典调制理论。它引入了对易的“平均”正交算子和描述量子涨落的“偏差”算子，从“平均”位置算子推导出用贝塞尔函数表示的内态跃迁耦合强度的精确近似表达式，该表达式与经典调制理论一致，其误差源于量子涨落。论文还展示了该结果可通过WKB理论获得，并通过正交多项式递推关系对精确表达式展开进行了数值验证。相比精确解，该结果解析上更易处理，数值上更稳定，且具有清晰的物理图像，连接了经典与量子描述。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何用经典调制理论重新表述俘获原子系统中的光与物质相互作用，并得到解析上更易处理、数值上更稳定的跃迁耦合强度表达式。\n- 核心方法：引入“平均”与“偏差”算子，利用经典调制理论框架推导跃迁耦合强度的贝塞尔函数近似，并用WKB理论和正交多项式展开验证。\n- 主要结果：得到了一个与经典调制理论匹配的、基于贝塞尔函数的跃迁耦合强度近似表达式，其误差由量子涨落决定，且解析形式比精确解更简洁。\n- 与量子精密测量/量子计算的关系：该工作为俘获原子系统（如中性原子量子计算、离子阱、Rydberg原子）中的光-物质相互作用提供了更简洁的解析模型，有助于优化量子门操作、提高量子传感（如原子钟、原子干涉仪）的理论预测精度和数值模拟效率。\n- 是否值得精读：值得精读。该模型连接了经典与量子图像，对理解俘获原子系统中的量子控制和误差分析有直接帮助，尤其适合从事理论建模或数值模拟的研究者。\n- 对我研究的可能启发：可用于优化基于Rydberg原子或离子阱的量子门中的激光参数，或改进原子干涉仪中光脉冲的调制方案，提升量子精密测量的性能。",
+  "english_digest": "## English Guide\n- Problem: How to reformulate the light-matter interaction in trapped-atom systems using classical modulation theory to obtain a more analytically tractable and numerically stable expression for transition coupling strengths.\n- Method: Introduce commuting \"mean\" and \"deviation\" quadrature operators, derive a Bessel-function-based approximation for transition coupling strengths within the classical modulation theory framework, and validate using WKB theory and orthogonal polynomial expansions.\n- Main result: A Bessel-function expression for transition coupling strengths that matches classical modulation theory, with errors arising from quantum fluctuations; the expression is analytically simpler and numerically more stable than the exact solution.\n- Relevance: Highly relevant to quantum precision measurement and quantum computing, as it provides a simplified analytical model for light-matter interactions in trapped-atom platforms (neutral atoms, trapped ions, Rydberg atoms), which is crucial for optimizing quantum gates, atomic clocks, atom interferometry, and quantum sensing protocols.\n- Reading priority: Recommended. The work bridges classical and quantum pictures, offering practical insights for quantum control, error mitigation, and numerical simulations in quantum metrology and computing.\n- Possible inspiration: Could inspire improved laser modulation schemes for Rydberg-based quantum gates or atom interferometers, and enhance theoretical predictions for spin squeezing and Fisher information in trapped-atom systems.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30427v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30427v1",
+  "local_pdf_path": ""
+}

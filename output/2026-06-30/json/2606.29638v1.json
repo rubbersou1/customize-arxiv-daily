@@ -1,0 +1,24 @@
+{
+  "title": "Characterization of Unlearnable Noise with Mid-Circuit-Measurement-Based Cycle Benchmarking",
+  "arXiv_id": "2606.29638v1",
+  "abstract": "Noise characterization of multi-qubit entangling Clifford operations is a key practical bottleneck for quantum error mitigation and for the calibration, validation, and optimization of quantum error-correction protocols, especially in the presence of state preparation and measurement (SPAM) errors. Although cycle benchmarking can isolate some Pauli error components, it cannot resolve the problem of coupled error parameters, which leads to unlearnable degrees of freedom even in simple noisy gates, not to mention general $n$-qubit Clifford gates. Here we introduce mid-circuit-measurement-based generalized cycle benchmarking, a framework that makes otherwise unidentifiable Pauli fidelities and non-Markovian noise learnable via repeated measurements and classical post-processing. Applying the deferred feed-forward principle to generalized cycle benchmarking, we show that an insertion of mid-circuit measurements can reverse Pauli cycles induced by a general Clifford gate. This fact enables us to reveal a Pauli-noise learnability condition for Clifford gates. Assuming sufficient state preparation quality, we numerically demonstrate the feasibility of characterizing the previously unlearnable noise components. We implement the protocol on superconducting quantum processing units and validate its effectiveness in disambiguating the coupled noise components, benchmarked against conventional tomography. Finally, we observe consistent measurement-induced bit-flip bias and non-Markovian correlations, which define a range of applicability for the Pauli noise model and the proposed noise-characterization protocol.",
+  "authors": [
+    "M. H. Cheng",
+    "Stefano Mangini",
+    "V. Bartsch",
+    "A. C. Medina",
+    "Sergey N. Filippov",
+    "Matteo A. C. Rossi",
+    "M. S. Kim"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "该论文提出了一种基于中间电路测量的广义周期基准测试框架，用于表征多量子比特克利福德门中无法学习的噪声分量。通过引入中间电路测量和经典后处理，该框架能够识别出传统方法无法区分的泡利保真度和非马尔可夫噪声，并验证了其在超导量子处理器上的有效性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何表征多量子比特克利福德门中耦合的、无法学习的噪声分量，特别是泡利噪声和非马尔可夫噪声。\n- 核心方法：在广义周期基准测试中插入中间电路测量，并结合延迟前馈原理和经典后处理，使原本不可识别的噪声参数变得可学习。\n- 主要结果：证明了克利福德门的泡利噪声可学习性条件，并在超导量子处理器上成功区分了耦合噪声分量，观察到了测量引起的比特翻转偏差和非马尔可夫相关性。\n- 与量子精密测量/量子计算的关系：该论文主要关注量子计算中的噪声表征，对量子误差缓解和纠错协议有直接意义。虽然不直接涉及量子精密测量中的Fisher信息或自旋压缩，但其噪声表征方法可间接应用于量子传感平台（如中性原子、离子阱）的噪声识别，有助于提升量子传感的精度。\n- 是否值得精读：对于从事量子计算硬件或量子误差缓解的研究者，值得精读；对于量子精密测量领域，可作为噪声建模的参考。\n- 对我研究的可能启发：其中间电路测量技术可启发在量子传感实验中设计类似的噪声表征协议，例如在原子干涉仪或里德伯原子系统中识别非马尔可夫噪声来源。",
+  "english_digest": "## English Guide\n- Problem: How to characterize unlearnable noise components (Pauli fidelities and non-Markovian noise) in multi-qubit Clifford gates, which are coupled and unidentifiable in standard cycle benchmarking.\n- Method: Introducing mid-circuit measurements into generalized cycle benchmarking, combined with deferred feed-forward and classical post-processing, to make previously unlearnable noise parameters identifiable.\n- Main result: Established a learnability condition for Pauli noise in Clifford gates; demonstrated feasibility on superconducting quantum processors, resolving coupled noise components and observing measurement-induced bit-flip bias and non-Markovian correlations.\n- Relevance: This work is primarily relevant to quantum computing hardware and error mitigation. While not directly addressing quantum metrology topics like Fisher information or spin squeezing, the noise characterization framework can be adapted to quantum sensing platforms (e.g., neutral atoms, trapped ions) for identifying noise sources that limit precision.\n- Reading priority: Recommended for researchers in quantum computing and error mitigation; moderately relevant for quantum metrology as a methodological reference.\n- Possible inspiration: The mid-circuit measurement approach could inspire novel noise characterization protocols in quantum sensors, such as Rydberg-atom-based electric field sensors or trapped-ion clocks, to identify and mitigate non-Markovian noise.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29638v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29638v1",
+  "local_pdf_path": ""
+}

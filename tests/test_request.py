@@ -1,90 +1,96 @@
 import unittest
+from types import SimpleNamespace
 from unittest.mock import patch
+
+import arxiv
 
 from util.request import get_yesterday_arxiv_papers
 
 
-class Response:
-    def __init__(self, text, status_code=200):
-        self.text = text
-        self.status_code = status_code
-
-
-def build_arxiv_html(count):
-    entries = []
-    for index in range(count):
-        arxiv_id = f"2501.{index:05d}"
-        entries.append(
-            f"""
-            <dt>
-              <a title="Abstract" href="/abs/{arxiv_id}">abs</a>
-              <a title="Download PDF" href="/pdf/{arxiv_id}">pdf</a>
-            </dt>
-            <dd>
-              <div class="list-title">Title: Paper {index}</div>
-              <div class="list-authors">Authors:
-                <a>Author {index}</a>
-              </div>
-              <div class="list-subjects">
-                Subjects: Quantum Physics (quant-ph)
-              </div>
-              <p class="mathjax">Abstract {index}</p>
-            </dd>
-            """
-        )
-    return f'<html><body><dl id="articles">{"".join(entries)}</dl></body></html>'
+def make_result(index):
+    arxiv_id = f"2501.{index:05d}"
+    return SimpleNamespace(
+        title=f"Paper {index}",
+        entry_id=f"https://arxiv.org/abs/{arxiv_id}v1",
+        pdf_url=f"https://arxiv.org/pdf/{arxiv_id}v1",
+        summary=f"Abstract {index}",
+        authors=[SimpleNamespace(name=f"Author {index}")],
+        categories=["quant-ph"],
+        primary_category="quant-ph",
+        comment=None,
+        get_short_id=lambda: arxiv_id,
+    )
 
 
 class ArxivRequestTest(unittest.TestCase):
-    @patch("util.request.requests.get")
-    def test_max_entries_5_requests_show_25_and_truncates(self, mock_get):
-        mock_get.return_value = Response(build_arxiv_html(25))
+    @patch("util.request.arxiv.Client")
+    def test_uses_arxiv_package_and_preserves_output_format(self, mock_client_class):
+        mock_client = mock_client_class.return_value
+        mock_client.results.return_value = [make_result(0)]
 
         papers = get_yesterday_arxiv_papers("quant-ph", 5)
 
-        self.assertIn("show=25", mock_get.call_args.args[0])
+        search = mock_client.results.call_args.args[0]
+        self.assertEqual(search.query, "cat:quant-ph")
+        self.assertEqual(search.max_results, 5)
+        self.assertEqual(search.sort_by, arxiv.SortCriterion.SubmittedDate)
+        self.assertEqual(search.sort_order, arxiv.SortOrder.Descending)
+        self.assertEqual(len(papers), 1)
+        self.assertEqual(
+            papers[0],
+            {
+                "title": "Paper 0",
+                "arXiv_id": "2501.00000",
+                "abstract": "Abstract 0",
+                "authors": ["Author 0"],
+                "categories": ["quant-ph"],
+                "comments": "No comments available",
+                "pdf_url": "https://arxiv.org/pdf/2501.00000v1",
+                "abstract_url": "https://arxiv.org/abs/2501.00000v1",
+            },
+        )
+
+    @patch("util.request.arxiv.Client")
+    def test_truncates_results_to_max_results(self, mock_client_class):
+        mock_client = mock_client_class.return_value
+        mock_client.results.return_value = [make_result(index) for index in range(10)]
+
+        papers = get_yesterday_arxiv_papers("quant-ph", 5)
+
         self.assertEqual(len(papers), 5)
-        self.assertEqual(papers[0]["arXiv_id"], "2501.00000")
-        self.assertEqual(papers[0]["authors"], ["Author 0"])
-        self.assertEqual(papers[0]["categories"], ["quant-ph"])
-
-    @patch("util.request.requests.get")
-    def test_max_entries_100_requests_show_100(self, mock_get):
-        mock_get.return_value = Response(build_arxiv_html(100))
-
-        papers = get_yesterday_arxiv_papers("quant-ph", 100)
-
-        self.assertIn("show=100", mock_get.call_args.args[0])
-        self.assertEqual(len(papers), 100)
-        self.assertEqual(papers[-1]["arXiv_id"], "2501.00099")
+        self.assertEqual(papers[-1]["arXiv_id"], "2501.00004")
 
     @patch("util.request.time.sleep")
-    @patch("util.request.requests.get")
-    def test_http_429_retries_then_returns_empty_list(self, mock_get, mock_sleep):
-        mock_get.return_value = Response("Rate exceeded.", status_code=429)
+    @patch("util.request.arxiv.Client")
+    def test_transient_errors_retry_then_return_empty_list(
+        self, mock_client_class, mock_sleep
+    ):
+        mock_client = mock_client_class.return_value
+        mock_client.results.side_effect = RuntimeError("temporary network error")
 
-        papers = get_yesterday_arxiv_papers("quant-ph", 100)
+        papers = get_yesterday_arxiv_papers("quant-ph", 5)
 
         self.assertEqual(papers, [])
-        self.assertEqual(mock_get.call_count, 4)
+        self.assertEqual(mock_client.results.call_count, 4)
         self.assertEqual(
             [call.args[0] for call in mock_sleep.call_args_list],
-            [30, 60, 120],
+            [5, 15, 30],
         )
 
     @patch("util.request.time.sleep")
-    @patch("util.request.requests.get")
-    def test_http_429_retry_can_recover(self, mock_get, mock_sleep):
-        mock_get.side_effect = [
-            Response("Rate exceeded.", status_code=429),
-            Response(build_arxiv_html(1), status_code=200),
+    @patch("util.request.arxiv.Client")
+    def test_transient_error_can_recover(self, mock_client_class, mock_sleep):
+        mock_client = mock_client_class.return_value
+        mock_client.results.side_effect = [
+            RuntimeError("temporary network error"),
+            [make_result(0)],
         ]
 
-        papers = get_yesterday_arxiv_papers("quant-ph", 100)
+        papers = get_yesterday_arxiv_papers("quant-ph", 5)
 
         self.assertEqual(len(papers), 1)
-        self.assertEqual(mock_get.call_count, 2)
-        self.assertEqual([call.args[0] for call in mock_sleep.call_args_list], [30])
+        self.assertEqual(mock_client.results.call_count, 2)
+        self.assertEqual([call.args[0] for call in mock_sleep.call_args_list], [5])
 
 
 if __name__ == "__main__":

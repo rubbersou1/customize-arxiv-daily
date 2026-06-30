@@ -1,0 +1,32 @@
+{
+  "title": "Blueprint for a fault-tolerant compound photon-atom quantum architecture",
+  "arXiv_id": "2606.30385v1",
+  "abstract": "Fault-tolerant quantum computing requires architectures that simultaneously address scalability, connectivity, and error correction under realistic noise constraints. We present a compound photonic-atomic quantum computing platform that uses cavity QED to realize near-deterministic entangling operations between flying photonic qubits and stationary atomic qubits. Photons provide long-range connectivity and scalability via measurement-based quantum computing (MBQC), while atoms supply reusable, near-deterministic resources for photon generation and entanglement, overcoming the inefficiency of purely photonic platforms. The core primitive is a symmetrized Duan-Kimble photon-atom controlled-phase (CZ) gate, robust to experimental imperfections and high-fidelity. Using single $^{87}$Rb atoms coupled to optical cavities, we give protocols for state preparation, measurement, photon generation, and entangling gates on tens-of-nanosecond timescales, and show how large-scale cluster states with effectively unrestricted connectivity and reduced overhead can be generated through atomic reuse. We analyze fault tolerance on the Raussendorf-Harrington-Goyal (RHG) lattice with a hardware-aware noise model capturing asymmetric loss and correlated photonic-atomic errors. Logical memory simulations yield a photon-loss threshold near $2.6\\%$ per physical gate ($\\sim$15\\% total per trajectory). The full Clifford set -- Hadamard, phase, CNOT -- is implementable transversally or fold-transversally at thresholds matching the identity channel, and we propose two non-Clifford resource-state routes (code teleportation and magic state cultivation) within the foliated cluster-state architecture.",
+  "authors": [
+    "Geva Arwas",
+    "Doron Azoury",
+    "Daniel Azses",
+    "Orel Bechler",
+    "Dana Ben Porath",
+    "Barak Dayan",
+    "David Dentelski",
+    "Yaron Jarach",
+    "Nadav Kandel",
+    "Aviad Landau",
+    "Yair Margalit",
+    "Alexander Poddubny",
+    "Michael Slutsky",
+    "Konstantin Yavilberg"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文提出了一种容错量子计算的复合光子-原子架构，利用腔QED实现飞行光子与静止原子量子比特之间的近确定性纠缠操作。光子通过基于测量的量子计算提供长程连接和可扩展性，原子则提供可重复使用的资源用于光子生成和纠缠。核心是基于对称化Duan-Kimble光子-原子控制相位门，使用铷-87原子耦合到光学腔，展示了状态准备、测量、光子生成和纠缠门的协议，时间尺度为几十纳秒。通过原子重用生成大规模簇态，并分析了在Raussendorf-Harrington-Goyal晶格上的容错性，得到光子损耗阈值约为2.6%。完整Clifford门集可横向或折叠横向实现，并提出了两种非Clifford资源态路径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何构建一种兼具可扩展性、连接性和容错性的量子计算架构，并利用腔QED实现光子与原子间的确定性纠缠操作。\n- 核心方法：采用复合光子-原子平台，以铷-87原子作为静止量子比特，通过光学腔实现近确定性光子-原子CZ门；光子作为飞行量子比特提供长程连接，原子用于光子生成和纠缠重用。\n- 主要结果：在几十纳秒时间尺度上实现了状态准备、测量和纠缠门；在RHG晶格上模拟逻辑内存，得到光子损耗阈值约2.6%；完整Clifford门集可横向实现，并提出了两种非Clifford资源态方案。\n- 与量子精密测量/量子计算的关系：该架构直接面向容错量子计算，但其中使用的腔QED、原子控制、纠缠生成等技术也与量子传感和精密测量相关（如原子钟、拉姆齐干涉仪）。与Rydberg原子、自旋压缩、Fisher信息等方向无直接联系。\n- 是否值得精读：值得，特别是对腔QED、光子-原子纠缠和容错架构感兴趣的读者。但对量子精密测量领域而言，相关性中等。\n- 对我研究的可能启发：可借鉴其中原子-光子纠缠协议用于量子传感中的纠缠增强，或利用腔QED实现高保真度量子门以提升量子控制精度。",
+  "english_digest": "## English Guide\n- Problem: How to build a fault-tolerant quantum computing architecture that simultaneously addresses scalability, connectivity, and error correction using cavity QED for deterministic photon-atom entanglement. \n- Method: A compound photonic-atomic platform using ⁸⁷Rb atoms coupled to optical cavities; near-deterministic photon-atom CZ gates; photons for long-range connectivity and atomic reuse for resource efficiency. \n- Main result: State preparation, measurement, and entangling gates on tens-of-nanosecond timescales; photon-loss threshold ~2.6% on the RHG lattice; full Clifford set implementable transversally; two non-Clifford resource-state routes proposed. \n- Relevance: Directly relevant to quantum computing (fault-tolerant architectures, cavity QED, atomic qubits). Moderately relevant to quantum sensing (e.g., atomic clocks, Ramsey interferometry) due to shared atomic control and entanglement techniques. No direct connection to Rydberg atoms, spin squeezing, or Fisher information. \n- Reading priority: High for quantum computing and cavity QED researchers; medium for quantum metrology community. \n- Possible inspiration: The photon-atom entanglement protocols could be adapted for entanglement-enhanced sensing; high-fidelity gate operations may inspire improved quantum control methods for precision measurements.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30385v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30385v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Quantization and Biphoton Statistics of k-Gap Solitons in Nonlinear Photonic Time Crystals",
+  "arXiv_id": "2606.30508v1",
+  "abstract": "Nonlinear photonic time crystals (PTCs) can support solitons inside momentum k gaps, where the amplification of k gap modes is saturated by Kerr nonlinearity, forming spatially homogeneous but temporally localized excitations. Yet their quantum nature remains unclear. Here we quantize nonlinear k gap dynamics of PTCs and show that k gap solitons are represented by biphoton Fock ladder states. K gap amplification drives two-mode squeezing of the biphoton, while Kerr nonlinearity generates an anharmonic potential along the biphoton Fock ladder that balances this squeezing process, creating a finite biphoton number turning point and giving rise to quantum collapse and revival dynamics and nonclassical phase space interference. We further analyze how photon loss and dephasing reshape the biphoton statistics of quantized k gap solitons. Our results establish a biphoton Fock space description of k gap soliton quantization and provide a framework for studying quantum nonlinear excitations and entangled light generation in photonic time crystals.",
+  "authors": [
+    "Liang Zhang",
+    "Chenhao Pan",
+    "Yiming Pan"
+  ],
+  "categories": [
+    "physics.optics",
+    "nlin.PS",
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了非线性光子时间晶体（PTC）中k间隙孤子的量子化问题。作者发现，k间隙孤子可以用双光子Fock阶梯态表示。k间隙放大驱动双光子双模压缩，而克尔非线性沿双光子Fock阶梯产生非简谐势，平衡压缩过程，形成有限的双光子数转折点，并导致量子崩塌与复兴动力学以及非经典相空间干涉。论文还分析了光子损耗和退相干如何重塑量化k间隙孤子的双光子统计特性。该工作建立了k间隙孤子量子化的双光子Fock空间描述，为研究光子时间晶体中的量子非线性激发和纠缠光产生提供了框架。",
+  "chinese_digest": "## 中文导读\n- 研究问题：光子时间晶体中k间隙孤子的量子化及其双光子统计特性。\n- 核心方法：对非线性光子时间晶体中的k间隙动力学进行量子化，利用双光子Fock阶梯态描述孤子，分析双模压缩与克尔非线性的平衡。\n- 主要结果：k间隙孤子表现为双光子Fock阶梯态，存在量子崩塌与复兴动力学和非经典相空间干涉，光子损耗和退相干会改变双光子统计。\n- 与量子精密测量/量子计算的关系：该工作主要关注光子时间晶体中的量子光学和非线性激发，未直接涉及量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱或Fisher信息等方向。其与量子传感的间接联系可能在于双光子纠缠态的产生，但论文未讨论传感应用。\n- 是否值得精读：对于研究光子时间晶体或量子非线性光学的读者有价值；但对于专注于量子精密测量、量子计算或原子物理平台的读者，相关性较低。\n- 对我研究的可能启发：双光子Fock阶梯态的产生机制可能为量子传感中纠缠态制备提供新思路，但需要进一步转化到原子或离子平台。",
+  "english_digest": "## English Guide\n- Problem: Quantization of k-gap solitons in nonlinear photonic time crystals and their biphoton statistics.\n- Method: Quantization of nonlinear k-gap dynamics in photonic time crystals; description of solitons via biphoton Fock ladder states; analysis of balance between two-mode squeezing and Kerr nonlinearity.\n- Main result: k-gap solitons are represented by biphoton Fock ladder states; quantum collapse-revival dynamics and nonclassical phase-space interference; photon loss and dephasing reshape biphoton statistics.\n- Relevance: This paper focuses on quantum optics and nonlinear excitations in photonic time crystals, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The potential indirect relevance to quantum sensing lies in the generation of biphoton entangled states, but the paper does not discuss sensing applications.\n- Reading priority: Low for researchers in quantum metrology, quantum computing, or atomic physics platforms; higher for those interested in photonic time crystals or quantum nonlinear optics.\n- Possible inspiration: The mechanism for generating biphoton Fock ladder states might inspire new approaches to preparing entangled states for quantum sensing, but significant adaptation to atomic or ion platforms would be needed.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30508v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30508v1",
+  "local_pdf_path": ""
+}

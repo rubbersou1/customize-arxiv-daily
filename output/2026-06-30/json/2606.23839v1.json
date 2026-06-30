@@ -1,0 +1,23 @@
+{
+  "title": "Non-adiabatic Effects Induced by Strong Light-Matter Coupling in Cavity QED",
+  "arXiv_id": "2606.23839v1",
+  "abstract": "We present a systematic study of the diagonal Born-Oppenheimer correction (DBOC) for atoms and molecules embedded in optical cavities and interacting with a quantized electromagnetic field. By explicitly evaluating the nuclear kinetic energy operator, we analyze cavity-induced modifications of DBOC within a quantum electrodynamics configuration-interaction (QED-CI) framework built on quantum electrodynamics Hartree-Fock (QED-HF) and strong-coupling quantum electrodynamics Hartree-Fock (SC-QED-HF) reference states. The analysis covers a diverse set of atomic and molecular systems, including He, H-, Be, H2, LiH, HF, ammonia (NH3), and formaldehyde (CH2O). We show that the presence of the cavity leads to shifts in molecular dissociation energies on the order of a few inverse centimeters. For several atomic systems, the inclusion of the DBOC yields a pronounced effect, with the correction magnitude reaching the experimental resolution. These findings reveal finite nuclear mass effects as an essential component of nuclear dynamics in cavity QED and suggest their relevance for precision analysis in strongly coupled light-matter systems.",
+  "authors": [
+    "T. Zalialiutdinov",
+    "D. Solovyev",
+    "J. J. Lopez-Rodriguez",
+    "A. Anikin",
+    "A. Kotov"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "physics.chem-ph"
+  ],
+  "summary": "这篇论文系统研究了腔量子电动力学（Cavity QED）中由强光-物质耦合引起的非绝热效应，具体关注对角玻恩-奥本海默修正（DBOC）。作者在量子电动力学组态相互作用（QED-CI）框架下，基于QED-HF和SC-QED-HF参考态，明确评估了核动能算符，分析了腔对DBOC的修正。研究覆盖了多种原子和分子系统（如He、H-、Be、H2、LiH、HF、NH3、CH2O），发现腔的存在会导致分子解离能发生约几个波数的偏移，对某些原子系统，DBOC的修正幅度可达实验分辨率。这些结果揭示了有限核质量效应在腔QED核动力学中的重要性，并暗示其对强耦合光-物质系统的精密分析具有潜在意义。",
+  "chinese_digest": "## 中文导读\n- 研究问题：腔QED中强光-物质耦合如何影响非绝热核动力学（DBOC）？\n- 核心方法：在QED-CI框架下，利用QED-HF和SC-QED-HF参考态计算DBOC，分析腔对核动能算符的修正。\n- 主要结果：腔导致分子解离能偏移约几个波数，对某些原子系统DBOC修正可达实验分辨率。\n- 与量子精密测量/量子计算的关系：该工作主要关注腔QED中的核动力学修正，与量子精密测量（如量子传感、Fisher信息、自旋压缩）、量子计算（如中性原子、离子阱、Rydberg原子门）无直接关联。其涉及的光-物质强耦合腔系统与Rydberg原子或腔QED传感有间接联系，但论文重点在分子物理而非精密测量或量子信息处理。\n- 是否值得精读：对于关注量子精密测量或量子计算的研究者，相关性较低，建议仅作为背景阅读。\n- 对我研究的可能启发：如果研究涉及腔增强的分子传感或核动力学对精密测量的影响，可参考其DBOC分析方法，但直接启发有限。",
+  "english_digest": "## English Guide\n- Problem: How does strong light-matter coupling in cavity QED affect non-adiabatic nuclear dynamics (DBOC)?\n- Method: Computation of DBOC within a QED-CI framework using QED-HF and SC-QED-HF reference states, analyzing cavity-induced modifications to the nuclear kinetic energy operator.\n- Main result: Cavity-induced shifts in molecular dissociation energies on the order of a few cm⁻¹, with DBOC corrections reaching experimental resolution for some atomic systems.\n- Relevance: This work focuses on nuclear dynamics in cavity QED and is not directly related to quantum precision measurement (e.g., quantum metrology, Fisher information, spin squeezing) or quantum computing (e.g., neutral atoms, trapped ions, Rydberg gates). It has indirect connections to cavity QED sensing but does not address sensing protocols, quantum control, or computational hardware.\n- Reading priority: Low for researchers in quantum metrology or quantum computing; suitable only as background if interested in cavity-modified molecular dynamics.\n- Possible inspiration: The DBOC analysis method may be relevant for cavity-enhanced molecular sensing, but direct applications to quantum precision measurement or quantum computation are limited.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.23839v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.23839v1",
+  "local_pdf_path": ""
+}

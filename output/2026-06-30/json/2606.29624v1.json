@@ -1,0 +1,19 @@
+{
+  "title": "Bright-mode parity synthesis for bosonic state transfer through a single ancilla",
+  "arXiv_id": "2606.29624v1",
+  "abstract": "Bosonic modes provide hardware-efficient quantum memories and logical registers, including highly non-Gaussian encoded states, but transferring finite-dimensional bosonic states through a restricted ancilla interface requires identifying which collective mode is actually controlled. We study a restricted setting in which two oscillators couple with opposite signs to a single two-level ancilla. In the normal-mode basis, the symmetric mode is dark, while transfer between the physical modes is equivalent to synthesizing parity on the antisymmetric bright mode. This reduction gives exact finite-sum transfer formulas for Fock states, Fock-state qubits, and finite Fock superpositions, and explains why resonant single-ancilla transfer is recurrence-limited beyond the single-photon sector. We then show that detuned Jaynes--Cummings evolution provides a native two-parameter route to high-fidelity finite-cutoff parity synthesis, with residual ancilla excitation, calibration sensitivity, and a minimal Markovian noise estimate quantified separately. Bosonic-code examples illustrate how transfer sensitivity is governed by photon-number support and residual bright-mode phase errors. The result provides a practical benchmark and organizing principle for constrained ancilla-mediated bosonic transfer when direct exchange is unavailable or undesirable.",
+  "authors": [
+    "Pradip Laha",
+    "Peter van Loock"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了在受限的辅助比特接口下，两个玻色子模式之间的量子态转移问题。通过将两个振荡器与一个两能级辅助比特耦合（符号相反），作者发现对称模式是暗态，而态转移等价于在反对称的亮模式上合成宇称。论文给出了福克态、福克态量子比特和有限福克叠加态的精确有限和转移公式，并解释了为何在单光子区域外共振单辅助比特转移受限于递归。进一步，论文展示了失谐的Jaynes-Cummings演化提供了一种本征的双参数路径，用于实现高保真度的有限截断宇称合成，并分别量化了残余辅助比特激发、校准敏感度和最小马尔可夫噪声估计。玻色子编码示例说明了转移灵敏度如何受光子数支持和残余亮模式相位误差的影响。该结果为在直接交换不可用或不可取时，受约束的辅助比特介导的玻色子转移提供了实用基准和组织原则。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何通过单个辅助比特实现两个玻色子模式之间的高保真度量子态转移？\n- 核心方法：利用两个振荡器与一个两能级辅助比特的相反符号耦合，将问题简化为在反对称亮模式上合成宇称，并采用失谐Jaynes-Cummings演化实现双参数优化。\n- 主要结果：给出了福克态和有限叠加态的精确转移公式，展示了高保真度宇称合成方案，并分析了噪声和校准误差的影响。\n- 与量子精密测量/量子计算的关系：该工作属于量子控制与量子信息处理的基础研究，与量子计算中的玻色子编码（如cat code、GKP code）和量子传感中的腔QED系统相关，但未直接涉及量子精密测量中的Fisher信息、自旋压缩或Rydberg原子等主题。\n- 是否值得精读：值得精读，特别是对玻色子编码和辅助比特介导的量子态操控感兴趣的读者。\n- 对我研究的可能启发：可能启发在腔QED或离子阱系统中利用类似机制实现量子态转移或纠缠生成，但需结合具体实验平台评估。",
+  "english_digest": "## English Guide\n- Problem: How to achieve high-fidelity quantum state transfer between two bosonic modes via a single ancilla qubit?\n- Method: Exploit opposite-sign coupling of two oscillators to a two-level ancilla, reducing the problem to parity synthesis on the antisymmetric bright mode, and use detuned Jaynes-Cummings evolution for two-parameter optimization.\n- Main result: Exact finite-sum transfer formulas for Fock states and superpositions, a high-fidelity parity synthesis scheme, and quantification of residual ancilla excitation, calibration sensitivity, and Markovian noise.\n- Relevance: The work is foundational for quantum control and bosonic quantum information processing, with indirect relevance to quantum computing (bosonic codes) and cavity QED, but not directly to quantum metrology, spin squeezing, Rydberg atoms, or Fisher information.\n- Reading priority: Recommended for those interested in bosonic codes and ancilla-mediated quantum operations.\n- Possible inspiration: May inspire similar transfer or entanglement schemes in cavity QED or trapped-ion systems, but requires experimental platform-specific evaluation.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29624v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29624v1",
+  "local_pdf_path": ""
+}

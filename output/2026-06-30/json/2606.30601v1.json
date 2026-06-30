@@ -1,0 +1,21 @@
+{
+  "title": "Provably Efficient Learning of Fermionic Correlations under Particle-Number Symmetry",
+  "arXiv_id": "2606.30601v1",
+  "abstract": "Predicting local fermionic correlations is a central task in quantum many-body physics, as these correlations encode many physically relevant local observables. The ubiquitous particle-number symmetry imposes strong structural constraints on quantum states, suggesting that local correlations should be learned with fewer samples than by symmetry-agnostic approaches. However, it has remained unclear whether such a provable advantage exists in collective learning of local correlations. Here, we develop a framework of number-conserving fermionic-shadow tomography based on random orbital rotations. We prove that, for every given order $k$, we can simultaneously estimate {\\it all} $k$-body fermionic correlations of an $N$-mode $η$-particle state with a given variance $\\varepsilon^2$ using only $O_k(η^k/\\varepsilon^2)$ samples, which are independent of the system size $N$. We further establish a matching information-theoretic lower bound $Ω_k(η^k/\\varepsilon^2)$ for any adaptive protocol based on single-copy measurements, showing that the $(η^k,\\varepsilon)$-dependence is optimal up to constants depending only on $k$. Furthermore, our numerical calculation shows that the proposal reduces the query count by roughly an order of magnitude compared with state-of-the-art methods for one-body correlation estimation in a system of $N=100$, $η=20$ at $\\varepsilon=10^{-2}$. This work establishes a provably efficient advantage of particle-number symmetry for fermionic observables estimation.",
+  "authors": [
+    "Yuki Koizumi",
+    "Kaito Wada",
+    "Toshinori P. Takama",
+    "Nobuyuki Yoshioka"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "本文提出了一种基于粒子数守恒的费米子阴影层析框架，利用随机轨道旋转来高效学习费米子关联。作者证明，对于N模式η粒子态，同时估计所有k体费米子关联所需的样本数为O_k(η^k/ε^2)，与系统大小N无关，并证明了该下界Ω_k(η^k/ε^2)是最优的。数值实验显示，在N=100、η=20、ε=10^{-2}时，该方法比现有技术减少约一个数量级的查询次数。该工作展示了粒子数对称性在费米子可观测量估计中的可证明高效优势。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在粒子数对称性约束下高效学习费米子关联，减少样本复杂度。\n- 核心方法：基于随机轨道旋转的费米子阴影层析，利用粒子数守恒结构设计测量协议。\n- 主要结果：证明k体关联的样本复杂度为O_k(η^k/ε^2)，与系统大小N无关，并达到信息论下界。\n- 与量子精密测量/量子计算的关系：该论文主要关注费米子量子多体系统的关联估计，与量子精密测量中的费米子传感、量子计算中的费米子模拟有一定关联，但未直接涉及量子度量学、自旋压缩、Rydberg原子、中性原子量子计算、离子阱、原子钟、Ramsey干涉、腔QED、光镊、量子控制、量子门、微波传感等具体方向。\n- 是否值得精读：对于专注于费米子量子多体系统或量子阴影层析的研究者可能值得精读，但对于本兴趣领域（量子精密测量、量子计算实验平台）的直接相关性较低。\n- 对我研究的可能启发：粒子数对称性在减少样本复杂度方面的思想可能启发类似技术在自旋压缩或原子干涉中的对称性利用，但需要进一步转化。",
+  "english_digest": "## English Guide\n- Problem: How to efficiently learn fermionic correlations under particle-number symmetry with reduced sample complexity.\n- Method: Fermionic shadow tomography based on random orbital rotations, leveraging particle-number conservation for measurement design.\n- Main result: Sample complexity O_k(η^k/ε^2) for all k-body correlations, independent of system size N, with matching information-theoretic lower bound.\n- Relevance: This paper focuses on fermionic quantum many-body systems and shadow tomography. It does not directly address quantum precision measurement, quantum sensing, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, Ramsey interferometry, atom interferometry, cavity QED, optical tweezers, quantum control, quantum gates, or microwave sensing. Its connection to the specified research interests is peripheral.\n- Reading priority: Low for researchers primarily interested in quantum metrology, quantum sensing, or quantum computing platforms. May be relevant for those working on fermionic systems or shadow tomography.\n- Possible inspiration: The idea of exploiting symmetry to reduce sample complexity could potentially be adapted to spin squeezing or atom interferometry, but this is not directly explored.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30601v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30601v1",
+  "local_pdf_path": ""
+}

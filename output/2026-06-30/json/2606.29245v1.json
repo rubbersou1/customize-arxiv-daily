@@ -1,0 +1,23 @@
+{
+  "title": "QmDFT for Polycyclic Aromatics: Balancing Embedding Ground-State Fidelity and Experimental Gap Estimation",
+  "arXiv_id": "2606.29245v1",
+  "abstract": "Quantum Embedding density functional theory (QmDFT) embedding offers a highly scalable approach to improve treatment for large highly correlated pi conjugated systems. However, estimating advanced electronic structure properties in polycyclic aromatic hydrocarbons (PAHs) needs advanced exchange correlation functionals that frequently trigger convergence instabilities during the embedding cycle.\n  In this work, we introduce an adaptive damping and direct inversion in the iterative subspace (DIIS) accelerated protocol that stabilizes the embedding procedure, enabling robust integration of hybrid functionals like B3LYP and CAM B3LYP. Using 10 selected PAHs (linear and fused) molecules as a benchmark. We demonstrate a clear functional-dependent ground-state energetics and frontier-orbital gap estimation. While LDA based approaches yield near-quantitative agreement with FCI in DFT reference energies and is further supported by thermochemical isomerization benchmarks, while B3LYP provide significantly improved agreement with experimental E0-0 transition values. This mapping allows us to bypass explicit excited-state calculations for E0 0 values, thereby significantly reducing computational overhead.\n  Among the hybrid functionals screened, CAM B3LYP offers a balanced overall performance. Our results establish a stable QmDFT framework and provide useful guidance for functional selection for quantum embedding studies of PAHs and related low-dimensional pi-conjugated materials.",
+  "authors": [
+    "N. Manglani",
+    "Tejjan Arora",
+    "Samrit Maity",
+    "Ranjit Thapa",
+    "Shashank Sharma",
+    "Sanjay Wandhekar"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "这篇论文提出了一种自适应阻尼和DIIS加速的量子嵌入密度泛函理论（QmDFT）协议，用于稳定多环芳烃（PAHs）的嵌入计算。通过比较LDA、B3LYP和CAM B3LYP等泛函，发现LDA在基态能量上接近FCI参考值，而B3LYP能更好地估计实验E0-0跃迁值。CAM B3LYP在整体性能上表现平衡。该工作为PAHs及相关低维π共轭材料的量子嵌入研究提供了泛函选择指导。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何稳定地使用量子嵌入DFT计算多环芳烃的电子结构，并选择合适的交换相关泛函。\n- 核心方法：自适应阻尼和DIIS加速协议，结合LDA、B3LYP、CAM B3LYP等泛函进行基准测试。\n- 主要结果：LDA在基态能量上表现最佳，B3LYP在实验跃迁能估计上最优，CAM B3LYP整体平衡。\n- 与量子精密测量/量子计算的关系：该论文属于量子化学和计算材料科学领域，与量子精密测量（如量子计量学、Fisher信息）、量子传感、Rydberg原子、中性原子量子计算、离子阱、自旋压缩等方向无直接关联。它不涉及量子控制、量子门、误差缓解或量子硬件平台。\n- 是否值得精读：不推荐精读，除非研究兴趣涉及量子化学中的嵌入方法或PAHs的电子结构。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to stabilize quantum embedding DFT calculations for polycyclic aromatic hydrocarbons (PAHs) and select appropriate exchange-correlation functionals.\n- Method: Adaptive damping and DIIS accelerated protocol, benchmarking LDA, B3LYP, and CAM B3LYP functionals.\n- Main result: LDA yields best ground-state energy agreement with FCI; B3LYP best estimates experimental E0-0 transitions; CAM B3LYP offers balanced overall performance.\n- Relevance: This paper belongs to quantum chemistry and computational materials science. It has no direct connection to quantum precision measurement, quantum sensing, quantum Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, Ramsey interferometry, atom interferometry, cavity QED, optical tweezers, quantum control, quantum gates, or microwave sensing using Rydberg systems.\n- Reading priority: Not recommended unless your focus is on quantum embedding methods or electronic structure of PAHs.\n- Possible inspiration: None for the specified research areas.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29245v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29245v1",
+  "local_pdf_path": ""
+}

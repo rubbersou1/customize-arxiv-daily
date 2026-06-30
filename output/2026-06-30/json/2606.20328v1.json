@@ -1,0 +1,23 @@
+{
+  "title": "Effective Faraday interaction between light and Helium-3 nuclear spins in a multi-pass cell",
+  "arXiv_id": "2606.20328v1",
+  "abstract": "Helium-3 nuclear spins form an exceptionally stable quantum system with extremely long coherence time, offering exciting opportunities for quantum technologies. In particular, nuclear spin-squeezed states promise enhanced precision for sensing tasks and tests of new physics. A central challenge for all these applications is the realization of a controllable light-nuclear spin interface. Here we experimentally demonstrate such an interface by exploiting metastability-exchange collisions in a low-pressure helium-3 gas cell at room temperature. A radio-frequency discharge produces a small population of metastable atoms that both enables efficient optical pumping and mediates an effective Faraday interaction between the collective nuclear spin and an optical probe. We quantitatively characterize the strength of this interaction as a function of the nuclear polarization, applied magnetic field, and probe-beam parameters. Moreover, we show that using a multi-pass cell enhances this interaction by effectively increasing the optical depth. Extrapolating to a tenfold increase of the probe power used in the present experiment, we project a measurement-induced squeezing rate of 0.52 s$^{-1}$. Our results provide a practical pathway for optical access to helium-3 nuclear spins and open prospects for generating long-lived, macroscopic nuclear spin-squeezed states for quantum metrology.",
+  "authors": [
+    "Kaiwen Yi",
+    "Yida Sha",
+    "Zejia Lin",
+    "Matteo Fadel",
+    "Xiang Peng"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文实验演示了在多通池中利用亚稳态交换碰撞实现光与氦-3核自旋之间的有效法拉第相互作用。通过射频放电产生少量亚稳态原子，既实现了高效光泵浦，又介导了集体核自旋与光探针之间的相互作用。实验定量表征了相互作用强度与核极化、磁场和探针参数的关系，并展示了多通池通过增加光学深度增强相互作用。外推到更高探针功率时，预测可获得0.52 s^{-1}的测量诱导自旋压缩速率。该工作为光学访问氦-3核自旋提供了实用途径，并为生成用于量子计量学的长寿命宏观核自旋压缩态开辟了前景。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何实现光与氦-3核自旋的有效界面，以生成核自旋压缩态用于量子精密测量。\n- 核心方法：利用室温低压氦-3气体池中的亚稳态交换碰撞，结合多通池增强光学深度，实现有效法拉第相互作用。\n- 主要结果：定量表征了相互作用强度，预测在更高探针功率下测量诱导压缩速率可达0.52 s^{-1}。\n- 与量子精密测量/量子计算的关系：直接相关于量子传感和量子计量学，特别是自旋压缩态的生成，这是提高量子传感精度的关键技术；与中性原子量子计算平台（如光镊中原子阵列）中的自旋压缩和量子控制相关。\n- 是否值得精读：是。该实验方法新颖，可直接应用于长寿命核自旋系统的量子增强传感。\n- 对我研究的可能启发：可借鉴其多通池增强相互作用的思路，应用于其他原子系统（如里德伯原子、离子阱）的光-自旋界面设计；其自旋压缩速率预测方法可用于评估其他平台的量子增强潜力。",
+  "english_digest": "## English Guide\n- Problem: How to realize an efficient light-nuclear spin interface to generate nuclear spin-squeezed states for quantum precision measurement.\n- Method: Exploiting metastability-exchange collisions in a low-pressure helium-3 gas cell at room temperature, combined with a multi-pass cell to increase optical depth, enabling effective Faraday interaction.\n- Main result: Quantitative characterization of interaction strength; extrapolated measurement-induced squeezing rate of 0.52 s^{-1} at higher probe power.\n- Relevance: Directly relevant to quantum sensing, quantum metrology, and spin squeezing—a key technique for enhancing sensitivity. Also relevant to neutral-atom quantum computing platforms (e.g., optical tweezers arrays) where spin squeezing and quantum control are essential. Not directly related to Rydberg atoms, trapped ions, or Fisher information, but the methodology for generating squeezed states is broadly applicable.\n- Reading priority: High. Offers a practical experimental pathway for long-lived nuclear spin squeezed states with clear metrological applications.\n- Possible inspiration: The multi-pass cell enhancement approach could be adapted to other systems (e.g., Rydberg atoms, trapped ions) for improved light-matter interfaces; the squeezing rate estimation method provides a benchmark for evaluating quantum-enhanced sensing in other platforms.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.20328v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.20328v1",
+  "local_pdf_path": ""
+}

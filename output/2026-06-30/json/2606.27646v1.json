@@ -1,0 +1,21 @@
+{
+  "title": "VLM-Aware Meta-Optic Front-End Design for Frozen Vision-Language Models",
+  "arXiv_id": "2606.27646v1",
+  "abstract": "Conventional machine-vision pipelines typically rely on high-quality optics that produce clean, human-interpretable images, and optical design has therefore been driven by image-level criteria such as resolution, aberration correction, and pixel fidelity. However, such optics are often impractical for size-, cost-, or form-factor-constrained applications, where compact meta-optics offer an attractive alternative but operate under strict physical efficiency limits. We propose CODA, a co-design framework that optimizes a continuous-density meta-optic front-end for frozen-model recognition using differentiable image formation and adjoint-gradient updates of Maxwell-based simulations. CODA directly optimizes the cross-entropy loss of a fixed zero-shot CLIP classifier without learned reconstruction, image signal processing, or image-fidelity auxiliary objectives. In a two-dimensional simulated imaging benchmark on ImageNet-100, CODA improves CLIP ViT-L/14 zero-shot accuracy from 53.75 $\\pm$ 3.57$\\%$ with a focal-concentration baseline to 65.41 $\\pm$ 3.99$\\%$. The optimized optics further transfer without re-optimization across CLIP, SigLIP, and DINOv2 on ImageNet-100, CIFAR-100, and Food-101. These results demonstrate that, under constrained meta-optic imaging, downstream recognition can be improved by aligning optical design with frozen vision-model objectives rather than conventional image-formation criteria.",
+  "authors": [
+    "Chanik Kang",
+    "Raphaël Pestourie",
+    "Haejun Chung"
+  ],
+  "categories": [
+    "cs.CV",
+    "physics.optics"
+  ],
+  "summary": "这篇论文提出了一种名为CODA的协同设计框架，用于优化用于冻结视觉语言模型（如CLIP）的连续密度超构光学前端。该框架通过可微分的成像模型和基于麦克斯韦模拟的伴随梯度更新，直接优化分类器的交叉熵损失，而不依赖传统的图像质量指标。在ImageNet-100基准测试中，该方法将CLIP ViT-L/14的零样本准确率从53.75%提升至65.41%，并且优化后的光学元件无需重新优化即可迁移到其他视觉模型和数据集上。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在尺寸受限的应用中，通过优化超构光学前端来提高冻结视觉语言模型的识别性能？\n- 核心方法：提出CODA框架，将超构光学设计与下游任务（分类）的损失函数直接耦合，利用可微分成像和伴随梯度法进行端到端优化。\n- 主要结果：在ImageNet-100上，零样本准确率提升超过10个百分点，且优化后的光学元件可跨模型和数据集迁移。\n- 与量子精密测量/量子计算的关系：该论文属于计算机视觉和光学设计领域，与量子传感、量子计量学、量子计算等方向无直接关联。文中未涉及量子Fisher信息、自旋压缩、Rydberg原子、中性原子量子计算、离子阱、原子钟等任何量子技术核心概念。\n- 是否值得精读：对于量子精密测量或量子计算研究者，不建议精读，除非关注经典光学优化方法对量子光学系统的潜在迁移。\n- 对我研究的可能启发：无直接启发。但其中的可微分光学设计思路或许可类比于量子控制中的梯度优化方法，不过关联性极弱。",
+  "english_digest": "## English Guide\n- Problem: How to optimize meta-optic front-ends for frozen vision-language models under size-constrained conditions?\n- Method: CODA, a co-design framework that directly optimizes the cross-entropy loss of a frozen classifier via differentiable imaging and adjoint-gradient Maxwell simulations.\n- Main result: Zero-shot accuracy on ImageNet-100 improved from 53.75% to 65.41%, with transferability to other models and datasets.\n- Relevance: This paper belongs to computer vision and optical design, with no connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It does not address any quantum metrology or quantum computing topics.\n- Reading priority: Not recommended for researchers in quantum sensing or quantum computing.\n- Possible inspiration: Minimal; the differentiable optimization approach might be loosely analogous to gradient-based quantum control, but the link is very weak.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27646v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27646v1",
+  "local_pdf_path": ""
+}

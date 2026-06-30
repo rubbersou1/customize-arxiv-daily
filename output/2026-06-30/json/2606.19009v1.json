@@ -1,0 +1,24 @@
+{
+  "title": "Observation of anyonic thermodynamics and generalized Pauli principle",
+  "arXiv_id": "2606.19009v1",
+  "abstract": "Anyons are quasiparticles with quantum statistics interpolating between those of bosons and fermions. Two distinct manifestations of anyonic behaviour have been theoretically established: fractional exchange statistics where particle exchange can produce any phase, and generalized exclusion statistics which extends the Pauli exclusion principle. While anyons exhibiting fractional exchange statistics have been observed in diverse platforms, experimental realizations of generalized exclusion statistics and direct measurements of its thermodynamic signatures have remained elusive. Here, we realize an anyonic thermodynamic ensemble obeying generalized exclusion statistics and detect its anyonic thermodynamics in a one-dimensional strongly interacting quantum gas. To achieve this, we exploit the bijective mapping between dynamical and statistical interactions in one dimension. By tuning interaction strength and temperature over a wide range, we measure the equation of state and identify clear departures from Bose-Einstein and Fermi-Dirac statistics. These deviations are quantitatively captured by generalized exclusion statistics, providing direct evidence for the generalized Pauli principle. Independent probes of other thermodynamic quantities including pressure and the Tan contact further validate this framework. Our results establish a versatile platform for engineering anyonic exclusion statistics and open the door to thermodynamic applications of anyons in quantum technologies.",
+  "authors": [
+    "Fansu Wei",
+    "Chi Zhang",
+    "Zimeng Ye",
+    "Dengbo Wang",
+    "Botao Wang",
+    "Xiaoji Zhou",
+    "Hepeng Yao"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "该论文报道了在一维强相互作用量子气体中，首次实验实现了服从广义排除统计的任意子热力学系综，并通过测量状态方程、压力等热力学量，直接观测到了与玻色-爱因斯坦和费米-狄拉克统计的显著偏离，为广义泡利原理提供了直接证据。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在实验中实现并观测任意子的广义排除统计及其热力学特征？\n- 核心方法：利用一维强相互作用量子气体中动力学相互作用与统计相互作用的双射映射，通过调控相互作用强度和温度，测量状态方程等热力学量。\n- 主要结果：观测到与标准量子统计（Bose/Fermi）的偏离，被广义排除统计定量描述，证实了广义泡利原理。\n- 与量子精密测量/量子计算的关系：该工作主要关注任意子统计和热力学，与量子精密测量（如量子费希尔信息、自旋压缩）或量子计算（如中性原子门、离子阱）无直接关联。但任意子统计在拓扑量子计算中具有潜在重要性，不过本文未涉及具体量子传感或计算平台。\n- 是否值得精读：对于量子统计和任意子领域的研究者值得精读，但若专注于量子精密测量或量子计算硬件，相关性较低。\n- 对我研究的可能启发：可启发对多体系统中统计效应的理解，但直接应用于量子传感或量子门设计较为间接。",
+  "english_digest": "## English Guide\n- Problem: How to experimentally realize and observe anyonic generalized exclusion statistics and their thermodynamic signatures?\n- Method: Utilizing a bijective mapping between dynamical and statistical interactions in a 1D strongly interacting quantum gas, tuning interaction strength and temperature, and measuring thermodynamic quantities like equation of state.\n- Main result: Clear deviations from Bose-Einstein and Fermi-Dirac statistics were observed, quantitatively captured by generalized exclusion statistics, providing direct evidence for the generalized Pauli principle.\n- Relevance: This work focuses on anyonic statistics and thermodynamics, with no direct connection to quantum metrology (e.g., Fisher information, spin squeezing), quantum sensing, or quantum computing platforms (e.g., neutral atoms, trapped ions, Rydberg atoms). It may have indirect relevance to topological quantum computing, but is not focused on the specific topics of interest.\n- Reading priority: Low priority for researchers focused on quantum precision measurement or quantum computing hardware; high priority for those interested in anyons and quantum statistics.\n- Possible inspiration: Could inspire understanding of statistical effects in many-body systems, but direct applications to quantum sensing or gate design are limited.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.19009v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.19009v1",
+  "local_pdf_path": ""
+}

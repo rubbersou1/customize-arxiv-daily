@@ -1,0 +1,19 @@
+{
+  "title": "Unidirectional Guided Resonances Enabled by Competing Fourier Harmonics near the Fourth Stop Band",
+  "arXiv_id": "2606.27920v2",
+  "abstract": "Unidirectional guided resonances (UGRs) have attracted considerable attention owing to their remarkable ability to radiate exclusively in one direction from single-layer planar photonic lattices without metallic components. Conventionally, UGRs have been understood to require either broken in-plane $C_2$ symmetry or interband coupling between distinct modes. Here, a new mechanism for realizing UGRs is presented, in which out-of-plane radiation near the fourth stop band is mediated by two distinct channels associated with the first and second Fourier harmonics. When the radiation components from the first and second Fourier harmonics cancel each other out in both the upward and downward directions, nonradiative bound states in the continuum emerge. By contrast, UGRs arise when such cancellation occurs only in one direction. By tuning the lattice parameters, the positions of these UGRs can be controlled, allowing them to merge at the $Γ$ point. The two-channel radiation-cancellation model enables UGRs without relying on in-plane symmetry breaking or interband coupling, thereby relaxing lithographic constraints and simplifying device design. It also provides a useful framework for controlling topological singular states in higher-order photonic bands.",
+  "authors": [
+    "Sun-Goo Lee",
+    "Wook-Jae Lee"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "这篇论文提出了一种实现单向导引共振的新机制。传统的单向导引共振通常需要打破面内C2对称性或依赖不同模式间的带间耦合。本文发现，在光子晶体的第四带隙附近，通过第一和第二傅里叶谐波两个通道的辐射，可以实现单向辐射。当两个通道的辐射在上下方向都抵消时，形成非辐射的连续谱束缚态；而当抵消只发生在一个方向时，则产生单向导引共振。通过调节晶格参数，可以控制共振位置，甚至使其在Γ点合并。这种双通道辐射抵消模型无需对称性破缺或带间耦合，简化了器件设计。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在光子晶体中实现单向导引共振，而不依赖对称性破缺或带间耦合。\n- 核心方法：利用第一和第二傅里叶谐波两个通道的辐射相互抵消，在第四带隙附近产生单向共振。\n- 主要结果：提出了一种新的双通道辐射抵消机制，实现了可调谐的单向导引共振，且可通过参数调控使共振在Γ点合并。\n- 与量子精密测量/量子计算的关系：本文主要属于光子学与拓扑光学领域，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向没有直接关联。它可能间接影响基于光子晶体的量子光源或量子接口的设计，但并非核心方向。\n- 是否值得精读：对于专注量子测量或量子计算的研究者，相关性较低，不建议精读。\n- 对我研究的可能启发：如果涉及光子晶体中的光-物质相互作用或量子光学接口，该机制可能提供一种控制辐射方向的新思路，但总体启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to achieve unidirectional guided resonances in photonic crystals without relying on symmetry breaking or interband coupling.\n- Method: Utilizing two-channel radiation cancellation from the first and second Fourier harmonics near the fourth stop band.\n- Main result: A new mechanism for unidirectional guided resonances is proposed, which are tunable and can merge at the Γ point.\n- Relevance: This paper belongs to photonics and topological optics. It has low direct relevance to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It may have indirect implications for photonic-crystal-based quantum light sources or quantum interfaces, but it is not central to these fields.\n- Reading priority: Low for researchers focused on quantum metrology or quantum computing.\n- Possible inspiration: If your work involves light-matter interaction in photonic crystals or quantum optical interfaces, this mechanism could offer a new way to control radiation direction, but the inspiration is limited.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27920v2",
+  "arxiv_url": "http://arxiv.org/abs/2606.27920v2",
+  "local_pdf_path": ""
+}

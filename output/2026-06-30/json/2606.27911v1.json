@@ -1,0 +1,26 @@
+{
+  "title": "Quantum frequency comb with pump-selectable bin pairing and extraction-aware loading in a lithium niobate microresonator",
+  "arXiv_id": "2606.27911v1",
+  "abstract": "Integrated quantum photonics requires bright, high-fidelity photon-pair sources capable of spectral multiplexing, correlation control, and circuit-compatible extraction. Cavity-enhanced spontaneous parametric down-conversion (SPDC) enhances pair generation, but triply resonant operation imposes stringent pump-signal-idler spectral-alignment constraints. Moreover, the trade-off between intrinsic generation and coincidence-to-accidental ratio (CAR) does not capture the usable output flux, which depends on photon extraction. Here, we demonstrate a single-pass-pumped, resonator-enhanced quantum frequency comb (QFC) source based on a periodically poled lithium niobate photonic-crystal Fabry-P$é$rot microresonator. The device yields intrinsic and loaded brightnesses of 69.9 and 1.88 MHz/$μ$W, respectively, and a maximum CAR of 16,000. Frequency-resolved measurements reveal 461 cavity-defined bins spanning 1495-1570 nm, and loaded spectral brightness approaching 4.29$\\times$10${}^9$ pairs/(s$\\cdot$mW$\\cdot$nm). In particular, tuning the single-pass pump deterministically selects correlated frequency-bin pairings within the fixed QFC grid while preserving brightness and pairwise coincidence rates. We further separate intrinsic generation from output photon-pair flux, revealing the loaded-brightness-CAR relation. Together, pump-selectable bin pairing and extraction-aware loading point to tailored SPDC QFCs as chip-integrated nonclassical light resources for multiphoton-interference quantum simulation and programmable frequency-bin quantum information processing.",
+  "authors": [
+    "Mohamad Reza Nurrahman",
+    "Hyeon Hwang",
+    "Nuri Han",
+    "Guhwan Kim",
+    "Hong-Seok Kim",
+    "Kiwon Moon",
+    "Jung Jin Ju",
+    "Hansuek Lee",
+    "Min-Kyo Seo"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "本文报道了一种基于周期性极化铌酸锂光子晶体法布里-珀罗微谐振器的量子频率梳源，采用单次泵浦、谐振增强的自发参量下转换（SPDC）产生光子对。该器件实现了69.9 MHz/μW的固有亮度和1.88 MHz/μW的加载亮度，最大符合-意外比率（CAR）为16,000。频率分辨测量显示了461个腔定义频率箱，覆盖1495-1570 nm，加载光谱亮度接近4.29×10^9对/(s·mW·nm)。特别地，通过调谐单次泵浦，可以在固定QFC网格内确定性地选择相关频率箱配对，同时保持亮度和符合率。作者还区分了内在生成和输出光子对通量，揭示了加载亮度与CAR的关系。这项工作为芯片集成的非经典光源用于多光子干涉量子模拟和可编程频率箱量子信息处理提供了新途径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何实现高亮度、高保真度、可调谐的芯片集成量子频率梳光源，用于光子对生成和频率箱量子信息处理。\n- 核心方法：在周期性极化铌酸锂光子晶体微谐振器中，利用单次泵浦的谐振增强SPDC过程，通过调谐泵浦波长选择频率箱配对，并区分内在生成与可提取光子通量。\n- 主要结果：实现了69.9 MHz/μW的固有亮度和1.88 MHz/μW的加载亮度，CAR达16,000，461个频率箱覆盖1495-1570 nm，泵浦可调谐选择配对。\n- 与量子精密测量/量子计算的关系：该工作主要面向量子光子学和量子信息处理，而非直接针对量子精密测量、量子传感、原子物理或离子阱系统。它涉及光子对生成和频率箱操作，与量子计算中的光子接口相关，但与量子计量学、Rydberg原子、自旋压缩、中性原子、离子阱、原子钟、Fisher信息等核心主题无直接联系。\n- 是否值得精读：如果您的研究方向是集成量子光子学或频率箱量子信息处理，则值得精读；但若专注于量子精密测量、原子传感或量子计算硬件（如中性原子、离子阱），则相关性较低。\n- 对我研究的可能启发：该工作中的泵浦可调谐配对和提取感知加载概念，可能启发在原子或离子系统中实现类似频率域控制，或为量子网络中的光子-物质接口提供光源方案。",
+  "english_digest": "## English Guide\n- Problem: How to realize a bright, high-fidelity, tunable chip-integrated quantum frequency comb source for photon-pair generation and frequency-bin quantum information processing.\n- Method: Single-pass-pumped, resonator-enhanced SPDC in a periodically poled lithium niobate photonic-crystal Fabry-Pérot microresonator, with pump-tunable bin pairing and extraction-aware loading characterization.\n- Main result: Intrinsic brightness 69.9 MHz/μW, loaded brightness 1.88 MHz/μW, maximum CAR 16,000, 461 bins covering 1495-1570 nm, pump-selectable bin pairing.\n- Relevance: This work is primarily in integrated quantum photonics and frequency-bin quantum information processing, with no direct connection to quantum metrology, quantum sensing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, atomic clocks, or Fisher information. It may be tangentially relevant to quantum computing via photonic interfaces, but the core topics of interest are not addressed.\n- Reading priority: Low for researchers focused on quantum precision measurement, atomic sensors, or trapped-ion/neutral-atom quantum computing. Moderate for those interested in photonic quantum computing or quantum networks.\n- Possible inspiration: The concept of pump-selectable bin pairing and extraction-aware loading might inspire new frequency-domain control methods in atom/ion systems, or provide a light source for quantum memory interfaces.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27911v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27911v1",
+  "local_pdf_path": ""
+}

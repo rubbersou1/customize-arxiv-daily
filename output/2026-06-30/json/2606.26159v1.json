@@ -1,0 +1,21 @@
+{
+  "title": "Microparticles manipulation with a three-dimensional closed optical trap",
+  "arXiv_id": "2606.26159v1",
+  "abstract": "Gaussian optical tweezers have strong phototoxicity to bioactive substances and it is difficult to achieve capture and manipulation of multiple particles. Moreover, vortex optical tweezers face several challenges, such as weak axial confinement and dependence on complex optical elements like a spatial light modulator (SLM). Therefore, we design and construct a novel three-dimensional (3D) \"optical spindle trap\" (OST) system that does not require a SLM. By employing intracavity mode modulation and a simple extra-cavity lens modulation, we generate a fully enclosed 3D dark potential well with zero central intensity. Experimental results demonstrate that the system achieves stable trapping of single or multiple micrometer-sized particles with excellent 3D confinement and enables the trapping of mouse hepatocytes under low-power conditions. The system exhibits high physical stability. Its closed dark-field structure can also reduce phototoxic damage to biological samples. Furthermore, the dimensions of the optical trap can be flexibly tuned to suit various application scenarios. This study provides a novel, highly efficient, gentle, and low-cost optical trap platform for biomedicine and micro/nanoscale manipulation.",
+  "authors": [
+    "Chunyu Zhang",
+    "Xinran Fang",
+    "Pengcheng Mao",
+    "Dongxu Zhao"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "这篇论文设计并构建了一种无需空间光调制器的新型三维“光学纺锤陷阱”系统，通过腔内模式调制和简单的腔外透镜调制，产生中心强度为零的全封闭三维暗势阱。实验表明，该系统能够稳定捕获单个或多个微米级粒子，具有优异的三维限制能力，并在低功率条件下捕获小鼠肝细胞，同时降低光毒性损伤。光学陷阱的尺寸可灵活调节，为生物医学和微纳米操作提供了一种高效、温和且低成本的平台。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何构建一种简单、低光毒性、能稳定捕获和操纵多个微粒的三维光学陷阱？\n- 核心方法：利用腔内模式调制和腔外透镜调制，产生全封闭的三维暗势阱（光学纺锤陷阱），无需空间光调制器。\n- 主要结果：系统成功捕获单/多个微米粒子及小鼠肝细胞，具有良好的三维限制和物理稳定性，光毒性低，陷阱尺寸可调。\n- 与量子精密测量/量子计算的关系：本文主要关注生物医学中的微粒操纵，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。其光学陷阱技术虽可用于中性原子或离子的捕获，但论文未涉及量子态操控、量子信息处理或量子度量学核心概念。\n- 是否值得精读：不值得精读，因为与指定研究领域关联度极低。\n- 对我研究的可能启发：几乎无直接启发。若未来考虑将光学陷阱用于中性原子阵列的构建，该文提供了一种低成本的暗势阱方案，但需结合量子控制技术才能应用于量子计算或量子传感。",
+  "english_digest": "## English Guide\n- Problem: How to construct a simple, low-phototoxicity optical trap that can stably capture and manipulate multiple microparticles in three dimensions?\n- Method: An intracavity mode modulation and simple extra-cavity lens modulation generate a fully enclosed three-dimensional dark potential well (optical spindle trap) without a spatial light modulator.\n- Main result: The system stably traps single/multiple micrometer-sized particles and mouse hepatocytes with excellent 3D confinement, low phototoxicity, and tunable trap size.\n- Relevance: This paper focuses on biomedical particle manipulation and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. While the optical trap technique could potentially be used for trapping neutral atoms or ions, the paper does not address quantum state control, quantum information processing, or quantum metrology.\n- Reading priority: Not recommended, as relevance to the specified research areas is very low.\n- Possible inspiration: Minimal direct inspiration. If one considers building optical traps for neutral atom arrays in the future, this work offers a low-cost dark-trap design, but quantum control techniques would need to be integrated for applications in quantum computing or quantum sensing.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26159v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26159v1",
+  "local_pdf_path": ""
+}

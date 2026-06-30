@@ -1,0 +1,21 @@
+{
+  "title": "Two-Dimensional Method-of-Moments Analysis of TMz and TEz Scattering from PEC Cylinders",
+  "arXiv_id": "2606.29000v1",
+  "abstract": "This paper presents a two-dimensional method-of-moments (MoM) solver for electromagnetic scattering from infinitely long perfectly electrically conducting (PEC) cylinders. Both TMz and TEz polarizations are considered. Starting from the scalar Helmholtz equation, the electric field integral equation (EFIE) is derived for TMz scattering and the magnetic field integral equation (MFIE) is derived for TEz scattering. The induced surface current on the PEC boundary is expanded using pulse basis functions, and the boundary integral equations are discretized using point matching at the segment centers. Circular cylinders with radii $R = λ$ and $R = 2λ$ are used as validation cases because analytical series solutions are available. The MoM-computed surface currents, total near fields, scattered near fields, and field-error distributions are compared against the analytical solutions. After validation, the same solver is applied to a square PEC cylinder, for which no simple closed-form analytical solution is used. The results show strong agreement between the MoM and analytical circular-cylinder solutions and demonstrate the geometry-dependent scattering behavior of the square cylinder.",
+  "authors": [
+    "Sabrina Saima"
+  ],
+  "categories": [
+    "eess.SP",
+    "math.NA",
+    "physics.comp-ph",
+    "physics.optics"
+  ],
+  "summary": "本文提出了一种二维矩量法（MoM）求解器，用于分析无限长完美导电（PEC）圆柱体的电磁散射问题，涵盖了TMz和TEz两种极化模式。从标量亥姆霍兹方程出发，推导了TMz散射的电场积分方程（EFIE）和TEz散射的磁场积分方程（MFIE）。采用脉冲基函数展开PEC边界上的感应表面电流，并通过点匹配法在段中心离散边界积分方程。以半径R=λ和R=2λ的圆形圆柱体作为验证案例，将MoM计算的表面电流、总近场、散射近场和场误差分布与解析解进行了对比。验证后，将同一求解器应用于方形PEC圆柱体，展示了与几何相关的散射行为，并与圆形圆柱体的解析解高度一致。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何高效求解二维PEC圆柱体的电磁散射问题。\n- 核心方法：采用矩量法（MoM）结合脉冲基函数和点匹配，求解TMz和TEz极化的边界积分方程。\n- 主要结果：对圆形和方形PEC圆柱体的散射特性进行了数值模拟，结果与解析解高度吻合。\n- 与量子精密测量/量子计算的关系：本文属于经典电磁散射的数值方法研究，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。论文主题为经典电磁学，不涉及量子系统或量子信息处理。\n- 是否值得精读：不值得，除非对经典电磁散射的数值方法感兴趣。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to efficiently solve 2D electromagnetic scattering from PEC cylinders. \n- Method: Method of Moments (MoM) with pulse basis functions and point matching for TMz and TEz polarizations. \n- Main result: Numerical simulation of scattering from circular and square PEC cylinders, showing good agreement with analytical solutions. \n- Relevance: This paper is purely classical electromagnetic scattering and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It does not involve quantum systems or quantum information processing. \n- Reading priority: Low, unless interested in classical computational electromagnetics. \n- Possible inspiration: None for the specified research areas.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29000v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29000v1",
+  "local_pdf_path": ""
+}

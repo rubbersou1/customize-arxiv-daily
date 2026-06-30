@@ -1,0 +1,23 @@
+{
+  "title": "Fermionic Hamiltonian engineering with local control",
+  "arXiv_id": "2606.17158v1",
+  "abstract": "Quantum simulators enable the exploration of complex quantum phenomena in condensed-matter systems by reproducing their dynamics on controllable quantum devices. However, experimental constraints often restrict the class of Hamiltonians that can be realized natively. Hamiltonian engineering addresses this limitation by expanding the set of accessible target Hamiltonians from a fixed system Hamiltonian defined by the hardware. We introduce a new framework for fermionic Hamiltonian engineering based on conjugating free evolution under the system Hamiltonian with sequences of experimentally feasible local fermionic unitaries. The required sequences and free-evolution times are obtained efficiently via a linear program. By interleaving system evolution with these local unitaries, our method realizes effective time evolution under a broad class of target Hamiltonians, with intrinsic robustness to finite-pulse-time errors. In particular, we demonstrate that arbitrary complex tunnelling coefficients can be realized, constrained only by the connectivity of the underlying system Hamiltonian. We illustrate this capability by engineering the dynamics of the non-interacting Harper-Hofstadter model on a 1088-mode lattice and an interacting Fermi-Hubbard chain with complex tunnelling coefficients. By construction, our approach avoids the continuous energy absorption inherent to Floquet engineering.",
+  "authors": [
+    "Özgün Kum",
+    "Matthias Zipper",
+    "Ludwig Mathey",
+    "Martin Kliesch"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "cond-mat.str-el"
+  ],
+  "summary": "该论文提出了一种基于局部费米子幺正操作序列的哈密顿量工程新框架，通过将系统哈密顿量下的自由演化与实验上可行的局部幺正操作交替进行，实现对目标哈密顿量的有效时间演化。该方法通过线性规划高效获得所需序列和自由演化时间，并具有对有限脉冲时间误差的固有鲁棒性。作者展示了在1088模晶格上实现非相互作用Harper-Hofstadter模型和具有复杂隧穿系数的相互作用Fermi-Hubbard链的动力学的例子，并指出该方法避免了Floquet工程中固有的连续能量吸收问题。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在实验约束下通过局部控制扩展可实现的哈密顿量类别，特别是费米子系统的哈密顿量工程。\n- 核心方法：将系统哈密顿量下的自由演化与实验上可行的局部费米子幺正操作序列交替进行，通过线性规划优化序列和演化时间。\n- 主要结果：实现了任意复杂隧穿系数的有效哈密顿量，并在Harper-Hofstadter模型和Fermi-Hubbard链上验证了方法。\n- 与量子精密测量/量子计算的关系：该框架直接适用于中性原子量子计算和离子阱平台（这些平台常基于费米子或自旋模型），可帮助设计用于量子传感的纠缠生成协议（如自旋压缩）或量子门优化。但论文未直接涉及量子Fisher信息或特定测量协议。\n- 是否值得精读：值得精读，尤其是对量子模拟和哈密顿量工程感兴趣的研究者。对量子精密测量领域间接相关。\n- 对我研究的可能启发：该方法可用于设计在Rydberg原子或离子阱系统中实现自旋压缩或纠缠态生成的脉冲序列，或优化量子门保真度。",
+  "english_digest": "## English Guide\n- Problem: How to engineer Hamiltonians beyond native hardware constraints using local control, especially for fermionic systems. \n- Method: Interleaving free evolution under the system Hamiltonian with experimentally feasible local fermionic unitaries; optimized via linear programming. \n- Main result: Effective Hamiltonians with arbitrary complex tunneling coefficients are realized, demonstrated on Harper-Hofstadter and Fermi-Hubbard models. \n- Relevance: Directly relevant to neutral-atom quantum computing and trapped-ion platforms, which often realize fermionic or spin Hamiltonians. May aid in designing pulse sequences for spin squeezing or quantum gates. However, no direct link to quantum Fisher information or specific metrology protocols. \n- Reading priority: High for quantum simulation and Hamiltonian engineering; medium for quantum sensing/metrology. \n- Possible inspiration: The framework could be adapted to generate spin-squeezed states or improve gate fidelity in Rydberg or ion-trap systems via optimized local control sequences.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.17158v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.17158v1",
+  "local_pdf_path": ""
+}

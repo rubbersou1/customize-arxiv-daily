@@ -1,0 +1,26 @@
+{
+  "title": "Formation and dynamics of self-bound droplets in dipolar molecular condensate",
+  "arXiv_id": "2606.22503v1",
+  "abstract": "Recent advances in the work with ultracold condensates of polar molecules have enabled the realization of highly tunable self-bound quantum droplets (QDs), with the help of dual microwave fields dressig the dipole-dipole interactions (DDIs) It has been reported that symmetry properties and the equilibrium phase diagram of such QDs can be controlled by parameters of the two microwave fields. However, the effect of these fields on the formation and dynamics of the QD has not yet been systematically explored. Here we address self-bound QDs in a regime dominated by non-axisymmetric DDIs and governed by the extended Gross-Pitaevskii equation with the Lee-Huang-Yang corrections. Within this framework, we identify the existence region of the self-bound QDs and characterize their chemical potential, total energy, effective volume, peak density, and geometric anisotropy. The results reveal a pronounced nonmonotonous dependence on the non-axisymmetric DDI strength, whereas the increase of the number of particles in the condensate leads to tighter bound and more anisotropic QDs. Furthermore, reducing the s-wave scattering length drives a transition from stable self-bound states to the collapse. Collisions between QDs moving along different directions reveal a strong directional dependence, with outcomes ranging from quasi-elastic rebound and merger to fragmentation.",
+  "authors": [
+    "Xinyi Tang",
+    "Tianmiao Zhang",
+    "Zibin Zhao",
+    "Guilong Li",
+    "Zhaopin Chen",
+    "Bin Liu",
+    "Boris A. Malomed",
+    "Yongyao Li"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "nlin.PS"
+  ],
+  "summary": "该论文研究了在偶极分子玻色-爱因斯坦凝聚中，通过双微波场调控偶极-偶极相互作用形成的自束缚量子液滴的形成与动力学。研究发现，量子液滴的存在区域、化学势、总能量、有效体积、峰值密度和几何各向异性对非轴对称偶极相互作用强度表现出显著的非单调依赖，而增加粒子数会导致更紧密束缚和更各向异性的液滴。此外，减小s波散射长度会引发从稳定自束缚态到坍缩的转变，不同方向液滴碰撞的结果表现出强方向依赖性，包括准弹性反弹、合并和碎裂。",
+  "chinese_digest": "## 中文导读\n- 研究问题：双微波场调控下偶极分子凝聚中自束缚量子液滴的形成与动力学特性。\n- 核心方法：基于扩展Gross-Pitaevskii方程与Lee-Huang-Yang修正，数值模拟非轴对称偶极相互作用下的液滴行为。\n- 主要结果：液滴性质对非轴对称偶极强度呈非单调依赖；粒子数增加使液滴更紧更各向异性；s波散射长度减小导致坍缩；液滴碰撞方向依赖性强。\n- 与量子精密测量/量子计算的关系：本文研究对象为偶极分子凝聚中的量子液滴，未涉及量子计量、量子传感、Fisher信息、自旋压缩、Rydberg原子、中性原子量子计算、离子阱、原子钟、Ramsey干涉、原子干涉、腔QED、光镊、量子控制、量子门、Rydberg微波传感等关键词。因此与量子精密测量和量子计算领域相关性较低。\n- 是否值得精读：不值得精读。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Formation and dynamics of self-bound quantum droplets in dipolar molecular condensates under dual microwave field dressing. \n- Method: Extended Gross-Pitaevskii equation with Lee-Huang-Yang correction; numerical simulation of non-axisymmetric dipole-dipole interactions. \n- Main result: Droplet properties show nonmonotonic dependence on non-axisymmetric DDI strength; larger particle number leads to tighter and more anisotropic droplets; reduction of s-wave scattering length causes collapse; collision outcomes are strongly direction-dependent. \n- Relevance: This paper focuses on ultracold dipolar molecular condensates and quantum droplets, with no direct connection to quantum metrology, quantum sensing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, Ramsey interferometry, atom interferometry, cavity QED, optical tweezers, quantum control, quantum gates, or microwave sensing using Rydberg systems. Relevance to the specified research interests is very low. \n- Reading priority: Low. \n- Possible inspiration: Minimal direct inspiration; may inform general ultracold atom techniques but not the specific topics of interest.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.22503v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.22503v1",
+  "local_pdf_path": ""
+}

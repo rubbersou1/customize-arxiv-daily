@@ -1,0 +1,21 @@
+{
+  "title": "Post-Selection Probability and Fidelity of Bidirectional Teleportation",
+  "arXiv_id": "2606.17251v1",
+  "abstract": "Understanding the scrambling of quantum information is central to many areas of quantum physics, including quantum thermalization, entanglement growth, and quantum information processing. Insights from these studies have, in turn, inspired the development of novel quantum protocols and algorithms. Recently, a bidirectional teleportation protocol was proposed to implement a digital SWAP operation between qubits by leveraging chaotic Hamiltonian evolution combined with measurement and post-selection. In this work, we provide a comprehensive study of two central quantities that characterize the protocol, the post-selection probability and the fidelity, taking into account possible errors in time-reversed dynamics. We show that these quantities can be expressed in terms of standard diagnostics in quantum dynamics, including the Loschmidt echo and its subsystem variant. The results unveil (1) the initial-state dependence of the fidelity and (2) the stability of the post-selection probability in integrable models. Our findings offer practical guidance for the implementation of the protocol on realistic quantum devices.",
+  "authors": [
+    "Ning Sun",
+    "Lei Feng",
+    "Pengfei Zhang"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas"
+  ],
+  "summary": "这篇论文研究了双向隐形传态协议中的两个核心量：后选择概率和保真度。该协议利用混沌哈密顿演化结合测量和后选择，在量子比特之间实现数字SWAP操作。作者考虑了时间反转动力学中可能存在的误差，并将后选择概率和保真度表示为量子动力学中的标准诊断量，如Loschmidt回声及其子系统变体。结果揭示了保真度对初始状态的依赖性，以及可积模型中后选择概率的稳定性。这些发现为在真实量子设备上实现该协议提供了实用指导。",
+  "chinese_digest": "## 中文导读\n- 研究问题：双向隐形传态协议中后选择概率和保真度的特性及其对初始状态和动力学模型的依赖。\n- 核心方法：将后选择概率和保真度映射为Loschmidt回声等标准量子动力学诊断量，通过理论分析研究其在混沌和可积模型下的行为。\n- 主要结果：保真度依赖于初始状态；可积模型中的后选择概率具有稳定性。\n- 与量子精密测量/量子计算的关系：该协议与量子信息处理相关，但未涉及量子传感、计量学或Fisher信息等核心主题。其混沌动力学和误差分析可能对量子控制有间接启发，但与Rydberg原子、自旋压缩、中性原子、离子阱等具体平台无直接关联。\n- 是否值得精读：不值得。该论文侧重于量子信息处理中的量子通信协议，而非精密测量或量子计算硬件。\n- 对我研究的可能启发：如果对量子纠错或量子信息在噪声下的演化感兴趣，其中的误差分析方法可能有参考价值，但整体相关性较低。",
+  "english_digest": "## English Guide\n- Problem: Characterization of post-selection probability and fidelity in bidirectional teleportation protocol. \n- Method: Mapping these quantities to standard diagnostics (Loschmidt echo) and analyzing their behavior in chaotic and integrable models. \n- Main result: Fidelity depends on initial state; post-selection probability is stable in integrable models. \n- Relevance: Low. The paper focuses on quantum communication and information scrambling, not on quantum sensing, metrology, spin squeezing, Rydberg atoms, neutral atoms, trapped ions, or Fisher information. \n- Reading priority: Low. It does not align with the core interests of quantum precision measurement or quantum computing hardware. \n- Possible inspiration: The error analysis in time-reversed dynamics might offer insights for quantum control or error mitigation, but the connection is indirect.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.17251v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.17251v1",
+  "local_pdf_path": ""
+}

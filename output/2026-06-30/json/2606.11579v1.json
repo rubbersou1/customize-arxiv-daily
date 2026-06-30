@@ -1,0 +1,30 @@
+{
+  "title": "Tensor-Network-Based Distributed Quantum Dynamics on Independent Quantum Computers",
+  "arXiv_id": "2606.11579v1",
+  "abstract": "We present an approach based on tensor networks for distributed quantum computing simulation of chemical wavepacket dynamics in a continuous variable representation. The central idea is that the tensor-network representation of the multidimensional time-evolution operator naturally induces an elevated Hilbert space where the dynamics decomposes into a set of independent lower-dimensional propagations. This transformation converts an entangled quantum evolution into a set of parallel computational tasks that can be executed asynchronously across heterogeneous quantum and classical computing architectures. The resulting formalism establishes a direct connection between tensor-network decompositions, uniformly controlled quantum circuits, and asynchronous distributed quantum computing. The approach is developed with a goal towards hybrid quantum/classical implementation, and is appropriate for a general heterogeneous mixture of quantum hardware systems. The experimental realization of the asynchronously distributed quantum processes that arise from the tensor-network decomposition are carried out on the Sandia National Laboratories' trapped-ion quantum computer, where the circuits are compiled using native partial-entangling $XX(θ)$ gates, reducing the expected two-qubit gate infidelity by more than 30\\% relative to conventional fully entangling decompositions. We demonstrate the methodology by quantum computing the vibrational spectra of a small protonated water cluster that shows critical quantum nuclear behavior. Such water cluster systems have been found to be challenging for experimental action spectroscopy and for theory, and here, for the first time, we provide results for vibrational spectroscopy that are in agreement with the respective classical results to within 4cm$^{-1}$, thus allowing for the potential for spectroscopic accuracy from quantum computations.",
+  "authors": [
+    "Anurag Dwivedi",
+    "Melissa C. Revelle",
+    "Daniel S. Lobser",
+    "Brian K. McFarland",
+    "Edward C. Tortorici",
+    "Christopher G. Yale",
+    "Susan M. Clark",
+    "Philip Richerme",
+    "Srinivasan S. Iyengar"
+  ],
+  "categories": [
+    "quant-ph",
+    "cs.DC",
+    "physics.atm-clus",
+    "physics.atom-ph",
+    "physics.chem-ph"
+  ],
+  "summary": "该论文提出了一种基于张量网络的分布式量子动力学模拟方法，用于连续变量表示的化学波包动力学。核心思想是利用张量网络表示多维时间演化算子，自然诱导出一个提升的希尔伯特空间，将纠缠的量子演化分解为一组独立的低维传播任务，这些任务可在异构量子与经典计算架构上异步执行。该方法在桑迪亚国家实验室的离子阱量子计算机上实验实现，使用原生部分纠缠XX(θ)门，将两量子比特门保真度损失降低30%以上。论文通过计算一个小型质子化水团簇的振动光谱进行了验证，结果与经典计算在4 cm⁻¹内吻合。",
+  "chinese_digest": "## 中文导读\n- **研究问题**：如何在独立量子计算机上高效模拟连续变量表示的量子动力学，特别是化学波包动力学。\n- **核心方法**：基于张量网络分解，将多维时间演化算子分解为独立低维传播，利用部分纠缠XX(θ)门在离子阱量子计算机上实现异步分布式量子计算。\n- **主要结果**：成功计算了质子化水团簇的振动光谱，与经典结果误差在4 cm⁻¹内，且门保真度损失降低30%以上。\n- **与量子精密测量/量子计算的关系**：该论文主要聚焦于量子计算模拟，未直接涉及量子精密测量、量子传感、Fisher信息、自旋压缩或Rydberg原子等主题。其分布式量子计算方法可能对大规模量子计算平台（如中性原子或离子阱）有间接影响，但未讨论精密测量协议或性能极限。\n- **是否值得精读**：如果你专注于量子计算模拟、张量网络或离子阱硬件，值得精读。但若主要兴趣是量子精密测量、量子传感或Rydberg系统，则相关性较低。\n- **对我研究的可能启发**：分布式量子计算方法可能为未来量子传感网络的并行处理提供思路，但当前论文未涉及测量精度或Fisher信息分析。",
+  "english_digest": "## English Guide\n- **Problem**: How to efficiently simulate quantum dynamics in a continuous variable representation on independent quantum computers, specifically for chemical wavepacket dynamics.\n- **Method**: Tensor-network-based decomposition to split the time-evolution operator into independent lower-dimensional propagations, implemented on trapped-ion quantum computers using native partial-entangling XX(θ) gates for asynchronous distributed quantum computing.\n- **Main result**: Successful computation of vibrational spectra of a protonated water cluster, matching classical results within 4 cm⁻¹, with over 30% reduction in two-qubit gate infidelity.\n- **Relevance**: The paper focuses on quantum computing simulation and distributed quantum computing, with no direct connection to quantum metrology, quantum sensing, Fisher information, spin squeezing, or Rydberg atoms. It is relevant to trapped-ion hardware and tensor-network methods but not to precision measurement protocols or performance limits in sensing.\n- **Reading priority**: High if you work on quantum simulation, tensor networks, or trapped-ion computing. Low if your primary interest is quantum metrology, quantum sensing, or Rydberg-based precision measurement.\n- **Possible inspiration**: The distributed computing approach could inspire parallel processing in quantum sensor networks, but the paper lacks direct metrology or Fisher information analysis.",
+  "relevance_score": 5.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.11579v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.11579v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Toric code made subsystem: a framework for topological subsystem codes using anticommuting quantum spin liquids",
+  "arXiv_id": "2606.26226v1",
+  "abstract": "We introduce a framework of constructing topological subsystem codes based on the class of anticommuting quantum spin liquids described in [Phys. Rev. B 113, 064402 (2026)]. A canonical model from this class can be considered as a spatial modification of the toric code that voids its stabilizer code property. Rather, these models contain an extensive set of anticommuting local conserved operators that lead to an extensive ground state degeneracy. This degeneracy forms the basis of the subsystem degrees of freedom in the associated quantum error correcting code. The code inherits the many-body topological order of the quantum spin liquid, making it a topological subsystem code. We present two concrete and detailed examples for constructing these codes on a square lattice and a kagome lattice geometry, requiring weight-4 and weight-3 local check operator measurements respectively. In contrast to other subsystem codes, a unique property of these codes is the presence of an extensive number of local gauge qubits that are left undisturbed by the check operators apart from the logical qubits. Our construction provides a template for generating this new category of topological subsystem codes on different lattice or graph geometries, suitable for implementation on various quantum hardware platforms.",
+  "authors": [
+    "Vaibhav Sharma",
+    "Sumiran Pujari"
+  ],
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.quant-gas",
+    "quant-ph"
+  ],
+  "summary": "本文提出了一种基于反交换量子自旋液体的拓扑子系统码构建框架。该框架将环面码进行空间修改，使其失去稳定子码性质，转而产生大量反交换的局域守恒算符，导致基态简并。这种简并构成了子系统码的自由度，并继承了量子自旋液体的多体拓扑序，因此形成拓扑子系统码。作者给出了在方格子和Kagome格子上的具体构造示例，分别需要权重4和权重3的局域校验算符测量。与其它子系统码不同，该码的一大特点是除了逻辑量子比特外，存在大量不受校验算符干扰的局域规范量子比特。该构造为在不同晶格或图几何上生成新型拓扑子系统码提供了模板，适用于多种量子硬件平台。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何构造一种新型的拓扑子系统码，使其具有大量局域规范量子比特，并适用于量子计算硬件。\n- 核心方法：基于反交换量子自旋液体模型，对环面码进行空间修改，利用其大量反交换局域守恒算符导致的基态简并作为子系统自由度。\n- 主要结果：提出了一个通用框架，并在方格子和Kagome格子上给出了具体构造示例，分别需要权重4和权重3的局域校验算符测量。\n- 与量子精密测量/量子计算的关系：本文主要关注量子纠错码的构造，属于量子计算的基础理论。与量子精密测量（如量子费希尔信息、自旋压缩、拉姆齐干涉等）没有直接关联，也未涉及Rydberg原子、中性原子、离子阱等实验平台。\n- 是否值得精读：如果您的研究重点在于量子计算中的纠错码理论，尤其是拓扑子系统码，则值得精读。但对于量子精密测量和传感方向，相关性较低。\n- 对我研究的可能启发：该框架可能为未来在量子计算硬件上实现容错量子比特提供新思路，但对我当前关注的精密测量方向启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to construct a novel topological subsystem code that features a large number of local gauge qubits and is suitable for quantum computing hardware.\n- Method: Based on anticommuting quantum spin liquids, the toric code is spatially modified to lose its stabilizer property, yielding extensive anticommuting local conserved operators and ground-state degeneracy that serve as subsystem degrees of freedom.\n- Main result: A general framework is proposed, with concrete examples on square and kagome lattices requiring weight-4 and weight-3 local check operator measurements, respectively.\n- Relevance: This paper focuses on quantum error-correcting code theory, which is fundamental to quantum computing. It has no direct connection to quantum precision measurement topics such as quantum Fisher information, spin squeezing, Ramsey interferometry, or experimental platforms like Rydberg atoms, neutral atoms, or trapped ions.\n- Reading priority: Low priority for researchers primarily interested in quantum sensing and metrology; high priority for those focused on topological quantum error correction.\n- Possible inspiration: The framework may offer new ideas for fault-tolerant qubit architectures in quantum computing, but it offers limited inspiration for my current work in quantum precision measurement.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26226v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26226v1",
+  "local_pdf_path": ""
+}

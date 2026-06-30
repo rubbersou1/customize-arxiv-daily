@@ -1,0 +1,19 @@
+{
+  "title": "Asymmetric binary Bose mixtures: a Functional Renormalisation Group study",
+  "arXiv_id": "2606.16029v1",
+  "abstract": "Zero-temperature binary Bose mixtures with mass and intraspecies couplings imbalances are studied using the functional renormalisation group (FRG) framework. We find that this dual asymmetry induces a spontaneous redistribution of quantum fluctuations between the components. This effect leads to a significant divergence in the quasiparticle residues of the two species, a phenomenon not captured in mean-field treatments. Critically, our FRG analysis predicts a systematic reduction of the density-channel sound velocity with increasing asymmetry -- a result that qualitatively contradicts the behaviour predicted by standard Bogoliubov theory. The ratio of the renormalisation factors is proposed as a robust quantitative probe of many-body correlations and fluctuation transfer. These findings provide a consistent non-perturbative framework for interpreting future experiments on heterogeneous mixtures.",
+  "authors": [
+    "Boris Krippa"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "nucl-th"
+  ],
+  "summary": "本文使用功能重整化群（FRG）框架研究了具有质量和种内耦合不平衡的零温二元玻色混合物。研究发现，这种双重不对称性会导致量子涨落在两种组分间自发重新分布，从而引起两种准粒子残留的显著发散，这是平均场理论无法捕捉的现象。关键的是，FRG分析预测随不对称性增加，密度通道声速会系统性降低——这一结果在性质上与标准Bogoliubov理论的行为相矛盾。作者提出重整化因子之比可作为多体关联和涨落转移的稳健定量探针，为未来异质混合物的实验解释提供了一致的非微扰框架。",
+  "chinese_digest": "## 中文导读\n- 研究问题：二元玻色混合物中质量和种内耦合不对称性对量子涨落和集体激发的影响。\n- 核心方法：功能重整化群（FRG）理论框架。\n- 主要结果：不对称性导致量子涨落重新分布，准粒子残留发散，声速随不对称性增加而降低，与Bogoliubov理论定性相反。\n- 与量子精密测量/量子计算的关系：该工作主要涉及多体量子物理和相变理论，与量子精密测量（如Fisher信息、自旋压缩）、量子传感、量子计算（如中性原子、离子阱、Rydberg原子）的直接关联较弱。它提供了一种理解异质混合物中多体关联的理论工具，但未直接讨论测量协议、传感极限或量子计算平台。\n- 是否值得精读：对于从事量子气体或多体理论的研究者可能有用，但对于量子精密测量或量子计算领域的实验和协议设计，相关性较低。\n- 对我研究的可能启发：其FRG方法可推广到其他多体系统，但当前结果对自旋压缩、Ramsey干涉仪或量子门等具体方向启发有限。",
+  "english_digest": "## English Guide\n- Problem: Effects of mass and intraspecies coupling asymmetry on quantum fluctuations and collective excitations in binary Bose mixtures.\n- Method: Functional Renormalisation Group (FRG) framework.\n- Main result: Asymmetry induces redistribution of quantum fluctuations, divergence in quasiparticle residues, and a systematic reduction of sound velocity, contradicting Bogoliubov theory.\n- Relevance: This work is primarily a theoretical study of many-body quantum physics and phase transitions. It has weak direct relevance to quantum precision measurement (e.g., Fisher information, spin squeezing), quantum sensing, or quantum computing (neutral atoms, trapped ions, Rydberg atoms, quantum gates). It does not address measurement protocols, sensing limits, or computational hardware. The paper is not in high-energy theory, cosmology, or quantum gravity.\n- Reading priority: Low for researchers focused on quantum metrology, sensing, or quantum computing. Moderate for those interested in many-body theory and quantum mixtures.\n- Possible inspiration: The FRG approach could be adapted to study correlations in other systems, but offers limited direct insight for spin squeezing, Ramsey interferometry, or quantum gate design.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.16029v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.16029v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Untangling QLDPC Codes with Biased Noise Ancilla",
+  "arXiv_id": "2606.30592v1",
+  "abstract": "Remarkable technical progress has made high-rate, high-distance, quantum low-density parity-check codes (QLDPC) promising candidates for scalable quantum computing. However, it is hard to design low-depth syndrome extraction circuits that do not spread errors from ancilla qubits to multiple data qubits, also known as hook errors, for general QLDPC codes. Additionally, widely used decoders for these codes based on belief propagation are impaired due to short loops in the Tanner graph. Here, we investigate a hardware-aware approach to avoid these hooks and loops using biased noise ancillas. Using examples of bicycle bivariate codes and a cyclic hypergraph product code, which have been widely considered for practical application, we show that the effective fault-distance of the conventional syndrome extraction circuit can be significantly higher and the number of short loops can be significantly lower when the ancillas are subject to phase-flip errors only, compared to when they are also subject to bit-flip errors. This can result in almost an order of magnitude improvement in the logical error rate at circuit noise of $2\\times 10^{-3}$ and when bit-flip errors in the ancilla are 50 times less likely than phase-flip errors. Our work demonstrates a significant and practical quantum error correction advantage with biased noise qubits in which full-bias cannot be maintained.",
+  "authors": [
+    "Runjiang Bi",
+    "Kathleen Chang",
+    "Shruti Puri"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "本文研究如何为量子低密度奇偶校验码（QLDPC）设计低深度的症状提取电路，以避免钩错误（hook errors）和短循环（short loops）问题。作者提出一种硬件感知方法，利用偏置噪声辅助量子比特（ancilla qubits），使其仅受相位翻转错误影响而不受比特翻转错误影响。以双曲双变量码和循环超图积码为例，他们证明当辅助比特仅受相位翻转错误时，有效故障距离显著提高，短循环数量减少，逻辑错误率在电路噪声为2×10⁻³且辅助比特比特翻转错误概率比相位翻转低50倍时提升近一个数量级。工作表明，在无法保持完全偏置的偏置噪声量子比特中，量子纠错可获显著实际优势。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何为QLDPC码设计低深度、抗钩错误和短循环的症状提取电路。\n- 核心方法：利用偏置噪声辅助量子比特（仅相位翻转错误），通过硬件感知设计避免错误传播和短循环。\n- 主要结果：在偏置噪声（比特翻转比相位翻转概率低50倍）下，逻辑错误率比无偏置情况提升近一个数量级。\n- 与量子精密测量/量子计算的关系：本文聚焦量子纠错，属于量子计算硬件可靠性方向，与量子传感、量子计量学（如Fisher信息、自旋压缩）无直接关联。但量子纠错是容错量子计算的基础，间接影响量子计算平台（如中性原子、离子阱）的性能。\n- 是否值得精读：若研究偏置噪声量子比特或QLDPC码实现，值得精读；若主要关注量子精密测量或传感协议，则相关性较低。\n- 对我研究的可能启发：偏置噪声辅助比特的设计思路可能启发在量子传感中利用特定噪声偏置优化测量保真度，但需进一步转化。",
+  "english_digest": "## English Guide\n- Problem: How to design low-depth syndrome extraction circuits for QLDPC codes that avoid hook errors and short loops. \n- Method: Use biased-noise ancilla qubits (only phase-flip errors) to suppress error propagation and short loops via a hardware-aware approach. \n- Main result: Under biased noise (bit-flip 50× less likely than phase-flip), logical error rate improves nearly an order of magnitude at circuit noise 2×10⁻³. \n- Relevance: This paper focuses on quantum error correction for fault-tolerant quantum computing, with no direct link to quantum metrology, sensing, Fisher information, spin squeezing, or specific platforms like Rydberg atoms or trapped ions. It is indirectly relevant to quantum computing hardware reliability. \n- Reading priority: Low for researchers in quantum sensing/metrology; medium for those working on biased-noise qubits or QLDPC codes. \n- Possible inspiration: The concept of utilizing noise bias in ancilla qubits might be adapted to improve measurement fidelity in quantum sensing setups, though not directly applicable.",
+  "relevance_score": 5.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30592v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30592v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Nonperturbative Leakage Elimination Operator-Based Quantum Control Pulse Design Beyond the High Frequency Driving Regime",
+  "arXiv_id": "2606.29854v1",
+  "abstract": "Precise quantum pulse design is central to achieving high precision quantum control, while level leakage induced by system environment coupling is the bottleneck limiting control precision. The leakage elimination operator (LEO) approach is highly effective at suppressing leakage from target subspace to other leakage spaces. The analytical control conditions under the high frequency driving limit have been derived via the Feshbach PQ partitioning technique. However, low frequency driving is experimentally more feasible, and the driving strength is subject to a fundamental physical bound. In this work, we overcome the high frequency driving limit in the pulse design by recasting the LEO protocol within the nonperturbative Floquet-Magnus framework. Applying the Magnus expansion to Floquet dynamical localization, we establish a generalized optimal control formalism that is applicable to the low frequency regime. We prove that the analytical control conditions derived via the Feshbach PQ partitioning technique are equivalent to the zero order Magnus expansion, and that higher order Magnus terms must be taken into account in the low frequency driving regime. We validate our nonperturbative framework using two examples: near perfect quantum state transfer in a one dimensional spin chain and adiabatic speedup in a two level system, corresponding to time independent and time dependent system Hamiltonians, respectively. Our results provide an effective route for designing control pulses in the low frequency regime, which is promising for practical quantum information processing tasks across diverse experimental platforms, including superconducting qubits and ion traps.",
+  "authors": [
+    "Hang Yu",
+    "Kai-Yu Yuan",
+    "Feng-Hua Ren",
+    "Zhao-Ming Wang"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "本文提出了一种超越高频驱动极限的非微扰泄漏消除算子（LEO）量子控制脉冲设计方法。传统LEO方法在高频驱动下有效抑制能级泄漏，但低频驱动在实验中更可行。作者基于非微扰Floquet-Magnus框架，将Magnus展开应用于Floquet动力学局域化，建立了适用于低频区的广义最优控制形式。证明了Feshbach PQ分割技术导出的解析控制条件等价于零阶Magnus展开，而低频区需考虑高阶Magnus项。通过一维自旋链的量子态转移和两能级系统的绝热加速两个例子验证了该框架的有效性。该方法对超导量子比特和离子阱等实验平台具有实际意义。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何设计低频驱动下抑制能级泄漏的量子控制脉冲，以提升量子控制精度。\n- 核心方法：利用非微扰Floquet-Magnus框架重写LEO协议，通过Magnus展开考虑高阶项，建立适用于低频驱动的最优控制形式。\n- 主要结果：证明高频解析条件等价于零阶Magnus展开，低频区需高阶项修正；在自旋链和两能级系统中验证了方法的有效性。\n- 与量子精密测量/量子计算的关系：本文直接服务于量子控制，是量子计算（如中性原子量子门、离子阱量子门）和量子精密测量（如原子钟、干涉仪中的脉冲优化）中的核心问题。泄漏抑制可提升量子门保真度和测量精度，间接关联自旋压缩和Fisher信息优化。\n- 是否值得精读：值得精读。方法创新性强，对实验平台（如离子阱、超导量子比特）有直接指导意义。\n- 对我研究的可能启发：可借鉴其低频脉冲设计思路，优化Rydberg原子或中性原子量子门中的控制脉冲，减少泄漏；也可用于量子传感中的动态解耦序列设计。",
+  "english_digest": "## English Guide\n- Problem: How to design quantum control pulses that suppress leakage under low-frequency driving to improve control precision. \n- Method: Reformulate the LEO protocol within a nonperturbative Floquet-Magnus framework, incorporating higher-order Magnus terms for low-frequency regimes. \n- Main result: Show equivalence of high-frequency conditions to zeroth-order Magnus; validate with spin chain and two-level system examples. \n- Relevance: Directly addresses quantum control, a key enabler for quantum computing (e.g., neutral-atom gates, trapped-ion gates) and quantum sensing (e.g., atomic clocks, interferometers). Leakage suppression improves gate fidelity and measurement precision, indirectly benefiting spin squeezing and Fisher information optimization. \n- Reading priority: High. The method is innovative and experimentally relevant for platforms like trapped ions and superconducting qubits. \n- Possible inspiration: Apply low-frequency pulse design to Rydberg atom or neutral-atom quantum gates to reduce leakage; adapt to dynamic decoupling sequences for quantum sensors.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29854v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29854v1",
+  "local_pdf_path": ""
+}

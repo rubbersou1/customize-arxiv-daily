@@ -1,0 +1,23 @@
+{
+  "title": "All-optical switching of continuous-variable entanglement in an absorption-suppressed plasmonic nanodimer",
+  "arXiv_id": "2606.30315v1",
+  "abstract": "A subwavelength quantum-photonic circuit element should simultaneously generate nonclassical light, suppress plasmonic loss, and remain dynamically tunable. We show that an orthogonal plasmonic nanorod dimer can satisfy all three requirements. A phase-locked control polarization induces plasmonic refractive-index enhancement, driving the probe response toward a near-zero-extinction regime while simultaneously tuning the local second-harmonic parametric interaction. The resulting nonlinear plasmonic source operates in an absorption-suppressed regime and enables all-optical control of quantum correlations. We demonstrate switchable logarithmic negativity and single-mode nonclassicality, establishing a route toward actively tunable quantum-plasmonic circuit elements operating well below the diffraction limit.",
+  "authors": [
+    "Elif Ozturk",
+    "Mehmet Gunay",
+    "Ramazan Sahin",
+    "Mehmet Emre Tasgin"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.mes-hall",
+    "physics.optics"
+  ],
+  "summary": "本文提出一种亚波长量子光子电路元件：正交等离激元纳米棒二聚体。通过相位锁定的控制偏振诱导等离激元折射率增强，使探针响应进入近零消光区域，同时调谐局域二次谐波参量相互作用。该非线性等离激元源在吸收抑制状态下工作，实现了量子关联的全光开关控制，展示了可切换的对数负性和单模非经典性，为工作在衍射极限以下的主动可调谐量子等离激元电路元件提供了路径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何实现同时满足非经典光产生、等离激元损耗抑制和动态可调的亚波长量子光子电路元件。\n- 核心方法：利用正交等离激元纳米棒二聚体，通过相位锁定控制偏振实现折射率增强和近零消光，同时调谐二次谐波参量相互作用。\n- 主要结果：展示了可切换的对数负性和单模非经典性，实现了量子关联的全光开关控制。\n- 与量子精密测量/量子计算的关系：该工作属于量子等离激元和非线性光学领域，与量子精密测量（如量子传感、Fisher信息）、量子计算（如量子门、量子控制）的直接关联较弱。未涉及Rydberg原子、自旋压缩、中性原子、离子阱等方向。\n- 是否值得精读：对于专注于量子等离激元和集成量子光子学的读者值得精读；对于本研究的核心方向（量子精密测量、量子计算）参考价值有限。\n- 对我研究的可能启发：其全光控制非经典光的方法可能启发新型量子光源或光量子信息处理方案，但与本研究的实验平台（如原子、离子）差异较大。",
+  "english_digest": "## English Guide\n- Problem: How to realize a subwavelength quantum-photonic circuit element that simultaneously generates nonclassical light, suppresses plasmonic loss, and remains dynamically tunable.\n- Method: Using an orthogonal plasmonic nanorod dimer with phase-locked control polarization to induce refractive-index enhancement and near-zero extinction, while tuning local second-harmonic parametric interaction.\n- Main result: Demonstrated switchable logarithmic negativity and single-mode nonclassicality, enabling all-optical control of quantum correlations.\n- Relevance: This work belongs to quantum plasmonics and nonlinear optics, with weak direct relevance to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It does not involve these platforms.\n- Reading priority: Worth reading for those focused on quantum plasmonics and integrated quantum photonics; limited reference value for the core directions of this study.\n- Possible inspiration: The all-optical control of nonclassical light may inspire novel quantum light sources or optical quantum information schemes, but the platform differs significantly from atomic/ionic systems of interest.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30315v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30315v1",
+  "local_pdf_path": ""
+}

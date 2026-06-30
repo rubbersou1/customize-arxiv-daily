@@ -1,0 +1,26 @@
+{
+  "title": "Hybrid deep learning-based phase diversity method for wavefront reconstruction",
+  "arXiv_id": "2606.25855v1",
+  "abstract": "The efficiency of high-power laser systems is limited by wavefront distortions in the beam, particularly non-common path aberrations, which reduce the peak intensity at the focal plane. Compensating for these aberrations requires the calibration of the adaptive optics system. Conventional calibration methods rely on a time-consuming iterative optimization that is highly sensitive to initial conditions. While deep learning-based models offer high speed, they often demonstrate insufficient accuracy. In this work, we present a hybrid wavefront reconstruction method that combines a convolutional neural network to generate an initial estimate of the wavefront distortions, with the L-BFGS (Limited-memory Broyden-Fletcher-Goldfarb-Shanno) algorithm for its subsequent refinement. In numerical simulations, the method achieved an efficiency of $\\sim 0.99$ in 80% of the cases for a root-mean-square (RMS) of wavefront distortions ranging from 0 to $1.3λ$. In a physical experiment, for initial wavefront distortions with RMS values from 0.15 to $0.6λ$, the method achieved an efficiency of $\\sim 0.75$. As a result, focusing with a Strehl ratio of $0.96 \\pm 0.02$ was attained within 2 to 4 iterations of the algorithm, confirming the applicability of the method for the fast and accurate calibration of adaptive optics systems under real experimental conditions.",
+  "authors": [
+    "Y. Rodimkov",
+    "A. Kotov",
+    "K. Burdonov",
+    "S. Perevalov",
+    "V. Volokitin",
+    "I. Meyerov",
+    "A. Soloviev"
+  ],
+  "categories": [
+    "physics.optics",
+    "cs.CV",
+    "physics.app-ph"
+  ],
+  "summary": "这篇论文提出了一种混合深度学习波前重建方法，结合卷积神经网络（CNN）进行初始估计和L-BFGS算法进行后续优化，用于自适应光学系统的快速校准。数值模拟显示，在波前畸变均方根（RMS）为0到1.3λ的范围内，80%的情况下效率达到约0.99。物理实验中，对于RMS为0.15到0.6λ的初始畸变，效率约为0.75，并在2到4次迭代内达到斯特列尔比0.96±0.02，验证了该方法在真实实验条件下的快速准确校准能力。",
+  "chinese_digest": "## 中文导读\n- 研究问题：高功率激光系统中由波前畸变（尤其是非共路像差）导致的聚焦效率降低，以及传统自适应光学校准方法耗时且对初值敏感的问题。\n- 核心方法：混合深度学习波前重建方法，先使用CNN生成波前畸变初始估计，再使用L-BFGS算法进行精细优化。\n- 主要结果：数值模拟中80%情况下效率达0.99，物理实验中约0.75，2-4次迭代内实现斯特列尔比0.96±0.02。\n- 与量子精密测量/量子计算的关系：该技术主要面向高功率激光系统的自适应光学，与量子精密测量、量子传感、量子计算等领域（如Rydberg原子、中性原子量子计算、离子阱、原子钟、量子Fisher信息等）无直接联系。波前校正可能用于光学陷阱或量子平台的光学系统，但论文未涉及量子系统。\n- 是否值得精读：不建议精读，除非对自适应光学在量子实验中的光学系统校准有直接兴趣。\n- 对我研究的可能启发：无直接启发；若用于量子光学实验中的波前控制，可参考其混合方法，但需自行评估在量子系统中的应用。",
+  "english_digest": "## English Guide\n- Problem: Efficiency reduction in high-power laser systems due to wavefront distortions and time-consuming calibration of adaptive optics. \n- Method: Hybrid deep learning method combining CNN for initial wavefront estimation and L-BFGS algorithm for refinement. \n- Main result: Numerical efficiency ~0.99 in 80% cases (RMS 0-1.3λ); experimental efficiency ~0.75 (RMS 0.15-0.6λ), achieving Strehl ratio 0.96±0.02 within 2-4 iterations. \n- Relevance: This paper focuses on adaptive optics for high-power lasers, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. \n- Reading priority: Low priority unless you are specifically interested in wavefront control for optical systems in quantum experiments. \n- Possible inspiration: Minimal; the hybrid method could potentially be adapted for optical tweezers or cavity QED systems, but the paper does not address quantum-specific applications.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25855v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25855v1",
+  "local_pdf_path": ""
+}

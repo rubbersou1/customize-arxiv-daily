@@ -1,0 +1,25 @@
+{
+  "title": "Towards Robust Optimal Measurements Against Noise in Quantum Metrology",
+  "arXiv_id": "2606.25638v1",
+  "abstract": "Quantum parameter estimation utilizes quantum mechanical effects to attain higher measurement precision than classical schemes. In practical implementations, however, noise is inevitably present during the measurement process, causing a decrease in precision. Quantifying the impact of noise on different measurements is of considerable significance. Here, we experimentally investigate robust optimal measurements based on the theory of Fisher information measurement noise susceptibility (FI MENOS), which quantifies how susceptible a measurement is to noise. By constructing a polarizing Mach-Zehnder interferometer, we implement phase estimation under controlled noise. Our results indicate that different measurements exhibit distinct sensitivities to noise. To assess the influence of diverse noise types on precision, we further construct an experimental setup capable of introducing various forms of noise. The experimental results affirm that FI MENOS represents the worst-case scenario for estimation precision, enabling us to evaluate the noise immunity of optimal measurements. Our work provides a deeper insight into quantum metrology with noise, marking a notable advancement in quantifying the robustness of quantum estimation schemes against measurement noise effects.",
+  "authors": [
+    "Xinglei Yu",
+    "Xinzhi Zhao",
+    "Liangsheng Li",
+    "Stanisław Kurdziałek",
+    "Chengjie Zhang",
+    "Chuan-Feng Li",
+    "Guang-Can Guo"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.optics"
+  ],
+  "summary": "该论文研究了量子计量学中噪声对测量精度的影响，并提出了一种基于Fisher信息测量噪声敏感性（FI MENOS）的方法来量化测量方案对噪声的鲁棒性。通过构建偏振马赫-曾德尔干涉仪，在受控噪声下进行相位估计实验，验证了不同测量对噪声的敏感性不同，并证明FI MENOS可以评估最优测量在噪声下的最坏情况精度，从而为设计抗噪声的量子测量方案提供理论指导。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何量化并提升量子计量中测量方案对噪声的鲁棒性。\n- 核心方法：提出FI MENOS（Fisher信息测量噪声敏感性）理论，通过实验构建偏振马赫-曾德尔干涉仪，引入受控噪声并比较不同测量方案的精度退化。\n- 主要结果：不同测量对噪声的敏感性差异显著，FI MENOS能准确预测噪声下精度的最坏情况，为选择抗噪声最优测量提供依据。\n- 与量子精密测量/量子计算的关系：直接相关于量子精密测量（量子计量、Fisher信息、相位估计），其噪声鲁棒性分析对量子传感（如原子钟、原子干涉仪）和量子计算中的误差缓解（如量子门保真度优化）有重要参考价值。\n- 是否值得精读：是，尤其对于关注实验实现和噪声抑制的研究者。\n- 对我研究的可能启发：可将FI MENOS框架应用于Rydberg原子微波传感、离子阱量子门或自旋压缩系统中的噪声分析，优化测量协议或量子控制方案。",
+  "english_digest": "## English Guide\n- Problem: How to quantify and enhance the robustness of measurement schemes against noise in quantum metrology.\n- Method: Introduced FI MENOS (Fisher Information Measurement Noise Susceptibility); built a polarizing Mach-Zehnder interferometer with controlled noise to compare measurement sensitivities.\n- Main result: Different measurements show distinct noise sensitivities; FI MENOS captures the worst-case precision loss, enabling selection of noise-robust optimal measurements.\n- Relevance: Directly relevant to quantum metrology (Fisher information, phase estimation), quantum sensing (atomic clocks, atom interferometry), and quantum computing (error mitigation, gate fidelity).\n- Reading priority: High, especially for researchers focusing on experimental implementations and noise mitigation.\n- Possible inspiration: Apply FI MENOS to Rydberg-based microwave sensing, trapped-ion gate optimization, or spin squeezing protocols to improve measurement robustness and control strategies.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25638v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25638v1",
+  "local_pdf_path": ""
+}

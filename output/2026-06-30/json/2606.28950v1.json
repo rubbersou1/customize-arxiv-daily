@@ -1,0 +1,22 @@
+{
+  "title": "Dineutron clusters",
+  "arXiv_id": "2606.28950v1",
+  "abstract": "The dineutron is a spatially compact two-neutron cluster, which is expected to appear in a low-density part of nuclei. In recent years, there has been rapid progress in experimental and theoretical research on dineutron clusters, particularly on neutron-rich rare isotopes. Experimentally, evidence for dineutron in two-neutron halo nuclei, such as $^{11}$Li, has been obtained using Coulomb breakup, measurements of charge radii, and quasi-free proton scattering. Specific unbound nuclei just beyond the neutron drip line, which decay by emitting two neutrons, are also candidates for having a dineutron correlation. For instance, the dineutron structure has recently been investigated for $^{16}$Be, focusing on its decay into the core and the two neutrons. Theoretically, it is shown that the dineutron is partially due to the admixture of different-parity configurations for the two valence neutrons. Few-body theories, including dynamical effects of the decay process, play important roles in interpreting three-body decays. We also discuss the four-neutron clusters, showing the experimental results of recent tetraneutron experiments and observation of $^{28}$O. Possible relevance of these states to dineutron correlation is discussed. Finally, we discuss future perspectives on dineutron clusters in neutron-rich nuclei and their relation to the universal features in few-body physics.",
+  "authors": [
+    "Takashi Nakamura",
+    "Kouichi Hagino",
+    "Yosuke Kondo"
+  ],
+  "categories": [
+    "nucl-ex",
+    "nucl-th",
+    "physics.atom-ph"
+  ],
+  "summary": "该论文综述了双中子团簇（dineutron cluster）的研究进展，包括其在丰中子核中的实验证据（如$^{11}$Li的Coulomb breakup、电荷半径测量、准自由质子散射）和理论机制（不同宇称组态混合）。还讨论了$^{16}$Be等非束缚核的双中子关联、四中子团簇（tetraneutron）的实验结果以及$^{28}$O的观测，并展望了未来方向。论文主要聚焦于核物理中的少体问题和团簇结构。",
+  "chinese_digest": "## 中文导读\n- 研究问题：双中子团簇在原子核中的存在、形成机制及其与少体物理的普适性关系。\n- 核心方法：实验上采用Coulomb breakup、电荷半径测量、准自由质子散射；理论上使用少体理论、不同宇称组态混合等。\n- 主要结果：在$^{11}$Li等两中子晕核中找到了双中子存在的证据；在$^{16}$Be中研究了双中子关联的衰变过程；四中子团簇和$^{28}$O的观测为正讨论。\n- 与量子精密测量/量子计算的关系：几乎无直接关系。该论文属于核物理领域，未涉及量子传感、量子计量、量子计算、Rydberg原子、spin squeezing、中性原子、离子阱、Fisher information等核心概念。\n- 是否值得精读：不推荐。除非研究者对核物理中的少体团簇有独立兴趣。\n- 对我研究的可能启发：几乎无启发。论文讨论的体系（中子团簇）与量子精密测量或量子计算的典型平台（如冷原子、离子阱、Rydberg系统）完全不同，且不涉及量子参数估计、纠缠度量或量子门操作。",
+  "english_digest": "## English Guide\n- Problem: Existence and formation mechanism of dineutron clusters in nuclei, and their relation to universal features in few-body physics.\n- Method: Experimental techniques such as Coulomb breakup, charge radius measurements, quasi-free proton scattering; theoretical approaches including few-body theory and mixing of different parity configurations.\n- Main result: Evidence for dineutron in two-neutron halo nuclei like $^{11}$Li; dineutron correlation in unbound $^{16}$Be; observations of tetraneutron and $^{28}$O.\n- Relevance: Very low. This paper is in nuclear physics and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or any of the listed interests.\n- Reading priority: Not recommended for researchers focused on quantum metrology or quantum computing.\n- Possible inspiration: Negligible. The system (neutron clusters) is far removed from the typical platforms (cold atoms, trapped ions, Rydberg systems) and concepts (quantum parameter estimation, entanglement, quantum gates) in the user's research area.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28950v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28950v1",
+  "local_pdf_path": ""
+}

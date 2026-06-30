@@ -1,0 +1,24 @@
+{
+  "title": "Simultaneous Determination of Multiple Nuclear Parameters of $^{229}$Th Using Highly Charged Ions",
+  "arXiv_id": "2606.15180v1",
+  "abstract": "Development of a $^{229}$Th nuclear optical clock requires precise and model-insensitive nuclear-structure parameters, which presently suffer from limited accuracy and poor consistency. We propose a joint spectroscopy scheme using two highly charged $^{229}$Th ions with $J=1/2$ electronic ground states, where the lowest electronic excitation energy of each ion far exceeds the nuclear transition energy.\n  This configuration effectively forms a three-level system comprising the electronic ground state and the nuclear ground ($g$) and isomeric ($m$) states, resulting in strongly enhanced nuclear hyperfine mixing. Within this framework, a unified analysis of precision measurements on both ions enables the simultaneous determination of five key nuclear parameters without relying on external nuclear inputs: the magnetic dipole moments $μ_g$ and $μ_m$, the bare-nucleus transition energy $ω_n$, the charge-radius difference $δ\\langle r^{2}\\rangle_{gm}$, and the $M1$ transition matrix element $T_{M1}$. With this approach, the uncertainties in $ω_n$ and $δ\\langle r^{2}\\rangle_{gm}$ are estimated to be reduced by factors of 3 and 2, respectively, relative to their current uncertainties. %compared with current values. This work could provide a useful benchmark for nuclear theory and serve as a foundation for future development of a $^{229}$Th-based nuclear optical clock.",
+  "authors": [
+    "Hong-Yuan Zheng",
+    "Yan-Ling Xu",
+    "Xi-Chen Yu",
+    "Yong-Hui Zhang",
+    "Zong-Chao Yan",
+    "Li-Yan Tang",
+    "Xiaojun Liu"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "本文提出了一种利用两个具有J=1/2电子基态的高电荷态钍-229离子的联合光谱学方案，通过增强的核超精细混合形成有效三能级系统，实现对五个关键核参数（磁偶极矩μ_g和μ_m、裸核跃迁能量ω_n、电荷半径差δ⟨r²⟩_{gm}和M1跃迁矩阵元T_{M1}}的同时精确测定。该方法无需外部核输入，预计将ω_n和δ⟨r²⟩_{gm}的不确定性分别降低3倍和2倍，为基于钍-229的核光钟开发提供精确基准。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何同时精确测定钍-229核光钟所需的多个核结构参数，解决当前精度不足和一致性差的问题。\n- 核心方法：利用两个高电荷态钍-229离子（电子基态J=1/2）的联合光谱学，通过增强的核超精细混合构建三能级系统，统一分析精密测量数据以同时确定五个核参数。\n- 主要结果：无需外部核输入即可同时测定μ_g、μ_m、ω_n、δ⟨r²⟩_{gm}和T_{M1}，ω_n和δ⟨r²⟩_{gm}的不确定性预计降低3倍和2倍。\n- 与量子精密测量/量子计算的关系：该工作直接服务于核光钟（量子精密测量核心平台）的研制，涉及原子光谱、超精细相互作用等量子计量学技术；与量子计算中基于中性原子或离子的量子比特控制有间接关联，但主要聚焦于精密测量而非计算。\n- 是否值得精读：是。对从事原子钟、量子传感、核光钟及离子阱实验的研究者具有高度参考价值。\n- 对我研究的可能启发：可借鉴其联合光谱学方案提升多参数同时估计的精度，以及利用高电荷态离子增强超精细混合的思路，可能应用于其他量子传感系统中Fisher信息的优化。",
+  "english_digest": "## English Guide\n- Problem: Simultaneously determine multiple nuclear parameters of 229Th for nuclear optical clock with improved precision and consistency.\n- Method: Joint spectroscopy of two highly charged 229Th ions with J=1/2 electronic ground states, using enhanced nuclear hyperfine mixing to form an effective three-level system and unified analysis of precision measurements.\n- Main result: Five key nuclear parameters (μ_g, μ_m, ω_n, δ⟨r²⟩_{gm}, T_{M1}) are determined simultaneously without external nuclear inputs; uncertainties in ω_n and δ⟨r²⟩_{gm} reduced by factors of 3 and 2, respectively.\n- Relevance: Highly relevant to quantum metrology and sensing (nuclear optical clock, atomic spectroscopy). Not directly related to quantum computing, Rydberg atoms, spin squeezing, or Fisher information, but the joint estimation technique may inspire multi-parameter sensing protocols. No connection to quantum gravity, cosmology, or high-energy theory.\n- Reading priority: High. Recommended for researchers in atomic clocks, quantum sensing, ion traps, and nuclear metrology.\n- Possible inspiration: The joint spectroscopy approach for multi-parameter estimation could be adapted to other quantum sensors to improve Fisher information bounds, and the use of highly charged ions may offer a new platform for enhancing sensitivity in precision measurements.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.15180v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.15180v1",
+  "local_pdf_path": ""
+}

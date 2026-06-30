@@ -1,0 +1,25 @@
+{
+  "title": "STEMGym: Benchmarking Sequential Decision-Making under Dose Budgets in Autonomous Electron Microscopy",
+  "arXiv_id": "2606.29592v1",
+  "abstract": "A central premise of autonomous scientific imaging is that smarter navigation, whether Bayesian, RL-based, or otherwise adaptive, is the principal lever for sample-efficient acquisition. We present evidence to the contrary in scanning transmission electron microscopy (STEM), an atomic-resolution imaging modality whose every measurement deposits damaging electron dose. We introduce STEMGym, an open-source Gymnasium benchmark of 15 physics-simulated STEM worlds spanning five materials, three difficulty levels, and four characterisation tasks, scored by the Dose-Efficiency Curve area (DEC-AUC), a single scalar capturing the information-vs-dose Pareto frontier. Across 33 agent configurations under realistic dose budgets, the dominant determinant of dose efficiency is the analyst (perception) pipeline, not the navigator: pairing a trained CNN analyst with naïve raster scanning raises DEC-AUC by 5.5x over a CNN-free raster baseline (0.287 vs.\\ 0.052), while substituting Bayesian or adaptive finite-state-machine navigation for raster yields no statistically significant further gain. Production-tier vision-language models further underperform task-specific CNNs by {\\sim}13x on crystallographic defect analysis. By decoupling perception, navigation, and planning under a unified dose budget, STEMGym reframes where ML effort should be invested in autonomous electron microscopy and provides the measurement infrastructure to test it.",
+  "authors": [
+    "Can Polat",
+    "Erchin Serpedin",
+    "Mustafa Kurban",
+    "Hasan Kurban"
+  ],
+  "categories": [
+    "cs.LG",
+    "cond-mat.mtrl-sci",
+    "physics.atom-ph",
+    "physics.optics",
+    "quant-ph"
+  ],
+  "summary": "本文介绍了STEMGym，一个用于自主电子显微镜的基准测试平台，重点研究了在有限电子剂量下如何高效获取信息。通过模拟15种物理场景和33种智能体配置，发现感知管道（分析器）是决定剂量效率的关键因素，而非导航策略。例如，结合CNN分析器的简单光栅扫描比无CNN的基线提高了5.5倍的剂量效率，而贝叶斯或自适应导航并未带来显著提升。该研究重新定义了机器学习在自主电子显微镜中的投资方向。",
+  "chinese_digest": "## 中文导读\n- 研究问题：在自主电子显微镜中，如何在有限电子剂量下高效获取信息？\n- 核心方法：构建了包含15个物理模拟场景的基准平台STEMGym，测试了33种智能体配置（包括不同感知和导航策略），并引入剂量效率曲线面积（DEC-AUC）作为评价指标。\n- 主要结果：感知管道（如CNN分析器）是剂量效率的主要决定因素，而导航策略（如贝叶斯或自适应状态机）影响不显著。\n- 与量子精密测量/量子计算的关系：本文聚焦于电子显微镜中的剂量效率优化，与量子精密测量（如量子费舍尔信息、自旋压缩）、量子计算（如中性原子量子计算、离子阱）、Rydberg原子、原子钟、腔QED、光学镊子、量子控制、量子门、微波传感等方向无直接关联。其核心问题（电子剂量管理）与量子传感中的资源优化有抽象相似性，但具体技术和方法完全不同。\n- 是否值得精读：对于量子精密测量或量子计算领域的研究者，本文不推荐精读，除非对自主实验中的机器学习方法有广泛兴趣。\n- 对我研究的可能启发：本文强调感知管道的重要性，可能启发在量子实验中优化读出或数据分析流程，但直接借鉴价值有限。",
+  "english_digest": "## English Guide\n- Problem: How to maximize information acquisition under limited electron dose in autonomous electron microscopy?\n- Method: Developed STEMGym, a benchmark with 15 physics-simulated scenarios, testing 33 agent configurations (varying perception and navigation strategies) and using Dose-Efficiency Curve area (DEC-AUC) as metric.\n- Main result: Perception pipeline (e.g., CNN analyst) is the dominant factor for dose efficiency, while navigation strategies (e.g., Bayesian or adaptive finite-state machines) show no significant improvement.\n- Relevance: This paper focuses on dose efficiency in electron microscopy, which has no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing), quantum computing (e.g., neutral-atom quantum computing, trapped ions), Rydberg atoms, atomic clocks, cavity QED, optical tweezers, quantum control, quantum gates, or microwave sensing. The abstract concept of resource optimization is shared, but the specific problem and methods are distinct.\n- Reading priority: Not recommended for researchers in quantum sensing or quantum computing unless interested in machine learning for autonomous experiments in general.\n- Possible inspiration: The emphasis on perception pipeline may inspire optimization of readout or data analysis in quantum experiments, but direct applicability is limited.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29592v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29592v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,26 @@
+{
+  "title": "From Fog Chamber to Aircraft Window: Pixel-Registered Imaging and Synthetic Fine-Tuning Enable Cross-Domain Defogging",
+  "arXiv_id": "2606.29093v1",
+  "abstract": "A deep defogging pipeline pretrained on controlled laboratory fog and fine-tuned with domain-randomized synthetic fog applied to clear outdoor scenes generalizes across a graded sequence of out-of-distribution settings with no target-domain training, from chamber-free free-flowing fog to iPhone video recorded through an aircraft cabin window in flight, an entirely unseen sensor, scene, and optical path. This directly addresses an open transfer limitation reported for real-world binocular defogging. Two design choices support the transfer. First, a single-camera fog imager photographs a flat-panel display through an artificial-fog enclosure with a fixed 114~mm scattering path, producing 5{,}495 pixel-aligned foggy/clear pairs. Exact registration permits a paired Laplacian ratio that predicts per-image restoration quality far better than single-image proxies (Spearman $ρ= 0.632$ versus $0.399$) and supports pixel-exact $L_1$ reconstruction training that avoids adversarial hallucination. Second, the fog-chamber checkpoint is fine-tuned on Mapillary Vistas crops overlaid with on-the-fly randomized synthetic fog spanning a broad range of strengths, spatial variations, airlights, and noise conditions. On a 552-image held-out split, a uniform comparison of 30 restoration backbones places NAFNet at the top (24.33~dB~/~0.7912~SSIM), with a compact alternative within 1.29~dB at 3\\% of the parameter count, and a ResNet-50 classifier confirms that the restoration preserves semantic content rather than only pixel-level structure. On unpaired aircraft-window video, NIQE decreases from a mean of 6.22 to 4.97 after fine-tuning, with temporally stable output across full-motion sequences. The same backbone, under paired supervision, also reaches 20.71~dB~/~0.683~SSIM on a non-overlapping O-HAZE/NH-HAZE split (a transferability check rather than a competitive ranking).",
+  "authors": [
+    "Alexander Ingold",
+    "Sabina D. Menon",
+    "Manya Yellepeddy",
+    "Alec Ikei",
+    "John D. Hodges",
+    "Jordan Baker",
+    "Syed N. Qadri",
+    "Rajesh Menon"
+  ],
+  "categories": [
+    "cs.CV",
+    "physics.optics"
+  ],
+  "summary": "本文提出了一种跨领域去雾的深度去雾流程，该流程首先在受控实验室雾环境中预训练，然后通过领域随机化的合成雾对清晰室外场景进行微调，从而能够泛化到一系列分布外的场景（从自由流动的雾到通过飞机舷窗拍摄的iPhone视频），无需目标域训练。其关键设计包括：使用单相机雾成像仪和114毫米散射路径生成5,495对像素对齐的雾/清晰图像对，以及使用Mapillary Vistas数据集进行在线随机合成雾微调。实验表明，该方法在多个指标上优于现有方法，并具有时间稳定性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何实现跨领域（从实验室到真实世界）的图像去雾？\n- 核心方法：使用像素对齐的雾/清晰图像对进行预训练，然后通过领域随机化的合成雾进行微调。\n- 主要结果：在多个分布外数据集上取得优异性能，包括飞机舷窗视频。\n- 与量子精密测量/量子计算的关系：本文完全属于计算机视觉和图像处理领域，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无任何直接或间接关联。\n- 是否值得精读：否，除非对图像去雾有特殊兴趣。\n- 对我研究的可能启发：无。",
+  "english_digest": "## English Guide\n- Problem: How to achieve cross-domain (from lab to real world) image defogging?\n- Method: Pre-training on pixel-aligned foggy/clear pairs, followed by fine-tuning with domain-randomized synthetic fog.\n- Main result: Achieves state-of-the-art performance on multiple out-of-distribution datasets, including aircraft window video.\n- Relevance: This paper is entirely in the field of computer vision and image processing, with no direct or indirect relevance to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information.\n- Reading priority: No.\n- Possible inspiration: None.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29093v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29093v1",
+  "local_pdf_path": ""
+}

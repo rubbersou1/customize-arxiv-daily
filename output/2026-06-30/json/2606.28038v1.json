@@ -1,0 +1,24 @@
+{
+  "title": "Broadband on-chip Half Maxwell Fisheye",
+  "arXiv_id": "2606.28038v1",
+  "abstract": "In this article, we report on the design and the experimental evidence of a Half Maxwell Fish Eye (HMFE), for Silicon Photonics and working at telecommunication wavelength. It is designed by implementing a Graded Photonic Crystal operating in the non-resonant metamaterial regime. The results of 3D Finite-Difference Time-Domain simulations (FDTD) show an excellent broadband focusing capacity. It has been urther fabricated via the Silicon On Insulator (SOI) platform for its compatibility with CMOS technology. Experimentally, its performances are firstly investigated by the means of a fan-shaped set output waveguides. Next, Scanning Near-Field Optical Microscopy (SNOM) characterisation confirms the wavefront curving inside the HMFE lens. Quantitative analysis of the SNOM results demonstrates its excellent focusing performances: the Full Width Half Maximum (FWHM) is $0.466λ_0$ at $λ_0=1550$nm, while the thickness of the lens is $3.18λ_0$.",
+  "authors": [
+    "Xin Zheng",
+    "Quan Yue",
+    "Jean-René Coudevylle",
+    "Aziz Benamrouche",
+    "Ségolène Callard",
+    "Anatole Lupu",
+    "Éric Akmansoy"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "本文报告了一种在硅光子学平台上实现的半麦克斯韦鱼眼（HMFE）透镜的设计与实验验证。该透镜通过工作在非谐振超材料区的渐变光子晶体实现，工作波长为通信波段（1550 nm）。三维时域有限差分（FDTD）模拟显示了其优异的宽带聚焦能力。实验上，采用绝缘体上硅（SOI）平台制备，通过扇形输出波导和扫描近场光学显微镜（SNOM）表征，证实了其波前弯曲和聚焦性能，半高全宽（FWHM）为0.466λ₀（λ₀=1550 nm），透镜厚度为3.18λ₀。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何设计并实验验证一种适用于硅光子学平台的宽带、亚波长聚焦透镜。\n- 核心方法：利用渐变光子晶体在非谐振超材料区域实现半麦克斯韦鱼眼透镜，结合FDTD模拟和SOI平台实验制备与SNOM表征。\n- 主要结果：实现了0.466λ₀的半高全宽聚焦，透镜厚度仅3.18λ₀，工作在1550 nm通信波长。\n- 与量子精密测量/量子计算的关系：本文聚焦于经典集成光子学中的光学聚焦器件，未涉及量子效应（如量子Fisher信息、自旋压缩、纠缠制备）、量子传感协议、或量子计算硬件（如中性原子、离子阱、Rydberg原子）。其光子学平台可能间接用于量子光源的耦合或读出，但论文本身未讨论量子应用。\n- 是否值得精读：不推荐精读。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to design and experimentally demonstrate a broadband, subwavelength focusing lens on a silicon photonics platform.\n- Method: A Half Maxwell Fisheye lens realized via a graded photonic crystal operating in the non-resonant metamaterial regime, with FDTD simulations and experimental fabrication on SOI, characterized by SNOM.\n- Main result: Achieved a full-width at half-maximum of 0.466λ₀ at 1550 nm with a lens thickness of 3.18λ₀.\n- Relevance: This paper focuses on classical integrated photonics for optical focusing and has no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing), quantum sensing, quantum computing hardware (neutral atoms, trapped ions, Rydberg atoms), or quantum control. The photonic platform might be tangentially relevant for coupling quantum sources, but no quantum aspects are discussed.\n- Reading priority: Not recommended.\n- Possible inspiration: None.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28038v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28038v1",
+  "local_pdf_path": ""
+}

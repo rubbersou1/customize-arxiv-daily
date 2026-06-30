@@ -1,0 +1,31 @@
+{
+  "title": "Quantum-enabled active matter at the atomic scale",
+  "arXiv_id": "2606.24615v1",
+  "abstract": "Active matter comprises particles that extract energy from their local environment and convert it into motion. Although active particles have been miniaturized down to the nanoscale, realizing activity at the fundamentally smaller scale of individual atoms remains an open challenge, where quantum effects become increasingly relevant. Here, we experimentally demonstrate that individual Cs-133 atoms confined in an optical dipole trap extract energy from an ultracold bath of Rb-87 atoms via quantum-mechanical spin interactions and convert it into active motion. We quantitatively reproduce the resulting dynamics using a parameter-free active Langevin model derived from kinetic theory and support it with event-driven Monte Carlo collision simulations. The microscopic origin of activity is identified as quantum spin exchange, which transfers discrete internal spin energy into kinetic motion. Our work establishes a quantum-enabled route to active matter at the fundamental size limit of single atoms and opens perspectives for exploring the interplay of activity, quantum physics, and mesoscopic non-equilibrium thermodynamics.",
+  "authors": [
+    "Sabrina Burgardt",
+    "Julian Feß",
+    "Alexander Guthmann",
+    "Silvia Hiebel",
+    "Aritra K. Mukhopadhyay",
+    "Sangyun Lee",
+    "Michael te Vrugt",
+    "Benno Liebchen",
+    "Hartmut Löwen",
+    "Raphael Wittkowski",
+    "Artur Widera"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.mes-hall",
+    "cond-mat.quant-gas",
+    "cond-mat.stat-mech"
+  ],
+  "summary": "这篇论文实验展示了在原子尺度上实现量子启用的活性物质。研究人员将单个铯-133原子囚禁在光偶极阱中，通过量子自旋相互作用从超冷铷-87原子浴中提取能量，并将其转化为主动运动。他们使用从动力学理论推导出的无参数活性朗之万模型定量重现了动力学，并通过事件驱动的蒙特卡洛碰撞模拟进行了验证。活性的微观起源被确定为量子自旋交换，它将离散的内部自旋能量转化为动能。这项工作建立了在单个原子这一基本尺寸极限上实现活性物质的量子路径，并为探索活性、量子物理和介观非平衡热力学的相互作用开辟了前景。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在单个原子尺度实现活性物质，并探索量子效应在其中的作用？\n- 核心方法：利用光偶极阱囚禁单个铯-133原子，通过量子自旋交换相互作用从超冷铷-87原子浴中提取能量，驱动原子运动；结合无参数活性朗之万模型和蒙特卡洛碰撞模拟进行解释。\n- 主要结果：实验观察到单个原子在量子自旋交换驱动下的主动运动，模型与实验定量吻合，揭示了量子自旋交换作为活性微观起源的机制。\n- 与量子精密测量/量子计算的关系：论文涉及单个中性原子的操控和量子自旋相互作用，这与中性原子量子计算平台以及基于自旋交换的量子传感有潜在联系。然而，论文主要聚焦于活性物质和非平衡热力学，而非量子计量学或量子计算中的性能提升（如Fisher信息、自旋压缩等），因此相关性中等。Rydberg原子、离子阱、原子钟等方向未直接涉及。\n- 是否值得精读：对于研究活性物质、非平衡量子系统或原子间相互作用动力学的读者有一定价值；但对于量子精密测量和量子计算的核心方向，参考意义有限。\n- 对我研究的可能启发：其中对自旋交换动力学的精确控制和建模方法，可能为中性原子量子门或基于自旋交换的量子传感方案提供思路，但需要进一步转化。",
+  "english_digest": "## English Guide\n- Problem: How to realize active matter at the single-atom scale and explore the role of quantum effects? \n- Method: Trapping a single Cs-133 atom in an optical dipole trap and utilizing quantum spin-exchange interactions to extract energy from an ultracold Rb-87 bath, driving active motion; modeling with a parameter-free active Langevin model and Monte Carlo simulations. \n- Main result: Experimental observation of active motion driven by quantum spin exchange, with quantitative agreement between model and experiment, identifying spin exchange as the microscopic origin of activity. \n- Relevance: The paper involves manipulation of single neutral atoms and quantum spin interactions, which are relevant to neutral-atom quantum computing platforms and spin-exchange-based quantum sensing. However, the primary focus is on active matter and non-equilibrium thermodynamics, not directly on quantum metrology (Fisher information, spin squeezing), quantum computing (gates, error mitigation), or platforms like Rydberg atoms, trapped ions, or atomic clocks. Relevance score is moderate. \n- Reading priority: Valuable for researchers interested in active matter, non-equilibrium quantum systems, or atom-atom interaction dynamics; limited direct relevance to core quantum sensing and quantum computing topics. \n- Possible inspiration: The precise control and modeling of spin-exchange dynamics could inspire schemes for neutral-atom quantum gates or spin-exchange-based quantum sensors, but further adaptation is needed.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.24615v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.24615v1",
+  "local_pdf_path": ""
+}

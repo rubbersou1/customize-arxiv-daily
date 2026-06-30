@@ -1,0 +1,18 @@
+{
+  "title": "Low-Cost Continuous-Wave Diffusive Microtomography with Fiber-Scanned White-Light Illumination",
+  "arXiv_id": "2606.25183v1",
+  "abstract": "Tomographic microscopy enables three-dimensional internal imaging but often requires expensive optical or X-ray instrumentation. Here we present an ultra-low-cost continuous-wave diffusive tomography (CWDT) system for biological samples. The system uses a smartphone microscope, a white LED coupled into an optical fiber, 3D-printed micropositioners, and a physics-based forward model optimized with machine learning. We demonstrate full-color volumetric reconstructions from a tartrazine-cleared poplar section, a scattering phantom, fungal mycelium near an Arabidopsis root, and thick poplar branch imaging with an inserted side-emitting fiber. The current results are qualitative and exploratory, but they show that scanned fiber illumination and inexpensive hardware can produce useful three-dimensional reconstruction outputs for low-cost microscopy experiments.",
+  "authors": [
+    "Alexander Ingold"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "本文提出了一种低成本连续波扩散微层析成像（CWDT）系统，用于生物样本的三维内部成像。系统利用智能手机显微镜、白光LED耦合光纤、3D打印微定位器以及基于物理的前向模型（结合机器学习优化），实现了全彩色三维重建。实验展示了在透明化杨木切片、散射仿体、拟南芥根附近真菌菌丝及厚杨木枝（插入侧发光光纤）上的定性结果，证明了低成本硬件与扫描光纤照明可产生有用的三维重建输出。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何用极低成本实现生物样本的三维显微成像？\n- 核心方法：连续波扩散微层析成像，结合智能手机、光纤扫描白光照明、3D打印组件和机器学习优化的前向模型。\n- 主要结果：在多种生物样本上实现了定性三维彩色重建，展示了低成本方案的可行性。\n- 与量子精密测量/量子计算的关系：本文属于生物医学光学成像领域，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。论文未涉及量子资源（如纠缠、压缩态、量子Fisher信息）或量子计算平台，主要关注经典光学层析成像的硬件简化和算法优化。\n- 是否值得精读：不推荐，除非对低成本光学成像技术有特定兴趣。\n- 对我研究的可能启发：无直接启发；但“扫描光纤照明+机器学习”的硬件-算法协同思路，或可类比于某些量子传感中的空间编码与信号恢复问题，但关联性极弱。",
+  "english_digest": "## English Guide\n- Problem: How to achieve 3D microscopy imaging at ultra-low cost?\n- Method: Continuous-wave diffusive microtomography with smartphone, fiber-scanned white LED, 3D-printed components, and a machine-learning-optimized physics-based forward model.\n- Main result: Qualitative full-color volumetric reconstructions of several biological samples, demonstrating feasibility of low-cost hardware.\n- Relevance: This paper is in biomedical optical imaging and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It does not involve quantum resources (e.g., entanglement, squeezed states, quantum Fisher information) or quantum computing platforms. The focus is on classical optics and low-cost hardware.\n- Reading priority: Not recommended unless specifically interested in low-cost optical tomography.\n- Possible inspiration: The hardware-algorithm co-design (scanning fiber + ML) might be loosely analogous to spatial encoding and signal recovery in certain quantum sensing scenarios, but the connection is very weak.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25183v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25183v1",
+  "local_pdf_path": ""
+}

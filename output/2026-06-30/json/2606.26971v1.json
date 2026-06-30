@@ -1,0 +1,22 @@
+{
+  "title": "Refractive indices of Y$_2$SiO$_5$ in the near-infrared",
+  "arXiv_id": "2606.26971v1",
+  "abstract": "Y$_2$SiO$_5$ is a reference birefringent material for optical quantum technologies. The refractive index is primarily known in the visible spectrum, whereas this crystal is also used in the near-infrared. We begin by analysing historical measurements, as well as the modelling proposed at the time. The absence of refractive index tabulated values in the near- and mid-infrared ranges motivated us to carry out independent measurements. Using interferometric techniques in the telecom wavelength range, we demonstrate the ability to determine the principal refractive indices and propose a model spanning a broad spectral range based on Sellmeier equations for which we explicitly give the coefficients and discuss the achievable accuracy. Conversely, as an illustration, white-light interference enables us to precisely determine the thickness of a Y$_2$SiO$_5$ thin film on the order of ten micrometers.",
+  "authors": [
+    "Shijun Zhang",
+    "Jérôme Debray",
+    "Benoît Boulanger",
+    "Pierre Lemonde",
+    "Thierry Chanelière"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "该论文研究了Y₂SiO₅晶体在近红外波段的折射率。Y₂SiO₅是光学量子技术中的一种重要双折射材料，但其折射率数据主要已知于可见光波段，而在近红外和中红外波段缺乏系统测量。作者首先回顾了历史测量数据和当时的建模方法，随后利用电信波长范围内的干涉技术，独立测量了该晶体的三个主轴折射率，并基于Sellmeier方程建立了一个覆盖宽光谱范围的折射率模型，明确给出了方程系数并讨论了精度。此外，还通过白光干涉法精确测定了约十微米厚的Y₂SiO₅薄膜厚度。",
+  "chinese_digest": "## 中文导读\n- 研究问题：Y₂SiO₅晶体在近红外波段的折射率测量与建模。\n- 核心方法：利用电信波长范围内的干涉技术（如白光干涉）进行实验测量，并基于Sellmeier方程建立折射率模型。\n- 主要结果：获得了Y₂SiO₅在近红外波段的主轴折射率数据，给出了Sellmeier方程系数，并验证了模型精度；同时展示了通过白光干涉精确测量薄膜厚度的方法。\n- 与量子精密测量/量子计算的关系：Y₂SiO₅晶体常用于量子光学和量子存储器件（如固态量子存储），其折射率数据对设计基于该晶体的光量子器件（如腔体、波导）至关重要，但论文本身不涉及量子精密测量协议、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等具体方向。\n- 是否值得精读：如果研究方向涉及Y₂SiO₅晶体在量子光学器件中的应用（如量子存储、量子中继器），则值得精读；否则相关性较低。\n- 对我研究的可能启发：提供了Y₂SiO₅在近红外波段的关键光学参数，可用于设计基于该晶体的光机械系统或腔QED实验中的光学组件。",
+  "english_digest": "## English Guide\n- Problem: Measurement and modeling of the refractive indices of Y₂SiO₅ in the near-infrared, a material used in optical quantum technologies. \n- Method: Interferometric techniques (e.g., white-light interferometry) in the telecom wavelength range; Sellmeier equation fitting. \n- Main result: Principal refractive indices in the near-infrared, Sellmeier coefficients with accuracy discussion, and demonstration of thin-film thickness measurement. \n- Relevance: The paper provides material parameters for Y₂SiO₅, which is relevant for quantum optics devices (e.g., quantum memories), but does not directly address quantum metrology, sensing, computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or related protocols. \n- Reading priority: Low priority for research focused on quantum precision measurement or quantum computing protocols; moderate priority if working with Y₂SiO₅-based quantum hardware. \n- Possible inspiration: The refractive index data can be used to design optical cavities, waveguides, or interferometers for quantum sensing experiments that employ Y₂SiO₅ as a host material.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26971v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26971v1",
+  "local_pdf_path": ""
+}

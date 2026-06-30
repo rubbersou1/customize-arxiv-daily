@@ -1,0 +1,26 @@
+{
+  "title": "Two-Electron Effects Extend High-Harmonic Generation into the keV Regime",
+  "arXiv_id": "2606.24765v1",
+  "abstract": "Two-electron processes can generate high harmonics beyond the conventional single-active-electron cutoff. Motivated by recent experimental evidence of an extended secondary plateau in the helium high-harmonic spectrum [S. Wang et al, Optica, (2023); S. Wang et al, In Print in Nature Photon., (2026)], we present a two-electron generalisation of the strong-field approximation. We analyse the resulting expressions using the saddle-point method and determine the extended cutoff. We find good agreement with classical predictions of cutoff scalings of $4.7$ and $5.5$ times the ponderomotive energy, which significantly exceed the established single-electron scaling of 3.17. We calculate high-harmonic spectra generated via a two-electron process in helium atoms driven by an intense few-cycle infrared laser pulse. Our results demonstrate that the harmonic spectrum extends far beyond the water window, reaching photon energies up to $\\approx 1.2\\,\\mathrm{keV}$ in the soft x-ray region. The large spectral bandwidth can support the generation of sub-attosecond soft x-ray pulses, which are of particular interest for probing ultrafast dynamics across matter, including applications in core-level spectroscopy and biological imaging.",
+  "authors": [
+    "Isobel McSweeney",
+    "Andres Marchisio",
+    "Javier Rivera-Dean",
+    "Philipp Stammer",
+    "Paraskevas Tzallas",
+    "Marcelo F. Ciappina",
+    "Maciej Lewenstein"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "physics.optics",
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了双电子效应对高次谐波产生（HHG）的扩展影响。作者提出了强场近似的双电子推广，通过鞍点方法分析并确定了新的扩展截止能量，其标度关系为4.7和5.5倍的有质动力能量，显著高于传统单电子模型的3.17倍。计算表明，在氦原子中由强少周期红外激光脉冲驱动的双电子过程可使谐波光谱延伸至软X射线区的约1.2 keV，远超过水窗。这种宽光谱带宽有望支持亚阿秒软X射线脉冲的产生，应用于核心级光谱学和生物成像等超快动力学探测。",
+  "chinese_digest": "## 中文导读\n- 研究问题：双电子过程如何扩展高次谐波产生的能量截止，进入keV软X射线区域。\n- 核心方法：发展双电子推广的强场近似理论，结合鞍点方法分析截止能量标度，并通过数值模拟计算氦原子中的高次谐波光谱。\n- 主要结果：双电子过程使截止能量达到有质动力能量的4.7和5.5倍，谐波光谱延伸至约1.2 keV，支持亚阿秒软X射线脉冲产生。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦于超快激光与原子相互作用中的非线性光学和强场物理，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱或Fisher信息等方向无直接关联。论文未涉及量子计量学中的参数估计、量子态制备或量子门操作等核心主题。\n- 是否值得精读：对于量子精密测量和量子计算领域的研究者，相关性极低，不建议精读。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How two-electron effects extend the high-harmonic generation cutoff into the keV soft X-ray regime.\n- Method: Development of a two-electron generalization of the strong-field approximation, saddle-point analysis for cutoff scaling, and numerical simulation of HHG spectra in helium.\n- Main result: Two-electron processes yield cutoff scalings of 4.7 and 5.5 times the ponderomotive energy, extending the spectrum to ~1.2 keV, enabling sub-attosecond soft X-ray pulses.\n- Relevance: This paper focuses on ultrafast nonlinear optics and strong-field physics, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It does not address quantum metrology protocols, parameter estimation, quantum state control, or gate operations.\n- Reading priority: Very low for researchers in quantum metrology and quantum computing.\n- Possible inspiration: None.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.24765v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.24765v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Imaginary pseudo entropy encodes temporal orientation",
+  "arXiv_id": "2606.29235v1",
+  "abstract": "Pseudo entropy between quantum states at different times is generally complex, yet its imaginary part has lacked a bounded operational meaning. We show that a calibrated replica interferometer converts the pseudo-Rényi phase into a directly measurable record of transition orientation. Together with replica visibility, it exactly determines the trace distance between forward and backward ancilla outputs and hence the Helstrom-optimal single-shot success probability. At short times, the symmetrized covariance of the modular and physical Hamiltonians sets the initial distinguishability response. Under any common quantum channel, the corresponding orientation information can only decrease, with equality characterized by Petz recovery. Imaginary pseudo entropy therefore records a reversible distinction between temporal orientations, while coarse graining can make the loss of that record irreversible.",
+  "authors": [
+    "Tatsuhiro Misumi"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.stat-mech",
+    "hep-th"
+  ],
+  "summary": "该论文研究了不同时间量子态之间的赝熵（pseudo entropy）的虚部，并赋予其有界的操作意义。作者通过校准的复制干涉仪（calibrated replica interferometer）将赝Rényi相位转化为可直接测量的时间定向记录（transition orientation）。结合复制可见度，该虚部可以精确确定前向和后向辅助输出之间的迹距离，进而得到Helstrom最优单次成功概率。在短时间极限下，模算子和物理哈密顿量的对称化协方差决定了初始的可区分性响应。在任意公共量子通道下，对应的定向信息只会减少，其等号成立条件由Petz恢复刻画。因此，赝熵的虚部记录了时间定向之间的可逆区分，而粗粒化可使该记录不可逆地丢失。",
+  "chinese_digest": "## 中文导读\n- 研究问题：量子态在不同时间下的赝熵虚部是否具有可操作的意义，以及它如何编码时间定向信息。\n- 核心方法：使用校准的复制干涉仪将赝Rényi相位映射为可观测的相位，结合可见度分析前向与后向辅助输出的迹距离。\n- 主要结果：赝熵虚部直接与Helstrom最优单次成功概率相关，且在公共量子通道下单向递减，Petz恢复刻画了可逆情形。\n- 与量子精密测量/量子计算的关系：该工作属于量子信息理论基础，与量子计量学中的干涉测量（如Ramsey干涉仪）有概念联系，但未直接涉及实验平台（如Rydberg原子、离子阱、光晶格钟）或具体传感协议。\n- 是否值得精读：对于从事量子信息基础理论的研究者有一定价值，但对实验导向的量子精密测量或量子计算工程师而言，相关性较低。\n- 对我研究的可能启发：可借鉴其干涉仪架构来理解量子态区分与时间定向的关系，但短期内难以直接应用于量子传感或量子计算实验。",
+  "english_digest": "## English Guide\n- Problem: Whether the imaginary part of pseudo entropy between quantum states at different times has a bounded operational meaning, and how it encodes temporal orientation. \n- Method: A calibrated replica interferometer converts the pseudo-Rényi phase into a measurable phase; combined with replica visibility, it determines the trace distance between forward and backward ancilla outputs. \n- Main result: The imaginary part of pseudo entropy directly relates to the Helstrom-optimal single-shot success probability, monotonically decreases under any common quantum channel, and Petz recovery characterizes the reversible case. \n- Relevance: This work is foundational in quantum information theory. It conceptually connects to interferometric measurements (e.g., Ramsey interferometry) but does not directly address experimental platforms (Rydberg atoms, trapped ions, optical tweezers) or concrete sensing/computing protocols. \n- Reading priority: Moderate for those interested in quantum information foundations; low priority for experimentalists or engineers focused on quantum sensing or quantum computing hardware. \n- Possible inspiration: The interferometric framework might inspire new ways to think about state discrimination and temporal correlations, but immediate applicability to quantum metrology or computing is limited.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29235v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29235v1",
+  "local_pdf_path": ""
+}

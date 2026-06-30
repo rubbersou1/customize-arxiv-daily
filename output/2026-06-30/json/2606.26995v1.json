@@ -1,0 +1,26 @@
+{
+  "title": "Quantum statistics on atom-ion Feshbach resonances",
+  "arXiv_id": "2606.26995v1",
+  "abstract": "We investigate three-body recombination in a hybrid atom-ion system consisting of a single trapped Ba$^+$ ion immersed in a two-component Fermi gas of Li atoms near an atom-ion Feshbach resonance. By tuning the spin composition at constant density and temperature, we isolate the role of quantum statistics in atom-atom-ion collisions. The measured ion loss rate exhibits a pronounced nonlinear dependence on spin polarization, revealing a reduced contribution of recombination pathways involving identical fermions already at the level of experimental observables. The observations are consistent with a two-step recombination picture and an adiabatic hyperspherical approach, where antisymmetrization restricts the available entrance channels and gives rise to interference between indistinguishable recombination pathways. Our work establishes atom-ion systems as a platform for controlling three-body collisions via quantum statistics and demonstrates that exchange-symmetry effects remain robust even under thermal averaging that obscures the underlying threshold-law behavior.",
+  "authors": [
+    "Joachim Siemund",
+    "Fabian Thielemann",
+    "Jonathan Grieshaber",
+    "Wei Wu",
+    "Patrick Mullan",
+    "Panagiotis Giannakeas",
+    "Krzysztof Jachymski",
+    "Tobias Schaetz"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "cond-mat.quant-gas"
+  ],
+  "summary": "该论文研究了一个由单个Ba⁺离子与双组分锂原子费米气体组成的混合原子-离子系统，在原子-离子Feshbach共振附近的三个体重组过程。通过调节自旋组成，实验观察到了离子损失率对自旋极化的显著非线性依赖，揭示了量子统计在原子-原子-离子碰撞中的作用。实验结果与两步重组图像及绝热超球面方法一致，表明反对称化限制了入口通道并导致不可区分重组路径间的干涉。这项工作展示了利用量子统计控制三体碰撞的潜力，并证明了交换对称性效应在热平均下仍然稳健。",
+  "chinese_digest": "## 中文导读\n- 研究问题：在混合原子-离子系统中，量子统计如何影响三个重组过程？\n- 核心方法：实验上通过调节锂原子费米气体的自旋组成，测量Ba⁺离子的损失率，并结合理论模型（两步重组图像和绝热超球面方法）进行分析。\n- 主要结果：离子损失率对自旋极化有非线性依赖，表明反对称化限制了相同费米子的重组路径，并导致干涉效应。\n- 与量子精密测量/量子计算的关系：该研究涉及原子-离子相互作用和量子统计效应，与量子传感（如使用离子或原子作为探针）和量子计算（如中性原子或离子平台中的碰撞控制）有一定间接关联，但未直接涉及量子精密测量的核心概念（如Fisher信息、自旋压缩、Ramsey干涉等）。\n- 是否值得精读：如果研究重点在于原子-离子碰撞、费米子统计或三体重组，则值得精读；但如果主要关注量子精密测量或量子计算中的具体协议或性能极限，则相关性较低。\n- 对我研究的可能启发：可启发对混合原子-离子系统中量子统计效应的理解，以及如何通过自旋极化控制碰撞过程，但需进一步探索其在量子传感或计算中的应用。",
+  "english_digest": "## English Guide\n- Problem: How does quantum statistics affect three-body recombination in a hybrid atom-ion system? \n- Method: Experimentally tuning spin composition of a two-component Fermi gas of Li atoms and measuring Ba⁺ ion loss rate, combined with theoretical models (two-step recombination picture and adiabatic hyperspherical approach). \n- Main result: Ion loss rate shows nonlinear dependence on spin polarization, revealing reduced contribution from identical fermions due to antisymmetrization and interference. \n- Relevance: Indirectly related to quantum sensing (e.g., atom-ion probes) and quantum computing (e.g., collision control in neutral-atom or trapped-ion platforms), but not directly addressing core topics like Fisher information, spin squeezing, Ramsey interferometry, or quantum metrology protocols. \n- Reading priority: Low if your focus is on quantum precision measurement or quantum computing; moderate if you are interested in atom-ion collisions or quantum statistics in many-body systems. \n- Possible inspiration: Could inspire new methods for controlling collisions via quantum statistics in hybrid systems, which might be extended to improve coherence or readout in quantum sensors or qubits.",
+  "relevance_score": 5.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26995v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26995v1",
+  "local_pdf_path": ""
+}

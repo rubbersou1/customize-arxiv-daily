@@ -1,0 +1,19 @@
+{
+  "title": "Coherent Control of Quantum and Classical Correlations in Photoionization",
+  "arXiv_id": "2606.30038v1",
+  "abstract": "The ability to control quantum correlations in strongly driven systems is a central challenge across quantum science, with implications for ultrafast dynamics, quantum control, and information processing. In photoionization, the emitted electron and residual ion may form an entangled system whose correlations encode the underlying light-matter interaction, yet control of their generation and observable manifestation in continuum systems remains largely unexplored. Here we demonstrate phase-resolved control of electron-ion correlations using phase-locked pulse sequences in the strong-coupling regime. We show that entanglement can be halted and reshaped with attosecond precision, and that phase-dependent correlations can be redistributed into population-based correlations, leading to entanglement that is directly reflected in joint observables. These results establish a route to coherently shape entanglement in photoionization and open new possibilities for accessing and controlling quantum correlations in systems where measurements are intrinsically basis constrained.",
+  "authors": [
+    "Axel Stenquist",
+    "Jan Marcus Dahlström"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "该论文研究了在强驱动光电离过程中，利用相位锁定的脉冲序列对电子-离子量子关联进行相干控制。作者展示了通过阿秒精度的相位控制，可以抑制或重塑纠缠，并将相位依赖的关联重新分布为基于布居的关联，从而在联合可观测量中直接反映纠缠。这项工作为在连续谱系统中塑造和操控量子关联提供了新途径，尤其适用于测量受本征基约束的系统。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在强场光电离过程中相干控制量子与经典关联，特别是电子-离子纠缠的产生与重塑。\n- 核心方法：使用相位锁定的超短脉冲序列，在强耦合区实现阿秒精度的相位控制，通过改变脉冲间相对相位调控电子-离子关联。\n- 主要结果：实现了对纠缠的实时抑制与重塑，将相位关联转化为布居关联，并在联合可观测量中观测到纠缠的直接体现。\n- 与量子精密测量/量子计算的关系：论文聚焦于光电离中的关联控制，而非量子传感、计量或计算中的常用平台（如冷原子、离子阱、里德伯原子等）。文中未涉及量子Fisher信息、自旋压缩、拉姆齐干涉、原子钟或量子门等核心概念。因此，与您的特定研究方向（量子精密测量、量子传感、量子计算）直接相关性较低。\n- 是否值得精读：对于研究超快光物理或量子关联基础控制的学者有价值，但对量子精密测量和量子计算领域的直接参考意义有限。\n- 对我研究的可能启发：其中关于相位控制关联的思想可能启发量子传感中利用光-物质纠缠增强测量的新方案，但需进一步转化到原子、离子或里德伯系统中。",
+  "english_digest": "## English Guide\n- Problem: How to coherently control quantum and classical correlations in photoionization, specifically electron-ion entanglement generation and reshaping. \n- Method: Phase-locked ultrashort pulse sequences in the strong-coupling regime, enabling attosecond-precision phase control to manipulate correlations. \n- Main result: Demonstrated halting and reshaping of entanglement, redistribution of phase-dependent correlations into population-based correlations, and direct observation of entanglement in joint observables. \n- Relevance: This paper focuses on correlation control in photoionization, which is not aligned with the core platforms (cold atoms, trapped ions, Rydberg atoms) or key concepts (quantum Fisher information, spin squeezing, Ramsey interferometry, quantum gates) of quantum precision measurement, quantum sensing, or quantum computing. The relevance to your specific research interests is low. \n- Reading priority: Low priority for researchers focused on quantum metrology, sensing, or computing. May be of interest to those studying ultrafast optics or fundamental quantum correlation control. \n- Possible inspiration: The phase-control approach to correlations could inspire new schemes for light-matter entanglement-enhanced sensing, but would require translation to atomic, ionic, or Rydberg systems.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30038v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30038v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Rodeo Filtering for Direct Steady-State Estimation in Open Quantum Systems",
+  "arXiv_id": "2606.29218v1",
+  "abstract": "Computing non-equilibrium steady states of open quantum systems is a challenging task on conventional computers, motivating quantum algorithms for direct steady-state estimation. A natural route is to regard the steady state as the zero mode of the Liouvillian and to isolate this sector spectrally. We formulate this task as a known-zero-sector projection problem and implement the corresponding filter using the Rodeo algorithm, which performs stochastic spectral filtering through repeated controlled evolutions and measurement-conditioned filtering steps. In the steady-state setting, the filter can be centered directly at the known zero eigenvalue, avoiding the spectral search required in generic eigenstate preparation. Compared with a phase-estimation-based implementation of the same projection, the Rodeo approach enables restart on failure and reduces the target-error dependence of the filtering cost and controlled-evolution depth from power-law to logarithmic. This advantage becomes more pronounced as the spectral separation of the Hermitian Liouvillian embedding increases, allowing Rodeo filtering to outperform phase-estimation filtering already at modest controlled-evolution depths. Our results identify Rodeo filtering as a resource-efficient primitive for estimating steady-state observables in open quantum systems.",
+  "authors": [
+    "Hyeonjun Yeo",
+    "Jongin Jeong",
+    "Soyoung Shin",
+    "Ha Eum Kim"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "这篇论文提出了一种名为Rodeo滤波的新量子算法，用于直接估计开放量子系统的非平衡稳态。传统上，计算开放量子系统的稳态在经典计算机上非常困难，因此需要量子算法。该算法将稳态视为Liouvillian超算符的零模，并通过Rodeo算法实现随机谱滤波。与基于相位估计的方法相比，Rodeo滤波允许在失败时重新启动，并将滤波成本和控制演化深度对目标误差的依赖从幂律降低到对数。当Hermitian Liouvillian嵌入的谱分离增大时，这一优势更加明显，使得Rodeo滤波在适中的控制演化深度下即可超越相位估计滤波。结果表明，Rodeo滤波是一种资源高效的基元，可用于估计开放量子系统的稳态可观测量。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何高效地在量子计算机上直接估计开放量子系统的非平衡稳态，避免经典计算的指数级复杂度。\n- 核心方法：将稳态视为Liouvillian的零模，利用Rodeo算法进行随机谱滤波，通过重复受控演化和测量条件滤波步骤实现。\n- 主要结果：Rodeo滤波相比相位估计滤波，在失败时能重新启动，并将滤波成本和控制演化深度对目标误差的依赖从幂律降低到对数，在谱分离较大时优势显著。\n- 与量子精密测量/量子计算的关系：该算法直接服务于量子计算中的开放系统模拟，而开放系统是量子传感（如量子计量学中退相干分析）和量子计算纠错的关键。虽然未直接涉及Rydberg原子、自旋压缩或Fisher信息，但其方法可用于优化量子控制协议，间接影响量子传感性能。\n- 是否值得精读：值得。对于从事量子计算算法、开放量子系统模拟或量子控制的研究者，该算法提供了新的资源高效工具。\n- 对我研究的可能启发：可考虑将Rodeo滤波应用于量子传感中的稳态制备或退相干分析，例如在腔QED或离子阱系统中估计稳态可观测量，以提升传感精度。",
+  "english_digest": "## English Guide\n- Problem: How to efficiently estimate non-equilibrium steady states of open quantum systems directly on quantum computers, avoiding classical exponential complexity.\n- Method: Formulate steady state as zero mode of Liouvillian, and implement stochastic spectral filtering using Rodeo algorithm with repeated controlled evolutions and measurement-conditioned steps.\n- Main result: Rodeo filtering allows restart on failure and reduces the target-error dependence of filtering cost and controlled-evolution depth from power-law to logarithmic, outperforming phase-estimation filtering at modest depths when spectral separation is large.\n- Relevance: Directly relevant to quantum computing for open-system simulation, which underpins quantum sensing (e.g., decoherence analysis in metrology) and quantum error correction. While not directly touching Rydberg atoms, spin squeezing, or Fisher information, the method can optimize quantum control protocols, indirectly impacting quantum sensing performance.\n- Reading priority: Worth reading. For researchers in quantum computing algorithms, open quantum systems, or quantum control, this offers a resource-efficient primitive.\n- Possible inspiration: Could apply Rodeo filtering to steady-state preparation or decoherence analysis in quantum sensing platforms like cavity QED or trapped ions, potentially improving sensing precision via better state estimation.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29218v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29218v1",
+  "local_pdf_path": ""
+}

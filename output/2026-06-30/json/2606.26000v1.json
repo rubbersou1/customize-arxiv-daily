@@ -1,0 +1,28 @@
+{
+  "title": "Strong coupling regimes of an organic exciton mirror in a microcavity",
+  "arXiv_id": "2606.26000v1",
+  "abstract": "The coherent, periodic energy transfer between light- and matter excitations characterizes the strong coupling regime of cavity exciton-polaritons, resulting, in the simplest case, in a Rabi-doublet in the spectral domain. We demonstrate a peculiar regime of strong light-matter coupling, which arises when photonic cavity modes couple to an ultra-thin excitonic mirror. We embed a 12 nm J-aggregated thin film in an open microcavity and tune the coupling strength from weak to the onset of ultrastrong coupling. At resonance, the excitonic mirror selectively changes dielectric to metallic field boundary conditions adding a 2π phase, which links optical cavity modes of different order. Our work gives an exciting perspective to ultra-fast cavity switches and photonic devices based on excitonic optical elements.",
+  "authors": [
+    "Christoph Bennenhei",
+    "Lukas Lackner",
+    "Moritz Gittinger",
+    "Falk Eilenberger",
+    "Marvin F. Schumacher",
+    "Arne Lützen",
+    "Ivan Shelykh",
+    "Christoph Lienau",
+    "Martin Esmann",
+    "Christian Schneider"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "physics.optics"
+  ],
+  "summary": "这篇论文研究了一种有机激子镜在微腔中的强耦合机制。通过将12纳米厚的J-聚集薄膜嵌入开放式微腔，作者从弱耦合调节到超强耦合阈值。在共振时，激子镜选择性地将介电边界条件转变为金属性，引入2π相位，从而连接不同阶数的光学腔模。这为超快腔开关和基于激子光学元件的光子器件提供了新视角。",
+  "chinese_digest": "## 中文导读\n- 研究问题：有机激子镜与微腔的强耦合现象及其边界条件转变。\n- 核心方法：实验上嵌入超薄J-聚集薄膜，通过调谐腔长改变耦合强度，观察光谱分裂和相位变化。\n- 主要结果：实现了从弱耦合到超强耦合的过渡，并发现激子镜可引入2π相位，改变腔模的边界条件。\n- 与量子精密测量/量子计算的关系：该工作主要涉及光-物质强耦合和光子学器件，与量子精密测量（如量子传感、Fisher信息）或量子计算（如中性原子、离子阱）无直接关联。仅可能对腔QED中的耦合机制有间接参考价值，但未涉及量子增强测量或量子信息处理。\n- 是否值得精读：不值得。论文聚焦有机激子极化和光子器件，而非量子计量或量子计算的核心平台（如Rydberg原子、自旋压缩、原子钟）。\n- 对我研究的可能启发：若研究腔QED中的强耦合动力学，可参考其边界条件调控思路，但对量子传感或量子计算的具体协议、算法帮助有限。",
+  "english_digest": "## English Guide\n- Problem: Strong coupling regimes of an organic exciton mirror in a microcavity, focusing on boundary condition switching.\n- Method: Embedding a 12 nm J-aggregated thin film in an open microcavity and tuning coupling strength from weak to ultrastrong.\n- Main result: Demonstration of a regime where the excitonic mirror introduces a 2π phase, linking different cavity modes, with potential for ultrafast switches.\n- Relevance: Low relevance (score 3/10). The paper is about organic exciton-polaritons and photonic devices, not directly related to quantum precision measurement (e.g., quantum metrology, Fisher information, spin squeezing) or quantum computing (e.g., Rydberg atoms, trapped ions, neutral atoms). It may offer marginal insight into cavity QED coupling but does not address quantum sensing or computing protocols.\n- Reading priority: Low. Not recommended for researchers focused on quantum metrology or quantum computing.\n- Possible inspiration: None directly; the boundary condition manipulation could be a curiosity for cavity QED studies, but unlikely to inform quantum sensing or quantum gate design.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26000v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26000v1",
+  "local_pdf_path": ""
+}

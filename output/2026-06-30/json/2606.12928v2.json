@@ -1,0 +1,23 @@
+{
+  "title": "Continuum Neural Momentum Eigenstate for Variationally Solving Quasiparticles",
+  "arXiv_id": "2606.12928v2",
+  "abstract": "We design the first neural quantum state for continuum particles that, for any chosen allowed momentum $\\mathbf{k}$, is by construction an exact eigenstate of total momentum with eigenvalue $\\mathbf{k}$. Our architecture, EVE, enables off-the-shelf VMC to solve for momentum-sector ground states. We test EVE on 2D bosons with mutual $1/r$ interactions, finding that a single unified ansatz is capable of describing four qualitatively different states: superfluid, roton, crystal, and phonon. At different densities, we extract the underlying phase of matter from the dispersion's shape. At $r_s = 20.0$, we see the roton minimum at finite $k$ expected of a superfluid. At $r_s = 100.0$, we see striking zone folding indicative of crystalline order, with periodically spaced minima representing floating crystals connected by phonon arcs in between. Using density-density correlation functions, we confirm the phase diagnoses and probe the excitations' correlation structures. Finally, we analyze the roton's phase texture and find unexpected multi-particle phase strings, formed when several vortex dipoles merge, leaving two vortices connected by a phase slip.",
+  "authors": [
+    "David D. Dai",
+    "Marin Soljačić"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.dis-nn",
+    "cond-mat.str-el",
+    "physics.comp-ph",
+    "quant-ph"
+  ],
+  "summary": "该论文提出了一种名为EVE的神经网络量子态架构，用于连续空间中的粒子系统。通过构造，该架构能够使变分蒙特卡洛方法直接求解具有特定总动量本征值的基态。作者在具有1/r相互作用的二维玻色子系统上测试了EVE，成功描述了超流、旋子、晶体和声子四种不同的量子态，并从中提取了物相信息。他们通过密度-密度关联函数验证了相诊断，并分析了旋子的相纹理，发现了多粒子相弦现象。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用神经网络量子态高效求解连续空间中具有确定动量的准粒子激发态。\n- 核心方法：设计了EVE架构，使神经网络量子态通过构造成为总动量本征态，结合变分蒙特卡洛方法求解动量扇区基态。\n- 主要结果：在二维玻色子系统中成功描述了超流、旋子、晶体和声子态，揭示了不同密度下的物相，并发现了旋子相中的多粒子相弦结构。\n- 与量子精密测量/量子计算的关系：本文主要关注凝聚态物理中的准粒子激发，与量子精密测量（如量子Fisher信息、自旋压缩、拉姆齐干涉等）、量子计算（如中性原子量子计算、离子阱、量子门等）的直接关联较弱。其方法（神经网络量子态）属于量子多体理论计算工具，可能对量子传感器中的噪声模拟或量子控制中的哈密顿量学习有间接启发，但并非核心研究方向。\n- 是否值得精读：对于量子精密测量和量子计算方向的研究者，推荐度较低。若对变分量子本征求解器或神经网络在物理问题中的应用感兴趣，可略读。\n- 对我研究的可能启发：神经网络方法可用于模拟量子传感器中的多体纠缠动力学（如自旋压缩），但本文的具体问题（连续空间玻色子准粒子）与实验平台（如里德伯原子、离子阱）差异较大，直接启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to efficiently solve for quasi-particle excited states with definite momentum in continuous space using neural network quantum states.\n- Method: Proposed EVE architecture, which by construction yields neural quantum states that are exact eigenstates of total momentum, enabling standard VMC to solve for momentum-sector ground states.\n- Main result: Successfully described superfluid, roton, crystal, and phonon states in a 2D boson system with 1/r interactions, revealed phase transitions at different densities, and discovered multi-particle phase strings in the roton phase texture.\n- Relevance: This paper focuses on condensed matter physics and quasi-particle excitations. It has low direct relevance to quantum precision measurement (e.g., quantum Fisher information, spin squeezing, Ramsey interferometry) and quantum computing (e.g., Rydberg atoms, trapped ions, quantum gates). The neural network method is a computational tool for quantum many-body theory, which may indirectly inspire noise modeling or Hamiltonian learning for quantum sensors, but is not central to the listed research interests.\n- Reading priority: Low for researchers primarily in quantum metrology and quantum computing. May be of interest to those working on variational quantum eigensolvers or neural network applications in physics.\n- Possible inspiration: Neural network approaches could be adapted to simulate many-body entanglement dynamics (e.g., spin squeezing) in quantum sensors, but the specific problem (continuum boson quasi-particles) and platform are far from experimental systems like Rydberg atoms or trapped ions. Direct inspiration is limited.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.12928v2",
+  "arxiv_url": "http://arxiv.org/abs/2606.12928v2",
+  "local_pdf_path": ""
+}

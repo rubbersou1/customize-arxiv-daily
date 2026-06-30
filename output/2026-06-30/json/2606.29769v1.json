@@ -1,0 +1,19 @@
+{
+  "title": "Quantum Circuit Realization of the PPT and CCNR Criteria",
+  "arXiv_id": "2606.29769v1",
+  "abstract": "The efficient detection of quantum entanglement is a central problem in quantum information processing. This paper systematically proposes a quantum circuit implementation scheme based on the Positive Partial Transpose (PPT) and the Computable Cross-Norm Realignment (CCNR) criteria, providing a complete quantum algorithmic pathway for efficient and computable entanglement detection. By encoding quantum states into specific forms and utilizing SWAP operations, complex matrix operations such as partial transpose and realignment are transformed into executable quantum circuits. Furthermore, by integrating an improved variational quantum singular value decomposition subroutine, the scheme enables the efficient estimation of the trace norm, thereby determining the existence of entanglement. Designed to operate within a hybrid quantum-classical framework, this scheme exhibits excellent scalability and practicality, offering a theoretical tool and methodological support for analyzing the entanglement structure of complex quantum systems on future intermediate-scale quantum devices.",
+  "authors": [
+    "Jihui Mo",
+    "Yuanhong Tao"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "这篇论文提出了一种基于正部分转置（PPT）和可计算交叉范数重排（CCNR）准则的量子电路实现方案，用于高效检测量子纠缠。通过将量子态编码为特定形式并利用SWAP操作，将部分转置和重排等复杂矩阵运算转化为可执行的量子电路。结合改进的变分量子奇异值分解子程序，该方案能够有效估计迹范数，从而判断纠缠的存在性。该方案设计在混合量子-经典框架下运行，具有良好的可扩展性和实用性，为在中等规模量子设备上分析复杂量子系统的纠缠结构提供了理论工具和方法支持。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在量子计算中高效检测纠缠，特别是通过PPT和CCNR准则的量子电路实现。\n- 核心方法：将量子态编码为特定形式，利用SWAP操作实现部分转置和重排，结合变分量子奇异值分解估计迹范数。\n- 主要结果：提出了一种可执行的量子电路方案，能够在混合量子-经典框架下高效检测纠缠。\n- 与量子精密测量/量子计算的关系：该工作主要关注量子纠缠检测，属于量子信息处理的基础工具，不直接涉及量子精密测量中的Fisher信息、自旋压缩、拉姆齐干涉等具体技术，也不涉及Rydberg原子、中性原子、离子阱等实验平台。但其量子电路实现方法对量子计算中的纠缠资源验证有潜在意义。\n- 是否值得精读：对于专注于量子纠缠检测和量子电路实现的读者值得精读，但对于量子精密测量和具体实验平台的研究者相关性较低。\n- 对我研究的可能启发：如果研究涉及量子计算中的纠缠验证或混合量子-经典算法，可借鉴其电路设计思路；但对量子传感、原子钟、Rydberg系统等主题的直接启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to efficiently detect entanglement in quantum computing using quantum circuits based on PPT and CCNR criteria.\n- Method: Encoding quantum states into specific forms, using SWAP operations to implement partial transpose and realignment, and combining variational quantum singular value decomposition to estimate trace norms.\n- Main result: A scalable quantum circuit framework for entanglement detection in a hybrid quantum-classical setup.\n- Relevance: The paper focuses on quantum entanglement detection, a foundational tool for quantum information processing. It does not directly address quantum precision measurement topics such as Fisher information, spin squeezing, Ramsey interferometry, or experimental platforms like Rydberg atoms, neutral atoms, or trapped ions. Its relevance to quantum computing lies in resource verification, but it is not closely tied to the specific interests in quantum metrology or sensing.\n- Reading priority: Moderate for those working on entanglement detection and quantum circuit design; low priority for researchers focused on quantum sensing, metrology, or specific hardware platforms.\n- Possible inspiration: May inspire quantum circuit approaches for verifying entanglement in quantum computing tasks, but offers limited direct insight into quantum precision measurement or experimental quantum sensing.",
+  "relevance_score": 5.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29769v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29769v1",
+  "local_pdf_path": ""
+}

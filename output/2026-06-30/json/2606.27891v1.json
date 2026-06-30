@@ -1,0 +1,22 @@
+{
+  "title": "Vibrational high-harmonics and period-doubling bifurcation probed by time-resolved electron diffraction",
+  "arXiv_id": "2606.27891v1",
+  "abstract": "Nanoscale mechanical oscillators exhibit a plethora of nonlinear phenomena with promising applications for the sensing and clocking of processes down to atomic length scales. Oscillator dynamics are typically probed by electrical or optical means, providing only limited access to the spatial profile of the oscillator motion. Here, we introduce event-based convergent beam electron diffraction for the spatio-temporal mapping of nanoscale mechanical resonators in ultrafast transmission electron microscopy. Employing an optically driven silicon membrane resonator at various driving strengths, we gain access to nonlinear processes with increasing complexity, ranging from a simple Duffing behavior to nonlinear multimode coupling and period-doubling bifurcations. The time-resolved diffraction probing approach supports a spatial resolution down to a few nanometers and a temporal resolution of 5 ns and provides quantitative information on the local membrane bending. Because the diffraction signal responds to local displacement gradients, which become more pronounced as resonators shrink, this approach offers a route toward probing nonlinear nanomechanics at the atomic scale.",
+  "authors": [
+    "Alexander Schröder",
+    "Kai Nettersheim",
+    "Ferdinand Evers",
+    "Sascha Schäfer"
+  ],
+  "categories": [
+    "physics.optics",
+    "physics.ins-det"
+  ],
+  "summary": "这篇论文介绍了一种基于事件驱动的会聚束电子衍射方法，用于在超快透射电子显微镜中对纳米尺度机械谐振器进行时空映射。通过光驱动硅膜谐振器，研究了从简单Duffing行为到非线性多模耦合和倍周期分岔的复杂非线性动力学。该方法具有纳米级空间分辨率和5纳秒时间分辨率，能提供局部膜弯曲的定量信息，为探测原子尺度的非线性纳米力学提供了途径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用电子衍射实现纳米机械振荡器非线性动力学的时空高分辨探测。\n- 核心方法：事件驱动的会聚束电子衍射（CBED）结合超快透射电镜，通过光驱动硅膜谐振器并分析衍射信号。\n- 主要结果：成功观测到Duffing非线性、多模耦合和倍周期分岔，实现了纳米级空间分辨率和5 ns时间分辨率的运动映射。\n- 与量子精密测量/量子计算的关系：该工作专注于经典纳米力学非线性现象，与量子精密测量（如量子传感、量子Fisher信息、自旋压缩）、量子计算（如中性原子、离子阱、Rydberg原子）等方向无直接关联。文中未涉及量子系统或量子增强测量协议。\n- 是否值得精读：对于研究纳米力学或超快电子显微学的读者有价值；但对于量子精密测量和量子计算方向，参考价值有限。\n- 对我研究的可能启发：尽管不直接相关，但其中高时空分辨的衍射探测技术可能启发未来量子传感器中机械振子的读出方案。",
+  "english_digest": "## English Guide\n- Problem: How to achieve spatiotemporal mapping of nonlinear dynamics in nanomechanical resonators using electron diffraction.\n- Method: Event-based convergent beam electron diffraction (CBED) in ultrafast transmission electron microscopy, applied to an optically driven silicon membrane resonator.\n- Main result: Observation of Duffing nonlinearity, multimode coupling, and period-doubling bifurcations with nanometer spatial and 5 ns temporal resolution.\n- Relevance: This paper focuses on classical nonlinear nanomechanics and does not address quantum metrology, quantum sensing, quantum Fisher information, spin squeezing, Rydberg atoms, neutral atoms, trapped ions, or quantum computing. The techniques and concepts are far from the specified research interests.\n- Reading priority: Low for researchers in quantum precision measurement and quantum computing; moderate for those in nanomechanics or ultrafast electron microscopy.\n- Possible inspiration: The high-resolution diffraction probing method might inspire future readout schemes for mechanical oscillators in quantum sensors, but no direct application is discussed.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27891v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27891v1",
+  "local_pdf_path": ""
+}

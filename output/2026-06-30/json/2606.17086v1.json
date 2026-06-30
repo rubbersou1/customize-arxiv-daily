@@ -1,0 +1,23 @@
+{
+  "title": "Excitonic Condensation in an Asymmetric Electron-Hole Biwire",
+  "arXiv_id": "2606.17086v1",
+  "abstract": "We study a mass-asymmetric one-dimensional electron-hole biwire system at zero temperature using the diffusion quantum Monte Carlo method. Pair correlation functions and condensate fraction are obtained over a wide range of carrier densities $r_{\\rm s}$ and interwire separations $d$, allowing us to construct the phase diagram. We identify regimes corresponding to a two-component electron-hole plasma, an excitonic fluid with quasicondensation, and a Wigner-correlated phase at various densities. Owing to reduced dimensionality, strong electron-hole correlations favor excitonic quasicondensation even in the high-density limit, persisting down to $r_{\\rm s} = 0.3$ a.u. These results provide a microscopic characterization of correlation-driven phases in electron-hole systems in one dimension.",
+  "authors": [
+    "Gautam Shah",
+    "Vinod Ashokan",
+    "N. D. Drummond",
+    "K. N. Pathak"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.quant-gas",
+    "cond-mat.str-el"
+  ],
+  "summary": "这篇论文利用扩散量子蒙特卡洛方法，在零温下研究了一维质量不对称的电子-空穴双线系统。通过计算对关联函数和凝聚体分数，构建了从双组分电子-空穴等离子体到激子流体（准凝聚态）再到维格纳关联相的相图。研究发现，由于维度降低，强电子-空穴关联即使在极高密度下也能支持激子准凝聚，最低可至r_s=0.3 a.u.。该工作为电子-空穴系统中关联驱动相的微观特征提供了描述。",
+  "chinese_digest": "## 中文导读\n- 研究问题：一维质量不对称电子-空穴双线系统中的激子凝聚相图。\n- 核心方法：扩散量子蒙特卡洛模拟。\n- 主要结果：发现从高密度等离子体到低密度维格纳相的多相行为，激子准凝聚可持续到极高密度。\n- 与量子精密测量/量子计算的关系：该论文属于凝聚态物质中的激子凝聚现象，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。文中未涉及量子度量学、量子控制、量子门、原子钟或任何实验平台（如光镊、腔QED）。\n- 是否值得精读：否，除非研究激子凝聚与量子传感的交叉，但本文未提供这种联系。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Phase diagram of excitonic condensation in a 1D asymmetric electron-hole biwire. \n- Method: Diffusion quantum Monte Carlo simulations. \n- Main result: Identification of plasma, excitonic quasicondensate, and Wigner-correlated phases; quasicondensation persists to very high densities. \n- Relevance: This paper is in condensed matter physics (exciton condensation) and has no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or any experimental platform or protocol relevant to the user's interests. \n- Reading priority: Low. \n- Possible inspiration: None for the specified research directions.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.17086v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.17086v1",
+  "local_pdf_path": ""
+}

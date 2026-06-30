@@ -1,0 +1,21 @@
+{
+  "title": "Cooperative control and geometric amplification in dissipative quantum systems",
+  "arXiv_id": "2606.30073v1",
+  "abstract": "In the control of dissipative quantum systems, the slow relaxation modes usually set the ultimate manipulation timescale. Here we show that this apparent bottleneck can be bypassed: dissipation itself becomes a control resource when fast relaxation channels are deliberately exploited. We demonstrate this mechanism for a qubit subject to non-unital and anisotropic Bloch relaxation. A short coherent pulse first reorients the Bloch vector onto a fast dissipative eigendirection; the subsequent free relaxation then carries the state close to the target, with at most one final corrective pulse. The resulting bang-drift-bang strategy is cooperative: coherent control selects the dissipative channel, while the bath performs most of the transfer. For axial targets, we obtain a closed-form speedup over passive relaxation by a factor of order $κ=T_1/T_2\\gg1$. For out-of-equilibrium non-axial targets, an additional off-axis interception mechanism provides a further geometric amplification, allowing the hitting-time speedup, still normalized to the axial passive-reset time, to exceed the axial $κξ$ benchmark by an extra factor of four to five. The mechanism therefore directly connects to standard Bloch-vector qubit platforms, including magnetic-resonance spins, nitrogen-vacancy centers, and superconducting circuits, with potential relevance for quantum-control and fast-reset protocols.",
+  "authors": [
+    "Robert Weiß",
+    "Sandro Wimberger",
+    "David Guéry-Odelin"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "本文研究耗散量子系统中的协同控制与几何放大机制。作者发现，通过利用非幺正各向异性布洛赫弛豫中的快弛豫通道，可以将耗散本身转化为控制资源。具体地，采用“bang-drift-bang”策略：先用短相干脉冲将布洛赫矢量重定向到快耗散本征方向，随后自由弛豫使状态接近目标，最后根据需要施加一次校正脉冲。对于轴向量子门，该方案相比被动弛豫实现了约κ=T1/T2倍的加速；对于非轴向目标，离轴截获机制提供额外的几何放大，使加速比进一步超越轴向κξ基准4~5倍。该机制适用于磁共振自旋、氮空位中心和超导电路等标准布洛赫矢量量子平台，对量子控制和快速重置协议具有潜在意义。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用耗散作为资源来加速量子系统的控制，突破慢弛豫模式的操纵时间瓶颈。\n- 核心方法：提出“bang-drift-bang”协同控制策略，利用非幺正各向异性布洛赫弛豫中的快弛豫通道，通过短相干脉冲选择耗散通道，让浴完成大部分状态转移。\n- 主要结果：对轴向量子门实现κ=T1/T2倍的加速；对非轴向目标，离轴截获机制提供额外几何放大，加速比进一步提升4~5倍。\n- 与量子精密测量/量子计算的关系：该工作直接关联量子控制中的快速重置与态制备，对量子传感（如NV色心、超导量子比特）和量子计算（如快速初始化、纠错）有重要启示。虽未直接涉及Rydberg原子、中性原子或离子阱，但其控制原理可推广至这些平台。与Fisher信息的关系间接：更快的态制备可提升测量带宽与灵敏度。\n- 是否值得精读：值得精读。该工作提供了耗散控制的新视角，理论清晰且与实验平台（磁共振、NV中心、超导电路）紧密相关，对优化量子传感协议中的初始化与重置步骤有直接帮助。\n- 对我研究的可能启发：可借鉴其“耗散作为资源”的思路，设计针对Rydberg原子或离子阱的快速重置方案；几何放大机制可用于提升原子钟或干涉仪中的态制备效率。",
+  "english_digest": "## English Guide\n- Problem: How to harness dissipation as a resource to accelerate quantum control, bypassing the timescale bottleneck set by slow relaxation modes. \n- Method: A \"bang-drift-bang\" cooperative control strategy that exploits fast relaxation channels in non-unital anisotropic Bloch relaxation, using a short coherent pulse to select a dissipative channel and letting the bath perform most of the state transfer. \n- Main result: For axial targets, a speedup factor of κ=T1/T2 over passive relaxation; for non-axial targets, an additional geometric amplification yields a further 4–5× improvement beyond the axial κξ benchmark. \n- Relevance: This work is directly relevant to quantum control, fast reset, and state preparation for quantum sensing (e.g., NV centers, superconducting qubits) and quantum computing (e.g., initialization, error correction). While not explicitly addressing Rydberg atoms, neutral atoms, or trapped ions, the underlying principle is platform-agnostic and can be adapted. The connection to Fisher information is indirect: faster state preparation can improve measurement bandwidth and sensitivity. \n- Reading priority: High. The paper offers a fresh perspective on dissipation-assisted control, with clear experimental relevance and potential to optimize initialization and reset steps in quantum metrology and computing. \n- Possible inspiration: The concept of using dissipation as a control resource could inspire fast reset protocols for Rydberg-atom or ion-trap platforms; the geometric amplification mechanism may enhance state-preparation efficiency in atomic clocks or atom interferometers.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30073v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30073v1",
+  "local_pdf_path": ""
+}

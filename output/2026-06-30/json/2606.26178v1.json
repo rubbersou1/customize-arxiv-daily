@@ -1,0 +1,18 @@
+{
+  "title": "Infinite-time surface flux for full-dimensional three-body breakup dynamics",
+  "arXiv_id": "2606.26178v1",
+  "abstract": "We derive an infinite-time surface-flux formulation for full-dimensional three-body breakup dynamics in intense laser fields. The method is designed as a post-pulse extension of time-dependent surface flux (tSurff) calculations for systems with two asymptotic fragments, with helium double ionization and dissociative ionization of $\\hydroplus$ as representative applications. Standard tSurff calculations avoid projection on very large boxes, but the spectra still contain a field-free tail after the laser pulse; converging this tail by direct propagation can be expensive for slow particles, narrow resonances, and long-range Coulomb channels. Here the post-pulse time integrals are rewritten as resolvents of the field-free one-particle ionic Hamiltonians and of the full field-free three-body Hamiltonian. The resulting expressions separate the already available tSurff amplitudes from stationary correction terms that can be evaluated from saved wave functions in the inner and single-ionization regions. The formulation gives a common theoretical structure for electron-electron breakup in helium and electron-nuclear breakup in $\\hydroplus$, and it is compatible with the spectral decompositions and MPI-parallel workflow of the tRecX framework. This provides a practical route to tSurff+iSurff calculations of correlated three-body spectra without long post-pulse propagation and without solving a large complex linear system independently for every final momentum.",
+  "authors": [
+    "Jinzhen Zhu"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "本文推导了强激光场中全维三体分解动力学的无限时间表面通量公式。该方法作为时间相关表面通量（tSurff）计算的脉冲后扩展，适用于具有两个渐近碎片的系统，以氦双电离和氢分子离子解离电离为例。标准tSurff计算避免了在非常大的盒子上的投影，但光谱在激光脉冲后仍包含无场尾部；通过直接传播收敛该尾部对于慢粒子、窄共振和长程库仑通道可能代价高昂。本文将脉冲后的时间积分重写为无场单粒子离子哈密顿量和全无场三体哈密顿量的预解式，将已有的tSurff振幅与可从内部和单电离区域保存的波函数评估的静态修正项分离开来。该公式为氦中的电子-电子分解和氢分子离子中的电子-核分解提供了共同的理论结构，并与tRecX框架的谱分解和MPI并行工作流兼容，从而提供了一条实用的途径，无需长时间脉冲后传播也无需为每个最终动量独立求解大型复杂线性系统，即可计算相关的三体光谱。",
+  "chinese_digest": "## 中文导读\n- 研究问题：强激光场中三体分解动力学的高效计算方法。\n- 核心方法：无限时间表面通量公式，通过将脉冲后时间积分重写为哈密顿量预解式，避免长时间传播。\n- 主要结果：提供了计算相关三体光谱的实用途径，无需长时间脉冲后传播或大规模线性求解。\n- 与量子精密测量/量子计算的关系：本文专注于强场物理和原子分子动力学中的数值方法，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。论文未涉及量子计量学、量子信息处理或相关实验平台。\n- 是否值得精读：不值得精读。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Efficient computational method for three-body breakup dynamics in intense laser fields.\n- Method: Infinite-time surface flux formulation, rewriting post-pulse time integrals as resolvents of Hamiltonians to avoid long post-pulse propagation.\n- Main result: A practical route to correlated three-body spectra without long post-pulse propagation or large linear system solves.\n- Relevance: This paper focuses on numerical methods in strong-field physics and atomic-molecular dynamics, with no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It does not address quantum measurement, quantum information processing, or relevant experimental platforms.\n- Reading priority: Not recommended.\n- Possible inspiration: None.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26178v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26178v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Unleashing Emergent Fermions with Rydberg Atom Simulators",
+  "arXiv_id": "2606.19444v1",
+  "abstract": "Rydberg atom simulators, in both analog and digital modes, have attracted significant recent interest due to their versatile geometric reconfigurability. In this work, leveraging this feature, we propose two complementary approaches, one for each mode, to characterize emergent fermions in critical quantum many-body systems. In the analog mode, we assemble the Rydberg atoms in a \"developable\" (namely, preserving local couplings) Möbius band geometry to realize antiperiodic boundary conditions, where fermionic states reside. Spectroscopic measurement in this sector then reveals universal energy ratios of the bosonic and fermionic states. In the digital mode, we carry out a fermionic version of Kibble-Zurek ramping with a quantum circuit, directly addressing the fermionic scaling form. Reconfigurability allows an exponential speed-up of this task, with an $O(\\log L\\log\\log L)$ circuit-depth overhead. Our work establishes the Rydberg atom simulator as a uniquely powerful platform to attack the notoriously difficult issue of experimentally probing emergent fermions that are nonlocally defined in a bosonic system.",
+  "authors": [
+    "Hanteng Wang",
+    "Xingyu Li",
+    "Shang Liu",
+    "Yingfei Gu",
+    "Chengshu Li"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.stat-mech",
+    "cond-mat.str-el",
+    "quant-ph"
+  ],
+  "summary": "这篇论文提出利用里德伯原子模拟器的可重构几何特性，通过两种互补方法（模拟模式和数字模式）来探测临界量子多体系统中的涌现费米子。在模拟模式中，通过将里德伯原子排列成可展开的莫比乌斯带几何结构实现反周期边界条件，从而支持费米子态，并通过光谱测量揭示玻色子和费米子态的能量比。在数字模式中，利用量子电路执行费米子版本的Kibble-Zurek斜坡，直接探测费米子标度行为，且可重构性使电路深度开销仅为O(log L log log L)，实现指数加速。该工作展示了里德伯原子模拟器在实验探测非局域定义的涌现费米子方面的独特优势。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在实验上探测玻色子系统中非局域定义的涌现费米子？\n- 核心方法：利用里德伯原子模拟器的可重构几何特性，在模拟模式中通过莫比乌斯带几何实现反周期边界条件，在数字模式中通过量子电路执行费米子Kibble-Zurek斜坡。\n- 主要结果：模拟模式中光谱测量可揭示玻色子和费米子态的能量比；数字模式中实现了指数加速的费米子标度行为探测，电路深度开销为O(log L log log L)。\n- 与量子精密测量/量子计算的关系：该研究直接涉及里德伯原子平台（量子传感和量子计算的重要硬件），其可重构几何特性与光镊、中性原子量子计算高度相关；数字模式中的量子电路方法可启发量子控制与量子门设计；虽然不直接研究Fisher信息或自旋压缩，但探测临界系统中的费米子标度行为可能对量子计量中的纠缠生成和性能极限有间接启示。\n- 是否值得精读：是。对于关注里德伯原子、中性原子量子计算和量子模拟的研究者，该论文提供了创新的实验协议和理论框架，具有较高参考价值。\n- 对我研究的可能启发：可借鉴其可重构几何设计来优化量子传感中的边界条件控制；数字模式中的指数加速思路可能用于提升量子计量中参数估计的效率。",
+  "english_digest": "## English Guide\n- Problem: How to experimentally probe emergent fermions that are nonlocally defined in bosonic systems?\n- Method: Leveraging the reconfigurable geometry of Rydberg atom simulators, using a Möbius band geometry in analog mode for antiperiodic boundary conditions, and a quantum circuit in digital mode for fermionic Kibble-Zurek ramping.\n- Main result: In analog mode, spectroscopic measurement reveals universal energy ratios of bosonic and fermionic states; in digital mode, the fermionic scaling form is probed with exponential speedup and O(log L log log L) circuit-depth overhead.\n- Relevance: Directly relevant to Rydberg atoms, neutral-atom quantum computing, and quantum simulation. The reconfigurable geometry connects to optical tweezers and quantum control. While not directly addressing Fisher information or spin squeezing, the work offers insights into entanglement generation and performance limits in critical systems, which can benefit quantum metrology.\n- Reading priority: High. For researchers in Rydberg atoms, neutral-atom quantum computing, and quantum simulation, this paper provides innovative experimental protocols and theoretical frameworks.\n- Possible inspiration: The reconfigurable geometry design could be adapted for boundary condition control in quantum sensing; the exponential speedup in the digital mode may inspire more efficient parameter estimation protocols in quantum metrology.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.19444v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.19444v1",
+  "local_pdf_path": ""
+}

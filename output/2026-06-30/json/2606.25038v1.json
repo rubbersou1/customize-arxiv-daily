@@ -1,0 +1,22 @@
+{
+  "title": "Exactly solvable pair-density wave in topological flat bands from magnetic translation symmetries",
+  "arXiv_id": "2606.25038v1",
+  "abstract": "Pair-density wave (PDW) superconductors are exotic phases in which Cooper pairs carry finite center-of-mass momentum. Despite a variety of theoretical and experimental reports on PDW states, exact PDW ground states in topological bands have remained elusive. Here we construct exactly solvable models with PDW ground states in topological flat bands using a generalized version of the recently proposed quantum geometric nesting (QGN) framework. Our construction broadly applies to systems with non-commuting magnetic translation symmetries (MTS) and time-reversal symmetry, exemplified by the time-reversal invariant version of the Kapit-Mueller model with two ideal flat Chern bands with opposite Chern number. Our construction thus provides a platform for further studies of band topology and quantum geometry in PDW superconductors.",
+  "authors": [
+    "Zhengzhi Wu",
+    "Zhou-Quan Wan",
+    "Steven H. Simon"
+  ],
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.quant-gas",
+    "cond-mat.str-el"
+  ],
+  "summary": "该论文在拓扑平带中构建了精确可解的配对密度波（PDW）超导模型。利用广义的量子几何嵌套（QGN）框架，作者在具有非对易磁平移对称性和时间反演对称性的系统中（如Kapit-Mueller模型的变体）实现了PDW基态。该工作为研究PDW超导体中的带拓扑和量子几何提供了平台。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在拓扑平带中构造精确可解的配对密度波超导基态。\n- 核心方法：利用广义量子几何嵌套（QGN）框架，结合非对易磁平移对称性和时间反演对称性。\n- 主要结果：在具有相反陈数的理想平带系统中成功构建了PDW基态。\n- 与量子精密测量/量子计算的关系：该论文主要关注凝聚态物理中的超导理论，与量子精密测量、量子传感、量子计算（如Rydberg原子、中性原子、离子阱、自旋压缩等）无直接关联。论文不涉及量子计量学、Fisher信息、原子干涉仪、腔QED、光镊、量子控制或量子门等主题。\n- 是否值得精读：对于量子精密测量和量子计算领域的研究者，相关性很低，不建议精读。\n- 对我研究的可能启发：几乎无直接启发。如果对拓扑超导和量子几何有广泛兴趣，可能间接了解一些数学框架，但不涉及实验平台或性能极限。",
+  "english_digest": "## English Guide\n- Problem: Constructing exactly solvable pair-density wave (PDW) ground states in topological flat bands.\n- Method: Generalized quantum geometric nesting (QGN) framework with non-commuting magnetic translation symmetries and time-reversal symmetry.\n- Main result: PDW ground states realized in ideal flat Chern bands with opposite Chern numbers (Kapit-Mueller model variant).\n- Relevance: This paper is in condensed matter theory (topological superconductivity). It has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, atomic clocks, Ramsey interferometry, or related experimental platforms. No discussion of quantum control, gates, error mitigation, or performance limits.\n- Reading priority: Very low for researchers in quantum metrology and quantum computing. Not recommended.\n- Possible inspiration: Minimal. Only if one is broadly interested in quantum geometry in topological systems, but no direct application to sensing or computation.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25038v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25038v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Programmable generation of flying cat-qubits",
+  "arXiv_id": "2606.30075v1",
+  "abstract": "We propose a framework for the direct generation of flying cat-qubit states from vacuum using time-dependent two-photon drives in nonlinear bosonic systems. We study both Kerr-based and two-photon-dissipation-based generation. By engineering Kerr nonlinearity, two-photon driving, and dissipation, we demonstrate logical control of a cat qubit during its generation and emission, while its quantum information is simultaneously shared between the nonlinear system and the propagating output field. We further analyze the effects of photon loss and pure dephasing, showing that both the state generation and logical control remain robust under realistic noise conditions. These results provide a route toward programmable bosonic quantum networks and future propagating error-correctable encodings.",
+  "authors": [
+    "Cecilia Erneman",
+    "Zeidan Zeidan",
+    "Göran Johansson",
+    "Maryam Khanahmadi"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "本文提出一个框架，利用非线性玻色子系统中的时间依赖双光子驱动，直接从真空生成飞行猫量子比特态。研究了基于Kerr非线性和双光子耗散的生成方案。通过工程化Kerr非线性、双光子驱动和耗散，展示了在生成和发射过程中对猫量子比特的逻辑控制，同时其量子信息在非线性系统和传播输出场之间共享。进一步分析了光子损耗和纯退相的影响，表明在现实噪声条件下状态生成和逻辑控制仍然鲁棒。这些结果为可编程玻色子量子网络和未来可传播纠错编码提供了路径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何从真空直接生成可传播的猫量子比特态，并实现逻辑控制？\n- 核心方法：利用时间依赖双光子驱动，在Kerr非线性或双光子耗散系统中工程化非线性与耗散，实现态生成与发射。\n- 主要结果：展示了飞行猫量子比特的生成与逻辑控制，并验证了在光子损耗和退相干下的鲁棒性。\n- 与量子精密测量/量子计算的关系：猫量子比特是量子纠错和量子计算中的重要资源，但其生成与传播与量子精密测量中的纠缠态制备、腔QED、原子干涉等有间接关联。本文不直接涉及Fisher信息、自旋压缩、Rydberg原子或离子阱等核心测量方向。\n- 是否值得精读：对于从事量子计算（特别是玻色子编码、量子网络）的研究者值得精读；对于量子精密测量方向，相关性有限。\n- 对我研究的可能启发：可借鉴其双光子驱动与耗散工程方法，用于制备纠缠态或压缩态，但需自行转化至原子系统。",
+  "english_digest": "## English Guide\n- Problem: How to directly generate propagating cat-qubit states from vacuum with logical control?\n- Method: Time-dependent two-photon drives in Kerr-nonlinear or two-photon-dissipative bosonic systems, engineering nonlinearity and dissipation.\n- Main result: Demonstrated generation and logical control of flying cat-qubits, robust under photon loss and dephasing.\n- Relevance: Cat-qubits are important for quantum error correction and computation, but this work is not directly related to quantum metrology, sensing, Fisher information, spin squeezing, Rydberg atoms, trapped ions, or atomic clocks. It has tangential relevance to cavity QED and quantum control.\n- Reading priority: High for those focused on bosonic quantum computing and quantum networks; low for quantum metrology/sensing.\n- Possible inspiration: The two-photon drive and dissipation engineering could be adapted for generating squeezed or entangled states in atomic ensembles, but significant adaptation is needed.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30075v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30075v1",
+  "local_pdf_path": ""
+}

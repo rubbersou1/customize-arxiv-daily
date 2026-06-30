@@ -1,0 +1,19 @@
+{
+  "title": "PT-symmetric time delay oscillator modelling beyond the weak coupling limit via a scattering matrix formulation",
+  "arXiv_id": "2606.28595v1",
+  "abstract": "Parity-time (PT) symmetry in time-delay oscillators such as lasers and optoelectronic oscillators provides a potential route to enhanced spectral purity, including reduced phase noise and improved sidemode suppression. Existing theoretical descriptions are typically based on coupled-mode formulations derived under slowly varying envelope and near-degeneracy assumptions, which restrict their validity to weak coupling, small gain/loss contrast, and small detuning. In this work, a non-perturbative formulation of PT symmetric time-delay oscillators is developed based on a delay-difference equation and a scattering matrix representation of the coupling network. The approach treats propagation delay explicitly and does not rely on modal truncation, remaining valid for arbitrary coupling strength, gain/loss imbalance, and resonance detuning. The exact eigenvalue structure of the system is obtained in closed form, yielding a complete characterization of the unbroken and broken PT symmetric regimes as well as the associated exceptional points. A dimensionless order parameter is introduced that governs the symmetry transition over the full parameter space. It is further shown that conventional coupled-mode theory is recovered as an asymptotic limit of the exact formulation for small parameters. The results provide a unified and physically transparent framework for analysing PT symmetric delay systems beyond the weak-coupling limit, with direct implications for the design and optimisation of low-noise oscillators and photonic systems.",
+  "authors": [
+    "Abhijit Banerjee",
+    "Trevor J. Hall"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "该论文提出了一种基于延迟差分方程和散射矩阵表示的非微扰框架，用于描述PT对称时间延迟振荡器（如激光器和光电振荡器）。该方法明确处理传播延迟，不依赖模态截断，适用于任意耦合强度、增益/损耗不平衡和谐振失谐，给出了系统精确的特征值结构，并恢复了传统耦合模理论作为小参数渐近极限。工作为分析超出弱耦合极限的PT对称延迟系统提供了统一框架，对低噪声振荡器和光子系统的设计有直接意义。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何精确描述PT对称时间延迟振荡器在强耦合、大增益/损耗对比度下的行为？\n- 核心方法：基于延迟差分方程和散射矩阵表示的非微扰公式，避免了传统耦合模理论的慢变包络和近简并假设。\n- 主要结果：获得了系统精确的特征值结构，定义了控制对称性转变的无量纲序参数，并证明了耦合模理论是其小参数渐近极限。\n- 与量子精密测量/量子计算的关系：该工作主要涉及经典/光子振荡器的噪声抑制，与量子精密测量（如量子Fisher信息、自旋压缩）、量子计算（如中性原子、离子阱量子门）无直接关联。虽PT对称性在量子系统中也有研究，但本文聚焦于经典延迟振荡器，未涉及量子度量学或量子信息处理核心概念。\n- 是否值得精读：否。除非你专门研究PT对称光子或经典振荡器中的噪声控制，否则与你的研究方向交集极小。\n- 对我研究的可能启发：无直接启发。PT对称性在量子传感中偶有提及（如增强灵敏度），但本文方法未推广到量子系统，且未讨论量子极限或Fisher信息。",
+  "english_digest": "## English Guide\n- Problem: How to model PT-symmetric time-delay oscillators beyond the weak-coupling limit, without the slowly-varying envelope approximation?\n- Method: A non-perturbative formulation using delay-difference equations and a scattering matrix representation, valid for arbitrary coupling, gain/loss, and detuning.\n- Main result: Exact eigenvalue structure, a dimensionless order parameter for symmetry transition, and recovery of coupled-mode theory as an asymptotic limit.\n- Relevance: This paper is focused on classical/optronic oscillators and noise reduction. It does not address quantum metrology (e.g., quantum Fisher information, spin squeezing), quantum sensing, quantum computing (neutral atoms, trapped ions, Rydberg atoms), or atomic clocks. The PT-symmetry concept is used in a classical context, not in quantum measurement or quantum information. Therefore, relevance to your research areas is minimal.\n- Reading priority: Low. Only if you are specifically working on PT-symmetric photonic or classical oscillator systems.\n- Possible inspiration: None directly. The methods are not transferable to quantum sensing or quantum computing platforms you listed.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28595v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28595v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Limit on the nuclear Schiff moment of europium-153",
+  "arXiv_id": "2606.12084v1",
+  "abstract": "The Schiff moment of a nucleus is a symmetry-violating nuclear moment that indicates new physics beyond the Standard Model. We place the limit, $|\\mathscr{S}({}^{153}$Eu)$| < 1.7 \\times 10^{-8}$ $e\\,$fm$^3$ (95\\% confidence), on the Schiff moment of the $^{153}$Eu nucleus, using nuclear spin resonances in two ensembles of oppositely-polarized $^{153}$Eu$^{3+}$ ions in a Y${}_2$SiO${}_5$ crystal. This measurement using octupolar nuclei in a mm-scale crystal constrains new physics at the TeV energy-scale.",
+  "authors": [
+    "Bassam Nima",
+    "Mingyu Fan",
+    "Xubo Wang",
+    "Sen Wang",
+    "En Fu Zhou",
+    "Andrew M. Jayich",
+    "Jiang Ming Yao",
+    "Lan Cheng",
+    "Amar Vutha"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "hep-ex",
+    "nucl-ex"
+  ],
+  "summary": "该论文通过测量Y₂SiO₅晶体中两个相反极化的¹⁵³Eu³⁺离子系综的核自旋共振，对¹⁵³Eu原子核的Schiff矩设定了上限（|S| < 1.7×10⁻⁸ e·fm³，95%置信度）。Schiff矩是一种违反时间反演对称性（CP破坏）的核矩，其测量可约束超出标准模型的新物理（如TeV能级的新粒子）。该实验利用毫米尺度晶体中的八极核，展示了固态平台在寻找新物理中的潜力。",
+  "chinese_digest": "## 中文导读\n- **研究问题**：通过测量¹⁵³Eu核的Schiff矩，探索超出标准模型的CP破坏新物理。\n- **核心方法**：利用Y₂SiO₅晶体中两个相反极化¹⁵³Eu³⁺离子系综的核自旋共振，通过共振频率差提取Schiff矩上限。\n- **主要结果**：在95%置信度下给出|S| < 1.7×10⁻⁸ e·fm³，约束了TeV能级的新物理。\n- **与量子精密测量/量子计算的关系**：该工作属于精密测量领域，利用固态晶体中的核自旋系综实现高灵敏度测量，与量子传感中的自旋系综方法（如NV色心）有相似性，但未直接涉及量子计算、Rydberg原子、中性原子、离子阱、自旋压缩或Fisher信息等方向。其技术（自旋共振、极化控制）可启发量子传感中的噪声抑制与信号提取。\n- **是否值得精读**：若研究方向为利用固态自旋系综进行基础物理检验（如电偶极矩测量），则值得精读；若专注于量子计算、量子门或Rydberg系统，则相关性中等。\n- **对我研究的可能启发**：磁共振技术、系综极化与噪声抑制方法可迁移至量子传感实验；但该工作不直接涉及量子增强（如自旋压缩或纠缠），因此对量子计量学中的极限研究启发有限。",
+  "english_digest": "## English Guide\n- **Problem**: Constraining new physics beyond the Standard Model by measuring the nuclear Schiff moment of ¹⁵³Eu.\n- **Method**: Nuclear spin resonance in two oppositely-polarized ensembles of ¹⁵³Eu³⁺ ions in a Y₂SiO₅ crystal; frequency difference yields the Schiff moment limit.\n- **Main result**: |S| < 1.7×10⁻⁸ e·fm³ (95% C.L.), constraining TeV-scale CP-violating physics.\n- **Relevance**: This work is a precision measurement using solid-state spin ensembles, akin to quantum sensing with NV centers. However, it is not directly related to quantum computing, Rydberg atoms, neutral atoms, trapped ions, spin squeezing, or Fisher information. The techniques (resonance, polarization control) are relevant to quantum sensing but not to quantum-enhanced metrology or quantum gates.\n- **Reading priority**: Moderate—recommended if your focus is on fundamental physics tests with solid-state sensors; low priority if your main interest is quantum computing, Rydberg systems, or quantum Fisher information.\n- **Possible inspiration**: The noise-suppression and signal-extraction methods from spin ensemble resonance could be adapted for quantum sensing experiments, but the paper does not address quantum resources (e.g., entanglement or squeezing).",
+  "relevance_score": 5.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.12084v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.12084v1",
+  "local_pdf_path": ""
+}

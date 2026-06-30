@@ -1,0 +1,23 @@
+{
+  "title": "Finite-key security analysis of decoy-state QKD with source and detector imperfections",
+  "arXiv_id": "2606.29943v1",
+  "abstract": "Decoy-state quantum key distribution (QKD) is the most widely adopted approach for overcoming the limitations of imperfect single-photon sources. However, existing security proofs typically either neglect important device imperfections or rely on assumptions that are difficult to justify in realistic high-speed implementations, such as the independent and identically distributed nature of the emitted signals. In this work, we combine and extend several recent theoretical advances to provide a comprehensive analytical finite-key security proof for decoy-state QKD that simultaneously incorporates multiple practically relevant transmitter and receiver imperfections, including state-preparation flaws, bit and basis side-channel leakage and correlations, setting-independent intensity fluctuations, and detection-efficiency mismatches.",
+  "authors": [
+    "Xoel Sixto",
+    "Guillermo Currás-Lorenzo",
+    "Margarida Pereira",
+    "Víctor Zapatero",
+    "Álvaro Navarrete",
+    "Marcos Curty"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "该论文针对诱骗态量子密钥分发（QKD）在实际高速实现中面临的源和探测器不完美问题，提出了一种综合性的有限密钥安全证明方法。论文结合并扩展了多项最新理论进展，同时考虑了发射端的状态制备缺陷、比特和基的侧信道泄漏与相关性、设置无关的强度波动，以及接收端的检测效率失配等实际不完美因素，从而提供了更贴近实际系统的安全性分析。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在同时存在源和探测器多种不完美因素的情况下，为诱骗态QKD提供严格的有限密钥安全性证明。\n- 核心方法：结合并扩展多项理论工具，将状态制备误差、侧信道泄漏、强度波动、检测效率失配等实际缺陷纳入安全分析框架。\n- 主要结果：给出了一个综合性的解析有限密钥安全界，可适用于高速、实际QKD系统。\n- 与量子精密测量/量子计算的关系：该论文属于量子通信领域，与量子传感、量子计量、量子计算等方向无直接关联。文中未涉及量子Fisher信息、自旋压缩、Rydberg原子、中性原子量子计算、离子阱、原子钟、Ramsey干涉、腔QED、光镊、量子控制、量子门、微波Rydberg传感等主题。\n- 是否值得精读：对于专注于量子密钥分发安全性的研究者有价值，但对于量子精密测量和量子计算方向的研究者参考意义有限。\n- 对我研究的可能启发：无直接启发，因为研究方向不重叠。",
+  "english_digest": "## English Guide\n- Problem: How to provide a rigorous finite-key security proof for decoy-state QKD while simultaneously accounting for multiple practical source and detector imperfections.\n- Method: Combine and extend several recent theoretical advances to incorporate state-preparation flaws, side-channel leakage, intensity fluctuations, and detection-efficiency mismatch into the security analysis. \n- Main result: A comprehensive analytical finite-key security bound applicable to high-speed, realistic QKD systems.\n- Relevance: This paper belongs to quantum communication/cryptography. It has no direct connection to quantum sensing, quantum metrology, quantum computing, quantum Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, Ramsey interferometry, cavity QED, optical tweezers, quantum control, quantum gates, or microwave Rydberg sensing. Relevance score is low (2/10).\n- Reading priority: Low for researchers in quantum precision measurement and quantum computing; high for those working on QKD security. \n- Possible inspiration: None for the described research focus.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29943v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29943v1",
+  "local_pdf_path": ""
+}

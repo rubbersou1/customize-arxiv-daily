@@ -1,0 +1,25 @@
+{
+  "title": "A Zero-Shot Deep Image Prior Framework for Denoising and Deconvolution in Fluorescence Microscopy",
+  "arXiv_id": "2606.28431v1",
+  "abstract": "Fluorescence microscopy images are degraded by noise and diffraction-induced blur, which compromise structural fidelity and limit quantitative analysis. Supervised deep learning methods achieve impressive restoration performance but require large-scale paired datasets that are difficult to obtain in practice. To address this issue, we propose SDIP, a zero-shot deep image prior (DIP) framework that sequentially performs denoising and deconvolution without external training data. An aSeqDIP-based module first suppresses noise while preserving fine structures through sequential autoencoding regularization. In the deconvolution stage, a wavelet-based background correction step is incorporated before the proposed RLG-DIP module performs artifact-reduced deconvolution. RLG-DIP uses the Richardson-Lucy deconvolution result as a physically consistent guidance prior, integrating the imaging model with the implicit prior of DIP to stabilize the ill-posed deconvolution process. Experiments on the BioSR dataset across multiple cellular structures demonstrate that SDIP improves both signal-to-noise ratio and resolution, achieving superior visual quality and improved quantitative performance on most evaluated structures. The proposed framework may also provide useful insights for designing physically guided DIP methods for other inverse problems.",
+  "authors": [
+    "Xiangyu Qian",
+    "Jing Liu",
+    "Yunqing Tang",
+    "Luru Dai",
+    "Qiushi Li"
+  ],
+  "categories": [
+    "eess.IV",
+    "cs.CV",
+    "cs.LG",
+    "physics.optics"
+  ],
+  "summary": "本文提出了一个零样本深度图像先验框架（SDIP），用于荧光显微镜图像的去噪和去卷积。该框架无需外部训练数据，通过顺序自编码正则化进行噪声抑制，并利用Richardson-Lucy去卷积结果作为物理一致的引导先验进行去卷积，从而提升信噪比和分辨率。实验表明该方法在多个细胞结构上优于现有方法。",
+  "chinese_digest": "## 中文导读\n- 研究问题：荧光显微镜图像受噪声和衍射模糊影响，需去噪和去卷积恢复结构保真度。\n- 核心方法：提出零样本深度图像先验（DIP）框架，结合顺序自编码正则化（aSeqDIP）去噪和基于Richardson-Lucy引导的DIP（RLG-DIP）去卷积。\n- 主要结果：在BioSR数据集上，SDIP在信噪比和分辨率上均优于对比方法，视觉质量更高。\n- 与量子精密测量/量子计算的关系：该论文主要面向生物成像，与量子精密测量、量子传感、量子计算（如Rydberg原子、中性原子、离子阱、Fisher信息、自旋压缩等）无直接关联。其物理引导DIP方法可能对量子实验中的信号处理（如量子态层析、噪声抑制）有间接启发，但核心应用领域不同。\n- 是否值得精读：对于量子精密测量或量子计算方向的研究者，推荐度低；除非对深度学习在逆问题中的应用有跨领域兴趣。\n- 对我研究的可能启发：可借鉴其物理引导先验（如RLG-DIP）的思想，用于量子测量中的逆问题（如从量子投影噪声中恢复参数），但需重新设计物理模型。",
+  "english_digest": "## English Guide\n- Problem: Fluorescence microscopy images suffer from noise and diffraction blur, requiring denoising and deconvolution to restore structural fidelity.\n- Method: A zero-shot deep image prior (DIP) framework (SDIP) that uses sequential autoencoding regularization for denoising and a Richardson-Lucy-guided DIP module for deconvolution.\n- Main result: SDIP achieves superior signal-to-noise ratio and resolution on the BioSR dataset, outperforming existing methods.\n- Relevance: This paper is primarily focused on biological imaging and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The physics-guided DIP approach may offer indirect inspiration for signal processing in quantum experiments (e.g., quantum state tomography, noise mitigation), but the core application domain is distinct.\n- Reading priority: Low for researchers in quantum metrology/computing; only if interested in cross-domain applications of deep learning to inverse problems.\n- Possible inspiration: The concept of using physically consistent priors (e.g., RLG-DIP) could be adapted to quantum measurement inverse problems (e.g., parameter estimation from projective noise), but requires redesigning the physical model.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28431v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28431v1",
+  "local_pdf_path": ""
+}

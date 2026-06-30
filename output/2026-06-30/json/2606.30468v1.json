@@ -1,0 +1,24 @@
+{
+  "title": "Demonstration of unpartible entanglement",
+  "arXiv_id": "2606.30468v1",
+  "abstract": "We report on the first experimental verification of mode-independent entanglement. Commonly, the entanglement of a state is firmly based on pre-defined parties that are correlated, and the state might be disentangled when the definition of the parties is changed. Exceeding this party-dependent concept, we realize a type of quantum entanglement that persists even if the parties, in our case modes, are transformed. This safeguards the performance of entanglement in real-world applications, such as quantum communication settings involving noise and untrusted parties. For the state generation, we present an experimental scheme based on a fully reconfigurable temporally multiplexed interferometer with measurement-induced nonlinearities, which generates heralded two-photon states in two modes that are entangled for all choices of orthonormal mode basis. For the certification process, we utilize a tailored quantum-state tomography, achieving fidelities that validate the presence of mode-independent entanglement as a resilient and operationally advantageous quantum correlation.",
+  "authors": [
+    "Philip Held",
+    "Laura Ares",
+    "Federico Pegoraro",
+    "Jonas Lammers",
+    "Benjamin Brecht",
+    "Jan Sperling",
+    "Christine Silberhorn"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "该论文报告了首次实验验证的“不可分割纠缠”（mode-independent entanglement），即一种即使在模式（parties）变换后仍保持纠缠的量子关联。实验利用可重构的时间复用干涉仪和测量诱导非线性，生成双光子纠缠态，并通过定制量子态层析成像验证了其模式无关性。这种纠缠在存在噪声和不可信方的量子通信场景中具有鲁棒性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：实验验证一种不依赖于预定义模式划分的纠缠态（不可分割纠缠）。\n- 核心方法：基于可重构时间复用干涉仪和测量诱导非线性，生成双光子纠缠态，并通过量子态层析成像进行认证。\n- 主要结果：首次实验证明了模式无关纠缠的存在，该纠缠在所有正交模式基下均保持。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦纠缠的基础性质，与量子精密测量（如量子费舍信息、自旋压缩）或量子计算（如门操作、离子阱、中性原子）的直接联系较远。未涉及Rydberg原子、原子钟、Ramsey干涉等具体平台或协议。\n- 是否值得精读：对于研究纠缠基础或量子通信的读者有价值，但与我关注的量子传感和量子计算方向相关性低。\n- 对我研究的可能启发：无直接启发，但纠缠鲁棒性的概念可能间接影响量子传感中的噪声分析。",
+  "english_digest": "## English Guide\n- Problem: First experimental demonstration of mode-independent entanglement (unpartible entanglement).\n- Method: A reconfigurable temporally multiplexed interferometer with measurement-induced nonlinearities to generate heralded two-photon states, certified via tailored quantum-state tomography.\n- Main result: Successful verification of entanglement that persists under any orthonormal mode basis transformation.\n- Relevance: Low. The paper focuses on fundamental entanglement properties, with no direct connection to quantum metrology (e.g., Fisher information, spin squeezing), quantum sensing platforms (Rydberg atoms, trapped ions, neutral atoms), or quantum computing (gates, error mitigation). It does not address experimental platforms like atomic clocks, cavity QED, or Ramsey interferometry.\n- Reading priority: Low for researchers in quantum sensing/computing; may interest those in foundational quantum information.\n- Possible inspiration: The concept of robust entanglement could indirectly inform noise-resilient sensing schemes, but no immediate application.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30468v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30468v1",
+  "local_pdf_path": ""
+}

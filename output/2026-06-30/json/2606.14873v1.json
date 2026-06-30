@@ -1,0 +1,21 @@
+{
+  "title": "Finite-Element Matrix Product States for Continuum Models in One Dimension",
+  "arXiv_id": "2606.14873v1",
+  "abstract": "We present a matrix product state framework for simulating one-dimensional quantum many-body systems in the continuum using non-orthogonal single-particle basis sets. By mapping the physical problem to an auxiliary computational space, we show that the resulting many-body overlap operator can be efficiently encoded as a matrix product operator for sufficiently localized orbitals, thereby generalizing a construction that first appeared in [arXiv:2405.10285]. This construction recasts the variational ground-state search into a generalized eigenvalue problem, which can be solved using a generalized density matrix renormalization group algorithm. As a primary application, we employ a first-order finite-element expansion to study the ground state properties of the Lieb-Liniger gas in the presence of inhomogeneities. This approach also provides a natural setting for exactly refining the lattice, thereby enabling multigrid optimization strategies for matrix product states.",
+  "authors": [
+    "Akshay Shankar",
+    "Karel Van Acoleyen",
+    "Jutho Haegeman"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas"
+  ],
+  "summary": "本文提出了一种基于有限元基函数的矩阵乘积态（MPS）框架，用于模拟一维连续量子多体系统。通过将物理问题映射到一个辅助计算空间，并利用非正交单粒子基，作者将多体重叠算符高效编码为矩阵乘积算符（MPO），从而将变分基态搜索转化为广义本征值问题，并采用广义密度矩阵重正化群（DMRG）算法求解。作为主要应用，作者使用一阶有限元展开研究了非均匀Lieb-Liniger气体的基态性质。该方法还提供了精确细化格点的自然途径，支持多重网格优化策略。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何高效模拟一维连续量子多体系统。\n- 核心方法：使用有限元基函数构造非正交单粒子基，将多体重叠算符编码为MPO，并利用广义DMRG求解广义本征值问题。\n- 主要结果：成功模拟了非均匀Lieb-Liniger气体的基态性质，并展示了格点精确细化和多重网格优化能力。\n- 与量子精密测量/量子计算的关系：本文主要关注量子多体模拟的数值方法，与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子量子计算、离子阱、Fisher信息等方向无直接关联。论文不涉及任何测量协议、传感方案或量子门实现。\n- 是否值得精读：否。除非您专门从事一维连续量子系统数值模拟或张量网络方法开发，否则相关性较低。\n- 对我研究的可能启发：无直接启发。但张量网络方法（如MPS）在量子传感和量子计算中可能用于模拟噪声或纠缠动力学，但本文更侧重于基态计算，而非动力学或测量。",
+  "english_digest": "## English Guide\n- Problem: Efficient simulation of one-dimensional continuum quantum many-body systems.\n- Method: Finite-element basis sets for non-orthogonal single-particle orbitals, encoding the many-body overlap operator as a matrix product operator (MPO), and solving a generalized eigenvalue problem via generalized DMRG.\n- Main result: Ground-state properties of the inhomogeneous Lieb-Liniger gas are studied, with the ability to refine the lattice exactly and enable multigrid optimization.\n- Relevance: The paper is focused on numerical methods for quantum many-body simulation and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or related experimental platforms. It does not address any measurement protocols, sensing schemes, or quantum gate implementations.\n- Reading priority: Low. Only relevant if you are specifically working on tensor network methods for continuum systems.\n- Possible inspiration: Minimal. The use of MPO and DMRG in this context may inspire noise or entanglement simulation in quantum sensing, but the paper is primarily about ground-state algorithms, not dynamics or metrology.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.14873v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.14873v1",
+  "local_pdf_path": ""
+}

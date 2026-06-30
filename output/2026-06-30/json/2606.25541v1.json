@@ -1,0 +1,21 @@
+{
+  "title": "Pseudo-spectral frequency-domain method with background field decomposition and Green's function preconditioner for electromagnetic scattering problem in EUV lithography",
+  "arXiv_id": "2606.25541v1",
+  "abstract": "We provide an accelerated computational framework to solve electromagnetic scattering problems in planarly layered media arising from extreme ultraviolet (EUV) lithography. To achieve this, we reformulate the EUV scattering problem into a scattering problem on a homogeneous background, in which the electromagnetic contribution of the layered media is captured by a recursively updated reflection of the layered stack. The system is numerically solved by employing the pseudo-spectral frequency-domain method paired with an iterative solver, whose iterative convergence is expedited by a free-space Green's function preconditioner. The proposed framework is evaluated on EUV mask geometries and multilayer mirror stacks, demonstrating a significant speedup over the conventional pseudo-spectral frequency-domain method.",
+  "authors": [
+    "Seungjin Lee",
+    "Werner Gillijns",
+    "Doyun Kim"
+  ],
+  "categories": [
+    "physics.optics",
+    "physics.comp-ph"
+  ],
+  "summary": "本文提出了一种加速的伪谱频域方法，用于解决极紫外（EUV）光刻中平面分层介质的电磁散射问题。该方法将散射问题重新表述为均匀背景上的散射问题，其中分层介质的电磁贡献由递归更新的反射捕捉。通过自由空间格林函数预处理器加速迭代求解器的收敛。在EUV掩模几何和多层反射镜堆叠上的评估表明，该方法比传统伪谱频域方法显著加速。",
+  "chinese_digest": "## 中文导读\n- 研究问题：加速EUV光刻中的电磁散射计算。\n- 核心方法：背景场分解与自由空间格林函数预处理器结合的伪谱频域方法。\n- 主要结果：在EUV掩模和反射镜堆叠上实现显著加速。\n- 与量子精密测量/量子计算的关系：本文专注于光刻工程中的电磁模拟，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。\n- 是否值得精读：否，与研究方向不相关。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Accelerating electromagnetic scattering computation in EUV lithography.\n- Method: Pseudo-spectral frequency-domain method with background field decomposition and free-space Green's function preconditioner.\n- Main result: Significant speedup on EUV mask and multilayer mirror stacks.\n- Relevance: This paper focuses on electromagnetic simulation for lithography engineering, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information.\n- Reading priority: No, it is not relevant to the research focus.\n- Possible inspiration: No direct inspiration.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25541v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25541v1",
+  "local_pdf_path": ""
+}

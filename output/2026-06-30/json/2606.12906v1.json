@@ -1,0 +1,23 @@
+{
+  "title": "Global Control with the Tavis-Cummings Interaction",
+  "arXiv_id": "2606.12906v1",
+  "abstract": "We study the controllability of a system of qubits under global control, where control pulses act identically on all qubits. Specifically, we consider a collection of qubits identically coupled to a single bosonic mode, or harmonic oscillator, via the Jaynes-Cummings interaction. This collective coupling, known as the Tavis-Cummings (TC) interaction, has been realized in several quantum computing platforms, including superconducting and atomic qubit systems. Although the qubits do not interact directly with one another, they can become entangled through their common coupling to the bosonic mode. We characterize the group of unitaries that can be implemented on the joint Hilbert space of the qubits and bosonic mode using the TC interaction together with a global $z$ field $J_z$, corresponding to identical z rotations on all qubits. We show that for n>2 qubits the set of realizable unitaries is restricted by an \"accidental\" symmetry of the TC Hamiltonian, distinct from its \"standard\" U(1) and permutational symmetries. On the other hand, we find that the Hamiltonian $J_z^2$ breaks this accidental symmetry and, together with the TC interaction and $J_z$, achieves semi-universality: it allows the implementation of arbitrary unitaries that respect permutational and U(1) symmetry, up to certain constraints on the center of the group. In a companion paper, we further analyze this remarkable accidental symmetry and show that it can be understood through Schwinger's bosonic model of angular momentum.",
+  "authors": [
+    "Plato Deliyannis",
+    "Iman Marvian"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.mes-hall",
+    "math-ph",
+    "nucl-th",
+    "physics.atom-ph"
+  ],
+  "summary": "该论文研究了在全局控制下，通过Tavis-Cummings（TC）相互作用实现量子比特系统的可控性。TC相互作用描述了一组量子比特与单个玻色子模（谐振子）的相同耦合，已在超导和原子量子计算平台中实现。作者发现，对于n>2个量子比特，TC哈密顿量存在一种“偶然”对称性，限制了可实现酉操作的集合。通过添加J_z^2项可以打破这种对称性，结合TC相互作用和全局z场J_z，可以实现半通用性：允许实现满足置换对称性和U(1)对称性的任意酉操作，但对群中心有一定约束。",
+  "chinese_digest": "## 中文导读\n- 研究问题：在全局控制下，利用Tavis-Cummings相互作用对量子比特系统进行可控性分析。\n- 核心方法：通过李代数方法，分析TC哈密顿量的对称性，并研究添加J_z和J_z^2项后对可实现酉操作群的影响。\n- 主要结果：发现n>2时存在一种偶然对称性限制了可控性；添加J_z^2可打破该对称性，实现半通用控制。\n- 与量子精密测量/量子计算的关系：该工作直接关联量子计算中的通用门实现，特别是基于中性原子、囚禁离子或超导量子比特的平台。TC相互作用是许多量子传感方案（如自旋压缩、拉姆齐干涉）的核心，因此对量子精密测量也有重要意义。\n- 是否值得精读：是，对于从事量子控制、量子门设计以及基于集体耦合的量子传感研究者具有参考价值。\n- 对我研究的可能启发：可启发基于TC相互作用的量子传感协议设计，例如利用全局控制实现自旋压缩或纠缠增强的测量；也可用于分析中性原子或囚禁离子系统中量子门的实现限制。",
+  "english_digest": "## English Guide\n- Problem: Analyze the controllability of a qubit system under global control using the Tavis-Cummings (TC) interaction. \n- Method: Lie algebraic analysis to identify symmetries of the TC Hamiltonian and study the reachable unitary group when adding J_z and J_z^2 terms. \n- Main result: An accidental symmetry restricts controllability for n>2 qubits; adding J_z^2 breaks this symmetry and achieves semi-universality. \n- Relevance: Directly relevant to quantum computing (universal gate sets in neutral atoms, trapped ions, superconducting qubits) and quantum metrology (spin squeezing, Ramsey interferometry, collective coupling in cavity QED). \n- Reading priority: High, for those interested in quantum control, gate synthesis, and collective spin systems. \n- Possible inspiration: Can inspire control protocols for generating spin squeezing or entanglement-enhanced sensing; useful for understanding fundamental limits in Rydberg atom and trapped ion quantum processors.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.12906v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.12906v1",
+  "local_pdf_path": ""
+}

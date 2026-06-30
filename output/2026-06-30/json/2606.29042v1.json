@@ -1,0 +1,23 @@
+{
+  "title": "Exact Hilbert-space ergodicity from continuous monitoring",
+  "arXiv_id": "2606.29042v1",
+  "abstract": "Quantum evolution is generally expected to drive a quantum many-body system toward equilibrium. This expectation is often justified by the Hilbert-space ergodicity of generic quantum dynamics, namely, the idea that pure-state evolution explores Hilbert space uniformly up to physical constraints. Such a statement can be made rigorous by requiring the associated state ensemble to form the Haar-random ensemble, or its more structured generalization, the Scrooge ensemble. In this Letter, we report the emergence of exact Hilbert-space ergodicity in a continuously monitored quantum many-body system. For any target density matrix $σ$, we construct a continuously monitored system for which we rigorously prove that the Scrooge ensemble of $σ$ is the unique late-time equilibrium distribution of quantum trajectories. Remarkably, this requires only that the jump operators in the monitoring form a deformed unitary 1-design, a seemingly much weaker condition than full ergodicity. We numerically demonstrate our predictions by simulating continuously monitored systems whose equilibrium states are thermal states. Our results establish a rigorous mechanism for the emergence of Hilbert-space ergodicity and provide a practical route for its investigation on quantum devices.",
+  "authors": [
+    "Yue Wu",
+    "Yuzhi Tong",
+    "Liang Mao",
+    "Pengfei Zhang"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "cond-mat.stat-mech"
+  ],
+  "summary": "该论文报告了在连续监测的量子多体系统中出现精确的希尔伯特空间遍历性。作者证明，对于任意目标密度矩阵σ，通过构造一个连续监测系统，可以严格证明σ的Scrooge系综是量子轨迹在晚期唯一的平衡分布。这一结果仅要求监测中的跳跃算子构成一个形变幺正1-设计，这比完全遍历性条件弱得多。数值模拟以热态为平衡态的系统验证了该预测。该工作建立了希尔伯特空间遍历性出现的严格机制，并为其在量子设备上的研究提供了实用途径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：连续监测的量子多体系统是否能达到精确的希尔伯特空间遍历性，以及该遍历性与目标密度矩阵的Scrooge系综的关系。\n- 核心方法：通过构造具有特定跳跃算子（形变幺正1-设计）的连续监测系统，从数学上证明系统的量子轨迹在晚期会均匀分布到Scrooge系综。\n- 主要结果：对于任意目标密度矩阵，Scrooge系综是唯一平衡分布；数值模拟验证了热态情况。\n- 与量子精密测量/量子计算的关系：该论文主要关注量子多体系统的遍历性和平衡态统计，与量子精密测量（如量子费希尔信息、自旋压缩、拉姆齐干涉等）、量子传感、量子计算（如中性原子、离子阱、里德伯原子等）的直接关联较弱。文中未涉及测量精度、纠缠增强、量子门操作等核心主题。\n- 是否值得精读：对于研究量子热化、量子轨迹、开放量子系统理论的学者有一定价值，但对于专注于量子精密测量和量子计算的实验或协议研究者，相关性较低。\n- 对我研究的可能启发：可能启发对连续测量下量子系统动力学行为的理解，但直接应用于量子传感或计算协议的可能性不大。",
+  "english_digest": "## English Guide\n- Problem: Does exact Hilbert-space ergodicity emerge in continuously monitored quantum many-body systems, and what is its relation to the Scrooge ensemble of a target density matrix? \n- Method: Construct a continuously monitored system with jump operators forming a deformed unitary 1-design, and prove rigorously that the quantum trajectories converge to the Scrooge ensemble at late times.\n- Main result: The Scrooge ensemble is the unique equilibrium distribution for any target density matrix; numerical simulations confirm the prediction for thermal states.\n- Relevance: This paper focuses on ergodicity and equilibrium statistics in many-body quantum systems. It has weak direct relevance to quantum precision measurement (e.g., quantum Fisher information, spin squeezing, Ramsey interferometry), quantum sensing, or quantum computing (neutral atoms, trapped ions, Rydberg atoms, quantum gates). The paper does not address metrological protocols, sensing limits, or computational primitives.\n- Reading priority: Low priority for researchers primarily interested in quantum metrology, sensing, or quantum computing. Medium priority for those studying quantum thermalization, trajectories, or open systems.\n- Possible inspiration: Could offer insights into the dynamics of continuously monitored systems, but unlikely to directly inspire new protocols for quantum sensing or computation.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29042v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29042v1",
+  "local_pdf_path": ""
+}

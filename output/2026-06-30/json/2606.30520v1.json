@@ -1,0 +1,21 @@
+{
+  "title": "Staged Hybridisation for Visual Quantum Reinforcement Learning via Knowledge Distillation",
+  "arXiv_id": "2606.30520v1",
+  "abstract": "Visual environments are a demanding setting for quantum reinforcement learning (QRL): high-dimensional observations, unstable RL optimisation, and constrained variational quantum circuits (VQCs) are difficult to train jointly. This paper studies knowledge distillation (KD) as a staged hybridisation strategy for visual QRL. Instead of training a hybrid visual agent end-to-end from pixels, we first train a classical visual teacher, freeze its encoder as a feature interface, and distil the teacher's policy behaviour into compact downstream heads. These heads can be classical or VQC-based, enabling small quantum-compatible students to be evaluated under the same frozen representation as compact classical controls.\n  We evaluate the pipeline on CartPole Pixels and Acrobot Pixels. The results show that staged KD enables shallow VQC heads to acquire non-trivial visual-control behaviour in settings where direct pixel-based training would be substantially more difficult. Angle-encoded VQC heads retain near-teacher performance, while amplitude-encoded heads push compactness to an extreme regime, at the cost of greater fragility, stronger budget sensitivity, and higher simulation time. Overall, staged KD reframes visual QRL as a compact-head learning problem, opening a practical route for training small quantum-compatible policies outside the standard end-to-end RL loop.",
+  "authors": [
+    "Javier Lazaro",
+    "Juan-Ignacio Vazquez",
+    "Pablo Garcia-Bringas"
+  ],
+  "categories": [
+    "quant-ph",
+    "cs.LG"
+  ],
+  "summary": "这篇论文提出了一个名为“分阶段混合化”的策略，用于视觉量子强化学习。核心思想是先训练一个经典的视觉教师网络，冻结其编码器作为特征接口，然后将教师的策略行为蒸馏到紧凑的下游头（可以是经典或基于变分量子电路的）。这种方法避免了端到端从像素训练量子模型的困难，使得浅层量子电路头也能在视觉控制任务（如CartPole和Acrobot）上获得接近教师的表现。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何让量子强化学习处理高维视觉输入，避免端到端训练的困难。\n- 核心方法：知识蒸馏——先训练经典视觉教师，冻结其编码器，再将策略蒸馏到量子或经典紧凑头。\n- 主要结果：角度编码的量子电路头能接近教师性能，幅度编码则更紧凑但更脆弱。\n- 与量子精密测量/量子计算的关系：本文属于量子机器学习领域，与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。论文不涉及任何量子计量学协议、量子传感平台或量子门实现，也未讨论测量极限或误差缓解。\n- 是否值得精读：对于量子精密测量或量子计算硬件方向的研究者，不值得精读。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to enable quantum reinforcement learning to handle high-dimensional visual inputs without the difficulty of end-to-end training.\n- Method: Knowledge distillation — first train a classical visual teacher, freeze its encoder, then distill the policy into compact classical or VQC-based heads.\n- Main result: Angle-encoded VQC heads achieve near-teacher performance; amplitude-encoded heads are more compact but more fragile.\n- Relevance: This paper belongs to quantum machine learning and has no direct connection to quantum precision measurement, quantum sensing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or any quantum metrology protocol. It does not discuss experimental platforms, measurement limits, or error mitigation.\n- Reading priority: Not recommended for researchers focused on quantum metrology or quantum computing hardware.\n- Possible inspiration: None directly.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30520v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30520v1",
+  "local_pdf_path": ""
+}

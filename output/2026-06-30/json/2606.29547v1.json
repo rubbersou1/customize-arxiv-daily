@@ -1,0 +1,22 @@
+{
+  "title": "Quantum simulation of molecular excited-state manifolds and energies using the TEPID-ADAPT-VQE algorithm",
+  "arXiv_id": "2606.29547v1",
+  "abstract": "The simulation of molecular excited states is a key challenge in quantum chemistry and a promising application for quantum computing. In this work, we investigate the efficacy of the truncated eigenvalue parametrized initial density adaptive variational algorithm (TEPID-ADAPT-VQE) for computing low-lying excited states and potential energy surfaces. TEPID-ADAPT variationally diagonalizes a truncated low-temperature Gibbs state, enabling the simultaneous preparation of multiple excited states within a single optimization. We apply the method to H$_2$, LiH, and linear H$_4$ across bond lengths spanning weakly and strongly correlated regimes. The adaptive derivative-assembled problem-tailored (ADAPT) ansatz construction yields compact circuits suitable for near-term hardware. We also implement a modified version of the MORE-ADAPT-VQE algorithm for comparison with TEPID-ADAPT. We find that both algorithms accurately reproduce excited-state spectra and potential energy curves within chemical accuracy for all the molecules and geometries studied. However, TEPID-ADAPT has the advantage of utilizing only a single, physically motivated hyperparameter (temperature) that controls the energy scale at which excited states are targeted, while MORE-ADAPT utilizes multiple hyperparameters whose optimal values depend sensitively on the target problem. These results demonstrate that combining adaptive ansatz construction with density-matrix-based formulations provides an efficient framework for excited-state quantum chemistry on near-term devices.",
+  "authors": [
+    "Jason Saroni",
+    "Bharath Sambasivam",
+    "Ayush Asthana",
+    "Edwin Barnes"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.chem-ph"
+  ],
+  "summary": "本文研究了截断特征值参数化初始密度自适应变分量子本征求解器（TEPID-ADAPT-VQE）算法，用于计算分子激发态和势能面。该算法通过对截断的低温吉布斯态进行变分对角化，在单次优化中同时制备多个激发态。作者将方法应用于H₂、LiH和线性H₄分子，覆盖弱相关和强相关区域，并与MORE-ADAPT-VQE算法比较。结果表明，TEPID-ADAPT能以化学精度重现激发态光谱和势能曲线，且仅需一个物理超参数（温度），而MORE-ADAPT依赖多个对问题敏感的优化超参数。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何高效计算分子激发态和势能面，以适用于近期量子计算硬件。\n- 核心方法：TEPID-ADAPT-VQE算法，结合自适应电路构建和密度矩阵变分对角化，通过单一温度参数控制激发态能量范围。\n- 主要结果：在H₂、LiH、H₄分子上，算法以化学精度再现激发态能谱和势能曲线，电路紧凑，优于需多超参数调优的MORE-ADAPT。\n- 与量子精密测量/量子计算的关系：论文主要属于量子化学模拟方向，与量子精密测量（如量子Fisher信息、自旋压缩）无直接联系；但其自适应变分方法和硬件适应性对量子计算中的误差缓解和控制有间接参考价值。\n- 是否值得精读：若专注于量子化学或变分量子算法，值得精读；若主要兴趣在量子传感或精密测量，则优先级较低。\n- 对我研究的可能启发：其自适应电路构建策略（ADAPT）可启发量子控制或量子门优化中的电路压缩方法，但核心内容与Rydberg原子、离子阱、原子钟等平台不直接相关。",
+  "english_digest": "## English Guide\n- Problem: Efficient simulation of molecular excited states and potential energy surfaces on near-term quantum devices. \n- Method: TEPID-ADAPT-VQE, which variationally diagonalizes a truncated low-temperature Gibbs state with adaptive ansatz construction, using a single temperature hyperparameter. \n- Main result: Achieves chemical accuracy for excited-state spectra and potential energy curves of H₂, LiH, and H₄, with compact circuits, outperforming MORE-ADAPT in hyperparameter simplicity. \n- Relevance: This work is primarily in quantum chemistry simulation. It has no direct link to quantum precision measurement topics such as quantum Fisher information, spin squeezing, Rydberg atoms, trapped ions, or atomic clocks. The adaptive variational approach may offer indirect insights for quantum control or error mitigation in quantum computing, but the core focus is far from sensing or metrology. \n- Reading priority: Low for researchers focused on quantum sensing or metrology; moderate for those interested in variational quantum algorithms or near-term quantum computing. \n- Possible inspiration: The ADAPT ansatz construction could inspire circuit compression in quantum gates or control protocols, but does not directly address Fisher information, spin squeezing, or experimental platforms like Rydberg atoms or trapped ions.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29547v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29547v1",
+  "local_pdf_path": ""
+}

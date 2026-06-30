@@ -1,0 +1,21 @@
+{
+  "title": "Vortex-core size and quantum geometry in flat-band superconductors",
+  "arXiv_id": "2606.16536v1",
+  "abstract": "We investigate the real-space vortex structure of a flat-band superconductor described by the attractive Hubbard model on the Mielke checkerboard lattice. Using a momentum-space mean-field analysis, we derive a closed-form expression for the coherence length in terms of the quantum metric of the Bloch states and a particle-hole-symmetric pair density. Self-consistent Bogoliubov-de Gennes calculations on a finite disk confirm this prediction across a wide range of fillings and interaction strengths. The coherence length is minimized at half filling, diverges toward both band edges as the pair density vanishes, and depends only logarithmically on the interaction strength. These features differ qualitatively from the conventional BCS picture, which relies on a well-defined Fermi surface and a kinetic mechanism for pair transport. Instead, the vortex-core size is governed by a geometric pair mass arising from virtual interband processes encoded in the quantum metric. Our results establish the vortex core as a direct real-space manifestation of flat-band quantum geometry.",
+  "authors": [
+    "M. Özkurt",
+    "M. Iskin"
+  ],
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.quant-gas",
+    "cond-mat.str-el"
+  ],
+  "summary": "本文研究了平带超导体中涡旋核心的尺寸与量子几何的关系。作者利用Mielke棋盘格点上的吸引Hubbard模型，通过动量空间平均场分析推导出相干长度与布洛赫态量子度量的解析表达式，并利用自洽Bogoliubov-de Gennes计算在有限圆盘上验证了该预测。研究发现，相干长度在半填充时最小，在能带边缘发散，且仅对数依赖于相互作用强度，这与传统BCS理论不同。结果表明，涡旋核心尺寸由量子度量编码的虚带间过程产生的几何对质量决定，是平带量子几何在实空间中的直接表现。",
+  "chinese_digest": "## 中文导读\n- 研究问题：平带超导体中涡旋核心尺寸的物理机制及其与量子几何的关系。\n- 核心方法：理论分析（动量空间平均场）和数值计算（自洽Bogoliubov-de Gennes方程）。\n- 主要结果：相干长度由量子度量决定，半填充时最小，能带边缘发散，对数依赖于相互作用强度。\n- 与量子精密测量/量子计算的关系：本文主要关注超导物理和量子几何，与量子精密测量、量子传感、量子计算等方向无直接关联。其中提到的“量子度量”概念虽与量子Fisher信息有数学联系，但本文未涉及计量学应用。\n- 是否值得精读：对于量子精密测量或量子计算方向的研究者，相关性较低，不建议精读。\n- 对我研究的可能启发：量子度量在凝聚态物理中的应用可能为理解量子传感中的几何效应提供背景，但直接启发有限。",
+  "english_digest": "## English Guide\n- Problem: The physical mechanism of vortex-core size in flat-band superconductors and its relation to quantum geometry.\n- Method: Theoretical analysis (momentum-space mean-field) and numerical calculations (self-consistent Bogoliubov-de Gennes).\n- Main result: The coherence length is governed by the quantum metric; it is minimized at half filling, diverges at band edges, and depends logarithmically on interaction strength.\n- Relevance: This paper focuses on condensed matter physics and quantum geometry, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, or related experimental platforms (Rydberg atoms, trapped ions, etc.). The concept of quantum metric is mathematically related to quantum Fisher information, but the paper does not discuss metrological applications.\n- Reading priority: Low for researchers in quantum metrology or quantum computing.\n- Possible inspiration: The role of quantum geometry in condensed matter may provide background for geometric effects in quantum sensing, but direct inspiration is limited.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.16536v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.16536v1",
+  "local_pdf_path": ""
+}

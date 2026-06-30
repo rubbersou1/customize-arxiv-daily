@@ -1,0 +1,25 @@
+{
+  "title": "Rapid Cavity-Based Mid-Circuit Measurement and Feedforward in a Neutral Atom Array",
+  "arXiv_id": "2606.24869v1",
+  "abstract": "Measuring part of a quantum system in the midst of its evolution and acting on the result in real time is essential for numerous quantum information protocols. Neutral-atom arrays are a leading platform for quantum information processing, but their mid-circuit measurement-and-feedforward cycle times have remained slow, typically exceeding 1 ms. Here we demonstrate fast mid-circuit measurement and real-time feedforward in an array of atomic qubits coupled to a high-finesse optical cavity. Local light shifts tune individual data qubits out of resonance with the cavity, shielding their coherence, while a near-resonant probe drives a selected qubit whose emission is collected with Purcell enhancement. Mid-circuit measurements of four qubits with sub percent infidelity reduce the coherence of a fifth unmeasured data qubit by less than 2%. We implement real-time feedforward to correct measurement-induced phase shifts and to realize an adaptive circuit for optimal quantum state discrimination and conditional state preparation. Our approach reduces the measurement-and-feedforward cycle time to below 100 $μ$s and establishes optical cavities as a route to fast control of neutral-atom quantum systems.",
+  "authors": [
+    "Tsai-Chen Lee",
+    "Jacquelyn Ho",
+    "Yue-Hui Lu",
+    "Tai Xiang",
+    "Nathaniel B. Vilas",
+    "Zhenjie Yan",
+    "Dan M. Stamper-Kurn"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "本文展示了在基于中性原子的量子计算阵列中，利用高精细度光学腔实现快速的中电路测量与实时前馈控制。通过局部光位移将数据量子比特与腔共振解耦以保护其相干性，同时利用近共振探针驱动选定量子比特，并通过Purcell增强收集其发射信号。实验实现了对四个量子比特的中电路测量（保真度超过99%），对第五个未测量数据量子比特的相干性影响小于2%。实时前馈用于纠正测量引起的相位偏移，并实现自适应量子态区分和条件态制备。该技术将测量与前馈周期缩短至100微秒以下，为中性原子量子系统的快速控制提供了新途径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在中性原子量子计算阵列中实现快速、低干扰的中电路测量与实时前馈？\n- 核心方法：利用高精细度光学腔进行Purcell增强的快速测量；通过局部光位移保护未测量量子比特的相干性；结合实时前馈纠正测量引起的相位误差。\n- 主要结果：中电路测量周期低于100微秒，测量保真度>99%，对旁观量子比特的相干性影响<2%；实现了自适应量子态区分和条件态制备。\n- 与量子精密测量/量子计算的关系：该技术直接服务于中性原子量子计算（量子计算方向），其中快速测量与前馈是实现纠错和自适应协议的关键。同时，腔增强测量方法可应用于量子传感中的快速读出，例如在原子钟或干涉仪中实现低噪声状态检测。\n- 是否值得精读：是。该工作解决了中性原子平台中测量速度与相干性保护的权衡问题，对量子计算和量子传感的实时控制有重要参考价值。\n- 对我研究的可能启发：可借鉴腔增强测量方案用于Rydberg原子、离子阱或光晶格中的快速量子态读出；前馈技术可用于量子计量中的自适应测量（如贝叶斯估计）或量子纠错中的反馈控制。",
+  "english_digest": "## English Guide\n- Problem: How to achieve fast mid-circuit measurement and real-time feedforward in neutral-atom quantum arrays with minimal disturbance to coherences?\n- Method: Use a high-finesse optical cavity for Purcell-enhanced fast readout; apply local light shifts to shield unmeasured qubits from the cavity; implement real-time feedforward to correct measurement-induced phase shifts.\n- Main result: Measurement-and-feedforward cycle time below 100 μs, measurement fidelity >99%, coherence reduction of bystander qubit <2%; demonstrated adaptive quantum state discrimination and conditional state preparation.\n- Relevance: Directly relevant to neutral-atom quantum computing (quantum computing direction), as fast measurement and feedforward are essential for error correction and adaptive protocols. The cavity-enhanced readout also benefits quantum sensing applications, e.g., rapid state detection in atomic clocks or atom interferometers.\n- Reading priority: High. This work addresses a critical trade-off between measurement speed and coherence protection in neutral-atom platforms, offering insights for both quantum computing and quantum metrology.\n- Possible inspiration: Adapt cavity-enhanced readout for fast state detection in Rydberg-atom, trapped-ion, or optical-lattice systems; apply feedforward techniques for adaptive measurements in quantum metrology (e.g., Bayesian estimation) or feedback control in quantum error correction.",
+  "relevance_score": 9.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.24869v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.24869v1",
+  "local_pdf_path": ""
+}

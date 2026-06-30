@@ -1,0 +1,22 @@
+{
+  "title": "Effects of interaction range on the mean-field dynamics of Bose polarons",
+  "arXiv_id": "2606.20020v1",
+  "abstract": "We consider the three-dimensional Bose polaron problem in the regime of finite range interactions and competing length scales. Working in the reference frame of the impurity, we study both static and out of equilibrium properties of the system, in particular the transfer of momentum between the impurity and the host gas. We find that relaxation dynamics can occur via damped oscillations of the impurity velocity with simple dependence on the interaction strength. Furthermore, the equilibration process is sensitive to the type of the impurity-bath interaction. Specifically, interatomic forces describing ion-atom systems lead to much longer timescales and more pronounced oscillations in the strong coupling regime with respect to local interaction potentials. We also find that the effective masses can differ by a large amount between the two scenarios, even if the number of atoms in the polaron cloud remains similar for both cases.",
+  "authors": [
+    "Piotr Wysocki",
+    "Ubaldo Cavazos Olivas",
+    "Marek Tylutki",
+    "Krzysztof Jachymski"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了三维玻色极化子问题，在有限程相互作用和竞争长度尺度的条件下，分析了杂质原子与玻色气体之间的动量传递和弛豫动力学。研究发现，弛豫过程通过阻尼振荡发生，且杂质-气体相互作用的类型（如离子-原子系统与局域相互作用）会显著影响弛豫时间尺度和振荡幅度。在强耦合区域，离子-原子相互作用导致更长的弛豫时间和更明显的振荡。此外，两种场景下的有效质量差异很大，尽管极化子云中的原子数相似。",
+  "chinese_digest": "## 中文导读\n- 研究问题：有限程相互作用对玻色极化子平均场动力学的影响，特别是杂质与玻色气体之间的动量传递和弛豫行为。\n- 核心方法：在杂质参考系中研究系统的静态和非平衡性质，通过数值模拟分析阻尼振荡和有效质量。\n- 主要结果：弛豫动力学通过阻尼振荡发生，离子-原子相互作用导致更长的弛豫时间和更明显的振荡；有效质量在两种相互作用类型下差异显著。\n- 与量子精密测量/量子计算的关系：该论文主要关注玻色极化子系统的动力学，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。它属于冷原子物理中的多体动力学问题，而非量子计量学或量子信息处理的核心领域。\n- 是否值得精读：不值得。该论文与您的研究领域相关性较低，不是量子精密测量或量子计算方向的直接贡献。\n- 对我研究的可能启发：无直接启发，但其中的多体动力学方法或可间接参考，例如在量子传感器中考虑环境相互作用的影响。",
+  "english_digest": "## English Guide\n- Problem: Effects of finite-range interactions on the mean-field dynamics of Bose polarons, focusing on momentum transfer and relaxation between impurity and host gas.\n- Method: Study static and out-of-equilibrium properties in the impurity reference frame, analyzing damped oscillations and effective masses via numerical simulation.\n- Main result: Relaxation occurs via damped oscillations; ion-atom interactions lead to longer timescales and stronger oscillations; effective masses differ significantly between interaction types.\n- Relevance: This paper is primarily about many-body dynamics in cold atom systems (Bose polarons) and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or related topics. It belongs to condensed matter/ultracold atom physics rather than quantum metrology or quantum information.\n- Reading priority: Low. Not aligned with your research interests.\n- Possible inspiration: Minimal; the dynamical methods might be tangentially useful for understanding environmental effects in quantum sensors, but this is not a recommended read for your focus.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.20020v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.20020v1",
+  "local_pdf_path": ""
+}

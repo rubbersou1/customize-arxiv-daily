@@ -1,0 +1,25 @@
+{
+  "title": "Josephson spectroscopy in a circular atomic tunnel junction with acceleration-induced symmetry breaking",
+  "arXiv_id": "2606.18706v1",
+  "abstract": "We study Josephson dynamics in a long atomic Bose-Josephson junction formed by two tunnel-coupled coplanar Bose-Einstein-condensate rings. An in-plane linear acceleration breaks the axial symmetry of the trap and transforms a single Josephson plasma oscillation into a multimode population-imbalance response. Gross-Pitaevskii simulations and Bogoliubov-de Gennes analysis show that the additional spectral components arise from collective modes that acquire finite overlap with the population-imbalance operator under symmetry breaking, with their activation governed by reflection symmetry about the acceleration direction. We also propose a mode-resolved Josephson-spectroscopy protocol based on a weak localized periodic perturbation. Frequency scans reveal resonant amplitude peaks and phase shifts at the eigenfrequencies of active Bogoliubov modes, while angular scans of the drive position provide access to the angular structure of the corresponding mode density perturbations. A dissipative time-dependent Bogoliubov theory yields analytical response functions in quantitative agreement with full Gross-Pitaevskii simulations in the linear regime. Our results demonstrate that accelerated dual-ring condensates provide a controllable platform for symmetry-selected Josephson dynamics and spectroscopic probing of collective modes.",
+  "authors": [
+    "Yurii Borysenko",
+    "Yuriy Bidasyuk",
+    "Olena Prykhodko",
+    "Gerhard Birkl",
+    "Dominik Pfeiffer",
+    "Ludwig Lind",
+    "Mark Edwards",
+    "Alexander Yakimenko"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "这篇论文研究了由两个隧道耦合的共面玻色-爱因斯坦凝聚环构成的原子玻色-约瑟夫森结中的约瑟夫森动力学。平面内的线性加速度破坏了陷阱的轴对称性，将单一的约瑟夫森等离子体振荡转变为多模布居数不平衡响应。通过Gross-Pitaevskii模拟和Bogoliubov-de Gennes分析，发现额外的频谱成分来源于在对称性破缺下与布居数不平衡算符产生重叠的集体模式，其激活由关于加速度方向的反射对称性控制。论文还提出了一种基于弱局域周期扰动的模式分辨约瑟夫森光谱学方案：频率扫描显示活跃Bogoliubov模式本征频率处的共振振幅峰值和相移，而驱动位置的角度扫描则提供了相应模式密度扰动的角结构信息。耗散含时Bogoliubov理论在线性区域内给出了与全Gross-Pitaevskii模拟定量一致的解析响应函数。结果表明，加速的双环凝聚体为对称性选择的约瑟夫森动力学和集体模式的光谱探测提供了一个可控平台。",
+  "chinese_digest": "## 中文导读\n- 研究问题：研究加速对称性破缺下环形原子玻色-约瑟夫森结中的多模约瑟夫森动力学及其光谱探测方法。\n- 核心方法：采用Gross-Pitaevskii模拟、Bogoliubov-de Gennes分析以及耗散含时Bogoliubov理论，并结合弱局域周期扰动进行模式分辨光谱学。\n- 主要结果：线性加速度将单模约瑟夫森振荡转变为多模响应；提出了通过频率和角度扫描探测集体Bogoliubov模式的光谱学方案，理论预测与数值模拟定量一致。\n- 与量子精密测量/量子计算的关系：该工作涉及原子干涉仪中的集体动力学和光谱学，与量子传感中的干涉测量和模式探测相关，但主要聚焦于基础多体物理，而非直接提升测量精度或量子计算性能。\n- 是否值得精读：中等。对于从事原子干涉仪、玻色-约瑟夫森结或量子模拟的研究者有一定参考价值，但与量子精密测量、量子计算核心方向（如Fisher信息、自旋压缩、量子门）的直接关联较弱。\n- 对我研究的可能启发：其模式分辨光谱学方法可借鉴于原子传感器中集体激发谱的探测，但需要进一步评估对量子计量学增益的贡献。",
+  "english_digest": "## English Guide\n- Problem: Investigate multimode Josephson dynamics and spectroscopic probing in a circular atomic Bose-Josephson junction under acceleration-induced symmetry breaking.\n- Method: Gross-Pitaevskii simulations, Bogoliubov-de Gennes analysis, dissipative time-dependent Bogoliubov theory, and a weak localized periodic perturbation for mode-resolved spectroscopy.\n- Main result: Linear acceleration converts single-mode Josephson oscillations into a multimode response; a spectroscopic protocol using frequency and angular scans reveals collective Bogoliubov modes, with theoretical predictions matching full simulations.\n- Relevance: This work is tangentially related to quantum sensing via atom interferometry and collective mode spectroscopy, but it focuses on fundamental many-body physics in dual-ring condensates rather than directly advancing quantum metrology, Fisher information, spin squeezing, or quantum computing.\n- Reading priority: Medium. It may interest researchers in atom interferometry, Bose-Josephson junctions, or quantum simulation, but has limited direct relevance to core quantum sensing and computing topics.\n- Possible inspiration: The mode-resolved spectroscopy technique could be adapted for probing collective excitations in atomic sensors, though its impact on quantum metrological gain needs further assessment.",
+  "relevance_score": 5.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.18706v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.18706v1",
+  "local_pdf_path": ""
+}

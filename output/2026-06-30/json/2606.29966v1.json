@@ -1,0 +1,32 @@
+{
+  "title": "RiverONE: Generating Knowledge-Intensive VLM by Simulated Quantum Machines",
+  "arXiv_id": "2606.29966v1",
+  "abstract": "Quantum computing provides a powerful paradigm for representing and transforming high-dimensional information through superposition, entanglement, and measurement-induced nonlinear features. While current quantum hardware is not yet practical for direct large-scale vision-language model (VLM) inference, simulated quantum computation can be used during model construction to generate structured parameters for compact classical AI systems. We build RiverONE, a lightweight vision-language model for quantum calibration plot understanding, using simulated quantum computation. It employs a specialized visual encoder and an InternVL-based language backbone. To compensate for compression-induced information loss, we introduce quantum-generated parameters, which are materialized as classical tensors after training. This allows RiverONE to run entirely on classical GPUs at inference time, with no quantum hardware or runtime quantum simulation. With approximately 1.9 billion parameters, RiverONE achieves at least 95\\% of the performance of NVIDIA Ising Calibration 1 on quantum calibration plot understanding tasks while using less than 10\\% of its parameter count. These results suggest that simulated quantum computation can serve as a practical construction-stage mechanism for building lightweight, knowledge-intensive scientific VLMs. Our code is available at https://github.com/THeWakeSystems/RiverOne.",
+  "authors": [
+    "Xindian Ma",
+    "Xinyu Long",
+    "Yefei Zhang",
+    "Yanchen Liu",
+    "Xianghao Li",
+    "Yufu Wen",
+    "Yike Hu",
+    "Yuedong Zhu",
+    "Zeyang Ma",
+    "Wen Qin",
+    "Yikun Wang",
+    "Peng Yang",
+    "Monan Wang",
+    "Teng Yu"
+  ],
+  "categories": [
+    "quant-ph",
+    "cs.AI"
+  ],
+  "summary": "本文提出了一种名为RiverONE的轻量级视觉语言模型（VLM），用于理解量子校准图。该模型利用模拟量子计算在模型构建阶段生成结构化参数（量子生成参数），这些参数在训练后作为经典张量存在，使得模型在推理时无需量子硬件或运行时量子模拟即可在经典GPU上运行。RiverONE采用专门的视觉编码器和基于InternVL的语言骨干，参数量约19亿，在量子校准图理解任务上达到了NVIDIA Ising Calibration 1至少95%的性能，而参数量仅为后者的不到10%。结果表明，模拟量子计算可作为构建轻量级、知识密集型科学VLM的实用构造阶段机制。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用模拟量子计算构建轻量级视觉语言模型，用于理解量子校准图？\n- 核心方法：在模型构建阶段使用模拟量子计算生成结构化参数（量子生成参数），训练后转化为经典张量，结合专用视觉编码器和InternVL语言骨干。\n- 主要结果：RiverONE以19亿参数达到NVIDIA Ising Calibration 1至少95%的性能，参数量减少90%以上。\n- 与量子精密测量/量子计算的关系：该论文主要关注量子计算在机器学习中的应用，而非量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向。其“量子校准图”可能涉及量子硬件校准，但内容偏向于计算机视觉与量子计算的交叉，不直接涉及量子计量学或量子传感的核心理论或实验。\n- 是否值得精读：不推荐。该论文与您的研究领域相关性极低，主要面向VLM和量子计算模拟应用，而非您关注的量子精密测量、量子传感或量子计算硬件平台。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to leverage simulated quantum computation to build a lightweight vision-language model for understanding quantum calibration plots?\n- Method: Use simulated quantum computation during model construction to generate structured parameters (quantum-generated parameters), which become classical tensors after training; combine a specialized visual encoder and an InternVL-based language backbone.\n- Main result: RiverONE achieves at least 95% of the performance of NVIDIA Ising Calibration 1 with only ~1.9B parameters, reducing parameter count by over 90%.\n- Relevance: This paper is primarily about applying simulated quantum computation to machine learning (VLM construction), not about quantum precision measurement, quantum sensing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or related experimental/theoretical topics. It does not address quantum metrology, quantum control, or quantum computing hardware platforms.\n- Reading priority: Not recommended. The paper is only tangentially related to your interests and focuses on a different subfield.\n- Possible inspiration: None directly applicable to your research focus.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29966v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29966v1",
+  "local_pdf_path": ""
+}

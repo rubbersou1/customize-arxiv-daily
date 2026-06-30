@@ -1,0 +1,27 @@
+{
+  "title": "Finite-Time Electrometry with a Quantum-Regime Single-Ion Phonon Laser",
+  "arXiv_id": "2606.21068v1",
+  "abstract": "The phonon laser realized in a trapped ion, i.e., a self-sustained mechanical oscillator, has demonstrated the unique characteristics in practically detecting externally applied electric signals without the prerequisite of sideband cooling. Entering the quantum regime via sideband cooling is expected to further improve its sensing performance. Here we report the first experimental realization of a quantum-regime single-ion phonon laser ($\\bar{n}<10$) using a trapped $^{40}\\mathrm{Ca}^+$ ion and demonstrate electrometry based on its phase-space symmetry-breaking response to weak resonant electric fields. By tuning the phonon-laser parameters, we reveal that the sensing performance is fundamentally governed by the finite-time relaxation dynamics of the underlying open quantum system. We find that a slow Liouvillian relaxation, correlated with the finite experimental interaction window, effectively enhances the dynamic susceptibility while maintaining the structural robustness of the limit cycle. This regime, when applied to the detection of electric fields, produces a shot-noise-limited peak sensitivity of $14.15 \\pm 0.77~μ\\mathrm{V/m}/\\sqrt{\\mathrm{Hz}}$ and a minimum detectable field variation of $δE_{\\mathrm{min}} \\approx 1.83~μ\\mathrm{V/m}$. Our results establish quantum phonon lasers as a practical platform for advanced sensing and highlight the central role of Liouvillian dynamics in non-equilibrium electrometry.",
+  "authors": [
+    "Pei-Dong Li",
+    "Yuan-Zhang Dong",
+    "Zhuo-Zhu Wu",
+    "Jia-Wei Wang",
+    "Ji Li",
+    "Jian-Qi Zhang",
+    "Zhi-Jiao Deng",
+    "Liang Chen",
+    "Mang Feng"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文报道了首个量子区域（平均声子数<10）的单离子声子激光器的实验实现，并展示了其用于弱共振电场传感的能力。实验使用囚禁的40Ca+离子，通过声子激光器的相空间对称性破缺响应来检测电场。研究发现，传感性能受限于开放量子系统的有限时间弛豫动力学：缓慢的Liouvillian弛豫（与有限实验时间窗口相关）有效增强了动态磁化率，同时保持了极限环的结构鲁棒性。最终实现了散粒噪声极限下的峰值灵敏度14.15 ± 0.77 μV/m/√Hz和最小可探测电场变化约1.83 μV/m。该工作建立了量子声子激光器作为先进传感的实用平台，并突出了非平衡电测中Liouvillian动力学的核心作用。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用囚禁离子系统中的量子声子激光器实现高灵敏度电场传感，并理解其性能极限的物理机制。\n- 核心方法：实验实现量子区域（平均声子数<10）的单离子声子激光器，利用其对弱共振电场的相空间对称性破缺响应进行电测，并分析有限时间弛豫动力学（Liouvillian动力学）对传感性能的影响。\n- 主要结果：实现了散粒噪声极限下的峰值灵敏度14.15 μV/m/√Hz和最小可探测电场变化1.83 μV/m；揭示了慢弛豫过程增强动态磁化率但不破坏极限环鲁棒性的机制。\n- 与量子精密测量/量子计算的关系：直接相关于量子传感（电场测量）和量子计量学（极限性能分析）；囚禁离子平台是量子计算的重要硬件之一，本文的量子控制与读出技术对离子阱量子计算中的错误缓解和状态操控有借鉴意义。与Rydberg原子、中性原子、自旋压缩等方向间接相关（同为量子传感平台，但本文聚焦声子激光器而非自旋系统）。\n- 是否值得精读：是，对于从事量子传感、囚禁离子实验、开放量子系统动力学的研究者有重要参考价值。\n- 对我研究的可能启发：可借鉴其利用有限时间弛豫动力学增强灵敏度的思路；其相位空间对称性破缺的传感机制可推广至其他量子平台（如Rydberg系统、中性原子阵列）；Liouvillian动力学分析对理解量子计量中的非平衡过程有普遍意义。",
+  "english_digest": "## English Guide\n- Problem: How to realize high-sensitivity electrometry using a quantum-regime phonon laser in a trapped-ion system and understand the physical limits imposed by finite-time open-system dynamics. \n- Method: Experimental realization of a quantum-regime (mean phonon number <10) single-ion phonon laser with a trapped 40Ca+ ion; detection of weak resonant electric fields via phase-space symmetry-breaking response; analysis of finite-time Liouvillian relaxation dynamics governing sensitivity. \n- Main result: Shot-noise-limited peak sensitivity of 14.15 μV/m/√Hz and minimum detectable field variation of 1.83 μV/m; demonstration that slow relaxation enhances dynamic susceptibility while preserving limit-cycle robustness. \n- Relevance: Directly relevant to quantum sensing (electric-field measurement) and quantum metrology (performance limits); trapped-ion platform is a key hardware for quantum computing—the control and readout techniques are applicable to quantum gates and error mitigation. Indirectly relevant to Rydberg atoms, neutral atoms, spin squeezing, and cavity QED (all are quantum sensing platforms, but this work focuses on phonon laser rather than spin systems). \n- Reading priority: High—essential for researchers in quantum sensing, trapped-ion experiments, and open quantum systems. \n- Possible inspiration: The strategy of exploiting finite-time relaxation to enhance sensitivity could be adapted to other platforms (e.g., Rydberg atoms, neutral-atom arrays); the phase-space symmetry-breaking mechanism offers a new sensing paradigm; the Liouvillian analysis is valuable for non-equilibrium quantum metrology.",
+  "relevance_score": 9.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.21068v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.21068v1",
+  "local_pdf_path": ""
+}

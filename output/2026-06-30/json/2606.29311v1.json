@@ -1,0 +1,24 @@
+{
+  "title": "Pseudo entropy and topological phases of matter",
+  "arXiv_id": "2606.29311v1",
+  "abstract": "Entanglement entropy has proven to be a powerful probe of phenomena such as quantum chaos and phase transitions. Pseudo entropy is a recently proposed time-like generalization of an entanglement measure, motivated by de Sitter holography. In this work, we find that pseudo entropy can also serve as a novel probe for distinguishing topological phases of matter. For this, we consider the Su--Schrieffer--Heeger model as a representative example and investigate the averaged excess entropy $ΔS_{12}$, defined as the difference between pseudo entropy and the average entanglement entropy, across the topological-to-trivial and trivial-to-topological phase transitions. When the two states are in the same phase, we find that $ ΔS_{12}$ is non-positive under periodic boundary conditions, while for open boundary conditions, it is non-positive only when the system is sufficiently large. Moreover, we analyze ground-state quench protocols for topology-crossing quenches and find that the imaginary pseudo entropy tracks the critical times predicted by the Fisher zeros.",
+  "authors": [
+    "Pramod Kamal Kharel",
+    "Manghang Limbu",
+    "Nabaraj Khatri",
+    "Ashish Khanal",
+    "Kiran Adhikari"
+  ],
+  "categories": [
+    "cond-mat.stat-mech",
+    "hep-th",
+    "quant-ph"
+  ],
+  "summary": "这篇论文研究了伪熵（pseudo entropy）作为区分拓扑物质相的新型探针。作者以Su-Schrieffer-Heeger模型为例，计算了跨越拓扑-平庸和平庸-拓扑相变时的平均超额熵ΔS_{12}，发现当两个态处于同一相时，ΔS_{12}在周期边界条件下非正，在开放边界条件下仅当系统足够大时非正。此外，他们分析了跨越拓扑边界的基态淬火协议，发现虚部伪熵能够追踪由Fisher零点预测的临界时间。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用伪熵区分拓扑相？\n- 核心方法：以Su-Schrieffer-Heeger模型为例，计算平均超额熵ΔS_{12}，并分析淬火协议中的虚部伪熵。\n- 主要结果：ΔS_{12}在相同相时非正；虚部伪熵可追踪Fisher零点预测的临界时间。\n- 与量子精密测量/量子计算的关系：本文核心是凝聚态物理中的拓扑相，与量子精密测量（如量子Fisher信息、自旋压缩、原子干涉）或量子计算（如中性原子、离子阱、Rydberg原子）无直接关联。Fisher零点在此仅作为数学工具，不涉及量子传感或计量中的Fisher信息概念。\n- 是否值得精读：对于专注于量子精密测量或量子计算的研究者，不值得精读；但对拓扑相和量子信息交叉领域有兴趣者可参考。\n- 对我研究的可能启发：无直接启发，但伪熵作为一种熵度量，可能在量子多体系统的纠缠探测中有间接参考价值。",
+  "english_digest": "## English Guide\n- Problem: Can pseudo entropy distinguish topological phases of matter?\n- Method: Use the Su-Schrieffer-Heeger model to compute averaged excess entropy ΔS_{12} and analyze quench protocols with imaginary pseudo entropy.\n- Main result: ΔS_{12} is non-positive for states in the same phase; imaginary pseudo entropy tracks critical times from Fisher zeros.\n- Relevance: This paper is primarily in condensed matter physics (topological phases). It has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information (the Fisher zeros used here are a mathematical concept unrelated to quantum Fisher information in metrology).\n- Reading priority: Low for researchers focused on quantum metrology or quantum computing; moderate for those interested in topological phases and quantum information theory.\n- Possible inspiration: The use of pseudo entropy may offer indirect insights into entanglement probes in many-body systems, but no direct relevance to experimental quantum sensing or computing platforms.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29311v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29311v1",
+  "local_pdf_path": ""
+}

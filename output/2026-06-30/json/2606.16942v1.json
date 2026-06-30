@@ -1,0 +1,25 @@
+{
+  "title": "Adiabatic realization of anomalous Floquet topological systems",
+  "arXiv_id": "2606.16942v1",
+  "abstract": "Topology has emerged as a central concept for classifying phases of matter. The situation is especially rich in periodically driven systems, where anomalous Floquet topological phases break the usual bulk-boundary correspondence between Chern number and edges modes of two-dimensional systems. These phases were so far realized by periodic modulation of the tunneling elements at frequencies near-resonant with respect to the system's bandwidth, a regime where Floquet heating plays a significant role in interacting systems. Here we show that such anomalous Floquet topological phases can also be realized by means of an adiabatic protocol, where the system is always in the instantaneous ground state of the cyclic path in parameter space, like in a Thouless charge pump. We experimentally realize such a state using ultracold atoms in a hexagonal lattice where we adiabatically modulate the lattice geometry, including the sublattice offset. To infer the topology, we use the micromotion area in real-space, which was recently identified as a proxy for the winding number. This way of realizing anomalous phases avoids resonant Floquet heating and imperfect loading into the target state. We demonstrate the robustness of the adiabatic construction by observing the anomalous phase even in the presence of mean-field interactions of magnitude comparable to all other energy scales. These findings are promising for engineering novel topological states in a more robust way.",
+  "authors": [
+    "Luca Asteria",
+    "Marcel N. Kosch",
+    "Henrik P. Zahn",
+    "Jonathan Bracker",
+    "André Eckardt",
+    "Klaus Sengstock",
+    "Christof Weitenberg"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.mes-hall"
+  ],
+  "summary": "该论文提出了一种通过绝热协议实现反常Floquet拓扑系统的新方法，避免了传统方案中的Floquet加热问题。研究利用超冷原子在六角晶格中绝热调制几何参数（包括子晶格偏移），使系统始终处于参数空间循环路径的瞬时基态，从而在存在平均场相互作用的情况下仍能观察到拓扑鲁棒性。实验通过实空间微运动面积推断拓扑不变量，验证了这种绝热构建的鲁棒性。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何避免Floquet加热，在超冷原子系统中实现反常Floquet拓扑相。\n- 核心方法：采用绝热协议，通过缓慢调制晶格几何参数（如子晶格偏移），使系统始终处于瞬时基态，利用实空间微运动面积作为拓扑序的指示器。\n- 主要结果：实验成功实现了反常Floquet拓扑相，即使在平均场相互作用与所有其他能标相当的情况下，拓扑性质依然保持鲁棒。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦于拓扑物态的实现和验证，与量子精密测量、量子传感、量子计算等方向无直接关联。虽然涉及超冷原子平台，但研究内容不涉及量子计量学中的Fisher信息、自旋压缩、或量子门操作等核心主题。\n- 是否值得精读：不推荐精读，除非对拓扑物态在超冷原子中的实现有特别兴趣。\n- 对我研究的可能启发：无直接启发，但绝热控制方法可能间接用于量子传感器中的噪声抑制。",
+  "english_digest": "## English Guide\n- Problem: How to realize anomalous Floquet topological phases without Floquet heating in ultracold atoms.\n- Method: Adiabatic modulation of lattice geometry (including sublattice offset) in a hexagonal lattice, keeping the system in the instantaneous ground state; using real-space micromotion area as a topological marker.\n- Main result: Successful experimental demonstration of anomalous topological phase with robustness against mean-field interactions.\n- Relevance: Low relevance to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The paper focuses on topological phases in ultracold atoms, not on metrological or computational applications.\n- Reading priority: Low, unless interested in topological matter with ultracold atoms.\n- Possible inspiration: Minimal; the adiabatic protocol might be conceptually related to control techniques in quantum sensors, but not directly applicable.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.16942v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.16942v1",
+  "local_pdf_path": ""
+}

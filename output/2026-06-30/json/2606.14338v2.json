@@ -1,0 +1,20 @@
+{
+  "title": "Mass-imbalanced two-dimensional Bose-Fermi mixtures with boson-fermion pairing",
+  "arXiv_id": "2606.14338v2",
+  "abstract": "We analyze a two-dimensional Bose-Fermi mixture at zero temperature in the presence of a tunable Bose-Fermi attraction. We adopt a diagrammatic T-matrix approach and study the behavior of several thermodynamic quantities for the two species as functions of density, mass ratio, and coupling strength. These include the chemical potentials, the boson momentum distribution function, the condensate density, and Tan's contact parameter. We analytically demonstrate that the present T-matrix formalism recovers the correct second-order perturbative expansion of the chemical potentials in the weak-coupling regime, and test it numerically. The near-universal behavior of the condensate fraction already found in prior work for the mass-balanced case is confirmed for different masses and becomes even more accurate when the boson mass is large. The mass imbalance emerges as an additional control parameter that qualitatively affects the bosonic momentum distribution. In particular, we found that it can be used to allow for the experimental observation of a peculiar peak in the boson momentum distribution at finite momentum.",
+  "authors": [
+    "Cristiano Luigi Kosman Chiarappa",
+    "Pietro Bovini",
+    "Pierbiagio Pieri"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "该论文在零温下研究二维玻色-费米混合物，通过可调玻色-费米吸引作用，采用图解法T矩阵方法分析热力学量（化学势、玻色动量分布、凝聚密度、Tan接触参数）随密度、质量比和耦合强度的变化。研究发现，质量不平衡作为额外控制参数，可定性改变玻色动量分布，并允许在有限动量处观测到特征峰。",
+  "chinese_digest": "## 中文导读\n- 研究问题：二维玻色-费米混合物在质量不平衡和玻色-费米配对下的热力学性质。\n- 核心方法：图解法T矩阵方法，弱耦合微扰展开验证。\n- 主要结果：质量不平衡可调控玻色动量分布，产生有限动量峰；凝聚分数在质量不平衡下仍近似普适。\n- 与量子精密测量/量子计算的关系：该研究属于冷原子多体物理基础理论，不涉及量子传感、量子计量、量子计算、Rydberg原子、自旋压缩、Fisher信息等核心方向。\n- 是否值得精读：不值得，与用户研究领域不相关。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Thermodynamic properties of 2D Bose-Fermi mixtures with mass imbalance and boson-fermion pairing. \n- Method: Diagrammatic T-matrix approach with weak-coupling perturbative expansion. \n- Main result: Mass imbalance serves as a control parameter, leading to a peak in boson momentum distribution at finite momentum; condensate fraction shows near-universal behavior. \n- Relevance: Low relevance — this is a fundamental cold-atom many-body theory paper with no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, Fisher information, or related experimental platforms. \n- Reading priority: Not recommended. \n- Possible inspiration: None.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.14338v2",
+  "arxiv_url": "http://arxiv.org/abs/2606.14338v2",
+  "local_pdf_path": ""
+}

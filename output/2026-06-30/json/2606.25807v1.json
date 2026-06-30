@@ -1,0 +1,23 @@
+{
+  "title": "A Candidate Framework for Free-Space Quantum Key Distribution based on Geometrical-Configuration Modulation",
+  "arXiv_id": "2606.25807v1",
+  "abstract": "This paper proposes a candidate framework for free-space quantum key distribution (QKD) based on geometrical-configuration modulation (GM). In the minimal implementation considered here, Alice coherently splits a single photon emitted from one source into two spatial output modes with a tunable separation, and uses the source separation $R$ as the GM variable that defines the prepared single-photon spatial superposition state. Bob records the single-photon detection coordinate in the far field or Fourier plane, providing the correlated data used for soft-input information reconciliation. Based on this physical mechanism, we first establish an $R-x$ protocol model in which the source separation $R$ and the single-photon detection coordinate $x$ are random variables, and further propose an $R-Δx$ extension based on the difference variable $Δx$ between adjacent accepted detection events to mitigate slowly varying center drift in free-space links. The framework specifies state preparation, far-field conditional probabilities, soft-input information generation, parameter estimation, reconciliation, and asymptotic candidate key-rate formulas. A complete composable security analysis further requires derive an explicit computable upper bound on Eve's information from experimentally observed parameters, together with finite-key analysis and experimental validation under free-space conditions. The proposed candidate framework (GM-QKD) provides a modulation approach based on spatial degrees of freedom in which the source geometry serves as the modulation variable.",
+  "authors": [
+    "Yu-Ming Bai",
+    "Yu-Xuan Liu",
+    "Ming-Han Ding",
+    "Jun-Lin Li"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.app-ph",
+    "physics.optics"
+  ],
+  "summary": "这篇论文提出了一种基于几何构型调制（GM）的自由空间量子密钥分发（QKD）候选框架。在最小实现中，Alice通过可调分离度R将单光子相干地分成两个空间输出模式，利用源分离R作为调制变量定义单光子空间叠加态。Bob在远场或傅里叶平面记录单光子探测坐标x，提供用于软输入信息协商的相关数据。基于此物理机制，首先建立了R-x协议模型，其中R和x为随机变量，并进一步提出基于相邻接受探测事件差值变量Δx的R-Δx扩展，以缓解自由空间链路中缓慢变化的中心漂移。该框架规定了状态制备、远场条件概率、软输入信息生成、参数估计、协商和渐近候选密钥率公式。完整的组合安全性分析需要从实验观测参数中导出Eve信息量的可计算上界，并结合有限密钥分析和自由空间条件下的实验验证。该候选框架提供了一种基于空间自由度的调制方法，其中源几何形状作为调制变量。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用空间自由度（几何构型调制）实现自由空间量子密钥分发（QKD），以提高安全性或实现新协议。\n- 核心方法：将单光子源分离度R作为调制变量，通过远场探测坐标x进行信息编码和协商，并引入差值变量Δx抑制漂移。\n- 主要结果：提出了R-x协议和R-Δx扩展，给出了渐近密钥率公式，但缺少完整安全证明和实验验证。\n- 与量子精密测量/量子计算的关系：该论文属于量子通信领域（QKD），与量子精密测量（如量子费舍尔信息、自旋压缩、拉姆齐干涉等）无直接关联；与量子计算（如中性原子、离子阱、里德伯原子等）也无技术或方法交叉。论文不涉及量子传感、计量、控制或量子门等方向。\n- 是否值得精读：对于量子精密测量或量子计算方向的研究者，不值得精读。\n- 对我研究的可能启发：无直接启发。空间自由度调制或远场探测技术可能在某些量子传感场景中（如原子干涉仪）有间接参考价值，但非常有限。",
+  "english_digest": "## English Guide\n- Problem: How to realize free-space quantum key distribution (QKD) using spatial degrees of freedom (geometrical-configuration modulation) to enhance security or enable new protocols.\n- Method: Modulate the source separation R of a single-photon source, encode information via far-field detection coordinate x, and introduce a difference variable Δx to mitigate center drift.\n- Main result: Proposed R-x protocol and R-Δx extension, with asymptotic key-rate formulas, but lacking complete security proof and experimental validation.\n- Relevance: This paper belongs to quantum communication (QKD), with no direct connection to quantum precision measurement (e.g., quantum Fisher information, spin squeezing, Ramsey interferometry) or quantum computing (neutral atoms, trapped ions, Rydberg atoms, quantum gates). It does not address quantum sensing, metrology, control, or error mitigation relevant to my interests.\n- Reading priority: Low for researchers in quantum metrology or quantum computing.\n- Possible inspiration: Minimal; spatial modulation or far-field detection might have indirect relevance to atom interferometry, but not significant.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25807v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25807v1",
+  "local_pdf_path": ""
+}

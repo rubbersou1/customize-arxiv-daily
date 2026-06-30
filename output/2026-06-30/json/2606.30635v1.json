@@ -1,0 +1,21 @@
+{
+  "title": "Provable random-matrix spectral ramp in a static, geometrically local Hamiltonian",
+  "arXiv_id": "2606.30635v1",
+  "abstract": "Quantum chaos is commonly associated with the emergence of random-matrix statistics in the spectra of quantum systems. A useful diagnostic is provided by the spectral form factor (SFF), which for random matrix ensembles displays a universal linear-growth regime (`ramp'). In the last decade, a landmark result by Bertini, Kos and Prosen (BKP) identified for the first time a class of geometrically local quantum dynamics of finite-dimensional particles where the SFF provably exhibits a random-matrix ramp: periodically driven (Floquet) qudit chains whose evolution is described by `dual-unitary' circuits. Here, building on the BKP result and on a recently proposed variant of the Feynman-Kitaev clock construction, we obtain a spectral ramp in a class of static, geometrically local Hamiltonians. Our strategy is to embed the Floquet quasienergy spectrum of a dual-unitary circuit into the energy spectrum of a static local Hamiltonian, and to prove that the latter's connected SFF inherits the BKP ramp within a symmetry sector. This is to our knowledge the first proof of a spectral ramp in a time-independent, geometrically local many-body system with finite local Hilbert space dimension.",
+  "authors": [
+    "Matteo Ippoliti"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.dis-nn",
+    "cond-mat.stat-mech",
+    "hep-th"
+  ],
+  "summary": "本文证明了在静态、几何局域哈密顿量中，谱形因子（SFF）可以出现随机矩阵理论中的线性增长（斜坡）行为。作者基于Bertini、Kos和Prosen（BKP）关于双酉Floquet链的里程碑结果，结合Feynman-Kitaev时钟构造的变体，将双酉电路的准能量谱嵌入到静态局域哈密顿量的能量谱中，并证明在对称性扇区内，后者的连通SFF继承了BKP斜坡。这是首次在具有有限局域希尔伯特空间维度的、时间无关的几何局域多体系统中证明谱斜坡。",
+  "chinese_digest": "## 中文导读\n- 研究问题：静态几何局域哈密顿量能否在谱形因子中表现出随机矩阵理论的斜坡特征？\n- 核心方法：利用Feynman-Kitaev时钟构造将双酉Floquet电路的准能量谱嵌入静态哈密顿量，并证明其连通SFF继承BKP斜坡。\n- 主要结果：首次在时间无关、几何局域的多体系统中证明了谱斜坡的存在。\n- 与量子精密测量/量子计算的关系：本文主要关注量子混沌和随机矩阵理论的基础问题，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。\n- 是否值得精读：不值得精读，除非对量子混沌或谱统计有特殊兴趣。\n- 对我研究的可能启发：几乎无直接启发，但其中的时钟构造方法可能在量子模拟或纠错中有间接参考价值。",
+  "english_digest": "## English Guide\n- Problem: Can a static, geometrically local Hamiltonian exhibit a random-matrix spectral ramp in the spectral form factor?\n- Method: Embed the Floquet quasienergy spectrum of a dual-unitary circuit into the energy spectrum of a static Hamiltonian via a variant of the Feynman-Kitaev clock construction, and prove the connected SFF inherits the BKP ramp.\n- Main result: First proof of a spectral ramp in a time-independent, geometrically local many-body system with finite local Hilbert space dimension.\n- Relevance: This paper focuses on quantum chaos and random matrix theory, with no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information.\n- Reading priority: Low, unless specifically interested in quantum chaos or spectral statistics.\n- Possible inspiration: Minimal direct inspiration for the described research areas; the clock construction might have indirect relevance to quantum simulation or error correction.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30635v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30635v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Band-minimum degeneracy is not enough: density-of-states control of low-density ferromagnetism",
+  "arXiv_id": "2606.16912v1",
+  "abstract": "Recent ultracold-atom experiments have observed ferromagnetic correlations in a geometrically tunable Fermi--Hubbard lattice at intermediate densities. Motivated by subsequent theoretical work that connected the low-density limit of the same model to the Mueller--Hartmann mechanism for itinerant ferromagnetism, we investigate the stability of ferromagnetism across a broad density range using the T-matrix approximation, a controlled approach in the dilute limit. We reproduce the ferromagnetic regime observed experimentally at intermediate densities and systematically compare finite-size and thermodynamic-limit calculations in the dilute regime. We find that the low-density ferromagnetic phase reported for the one-diagonal hopping lattice is strongly suppressed with increasing system size and disappears in the thermodynamic limit, indicating that it originates from finite-size effects. By contrast, low-density ferromagnetism remains robust in the square-lattice Hubbard model with hopping along both diagonal directions. We show that this qualitative difference cannot be explained by the degeneracy of the band minima alone, which occurs in both models. Instead, it is controlled by the singular behavior of the density of states at the band bottom: a weak divergence is insufficient to stabilize ferromagnetism, whereas a much stronger quasi-one-dimensional singularity supports a fully polarized ground state even in the dilute limit. Our results demonstrate that band-minimum degeneracy alone is not sufficient for low-density ferromagnetism and that the nature of the band-bottom density-of-states singularity ultimately controls its stability.",
+  "authors": [
+    "Jinghao Wang",
+    "Pierbiagio Pieri"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "这篇论文研究了Fermi-Hubbard模型中低密度铁磁性的稳定性。作者使用T矩阵近似，在稀释极限下系统比较了有限尺寸和热力学极限计算，发现一维对角跳跃晶格中的低密度铁磁相在热力学极限下被抑制，源于有限尺寸效应；而双对角跳跃的方形晶格模型中，低密度铁磁性仍然稳健。研究表明，仅靠能带简并不足以稳定低密度铁磁性，而态密度的奇异性（准一维奇异性）是关键控制因素。",
+  "chinese_digest": "## 中文导读\n- 研究问题：Fermi-Hubbard模型中低密度铁磁性的稳定性及其物理机制。\n- 核心方法：T矩阵近似，有限尺寸与热力学极限对比。\n- 主要结果：低密度铁磁性在热力学极限下仅当态密度具有强奇异性时才存在，能带简并不是充分条件。\n- 与量子精密测量/量子计算的关系：该研究涉及超冷原子和光学晶格，与中性原子量子计算平台（如光镊、Rydberg原子阵列）有间接关联，但主要关注铁磁性相变，而非量子传感、计量或量子计算协议。\n- 是否值得精读：对于专注于量子精密测量和量子计算的研究者，这篇论文相关性较低，不建议精读。\n- 对我研究的可能启发：可了解超冷原子在光学晶格中的多体物理，但直接启发有限。",
+  "english_digest": "## English Guide\n- Problem: Stability of low-density ferromagnetism in Fermi-Hubbard models and its physical origin. \n- Method: T-matrix approximation, comparison of finite-size and thermodynamic-limit calculations. \n- Main result: Low-density ferromagnetism is stable only when the density of states has a strong singularity; band degeneracy alone is insufficient. \n- Relevance: This paper uses ultracold atoms in optical lattices, which are related to neutral-atom quantum computing platforms (e.g., optical tweezers, Rydberg arrays), but focuses on ferromagnetic phase transitions, not quantum sensing, metrology, or quantum computing protocols. \n- Reading priority: Low for researchers focused on quantum precision measurement and quantum computing. \n- Possible inspiration: Provides background on many-body physics in ultracold atom systems, but direct inspiration for quantum sensing/computing is limited.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.16912v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.16912v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Infrared Safety from ZX-Diagrams: A Categorical Proof of Soft-QED as Open Quantum System",
+  "arXiv_id": "2606.29804v1",
+  "abstract": "The discard ZX-calculus, a diagrammatic language for mixed-state quantum mechanics, is used to give a nonperturbative, categorical proof of the Bloch-Nordsieck cancellation of infrared divergences in QED. Soft photons are treated as an open quantum system: the resolved charged particles and hard photons form the system, while photons below a detector resolution form the environment. The reduced hard channel is a completely positive trace-preserving (CPTP) map, and the soft-photon theorem replaces the full S-matrix by a controlled displacement operator whose Feynman-Vernon influence functional satisfies the equal-history normalization ${\\cal F}[J,J]=1 $. In the ZX-calculus, this normalization is a single diagrammatic identity: the doubled displacement diagram collapses to the bare wire under the unitarity, cyclicity, and discard rules. The proof therefore serves as a categorical consistency check on the open-system treatment of soft QED given in a companion paper; it confirms that the physical derivation is logically complete and free of hidden assumptions about the infrared limit. For off-diagonal hard-state elements, the same diagram yields the coherent-state overlap, giving a first-principles account of soft-cloud decoherence. The soft-shell coarse graining is then constructed as a CPTP Schur channel whose infinitesimal limit produces the exact Lindblad generator with jump operators determined by the eikonal emission amplitudes. Finally, a local CPTP-certification pipeline is developed for non-Markovian process tensors, enabling constant-time verification of trace preservation in open quantum simulations. The framework bridges categorical quantum semantics, non-equilibrium field theory, and practical open-system compilation.",
+  "authors": [
+    "Soo-Jong Rey"
+  ],
+  "categories": [
+    "quant-ph",
+    "cs.LO",
+    "hep-th",
+    "math-ph"
+  ],
+  "summary": "这篇论文使用丢弃ZX演算（一种用于混合态量子力学的图解语言）对量子电动力学（QED）中的红外发散问题进行了非微扰的范畴论证明，展示了软光子作为开放量子系统的处理方式。通过将软光子视为环境，硬通道简化为完全正迹保持（CPTP）映射，并利用软光子定理将S矩阵替换为受控位移算符。论文还推导了退相干机制，构建了CPTP Schur通道，并开发了用于非马尔可夫过程张量的局部CPTP验证流程。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何从范畴论角度证明QED中红外发散（软光子）的Bloch-Nordsieck抵消，并将其作为开放量子系统处理。\n- 核心方法：使用丢弃ZX演算（图解量子力学语言）进行非微扰证明，将软光子视为环境，硬过程视为CPTP映射。\n- 主要结果：证明了红外安全的图解一致性，推导了软云退相干，构建了CPTP Schur通道和局部验证流程。\n- 与量子精密测量/量子计算的关系：该论文主要聚焦于高能理论中的红外发散问题，与量子精密测量、量子传感、量子计算等领域的直接关联较弱。虽然涉及开放量子系统框架和CPTP映射，但未讨论具体实验平台（如Rydberg原子、中性原子、离子阱）、量子计量学（Fisher信息、自旋压缩）或量子门操作。\n- 是否值得精读：对于从事量子精密测量或量子计算的研究者，该论文相关性较低，不建议精读。\n- 对我研究的可能启发：开放量子系统处理红外发散的方法论（如环境映射、CPTP通道）可能对理解量子传感器中的噪声退相干有间接启发，但需要进一步转化。",
+  "english_digest": "## English Guide\n- Problem: How to prove the Bloch-Nordsieck cancellation of infrared divergences in QED from a categorical perspective, treating soft photons as an open quantum system.\n- Method: Non-perturbative proof using the discard ZX-calculus (a graphical language for mixed-state quantum mechanics), where soft photons form the environment and the hard process is a CPTP map.\n- Main result: Diagrammatic consistency of infrared safety, derivation of soft-cloud decoherence, construction of CPTP Schur channel, and local certification pipeline for non-Markovian process tensors.\n- Relevance: This paper is primarily focused on high-energy theory (QED infrared divergences) and categorical quantum semantics. It has very limited direct connection to quantum precision measurement, quantum sensing, or quantum computing. No discussion of experimental platforms (Rydberg atoms, neutral atoms, trapped ions), metrology concepts (Fisher information, spin squeezing), or quantum gates.\n- Reading priority: Low for researchers in quantum metrology or quantum computing; may be of interest only for those working on open quantum system theory in high-energy physics.\n- Possible inspiration: The open-system framework (CPTP maps, environmental decoherence) could conceptually inform noise modeling in quantum sensors, but the specific context (soft photons in QED) is far from practical metrology or computing platforms.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29804v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29804v1",
+  "local_pdf_path": ""
+}

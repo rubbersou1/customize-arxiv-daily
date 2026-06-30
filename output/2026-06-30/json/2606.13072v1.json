@@ -1,0 +1,23 @@
+{
+  "title": "Fibonacci Steady-States and Persistent Oscillations in an Ordered Multimode Dicke Model",
+  "arXiv_id": "2606.13072v1",
+  "abstract": "Ultracold atoms in multimode optical cavities provide a rich testbed for many-body phenomena enabled by light-mediated interactions. Recent experiments include realizations of spin glasses and associative memories, as described by multimode Dicke models with disordered couplings. However, the properties of multimode Dicke models with ordered coupling geometries remain largely unexplored. In this work, we investigate the stable steady-states of the multimode Dicke model with an ordered nearest-neighbor coupling geometry, where $n_c$ atomic clusters are coupled via $n_c-1$ cavity modes. We show that the number of mean-field stable steady-states in the superradiant phase exhibits Fibonacci scaling with the number of atomic clusters, and that a subset of these steady-states exhibit persistent oscillations. Using both the truncated Wigner approximation and the numerically-exact hierarchy of pure states, we further demonstrate that these features of the stable steady-state solutions persist for finite cluster sizes. Ordered multimode Dicke models, such as the nearest-neighbor coupling geometry considered here, are accessible with current experimental technologies and point toward a broader class of strongly interacting dissipative systems with similarly rich behavior.",
+  "authors": [
+    "Miriam J. Leonhardt",
+    "Kai Müller",
+    "Oliver Lunt",
+    "Andrew J. Daley"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "cond-mat.stat-mech"
+  ],
+  "summary": "这篇论文研究了具有有序最近邻耦合几何的多模Dicke模型的稳定稳态。研究发现，在超辐射相中，平均场稳定稳态的数量随原子团簇数呈斐波那契数列增长，且部分稳态表现出持续振荡。利用截断维格纳近似和精确纯态层次方法，作者证明这些特征在有限团簇尺寸下仍然存在。该模型可通过当前实验技术实现，为强相互作用耗散系统提供了新的研究方向。",
+  "chinese_digest": "## 中文导读\n- 研究问题：有序多模Dicke模型（最近邻耦合）的稳定稳态特性及其与斐波那契数列的关系。\n- 核心方法：平均场理论分析稳态数量，结合截断维格纳近似（TWA）和精确纯态层次方法验证有限尺寸效应。\n- 主要结果：超辐射相中稳态数量呈斐波那契标度；部分稳态表现出持续振荡；有限团簇尺寸下特征依然存在。\n- 与量子精密测量/量子计算的关系：论文涉及光-物质相互作用和多体现象，与腔QED、量子传感（如自旋压缩、原子干涉）有间接联系，但未直接讨论Fisher信息或计量协议。Rydberg原子、中性原子量子计算、离子阱等方向未涉及。\n- 是否值得精读：中等。对腔QED和多体耗散系统感兴趣者可读，但对量子精密测量或量子计算的直接应用有限。\n- 对我研究的可能启发：多模腔中的有序耦合几何可能为量子传感中的纠缠生成或计量协议提供新平台，但需进一步探索与Fisher信息或自旋压缩的直接关联。",
+  "english_digest": "## English Guide\n- Problem: Stable steady-states of an ordered multimode Dicke model with nearest-neighbor coupling, showing Fibonacci scaling.\n- Method: Mean-field analysis, truncated Wigner approximation (TWA), and numerically-exact hierarchy of pure states for finite-size effects.\n- Main result: Fibonacci number of steady-states in superradiant phase; persistent oscillations; robustness at finite cluster sizes.\n- Relevance: This work is related to cavity QED and many-body light-matter interactions, which have indirect connections to quantum sensing (e.g., spin squeezing, atom interferometry) and quantum computing (e.g., neutral-atom platforms). However, it does not directly address quantum metrology protocols, Fisher information, or specific platforms like Rydberg atoms, trapped ions, or optical tweezers. The focus is on steady-state properties rather than precision limits or control.\n- Reading priority: Moderate. Valuable for researchers in cavity QED or dissipative many-body systems, but less directly applicable to quantum precision measurement or quantum computing.\n- Possible inspiration: The ordered coupling geometry in multimode cavities could be explored for generating entangled states useful in quantum sensing, but further work is needed to link to Fisher information or spin squeezing.",
+  "relevance_score": 6.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.13072v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.13072v1",
+  "local_pdf_path": ""
+}

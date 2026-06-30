@@ -1,0 +1,33 @@
+{
+  "title": "Automated Vector-Scanning Spectroscopy for Large-Scale Characterization of Single Quantum Emitters",
+  "arXiv_id": "2606.28624v1",
+  "abstract": "The inherent spatial randomness and broad spectral heterogeneity of epitaxial quantum dots (QDs) -- one of the most mature classes of solid-state quantum emitters -- remains a major obstacle to their scalable deployment in integrated photonic quantum technologies. Overcoming this challenge requires deterministic fabrication strategies capable of precisely aligning nanophotonic structures with high-quality emitters, which in turn demands efficient and automated single-QD characterization. Despite substantial progress in optical measurement techniques, a platform capable of autonomous, data-efficient, and sufficiently versatile characterization of single quantum dots at the chip scale remains lacking. Here, we introduce an automated cryogenic measurement platform that combines wide-field photoluminescence imaging with vector-stage-scanning confocal spectroscopy to enable high-throughput, chip-scale targeted optical characterization of individual QDs. Using this platform, we automatically acquire photoluminescence data from thousands of GaAs/AlGaAs QDs on a single chip. We demonstrate how this extensive dataset enables identification of high-performance emitters for future deterministic device fabrication, while simultaneously revealing statistical trends across the QD ensemble. By uniting data-efficient targeted measurements with scalable automation, our platform establishes a foundation for large-scale quantum photonic integration and the high throughput characterization framework needed to accelerate materials optimization.",
+  "authors": [
+    "William Eshbaugh",
+    "Ashish Chanana",
+    "Edgar Perez",
+    "Junyeob Song",
+    "Craig R. Copeland",
+    "Sulaiman Al Ghadani",
+    "Daniel McBride",
+    "Prasiddha Siwakoti",
+    "Maria Carolina Volpato",
+    "Armando Rastelli",
+    "Saimon Filipe Covre da Silva",
+    "Ignacio Segovia-Dominguez",
+    "Sadhvikas Addamane",
+    "Kartik Srinivasan",
+    "Edward B. Flagg",
+    "Marcelo Davanco"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "这篇论文介绍了一种自动化低温测量平台，结合宽场光致发光成像与矢量台扫描共聚焦光谱技术，实现了对单个量子点（QDs）的高通量、芯片级光学表征。平台自动获取数千个GaAs/AlGaAs量子点的光致发光数据，能够识别高性能发射体，并揭示量子点集合的统计趋势，为大规模量子光子集成和材料优化提供了基础。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何高效、自动化地表征单个量子点，以克服其空间随机性和光谱异质性对集成光子量子技术规模化部署的阻碍。\n- 核心方法：开发自动化低温测量平台，结合宽场光致发光成像与矢量台扫描共聚焦光谱，实现高通量、芯片级数据采集。\n- 主要结果：成功从单个芯片上数千个量子点自动获取光致发光数据，识别出高性能发射体，并揭示统计趋势。\n- 与量子精密测量/量子计算的关系：论文聚焦于量子点表征技术，与量子精密测量（如量子传感、Fisher信息）和量子计算（如中性原子、离子阱）的核心方向（如Rydberg原子、自旋压缩、拉姆齐干涉）没有直接关联；量子点本身可用于量子信息处理，但本文未涉及精密测量或量子计算的具体协议或硬件。\n- 是否值得精读：对于从事量子点集成光子学的研究者有价值，但对于量子精密测量或量子计算（特别是Rydberg原子、中性原子、离子阱）方向，相关性较低，不建议优先精读。\n- 对我研究的可能启发：文中自动化表征方法可类比用于其他量子体系（如中性原子阵列）的大规模表征，但需要进一步转化。",
+  "english_digest": "## English Guide\n- Problem: How to achieve efficient and automated characterization of single quantum dots to overcome their spatial randomness and spectral heterogeneity for scalable photonic quantum technologies.\n- Method: An automated cryogenic measurement platform combining wide-field photoluminescence imaging with vector-stage-scanning confocal spectroscopy for high-throughput, chip-scale data acquisition.\n- Main result: Automated acquisition of photoluminescence data from thousands of GaAs/AlGaAs quantum dots on a single chip, enabling identification of high-performance emitters and statistical trends.\n- Relevance: The work focuses on quantum dot characterization, which is not directly related to core topics in quantum precision measurement (e.g., quantum sensing, Fisher information, spin squeezing, Ramsey interferometry) or quantum computing (e.g., Rydberg atoms, neutral atoms, trapped ions, quantum gates). It has low relevance to the specified research interests.\n- Reading priority: Low priority for researchers interested in quantum metrology, quantum sensing, or quantum computing with Rydberg/neutral/ion platforms. It may be relevant for those working on quantum dot photonics.\n- Possible inspiration: The automated characterization approach could potentially be adapted for large-scale characterization of other quantum systems, such as neutral atom arrays, but significant adaptation would be needed.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28624v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28624v1",
+  "local_pdf_path": ""
+}

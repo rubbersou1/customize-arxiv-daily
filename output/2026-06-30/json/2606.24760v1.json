@@ -1,0 +1,23 @@
+{
+  "title": "Offset-continuation-trajectory stacking based on common-reflection-point kinematics for five-dimensional prestack dataset regularization and enhancement",
+  "arXiv_id": "2606.24760v1",
+  "abstract": "Prestack seismic data regularization and enhancement are critical steps for reliable imaging and inversion, particularly in five-dimensional (5D) dataset geometries affected by irregular sampling, noise contamination, and incomplete spatial coverage. These limitations often degrade event continuity and compromise the physical consistency of conventional interpolation methods. This study introduces a physics-informed framework for 5D prestack dataset reconstruction based on a multi-parameter common-reflection-point (CRP) traveltime stacking operator. The proposed offset-continuation-trajectory (OCT) operator derives coherent stacking trajectories from wavefront propagation, isochronous surface geometry, specular reflection, and diffraction kinematics. All kinematic parameters are estimated directly from the data through a global coevolutionary optimization strategy. The method reconstructs missing traces and enhances spatial continuity by stacking seismic events along physically consistent traveltime surfaces, preserving both reflection and diffraction kinematics. Applications to synthetic and field datasets demonstrate improved signal-to-noise ratio, enhanced structural continuity, and reliable recovery of unrecorded amplitudes without introducing artificial events. The results indicate that incorporating physically constrained traveltime models into the regularization process provides a robust, geologically consistent alternative to purely mathematical interpolation techniques, thereby improving data fidelity for subsequent imaging and quantitative interpretation.",
+  "authors": [
+    "Tiago A. Coimbra",
+    "Rodrigo Bloot",
+    "Caian Benedicto",
+    "Nicholas T. Okita",
+    "Jorge H. Faccipieri Junior"
+  ],
+  "categories": [
+    "physics.geo-ph",
+    "physics.optics"
+  ],
+  "summary": "这篇论文提出了一种基于物理信息的五维叠前地震数据重建与增强方法。该方法利用共反射点运动学原理的偏移距连续轨迹叠加算子，通过从数据中全局协同演化估计运动学参数，沿物理一致的双程时距面进行叠加，从而恢复缺失道集并增强空间连续性。合成数据和实际数据实验表明，该方法能有效提高信噪比、增强结构连续性、可靠恢复未记录振幅，且不引入人为假象，为后续成像和定量解释提供了更保真的数据。",
+  "chinese_digest": "## 中文导读\n- 研究问题：五维叠前地震数据的不规则采样、噪声污染和不完整空间覆盖导致数据质量下降，影响后续成像和反演。\n- 核心方法：基于共反射点运动学的偏移距连续轨迹叠加算子，通过全局协同进化优化直接从数据估计所有运动学参数，沿物理一致的双程时距面进行叠加重建。\n- 主要结果：在合成和实际数据上成功恢复了缺失道集，提高了信噪比和结构连续性，且未引入人为假象。\n- 与量子精密测量/量子计算的关系：该论文属于经典地球物理信号处理领域，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。其核心概念（如运动学参数估计、数据重建）在方法论层面与量子估计理论（如Fisher信息）有极微弱的类比，但物理背景和应用目标完全不同。\n- 是否值得精读：不值得。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: Five-dimensional prestack seismic data suffers from irregular sampling, noise, and incomplete coverage, degrading subsequent imaging and inversion. \n- Method: A physics-informed offset-continuation-trajectory stacking operator based on common-reflection-point kinematics, with global coevolutionary estimation of kinematic parameters, to reconstruct missing traces along physically consistent traveltime surfaces.\n- Main result: Demonstrated improved signal-to-noise ratio, structural continuity, and reliable amplitude recovery on synthetic and field data without introducing artifacts.\n- Relevance: This paper is firmly in classical geophysical signal processing. It has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The methodological overlap with quantum estimation theory is negligible. \n- Reading priority: Not recommended.\n- Possible inspiration: None for the described research fields.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.24760v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.24760v1",
+  "local_pdf_path": ""
+}

@@ -61,6 +61,11 @@ runtime:
   title: "Daily arXiv - Quantum Metrology and Quantum Computing"
   save: true
 
+output:
+  save_dir: output
+  report_dir: daily_reports
+  no_email: true
+
 llm:
   provider: DeepSeek
   model: deepseek-chat

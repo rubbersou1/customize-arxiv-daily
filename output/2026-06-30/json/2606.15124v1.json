@@ -1,0 +1,26 @@
+{
+  "title": "Programmable Gauge-Field Textures with Ultracold Atoms in Momentum Space",
+  "arXiv_id": "2606.15124v1",
+  "abstract": "Synthetic gauge fields with ultracold atoms offer a route to quantum matter in which electromagnetic environments can be designed rather than merely imposed. While the Harper-Hofstadter model has been realized in several cold-atom systems, existing implementations are largely limited to spatially uniform magnetic fluxes. Here we experimentally realize a highly programmable two-dimensional momentum-state lattice of ultracold atoms with local control over the Peierls phase pattern, enabling direct implementation of Harper-Hofstadter Hamiltonians with tunable and spatially structured synthetic gauge fields. We observe a crossover from ballistic to strongly flux-modified bulk dynamics with suppressed transport. By introducing a synthetic electric field through site-dependent energy gradients, we further demonstrate Hall-type transverse drift arising from the interplay between electric and magnetic fields. In addition, we engineer a synthetic flux domain wall separating regions with opposite magnetic fluxes and observe anisotropic propagation guided along the interface. These results move cold-atom gauge-field engineering from uniform magnetic backgrounds toward designer gauge textures, providing an experimental setting for transport across programmable topological interfaces.",
+  "authors": [
+    "Hongru Wang",
+    "Hang Li",
+    "Yichen Pan",
+    "Yuyan Luo",
+    "Bryce Gadway",
+    "Tao Chen",
+    "Bo Yan"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "summary": "这篇论文报告了利用超冷原子在动量空间晶格中实验实现高度可编程的规范场纹理。通过局部控制Peierls相位模式，研究者实现了具有可调空间结构合成规范场的Harper-Hofstadter哈密顿量。实验观测到从弹道输运到强通量修正体动力学（抑制输运）的转变，并通过引入合成电场展示了霍尔型横向漂移。此外，还构建了合成通量畴壁并观察到沿界面的各向异性传播。该工作将冷原子规范场工程从均匀磁场背景推进到可设计的规范纹理，为研究可编程拓扑界面上的输运提供了实验平台。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在超冷原子系统中实现空间可编程的合成规范场（如磁场纹理），以超越现有的均匀磁场实现。\n- 核心方法：利用动量空间晶格（由激光耦合形成）与局部Peierls相位控制，实现Harper-Hofstadter哈密顿量，并通过能量梯度引入合成电场。\n- 主要结果：观察到从弹道输运到强通量修饰的体动力学转变；在合成电场和磁场共同作用下实现霍尔漂移；构建通量畴壁并观测到沿界面的各向异性传播。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦于模拟量子物质中的拓扑现象和输运，而非直接用于量子精密测量或量子计算。它涉及超冷原子平台（中性原子），但与Rydberg原子、离子阱、自旋压缩、Fisher信息、拉姆齐干涉等核心方向无直接联系。\n- 是否值得精读：对于研究超冷原子模拟、拓扑物态或合成规范场的研究者，这篇论文具有较高价值。但对于专注于量子精密测量、量子传感或量子计算的研究者，相关性较低。\n- 对我研究的可能启发：该论文展示了超冷原子动量空间晶格的高度可编程性，其相位控制技术可能间接启发量子传感器中的相干控制或干涉方案设计，但需要更多转化。",
+  "english_digest": "## English Guide\n- Problem: How to realize spatially programmable synthetic gauge fields (e.g., magnetic textures) in ultracold atomic systems, beyond uniform flux implementations.\n- Method: Utilizing a momentum-space lattice of ultracold atoms with local control over Peierls phases to implement Harper-Hofstadter Hamiltonians, and introducing synthetic electric fields via site-dependent energy gradients.\n- Main result: Observation of a crossover from ballistic to flux-modified bulk dynamics; Hall-type transverse drift under combined electric and magnetic fields; construction of a synthetic flux domain wall with anisotropic propagation along the interface.\n- Relevance: This work is primarily about quantum simulation of topological matter and transport in synthetic gauge fields. It uses ultracold neutral atoms but has no direct connection to quantum metrology, quantum sensing, Rydberg atoms, spin squeezing, Fisher information, Ramsey interferometry, or quantum computing. The relevance to the specified research interests is low.\n- Reading priority: Low for researchers focused on quantum precision measurement, quantum sensing, or quantum computing. High for those interested in ultracold atom simulation, topological phases, or synthetic gauge fields.\n- Possible inspiration: The demonstrated programmability of momentum-space lattices and phase control could, in principle, be adapted for coherent control in quantum sensors or interferometers, but the connection is indirect and not immediate.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.15124v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.15124v1",
+  "local_pdf_path": ""
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Proposal of quantum arrival-time measurement with a Bose-Einstein condensate",
+  "arXiv_id": "2606.20278v1",
+  "abstract": "This work shows how a Bose-Einstein condensate of ultracold atoms could be used to address a long-standing question in quantum theory: how much time does it take for a particle to reach a detector? To this end, we propose a realistic experimental setup, whose key idea is not to measure arrival times directly, but the arrival flux on the detector as a function of its position. This novel approach not only solves practical issues with having a detector close to the system, but also results in signals that allow to unambiguously distinguish different theoretical predictions. This proposal raises prospects for resolving the decades-old debate on this fundamental issue.",
+  "authors": [
+    "Pascal Naidon",
+    "Lucas Happ",
+    "Denis Boiron"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas"
+  ],
+  "summary": "本文提出利用超冷原子玻色-爱因斯坦凝聚体（BEC）来测量量子到达时间。核心思想不是直接测量粒子到达探测器的时刻，而是测量到达通量作为探测器位置的函数。该方法解决了探测器靠近系统带来的实际困难，并能清晰区分不同理论预测，有望解决量子力学中关于到达时间的基本争论。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何用量子系统（BEC）测量粒子的量子到达时间，解决量子理论中长期存在的争议。\n- 核心方法：提出利用BEC的原子通量分布来间接推断到达时间，而非直接测量时间。\n- 主要结果：该方法可区分不同理论预测，且实验上可行。\n- 与量子精密测量/量子计算的关系：本文聚焦量子基础问题，与量子精密测量（如量子计量学、Fisher信息、自旋压缩）、量子计算（如中性原子量子门、离子阱）等方向无直接关联。未涉及Rydberg原子、光晶格、腔QED、纠缠增强等关键主题。\n- 是否值得精读：对于关注量子基础问题的研究者有一定价值，但对于量子传感或量子计算方向，相关性较低。\n- 对我研究的可能启发：如果研究涉及BEC作为探针的量子测量协议，可能提供新视角，但整体启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to measure quantum arrival time using a Bose-Einstein condensate (BEC), addressing a fundamental debate in quantum theory. \n- Method: Measure the arrival flux as a function of detector position instead of direct time measurement. \n- Main result: The proposed setup is realistic and can distinguish different theoretical predictions. \n- Relevance: This paper focuses on quantum foundations, with no direct connection to quantum metrology, quantum sensing, Fisher information, spin squeezing, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, or cavity QED. It does not discuss experimental platforms or protocols relevant to your listed interests. \n- Reading priority: Low for your specific research areas; more relevant to quantum foundations. \n- Possible inspiration: Limited, unless you work on BEC-based quantum probes for fundamental questions.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.20278v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.20278v1",
+  "local_pdf_path": ""
+}

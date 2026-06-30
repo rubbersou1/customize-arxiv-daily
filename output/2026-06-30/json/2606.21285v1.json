@@ -1,0 +1,20 @@
+{
+  "title": "Direct evidence for projectile electronic structure effects in slow multielectron capture collisions",
+  "arXiv_id": "2606.21285v1",
+  "abstract": "We investigate the role of the electronic structure of the projectile in ionization and subsequent fragmentation of CO$_2$ induced by multielectron capture in collisions at 0.31 a.u. impact velocity. Focusing on the $\\text{CO}_2^{3+} \\rightarrow \\text{O}^+:\\text{C}^+:\\text{O}^+$ break-up channel as a representative channel, we report kinetic energy release distributions (KERDs) for collisions with equi-velocity N$^{q+}$ and O$^{q+}$ projectiles. We consider two complementary categories of measurements. In the first category, in which different projectiles of the same charge are considered, we find that KERDs obtained with N$^{q+}$ and O$^{q+}$ impact ($q=4,6$) are broadly similar, but they differ significantly from the earlier reported KERD with Ar$^{q+}$ impact. In the second category, pronounced differences are observed between the KERDs obtained with isoelectronic N$^{q+}$ and O$^{(q+1)+}$ ($q=3,5,7$) projectiles. These results provide direct evidence that projectile electronic structure plays a critical role in multielectron capture collisions.",
+  "authors": [
+    "Akash Srivastav",
+    "Sumit Srivastav",
+    "Bhas Bapat"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "该论文研究了低速多电子俘获碰撞中弹丸电子结构对CO₂电离和碎裂的影响。通过对比等速N^q+和O^q+弹丸的动能释放分布，发现不同电荷态但等电子的弹丸会导致显著差异，直接证明了弹丸电子结构在碰撞中的关键作用。",
+  "chinese_digest": "## 中文导读\n- 研究问题：低速多电子俘获碰撞中，弹丸电子结构如何影响靶分子的碎裂动力学？\n- 核心方法：测量CO₂在0.31 a.u.速度下与不同弹丸（N^q+、O^q+、Ar^q+）碰撞后的动能释放分布，对比等电荷和等电子弹丸的差异。\n- 主要结果：等电荷弹丸（q=4,6）的分布相似，但与Ar^q+不同；等电子弹丸（如N^3+与O^4+）的分布显著不同，表明电子结构效应不可忽略。\n- 与量子精密测量/量子计算的关系：该研究属于原子分子碰撞物理，与量子传感、量子计量、量子计算等方向无直接关联。文中未涉及Rydberg原子、自旋压缩、Fisher信息、量子门等核心概念。\n- 是否值得精读：不值得。与您的研究方向（量子精密测量、量子计算）基本无关。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How does the projectile's electronic structure influence fragmentation dynamics in slow multielectron capture collisions?\n- Method: Measuring kinetic energy release distributions of CO₂ after collisions with N^q+, O^q+, and Ar^q+ projectiles at 0.31 a.u. velocity, comparing same-charge and isoelectronic cases.\n- Main result: Same-charge projectiles give similar distributions but differ from Ar^q+; isoelectronic projectiles show clear differences, proving electronic structure effects.\n- Relevance: This work belongs to atomic/molecular collision physics and has no direct connection to quantum sensing, metrology, quantum computing, Rydberg atoms, spin squeezing, Fisher information, or related topics.\n- Reading priority: Low. Not relevant to your research focus.\n- Possible inspiration: None.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.21285v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.21285v1",
+  "local_pdf_path": ""
+}

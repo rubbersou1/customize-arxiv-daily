@@ -1,0 +1,20 @@
+{
+  "title": "Stabilizer entropy is trustworthy for mixed states",
+  "arXiv_id": "2606.29443v1",
+  "abstract": "Quantifying non-stabilizerness in mixed states is provably intractable, as any strict monotone requires superexponential time. We propose a linear Stabilizer Entropy that acts as a proper non-stabilizerness monotone with overwhelming probability when restricted to non-adaptive Clifford channels acting on flat mixed stabilizer states. Analytical and numerical results for Haar-random states, Clifford orbits, and random matrix product states show that monotonicity violation probabilities decay as $\\exp-ηN$. We also prove the validity of Stabilizer Entropy in specific many-body systems undergoing partial measurements, where the amount of resource never increases for each measurement outcome as well as when averaged over outcome probabilities. Given the hardness of strict alternatives, Stabilizer Entropy emerges as a practical and theoretically justified resource measure.",
+  "authors": [
+    "Gianluca Esposito",
+    "Michele Viscardi",
+    "Alioscia Hamma"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "这篇论文提出了一种线性稳定子熵（linear Stabilizer Entropy）作为混合态中非稳定子性（non-stabilizerness）的可靠资源度量。由于严格单调性在混合态中计算上不可行（需要超指数时间），作者证明该线性熵在非自适应Clifford通道作用于平坦混合稳定子态时，以压倒性概率表现为真正的非稳定子性单调。通过Haar随机态、Clifford轨道和随机矩阵乘积态的解析与数值结果，他们展示了单调性违反概率随系统大小N呈指数衰减（~exp(-ηN)）。此外，在经历部分测量的特定多体系统中，该熵对每个测量结果以及结果概率平均均满足资源不增加性。因此，稳定子熵成为一种实用且有理论依据的资源度量。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在混合态中高效且可靠地量化非稳定子性（量子计算中的一种资源），以克服严格单调性计算不可行的问题。\n- 核心方法：定义线性稳定子熵，利用其线性性质避免超指数复杂度，并通过概率分析（指数衰减的违反概率）和特定多体系统（部分测量）的验证来证明其作为资源度量的有效性。\n- 主要结果：线性稳定子熵在非自适应Clifford通道和部分测量系统中以高概率满足单调性，且违反概率随系统大小指数衰减，使其成为一种实用资源度量。\n- 与量子精密测量/量子计算的关系：非稳定子性（即魔术资源）是容错量子计算的关键资源，与量子纠错和量子门保真度密切相关。虽然本文未直接涉及量子精密测量中的Fisher信息、自旋压缩或Rydberg系统等具体平台，但其资源度量方法可间接用于评估量子计算中噪声对资源的影响，进而影响量子传感协议中计算辅助的测量精度。对于中性原子量子计算、离子阱等平台，该度量可能有助于诊断和优化量子门操作。\n- 是否值得精读：对于专注于量子计算资源理论、量子纠错或混合态量子信息的研究者，值得精读；对于实验导向的量子传感研究者，相关性较低，但可了解资源度量在噪声环境下的行为。\n- 对我研究的可能启发：启发我思考在量子精密测量中，如何类似地定义适用于混合态（如噪声环境下的自旋压缩态）的Fisher信息或纠缠度量，并考虑其计算复杂性与实验可行性间的权衡。",
+  "english_digest": "## English Guide\n- Problem: How to efficiently and reliably quantify non-stabilizerness (a resource for quantum computing) in mixed states, given that strict monotones are computationally intractable. \n- Method: Propose a linear Stabilizer Entropy that avoids superexponential complexity due to linearity, and demonstrate its validity through probabilistic analysis (exponentially decaying violation probability) and verification in many-body systems undergoing partial measurements. \n- Main result: The linear Stabilizer Entropy acts as a proper non-stabilizerness monotone with high probability under non-adaptive Clifford channels and partial measurements, with violation probability decaying exponentially in system size. \n- Relevance: Non-stabilizerness is crucial for fault-tolerant quantum computing and affects gate fidelity, but this paper does not directly address quantum sensing, metrology, or specific platforms like Rydberg atoms, trapped ions, or spin squeezing. The resource measure could indirectly help evaluate noise effects in quantum computing platforms and thus impact measurement precision in sensor-assisted protocols. \n- Reading priority: High for researchers in quantum resource theory, quantum error correction, or mixed-state quantum information; low for experimental quantum sensing groups unless they work on computing-assisted metrology. \n- Possible inspiration: The approach may inspire similar resource measures (e.g., Fisher information under noise) for mixed states in quantum metrology, balancing computational feasibility and experimental relevance.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29443v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29443v1",
+  "local_pdf_path": ""
+}

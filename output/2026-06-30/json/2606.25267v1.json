@@ -1,0 +1,29 @@
+{
+  "title": "Rapid and robust laser-frequency auto-locking using Bayesian-optimization and discrete-wavelet-transformation algorithms",
+  "arXiv_id": "2606.25267v1",
+  "abstract": "Rapid and robust laser-frequency auto-locking is essential for the field deployment of quantum communications, quantum computing, and precision-measurement technologies; however, achieving this remains a considerable challenge. Here, we propose and demonstrate an auto-locking scheme employing Bayesian optimization and discrete biorthogonal wavelet transformation. First, the reference is rapidly sought by making intelligent use of historical observations, eliminating the inherent blindness of the traditional parameter-scanning method. Second, the frequency reference is robustly identified by pinpointing transition signals with the discrete biorthogonal wavelet transformation and analyzing their immutable frequency differences and relative magnitudes, which are determined by the inherent atomic structure and remain resistant to environmental disturbances. This proposed approach achieves a fivefold acceleration in reference searching compared to conventional scanning methods in the case where the laser frequency drifts far away from the reference. Crucially, it achieves an identification accuracy of more than 99.5 %, even under severe 50 % laser-intensity fluctuations, $9.95^\\circ$ photodiode misalignment, and $18^\\circ$C Rb cell temperature elevation. Finally, locking the laser frequency to the identified reference with a lead zirconate titanate-current double-servo loop narrows the linewidth to 20 kHz. We believe that this rapid, robust, and high-performance auto-locking technique will be pivotal towards the deployment of the next generation of practical quantum technologies in demanding field environments.",
+  "authors": [
+    "Min Jiang",
+    "Xiao-Li Chen",
+    "Si-Bin Lu",
+    "Jia-Hao Fu",
+    "Zhan-Wei Yao",
+    "Shao-Kang Li",
+    "Min Ke",
+    "San-Ming Song",
+    "Run-Bing Li",
+    "Jin Wang",
+    "Ming-Sheng Zhan"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "本文提出并演示了一种基于贝叶斯优化和离散双正交小波变换的激光频率自动锁定方案。该方案通过智能利用历史观测数据快速搜索参考频率，并利用双正交小波变换识别跃迁信号及其固有的频率差和相对幅度，实现了快速（相比传统扫描方法加速五倍）且鲁棒（在50%激光强度波动、光电二极管9.95°未对准和铷泡温度升高18°C等恶劣条件下识别准确率超过99.5%）的激光频率锁定。最终通过压电陶瓷-电流双伺服环将激光线宽压窄至20 kHz。",
+  "chinese_digest": "## 中文导读\n- 研究问题：量子通信、量子计算和精密测量技术在实际应用中需要快速且鲁棒的激光频率自动锁定技术。\n- 核心方法：结合贝叶斯优化（用于快速搜索参考频率）和离散双正交小波变换（用于鲁棒识别跃迁信号特征）。\n- 主要结果：在激光频率大幅漂移时，参考搜索速度比传统方法快五倍；即使在严重环境干扰下（50%强度波动、9.95°光电二极管未对准、18°C温度变化），识别准确率仍超过99.5%；锁定后激光线宽为20 kHz。\n- 与量子精密测量/量子计算的关系：激光频率锁定是原子钟、量子门操作（如Rydberg原子量子计算中的激光激发）、原子干涉仪等量子精密测量和量子计算实验的基础技术，该工作直接提升了这些系统的稳定性和部署可行性。\n- 是否值得精读：是。该工作提供了实用的、抗环境干扰的激光锁定方案，对实验型量子精密测量和量子计算项目具有直接参考价值。\n- 对我研究的可能启发：可借鉴其贝叶斯优化与小波变换结合的方法，用于优化量子传感中的参数估计或自动校准流程。",
+  "english_digest": "## English Guide\n- Problem: Rapid and robust laser-frequency auto-locking is critical for deploying quantum technologies (e.g., quantum computing, precision measurement) in field environments. \n- Method: Bayesian optimization for fast reference searching + discrete biorthogonal wavelet transformation for robust signal identification.\n- Main result: 5× faster reference search vs. conventional scanning; >99.5% identification accuracy under severe disturbances (50% intensity fluctuation, 9.95° PD misalignment, 18°C temperature shift); 20 kHz locked linewidth.\n- Relevance: Directly relevant to quantum metrology (atomic clocks, atom interferometry, Rydberg-based sensing) and quantum computing (neutral-atom/Rydberg gates) where stable laser sources are essential. The robustness and speed improvements are valuable for practical deployment.\n- Reading priority: High. This work provides a practical, noise-resilient laser-locking technique that can directly benefit experiments in quantum sensing and computation.\n- Possible inspiration: The Bayesian-wavelet hybrid approach could be adapted for adaptive parameter estimation or automated calibration in quantum sensors or quantum control loops.",
+  "relevance_score": 9.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25267v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.25267v1",
+  "local_pdf_path": ""
+}

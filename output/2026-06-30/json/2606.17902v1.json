@@ -1,0 +1,27 @@
+{
+  "title": "Hydrogen s-electrons as the origin of crystal magnetism beyond spin-orbit coupling",
+  "arXiv_id": "2606.17902v1",
+  "abstract": "Magnetism has long been attributed to localized d, f, and even p electrons with strong correlations, whereas s electrons exemplified by hydrogen are reactive and tend to have their spins quenched, making s-electron-derived magnetism and long-range ordered magnetic crystals seem unattainable. Here we report a low-Z ferromagnetic crystal H13@(BN)12 using first-principles calculations, where thirteen hydrogen atoms are encapsulated within a (BN)12 cage and magnetism originates from the 1s electron of the central hydrogen atom. The crystal remains stable under ambient pressure owing to chemical precompression. Notably, the central hydrogen atom retains a magnetic moment of 1 μB, with long-range magnetic order established through multicenter bonding within the H13 aggregate and the intercell B-B network, while the zero orbital angular momentum of s electrons renders spin-orbit coupling (SOC) negligible as expected. Electronic structure analyses reveal that the large cavity and central negative electrostatic potential of the (BN)12 cage localize the hydrogen 1s electron, preventing spin quenching. Interestingly, under 16 GPa compression, the system transforms into a nonmagnetic metallic state driven by delocalized electrons of the central hydrogen atom. This study opens a pathway for constructing s-electron-driven magnetic materials and lays the foundation for developing low-energy consumption magnetic devices without SOC.",
+  "authors": [
+    "Baiqiang Liu",
+    "Zhen Gong",
+    "Rui Liu",
+    "Siyang Liu",
+    "Yue Feng",
+    "Zhigang Wang"
+  ],
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el",
+    "physics.atom-ph",
+    "physics.chem-ph",
+    "physics.comp-ph"
+  ],
+  "summary": "这篇论文通过第一性原理计算报道了一种低原子序数的铁磁晶体H13@(BN)12，其中13个氢原子被封装在(BN)12笼中，磁性来源于中心氢原子的1s电子。研究发现，在常压下该晶体稳定，中心氢原子保持1 μB的磁矩，通过H13团簇内的多中心键和晶胞间的B-B网络建立长程磁序。由于s电子的轨道角动量为零，自旋-轨道耦合可忽略。电子结构分析表明，(BN)12笼的大空腔和中心负静电势局域了氢的1s电子，阻止了自旋淬灭。在16 GPa压缩下，系统转变为由中心氢原子离域电子驱动的非磁性金属态。该工作为构建s电子驱动的磁性材料开辟了新途径。",
+  "chinese_digest": "## 中文导读\n- 研究问题：探索s电子（如氢的1s电子）能否作为磁性的来源，并构建无自旋-轨道耦合的磁性晶体。\n- 核心方法：第一性原理计算（密度泛函理论），预测H13@(BN)12笼状晶体的电子结构和磁性。\n- 主要结果：发现中心氢的1s电子在常压下保持磁矩，形成长程铁磁序；高压下转变为非磁性金属态。\n- 与量子精密测量/量子计算的关系：该研究与量子精密测量、量子传感、量子计算、Rydberg原子、spin squeezing、中性原子、离子阱、Fisher information等方向无直接关联。论文主要关注凝聚态物理中的新型磁性机制，不涉及量子计量学中的参数估计、量子态操控、量子门或量子传感协议。\n- 是否值得精读：不值得精读，除非对s电子磁性或高压物理有特殊兴趣。\n- 对我研究的可能启发：无直接启发，但可提醒在量子传感中避免磁噪声干扰时考虑s电子材料的磁性来源。",
+  "english_digest": "## English Guide\n- Problem: Can s-electrons (e.g., hydrogen 1s) serve as a source of magnetism, and can a magnetic crystal be constructed without spin-orbit coupling?\n- Method: First-principles calculations (density functional theory) to predict the electronic structure and magnetism of H13@(BN)12 cage crystal.\n- Main result: The central hydrogen's 1s electron retains a magnetic moment under ambient pressure, forming long-range ferromagnetic order; under high pressure, it transforms to a nonmagnetic metallic state.\n- Relevance: This work is not related to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. It focuses on a novel magnetism mechanism in condensed matter physics, with no direct connection to quantum metrology protocols, qubit control, or sensing platforms.\n- Reading priority: Low priority for researchers in quantum metrology and quantum computing.\n- Possible inspiration: None directly, though it may offer insight into magnetic noise sources in quantum sensors.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.17902v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.17902v1",
+  "local_pdf_path": ""
+}

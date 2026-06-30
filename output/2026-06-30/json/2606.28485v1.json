@@ -1,0 +1,20 @@
+{
+  "title": "Geometric pairing of Nambu--Goldstone modes in spacetime symmetry breaking",
+  "arXiv_id": "2606.28485v1",
+  "abstract": "We identify a geometric pairing mechanism in systems with spontaneously broken spacetime symmetries, whereby pairs of Goldstone fields become canonically conjugate and hybridize into a single type-B Nambu--Goldstone mode (NGM). The mechanism originates from deformations of the local spacetime volume element induced by Goldstone fluctuations, which endow the Goldstone manifold with a Berry curvature. Integrating this pairing with existing reductions, we propose a general counting formula for the number of gapless NGMs in many-body systems. We demonstrate the mechanism in a microscopic model of a two-component Bose--Einstein condensate, where the dilaton and the $U(1)$ Goldstone field combine into a single NGM with quadratic dispersion.",
+  "authors": [
+    "Aleksander Głódkowski"
+  ],
+  "categories": [
+    "hep-th",
+    "cond-mat.quant-gas",
+    "cond-mat.str-el"
+  ],
+  "summary": "这篇论文研究了在自发破缺时空对称性的系统中，Nambu-Goldstone模式（NGM）的一种几何配对机制。作者发现，Goldstone涨落会诱导局域时空体积元的变形，从而赋予Goldstone流形贝里曲率，导致成对的Goldstone场成为正则共轭并混合成一个单一的B型NGM。他们将此机制与已有的约化方法结合，提出了一个用于计数多体系统中无质量NGM数量的通用公式，并在双组分玻色-爱因斯坦凝聚体的微观模型中进行了验证，其中膨胀子和U(1) Goldstone场结合成一个具有二次色散的单一NGM。",
+  "chinese_digest": "## 中文导读\n- 研究问题：时空对称性破缺系统中Nambu-Goldstone模式的几何配对机制。\n- 核心方法：理论分析，利用贝里曲率和Goldstone流形的几何性质，提出计数公式，并在双组分BEC模型中验证。\n- 主要结果：发现了一种新的配对机制，将成对Goldstone场合并为单一B型NGM，并给出了无质量NGM的通用计数公式。\n- 与量子精密测量/量子计算的关系：本文主要涉及基础理论物理中的对称性破缺和Goldstone模式，与量子精密测量、量子传感、量子计算等应用方向没有直接关联。文中未提及量子Fisher信息、自旋压缩、Rydberg原子、离子阱、原子钟、量子门等具体技术或实验平台。\n- 是否值得精读：对于专注于量子精密测量和量子计算的研究者，本文相关性低，不值得精读。\n- 对我研究的可能启发：几乎没有直接启发，除非研究涉及BEC中的基础对称性破缺理论，但与本领域的实验和应用导向不符。",
+  "english_digest": "## English Guide\n- Problem: Geometric pairing mechanism of Nambu-Goldstone modes in systems with spontaneously broken spacetime symmetries. \n- Method: Theoretical analysis using Berry curvature and geometry of the Goldstone manifold, proposing a counting formula, and verifying in a two-component BEC model.\n- Main result: A new pairing mechanism where pairs of Goldstone fields merge into a single type-B NGM, with a general counting formula for gapless NGMs.\n- Relevance: This paper is primarily about fundamental theoretical physics (spontaneous symmetry breaking and Goldstone modes) and has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or related experimental platforms. \n- Reading priority: Low for researchers focused on quantum metrology and quantum computing. Not recommended for detailed reading.\n- Possible inspiration: Minimal direct inspiration, unless one works on fundamental symmetry breaking in BEC systems, but it is not aligned with the applied/experimental focus of this research area.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28485v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28485v1",
+  "local_pdf_path": ""
+}

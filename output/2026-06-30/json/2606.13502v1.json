@@ -1,0 +1,18 @@
+{
+  "title": "Quasi-2D trapped tilted dipoles at zero and finite temperatures in the strongly dipolar regime",
+  "arXiv_id": "2606.13502v1",
+  "abstract": "Motivated by the recent experimental observation of dipolar supersolid stripes in a quasi two-dimensional geometry [arXiv:2512.13280 (2025)], we study a trapped system of fully polarized dipoles in a strongly axially confined geometry, both at zero and finite temperatures, by means of Bogoliubov theory. The dipoles are strongly harmonically trapped along the z axis and subjected to a box trap in the x-y plane. We characterize the physics of the trapped system at zero and finite temperatures as a function of the tilting angle of the dipoles, the number of particles and the scattering length, restricting ourselves to the experimentally relevant regime of large condensate fractions. We also illustrate the influence of the aspect ratio of the box trap in the liquid character of the system and its structure. We observe a remarkable promotion of spatial modulations when temperature is increased while keeping the total particle number constant for specific configurations, in qualitative agreement with previous Monte Carlo results in a 3D geometry. Our results are useful to understand the zero temperature physics of the trapped dipolar system in the quasi-2D limit and in the strongly dipolar regime. In addition, they allow to assess the effect of temperature in its equilibrium properties in experimentally relevant conditions, which may be useful for thermometry applications.",
+  "authors": [
+    "Juan Sánchez-Baena"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "summary": "本文研究了准二维受限倾斜偶极子在强偶极子区域零温和有限温度下的行为。通过Bogoliubov理论，分析了偶极子倾斜角、粒子数和散射长度对系统物理性质的影响，并探讨了温度对空间调制结构的促进作用。研究结果有助于理解准二维极限下受限偶极系统的零温物理，并为温度计应用提供了参考。",
+  "chinese_digest": "## 中文导读\n- 研究问题：准二维受限倾斜偶极子在强偶极子区域零温和有限温度下的平衡性质。\n- 核心方法：Bogoliubov理论，数值模拟。\n- 主要结果：温度升高会促进空间调制结构，偶极子倾斜角和盒型陷阱纵横比影响系统液体特性。\n- 与量子精密测量/量子计算的关系：本文研究偶极子系统，与中性原子量子计算和量子传感有一定间接关联（如偶极子相互作用可用于量子门或纠缠生成），但未涉及量子计量学、Fisher信息、自旋压缩等核心概念。\n- 是否值得精读：否，相关性较低。\n- 对我研究的可能启发：偶极子系统的温度效应或可用于热计量，但非当前主要方向。",
+  "english_digest": "## English Guide\n- Problem: Equilibrium properties of quasi-2D trapped tilted dipoles at zero and finite temperatures in the strongly dipolar regime.\n- Method: Bogoliubov theory, numerical simulations.\n- Main result: Temperature promotes spatial modulations; tilt angle and box trap aspect ratio influence liquid character.\n- Relevance: This paper studies dipolar systems, which have indirect connections to neutral-atom quantum computing and quantum sensing (e.g., dipolar interactions for gates or entanglement), but does not directly address quantum metrology, Fisher information, spin squeezing, or other core topics.\n- Reading priority: Low.\n- Possible inspiration: Temperature effects in dipolar systems could be relevant for thermometry, but not a primary interest.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.13502v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.13502v1",
+  "local_pdf_path": ""
+}

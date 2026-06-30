@@ -1,0 +1,18 @@
+{
+  "title": "$4π$ Combination of Gaussian Laser Beams",
+  "arXiv_id": "2606.29096v1",
+  "abstract": "This work is a generalization of our previous study [arXiv:2406.17944], which dealt with the coherent and incoherent combination of linearly polarized Gaussian laser beams operating in continuous-wave mode under a $2π$ focusing configuration. In the present work, the laser beams are focused within a solid angle that can reach $4π$ by using two opposing source planes, where all the lasers from both planes are focused onto the same point in the focal plane. Our results show that the focal spot area obtained with either one or two source planes remains unchanged, despite the fact that, in the two-source-plane configuration, the numerical aperture (NA) of the system is twice that of the $2π$ focusing scheme. However, the intensity at the focal point is four times greater than that obtained with a single source plane. In addition, the longitudinal resolution is significantly improved, yielding a focal volume smaller than $0.5 λ^3$ for a numerical aperture of NA = 0.895. For incoherent beam combination, the focal volume remains practically the same in both the $2π$ and $4π$ focusing configurations, while the intensity at the focal point is twice that obtained in the $2π$ case. Furthermore, in the incoherent configuration, we observe a depth of focus reaching up to 30,000 $λ$ for a system with a low numerical aperture.",
+  "authors": [
+    "Hocine. Djellout"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "该论文是对作者之前研究（arXiv:2406.17944）的推广，探讨了高斯激光束在4π立体角聚焦配置下的相干与非相干合束。通过使用两个相对的源平面，将激光束聚焦到同一点，系统数值孔径（NA）相比2π配置翻倍。结果表明，双源平面配置下焦点面积不变，但焦点强度是单源平面的四倍，纵向分辨率显著提升，在NA=0.895时焦体积小于0.5 λ³。非相干合束时焦体积基本不变，焦点强度为2π配置的两倍，且低数值孔径下焦深可达30,000 λ。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何通过4π立体角聚焦配置提升高斯激光束的聚焦强度与纵向分辨率。\n- 核心方法：理论推导与数值模拟，比较2π与4π配置下相干/非相干合束的焦点特性。\n- 主要结果：4π配置下焦点强度提升4倍（相干）或2倍（非相干），焦体积可压缩至亚波长尺度（<0.5 λ³），低NA下焦深极大。\n- 与量子精密测量/量子计算的关系：该工作主要涉及激光光学与聚焦技术，与量子精密测量（如原子干涉仪、光晶格）、量子计算（中性原子、离子阱）的直接关联较弱。虽然高强度聚焦激光可用于光镊或原子冷却，但论文未涉及量子传感、自旋压缩、Fisher信息等核心概念。\n- 是否值得精读：否。除非研究涉及极端聚焦激光束在原子实验中的应用，否则对量子精密测量和量子计算方向的直接参考价值有限。\n- 对我研究的可能启发：如果研究方向涉及光学偶极阱、光镊阵列或原子干涉仪的光束配置，可参考其聚焦强度与分辨率提升方案，但需注意其与量子传感协议或量子门操作的脱节。",
+  "english_digest": "## English Guide\n- Problem: How to enhance focal intensity and longitudinal resolution of Gaussian laser beams via 4π solid-angle focusing. \n- Method: Theoretical derivation and numerical simulation comparing coherent/incoherent beam combination in 2π vs. 4π configurations. \n- Main result: 4π configuration yields 4× (coherent) or 2× (incoherent) focal intensity, sub-wavelength focal volume (<0.5 λ³), and extreme depth of focus at low NA. \n- Relevance: This work is primarily about laser optics and focusing techniques, with weak direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, trapped ions, or Fisher information. While high-intensity focused beams are relevant to optical tweezers or atom cooling, the paper does not address quantum metrology protocols, quantum gates, or sensing limits. \n- Reading priority: Low. Not recommended unless your research involves extreme focusing for optical traps or atom interferometry setups. \n- Possible inspiration: Could inform beam configuration for optical dipole traps, tweezer arrays, or atom interferometers, but lacks direct ties to quantum sensing or computing performance metrics.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29096v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29096v1",
+  "local_pdf_path": ""
+}

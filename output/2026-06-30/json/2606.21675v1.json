@@ -1,0 +1,22 @@
+{
+  "title": "Instabilities of the continuous superradiant laser",
+  "arXiv_id": "2606.21675v1",
+  "abstract": "We investigate the intensity stability of the superradiant laser. Our study focuses on the architecture where a continuous beam of atoms in an electronically excited state crosses the mode of a high-finesse Fabry-Perot cavity, which has been proposed as a new architecture of an active optical clock. We show that such superradiant laser can become unstable and develop chaotic behavior. We derive an analytical criterion for this instability and find that it may only occur when the lifetime of photons in the cavity is significantly shorter than the lifetime of atoms. This criterion allows for refining the necessary parameters to run a superradiant laser as a frequency reference in the optical domain. In particular, we point-out the consequences of the instability on intensity fluctuations and laser linewidth. On the other hand, we also point out that the superradiant laser, when in the unstable regime, can become an interesting playground for studying chaos. At the mean-field level, there is a direct mapping to the Bénard instability associated with fluid turbulence; however quantum fluctuations associated with photon out-coupling and atom re-filling substantially modify the expected behaviors. Finally, we point-out the existence of a regular self-pulsing regime at large atom numbers.",
+  "authors": [
+    "Bruno Laburthe-Tolra",
+    "Martin Robert-de-Saint-Vincent",
+    "Benjamin Pasquiou"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文研究了连续超辐射激光器的强度稳定性。该激光器通过连续电子激发态原子束穿过高精细度法布里-珀罗腔实现，被提议作为主动光学时钟的新架构。研究表明，这种超辐射激光器可能变得不稳定并出现混沌行为。作者推导了不稳定性的解析判据，发现只有当腔中光子寿命显著短于原子寿命时才会发生。该判据有助于优化超辐射激光器作为光学频率参考的参数。此外，论文指出了不稳定性对强度波动和激光线宽的影响，并提到在不稳定区域，超辐射激光器可成为研究混沌的有趣平台。在平均场水平，存在与流体湍流中贝纳尔不稳定性直接对应的映射，但光子输出耦合和原子补充相关的量子涨落会显著改变预期行为。最后，论文指出了在大原子数下存在规则的自脉动机制。",
+  "chinese_digest": "## 中文导读\n- 研究问题：连续超辐射激光器的强度稳定性及其作为光学频率参考的可行性。\n- 核心方法：通过解析推导不稳定性判据，结合平均场分析和量子涨落效应，研究激光器的动力学行为。\n- 主要结果：发现了不稳定性发生的条件（腔光子寿命远小于原子寿命），揭示了混沌行为的存在，并指出在大原子数下存在规则自脉动机制。\n- 与量子精密测量/量子计算的关系：该研究直接关联到主动光学时钟（原子钟）的稳定性，是量子计量学（量子精密测量）中的重要方向。超辐射激光器可用于提高频率测量的精度。不稳定性分析对设计高稳定度量子传感平台（如基于腔QED的系统）有参考价值。与中性原子、俘获离子等平台的时钟应用相关。\n- 是否值得精读：值得精读，尤其对从事光学原子钟、超辐射激光、腔QED或量子计量学理论的研究者。\n- 对我研究的可能启发：可启发我思考在Rydberg原子或中性原子量子计算平台中，激光或微波源的稳定性对量子门保真度和传感灵敏度的影响；不稳定性判据可用于优化实验参数。",
+  "english_digest": "## English Guide\n- Problem: Investigate the intensity stability of the continuous superradiant laser, proposed as a new architecture for active optical clocks. \n- Method: Analytical derivation of instability criterion, mean-field analysis, and consideration of quantum fluctuations from photon out-coupling and atom re-filling. \n- Main result: Identified a regime of instability and chaos when cavity photon lifetime is much shorter than atomic lifetime; also found a regular self-pulsing regime at large atom numbers. \n- Relevance: Directly relevant to atomic clocks (quantum metrology), cavity QED, and stability of quantum sensors. The instability criterion helps design more stable frequency references. Related to neutral-atom and trapped-ion platforms for precision measurement. Not directly about quantum computing but relevant to control and hardware stability. \n- Reading priority: High priority for those working on optical clocks, superradiant lasers, cavity QED, or theoretical quantum metrology. \n- Possible inspiration: Insights into how laser stability affects quantum gate fidelity in neutral-atom/Rydberg quantum computing; criterion can guide parameter choices for microwave sensing using Rydberg systems.",
+  "relevance_score": 7.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.21675v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.21675v1",
+  "local_pdf_path": ""
+}

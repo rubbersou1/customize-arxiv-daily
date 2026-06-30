@@ -1,0 +1,25 @@
+{
+  "title": "Quantum Monte Carlo calculations of Zemach moments in $A\\leq 9$ nuclei",
+  "arXiv_id": "2606.11153v1",
+  "abstract": "Modern atomic spectroscopy has reached a level of precision at which nuclear-structure effects can no longer be neglected and must be quantified reliably. In particular, hyperfine splittings depend on the Zemach radius, which encodes the convolution of the nuclear charge and magnetization distributions. The third electric Zemach moment provides a related finite-size measure and enters the elastic two-photon-exchange contribution to the Lamb shift in muonic atoms. Here, we compute Zemach radii and other electromagnetic moments for light nuclei using quantum Monte Carlo techniques within modern \\textit{ab initio} nuclear theory. Using Norfolk two- and three-body interactions derived within chiral effective field theory, we assess the model dependence and study the role of two-body currents. For $^6$Li, we obtain a Zemach radius larger than that extracted from atomic measurements, consistent with recent calculations, confirming that the discrepancy is not an artifact of the nuclear model. For $^9$Be, our results agree with experiment; the discrepancy of previous phenomenological evaluations is traced to a model-dependent input for the magnetic radius.",
+  "authors": [
+    "Garrett B. King",
+    "Sonia Bacca",
+    "Graham Chambers-Wall",
+    "Alex Gnech",
+    "Saori Pastore",
+    "Maria Piarulli",
+    "Robert B. Wiringa"
+  ],
+  "categories": [
+    "nucl-th",
+    "physics.atom-ph"
+  ],
+  "summary": "这篇论文利用量子蒙特卡洛方法计算了轻原子核（A≤9）的Zemach矩，包括Zemach半径和第三电Zemach矩。这些核结构效应对高精度原子光谱（特别是超精细分裂和μ子原子中的Lamb位移）至关重要。作者使用手征有效场论中的Norfolk两体和三体相互作用，评估了模型依赖性，并研究了两体流的影响。对于^6Li，他们得到的Zemach半径大于原子测量提取值，与近期理论计算一致，表明该差异并非核模型的人为产物。对于^9Be，计算结果与实验相符，并指出之前唯象评估的差异源于磁半径的模型依赖输入。",
+  "chinese_digest": "## 中文导读\n- 研究问题：计算轻原子核的Zemach矩，用于高精度原子光谱的核效应修正。\n- 核心方法：量子蒙特卡洛模拟，结合手征有效场论核力。\n- 主要结果：^6Li的Zemach半径与原子测量存在差异，^9Be结果与实验一致。\n- 与量子精密测量/量子计算的关系：该工作为原子钟、Ramsey干涉仪等精密测量实验提供了核结构修正的理论输入，但本身不涉及量子传感、量子计算或Rydberg原子等方向。\n- 是否值得精读：如果关注原子光谱中核效应修正的理论计算，可以一读；但对量子计量学、量子传感、量子计算等核心方向帮助有限。\n- 对我研究的可能启发：无直接启发，但可了解精密测量中核效应修正的重要性。",
+  "english_digest": "## English Guide\n- Problem: Computing Zemach moments of light nuclei for nuclear corrections in high-precision atomic spectroscopy.\n- Method: Quantum Monte Carlo with chiral effective field theory interactions.\n- Main result: Zemach radius of ^6Li deviates from atomic measurement; ^9Be agrees with experiment.\n- Relevance: Provides theoretical nuclear structure inputs for precision experiments like atomic clocks and Ramsey interferometry, but not directly related to quantum sensing, quantum computing, Rydberg atoms, spin squeezing, or Fisher information.\n- Reading priority: Low for researchers focused on quantum metrology, sensing, or computing; moderate for those interested in nuclear corrections to atomic spectra.\n- Possible inspiration: No direct inspiration for quantum metrology or quantum computing research.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.11153v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.11153v1",
+  "local_pdf_path": ""
+}

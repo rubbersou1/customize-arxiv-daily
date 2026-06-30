@@ -1,0 +1,21 @@
+{
+  "title": "Ambiguity-Free Inertial Measurement with Multi-Wavelength Atom Interferometry",
+  "arXiv_id": "2606.11747v1",
+  "abstract": "White-light interferometry enables ambiguity-free localization by synthesizing interference envelopes from multiple optical wavelengths, but no analogous capability has been realized for coherent matter waves. Here we report the first experimental demonstration of multi-wavelength atom interferometry, establishing the matter-wave counterpart of white-light interferometry. By exploiting counter-propagating atomic beams as multi-wavelength matter wave sources and synthesizing interference envelopes from their spectral components, we realize inertial measurements based on envelope localization rather than conventional fringe-phase estimation. The resulting multi-scale interferometric response provides ambiguity-free operation, a well-defined rotational scale factor, and reduced sensitivity to initial phase bias. As a proof of principle, we demonstrate simultaneous dual-axis rotation and acceleration sensing and directly resolve the phase ambiguity that fundamentally limits conventional open-loop atom interferometers. We further measure the Earth's rotation with a relative error of 4.3% and a long-term stability of 93 ppm at an averaging time of 15,000 s. Our results establish multi-wavelength atom interferometry as a new paradigm for coherent matter-wave sensing, extending the principles of white-light interferometry to atom optics and opening new opportunities for inertial sensing, geodesy, precision metrology, and inertial navigation.",
+  "authors": [
+    "Wei-Chen Jia",
+    "Yue Xin",
+    "Ke Shen",
+    "Yan-Ying Feng"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "summary": "本文首次实验演示了多波长原子干涉测量，建立了物质波领域的白光干涉对应技术。通过利用反向传播原子束作为多波长物质波源，并合成其光谱分量的干涉包络，实现了基于包络定位而非传统条纹相位估计的惯性测量。该多尺度干涉响应提供了无歧义操作、明确的旋转标度因子，并降低了对初始相位偏差的敏感性。作为原理验证，演示了同时双轴旋转和加速度传感，直接解决了传统开环原子干涉仪中相位模糊的根本限制。进一步测量了地球自转，相对误差4.3%，平均时间15000秒时长期稳定性达93 ppm。该工作确立了多波长原子干涉测量作为相干物质波传感的新范式，将白光干涉原理扩展至原子光学，为惯性传感、大地测量、精密计量和惯性导航开辟了新机遇。",
+  "chinese_digest": "## 中文导读\n- 研究问题：传统原子干涉仪在惯性测量中受相位模糊限制，如何实现无歧义、高稳定性的多轴惯性传感？\n- 核心方法：采用多波长原子束（类似白光干涉中的多波长光）合成干涉包络，通过包络峰值定位而非单一相位估计来提取旋转和加速度信息，实现多尺度无歧义响应。\n- 主要结果：首次实验实现多波长原子干涉，同时测量双轴旋转和加速度，消除相位模糊；测得地球自转相对误差4.3%，长期稳定性93 ppm @15000 s。\n- 与量子精密测量/量子计算的关系：该工作属于原子干涉和量子传感前沿，直接相关于量子精密测量（惯性传感、重力梯度测量）。与量子计算（中性原子、离子阱）共享原子操控技术，但更侧重传感而非计算。与Rydberg原子、自旋压缩、Fisher信息等无直接联系，但原子干涉中量子投影噪声、纠缠增强等概念可引入Fisher信息分析。\n- 是否值得精读：是。该工作开创了原子干涉新范式，对精密测量、惯性导航、基础物理检验有重要意义。\n- 对我研究的可能启发：可借鉴多波长包络合成思路，探索在量子传感中利用多模式或多能级系统实现无歧义参数估计；该方法或可与纠缠增强、自旋压缩结合，进一步提升灵敏度。",
+  "english_digest": "## English Guide\n- Problem: Conventional atom interferometers suffer from phase ambiguity in inertial sensing; how to achieve ambiguity-free, multi-axis inertial measurements with high stability?\n- Method: Multi-wavelength atomic beams (analogous to white-light interferometry) are used to synthesize interference envelopes; envelope peak localization replaces single-phase estimation, enabling multi-scale, ambiguity-free rotation and acceleration sensing.\n- Main result: First experimental demonstration of multi-wavelength atom interferometry; simultaneous dual-axis rotation and acceleration sensing with phase ambiguity resolved; Earth’s rotation measured with 4.3% relative error and 93 ppm stability at 15,000 s averaging.\n- Relevance: Directly relevant to quantum metrology and quantum sensing (inertial sensing, geodesy). Shares atomic manipulation techniques with neutral-atom and trapped-ion quantum computing, but focuses on sensing. Not directly related to Rydberg atoms, spin squeezing, or Fisher information, though Fisher information could be used to analyze quantum noise limits.\n- Reading priority: High. This work establishes a new paradigm for atom interferometry, with implications for precision measurement, inertial navigation, and fundamental physics tests.\n- Possible inspiration: The multi-wavelength envelope synthesis approach could be adapted to other quantum sensors (e.g., using multiple energy levels or modes) for ambiguity-free parameter estimation; combining with entanglement or spin squeezing may further enhance sensitivity.",
+  "relevance_score": 8.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.11747v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.11747v1",
+  "local_pdf_path": ""
+}

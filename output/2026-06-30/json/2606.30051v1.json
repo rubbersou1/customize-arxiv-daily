@@ -1,0 +1,26 @@
+{
+  "title": "Hall viscosity from metric-sensitive dichroic probes",
+  "arXiv_id": "2606.30051v1",
+  "abstract": "Hall viscosity characterizes the geometric response of a quantum Hall droplet to deformations of the underlying metric, yet it has remained difficult to measure directly. We propose a spectroscopic probe based on circular dichroism, using chiral metric-sensitive drives -- implemented as rotating quadrupolar (\"saddle\") perturbations -- that effectively modulate the metric and couple to the generators of area-preserving deformations. The resulting dichroic signal directly measures the Hall viscosity, while frequency-resolved spectroscopy disentangles it from other excitations. A local formulation further enables spatially resolved markers of Hall viscosity applicable to both continuum and lattice systems. Our results open a direct route to measuring Hall viscosity in quantum-engineered platforms such as cold atoms in optical lattices.",
+  "authors": [
+    "Alberto Nardin",
+    "Bruno Mera",
+    "Anaïs Defossez",
+    "Baptiste Bermond",
+    "Tomoki Ozawa",
+    "Nathan Goldman"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.quant-gas",
+    "cond-mat.str-el",
+    "quant-ph"
+  ],
+  "summary": "本文提出了一种基于圆二色性的光谱探针，用于直接测量量子霍尔液滴的霍尔粘度。通过使用手性度量敏感驱动（旋转四极“鞍”形扰动）来调制度规并耦合到面积保持形变的生成元，圆二色信号可直接反映霍尔粘度，而频率分辨光谱可将其与其他激发分离。该方法的局域表述还适用于连续和晶格系统，并可在冷原子光学晶格等量子工程平台中实现。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何直接测量量子霍尔系统中的霍尔粘度？\n- 核心方法：利用旋转四极扰动作为度量敏感驱动，通过圆二色性光谱提取霍尔粘度信号。\n- 主要结果：提出一种光谱探针，可区分霍尔粘度与其他激发，并适用于冷原子等平台。\n- 与量子精密测量/量子计算的关系：本文主要聚焦于量子霍尔系统的几何响应，与量子精密测量（如量子传感、Fisher信息）和量子计算（如中性原子量子计算、量子门）的直接关联较弱。其核心概念（度量响应、圆二色性）可能间接启发量子计量中的几何相位测量或非厄米系统传感，但非当前重点。\n- 是否值得精读：若研究兴趣在拓扑物态或几何响应，值得一读；若专注于量子精密测量或量子计算实验，则优先级较低。\n- 对我研究的可能启发：可考虑将度量敏感的驱动技术应用于量子计量中的几何传感器设计，或探索冷原子平台中类似圆二色性测量方法。",
+  "english_digest": "## English Guide\n- Problem: How to directly measure Hall viscosity in quantum Hall systems?\n- Method: Use rotating quadrupolar perturbations as metric-sensitive drives, and extract Hall viscosity via circular dichroism spectroscopy.\n- Main result: A spectroscopic probe that separates Hall viscosity from other excitations, applicable to cold atoms in optical lattices.\n- Relevance: This paper focuses on geometric responses in quantum Hall systems, with weak direct relevance to quantum precision measurement (e.g., quantum sensing, Fisher information) or quantum computing (e.g., neutral-atom quantum computing, quantum gates). The concepts of metric sensitivity and dichroism may indirectly inspire geometric phase sensing or non-Hermitian sensing, but are not central to the listed interests.\n- Reading priority: Low for researchers primarily focused on quantum metrology or quantum computing experiments; moderate for those interested in topological matter or geometric responses.\n- Possible inspiration: Consider applying metric-sensitive driving techniques to geometric sensor design in quantum metrology, or exploring dichroic measurement methods in cold-atom platforms.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30051v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30051v1",
+  "local_pdf_path": ""
+}

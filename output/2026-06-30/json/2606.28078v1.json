@@ -1,0 +1,21 @@
+{
+  "title": "Single Electrons in a Dual-Plane Printed-Circuit-Board Penning Trap",
+  "arXiv_id": "2606.28078v1",
+  "abstract": "We demonstrate single-electron trapping and detection in a two-dimensionally scalable dual-plane printed-circuit-board Penning trap. We characterize deterministic electron loading, axial damping, axial temperature, and collision-induced magnetron-radius growth at low magnetic fields. These results establish a practical platform for planar Penning traps and identify key next steps toward applications in quantum information science.",
+  "authors": [
+    "Zirui Fang",
+    "Benedict A. D. Sukra",
+    "Xing Fan"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "summary": "本文展示了一种在双平面印刷电路板（PCB）彭宁阱中实现单电子捕获和检测的方法。该装置具有二维可扩展性，研究者在低磁场条件下表征了确定性电子加载、轴向阻尼、轴向温度以及碰撞诱导的磁控管半径增长。这些结果为平面彭宁阱的实际应用奠定了基础，并指出了在量子信息科学中应用的关键下一步。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在可扩展的平面PCB彭宁阱中实现单电子捕获与检测，并评估其性能。\n- 核心方法：利用双平面PCB结构构建彭宁阱，在低磁场下通过实验测量电子加载、轴向阻尼、温度及磁控管半径增长。\n- 主要结果：成功实现单电子捕获，并表征了关键参数，验证了平台的实用性。\n- 与量子精密测量/量子计算的关系：该平台虽涉及量子信息科学，但主要聚焦于电子阱技术的基础实现，与量子精密测量（如量子Fisher信息、自旋压缩）或量子计算（如Rydberg原子、中性原子门）的直接关联较弱。其可扩展性可能对未来离子阱量子计算硬件有间接贡献，但未涉及本领域核心议题。\n- 是否值得精读：若专注于离子阱量子计算硬件，可略读；若关注量子传感、精密测量或Rydberg系统，则相关性低，不建议精读。\n- 对我研究的可能启发：其平面可扩展设计思路可能对设计微型化离子阱或电子阱有参考价值，但需结合具体应用场景。",
+  "english_digest": "## English Guide\n- Problem: How to realize single-electron trapping and detection in a scalable dual-plane PCB Penning trap and characterize its performance. \n- Method: A dual-plane PCB Penning trap is constructed and operated at low magnetic fields; deterministic loading, axial damping, temperature, and magnetron-radius growth are measured experimentally. \n- Main result: Single-electron trapping is demonstrated, and key parameters are characterized, establishing a practical platform for planar Penning traps. \n- Relevance: This work is primarily about trapped-electron technology for quantum information science, but it does not directly address core topics in quantum precision measurement (e.g., quantum Fisher information, spin squeezing) or quantum computing (e.g., Rydberg atoms, neutral-atom gates). Its scalability may indirectly benefit trapped-ion quantum computing hardware, but the connection to the user's specific interests is weak. \n- Reading priority: Low for researchers focused on quantum sensing, metrology, or Rydberg-based quantum computing; moderate for those working on trapped-ion hardware. \n- Possible inspiration: The planar, scalable design could inspire miniaturized ion or electron traps for specific applications, but direct impact on the user's research is limited.",
+  "relevance_score": 4.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28078v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28078v1",
+  "local_pdf_path": ""
+}

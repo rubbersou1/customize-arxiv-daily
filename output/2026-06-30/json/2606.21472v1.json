@@ -1,0 +1,23 @@
+{
+  "title": "Quantum work statistics and coherence effects in quenched bosonic Josephson junctions",
+  "arXiv_id": "2606.21472v1",
+  "abstract": "We investigate the non-equilibrium work statistics originating from a sudden quench in a bosonic Josephson junction. In particular, by employing the Holstein-Primakoff approximation, the work statistics are analytically characterized in the weak-interaction regime, where the dynamics map onto a time-dependent quantum harmonic oscillator. For a junction initialized in the ground state of the pre-quench Hamiltonian, we demonstrate that the work statistics are governed by a negative binomial distribution, as occurs in fully-connected models driven across a critical point. Furthermore, we also consider initial superposition states containing quantum coherences in the energy basis. To characterize the corresponding work distributions, we employ Kirkwood-Dirac quasiprobabilities (KDQ). Even in the simplest case, when the junction is initialized in a superposition of the ground and second excited states, the KDQ distribution of work exhibits negative or complex values, reflecting non-classical features. Moreover, the coherence content of the initial state can be optimized to enhance the extractable work extracted from the quench, beyond classical bounds. Finally, we propose an experimental interferometric protocol to directly measure the characteristic function of the work distribution in experimentally accessible settings.",
+  "authors": [
+    "Mattia Orlandini",
+    "Stefano Gherardini",
+    "Lorenzo Buffoni",
+    "Beatrice Donelli"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "cond-mat.stat-mech"
+  ],
+  "summary": "这篇论文研究了玻色约瑟夫森结在突然淬火（quench）后的非平衡功统计特性。通过Holstein-Primakoff近似，在弱相互作用区域将动力学映射为时间相关的量子谐振子，发现当结初始处于基态时，功统计服从负二项分布。论文还考虑了包含量子相干性的初始叠加态，并使用Kirkwood-Dirac准概率（KDQ）描述功分布，发现即使是最简单的叠加态也会导致负值或复数值，反映了非经典特征。此外，初始态的相干性可以优化以增强从淬火中提取的功，超越经典界限。最后，论文提出了一个实验干涉测量协议，用于直接测量功分布的特征函数。",
+  "chinese_digest": "## 中文导读\n- 研究问题：玻色约瑟夫森结中量子淬火后的功统计与相干性效应。\n- 核心方法：Holstein-Primakoff近似、Kirkwood-Dirac准概率、干涉测量协议。\n- 主要结果：基态下功统计为负二项分布；叠加态下KDQ分布出现非经典特征；相干性可增强功提取。\n- 与量子精密测量/量子计算的关系：本文主要关注量子热力学和功统计，与量子精密测量、量子传感、Rydberg原子、自旋压缩、中性原子量子计算、俘获离子、Fisher信息等方向没有直接关联。虽然涉及干涉测量协议，但目标并非测量精度或量子计算，而是功分布测量。\n- 是否值得精读：对于量子精密测量或量子计算方向的研究者，相关性较低，不建议精读。\n- 对我研究的可能启发：无直接启发，但干涉测量协议的设计思路可能间接参考。",
+  "english_digest": "## English Guide\n- Problem: Non-equilibrium work statistics and coherence effects in a quenched bosonic Josephson junction.\n- Method: Holstein-Primakoff approximation, Kirkwood-Dirac quasiprobabilities, interferometric protocol.\n- Main result: Negative binomial work distribution for ground state; non-classical features in KDQ for superposition states; coherence enhances extractable work.\n- Relevance: This paper focuses on quantum thermodynamics and work statistics, with no direct connection to quantum precision measurement, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The interferometric protocol is used for work distribution measurement, not for metrological precision enhancement.\n- Reading priority: Low for researchers in quantum sensing, metrology, or computing.\n- Possible inspiration: Limited; the interferometric scheme might offer a methodological perspective for measuring work distributions in other systems.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.21472v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.21472v1",
+  "local_pdf_path": ""
+}

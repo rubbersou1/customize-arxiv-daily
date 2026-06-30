@@ -1,0 +1,21 @@
+{
+  "title": "Quantum Eigenvalue Transformation via Linear Combination of Hamiltonian Simulation: A Weyl Calculus Approach",
+  "arXiv_id": "2606.29848v1",
+  "abstract": "Linear combination of Hamiltonian simulation (LCHS) provides an efficient method for implementing matrix exponentials $e^{-tA}$ on quantum computers. In this paper, we develop LCHS formulas for computing general matrix functions $f(A)$ when $f$ is analytic on the numerical range of $A$, with $A$ possibly non-normal. The essential technical tool is Weyl calculus, which reduces the construction of LCHS formulas for noncommuting operators to scalar Fourier approximation problems. Our construction yields a quantum eigenvalue transformation algorithm with optimal $\\mathcal{O}(\\log\\frac{1}ε)$ query complexity scaling. Furthermore, our Weyl-calculus-based theory gives rise to an ansatz-free convex optimization framework that directly produces discrete LCHS formulas. This circumvents the inefficiencies of traditional quadrature rules and yields formulas highly optimized for coherent implementation on quantum computers. In addition, both our theory and optimization framework apply to the simulation of time-dependent dissipative ODE $\\frac{\\mathrm{d}}{\\mathrm{d} t} ψ(t) = -A(t)ψ(t)$, for which we achieve a $2.1\\times$ cost reduction over prior art.",
+  "authors": [
+    "Hongkang Ni",
+    "Lexing Ying"
+  ],
+  "categories": [
+    "quant-ph",
+    "math-ph",
+    "math.NA"
+  ],
+  "summary": "本文提出了一种基于Weyl微积分的量子特征值变换算法，通过线性组合哈密顿量模拟（LCHS）高效实现矩阵函数f(A)的量子计算。该算法在A可能非正规的情况下，利用Weyl微积分将非交换算子的LCHS公式构造转化为标量傅里叶近似问题，实现了最优的O(log(1/ε))查询复杂度。此外，作者开发了一个无先验假设的凸优化框架，直接生成离散LCHS公式，避免了传统求积规则的低效性，并可将该方法推广到时变耗散常微分方程的模拟，成本相比现有技术降低2.1倍。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何在量子计算机上高效且精确地实现一般矩阵函数f(A)的量子特征值变换，特别是当A非正规时。\n- 核心方法：利用Weyl微积分将非交换算子的LCHS公式构造转化为标量傅里叶近似问题，并结合凸优化框架自动生成最优离散公式。\n- 主要结果：实现了最优O(log(1/ε))查询复杂度，并开发了无需先验假设的离散公式生成方法，同时将方法扩展到时间依赖的耗散系统模拟，成本降低2.1倍。\n- 与量子精密测量/量子计算的关系：本文属于量子计算算法理论，主要贡献在于量子模拟和特征值变换的通用框架。与量子精密测量（如量子费希尔信息、自旋压缩、拉姆齐干涉）无直接关联，但量子特征值变换是量子计算的基础工具，可能间接用于量子传感中的哈密顿量模拟或误差缓解。\n- 是否值得精读：如果专注于量子算法理论或量子模拟，值得精读；如果主要兴趣在量子精密测量实验（如里德伯原子、离子阱、原子钟），相关性较低。\n- 对我研究的可能启发：无直接启发，但Weyl微积分的数学框架可能为量子控制或量子门优化提供新视角。",
+  "english_digest": "## English Guide\n- Problem: How to efficiently implement quantum eigenvalue transformation for general matrix functions f(A) on quantum computers, especially when A is non-normal. \n- Method: Use Weyl calculus to reduce LCHS formula construction for non-commuting operators to scalar Fourier approximation problems, combined with a convex optimization framework to generate optimal discrete formulas. \n- Main result: Achieved optimal O(log(1/ε)) query complexity, developed an ansatz-free discrete formula generation method, and extended the method to time-dependent dissipative ODEs with 2.1× cost reduction. \n- Relevance: This paper is a quantum computing algorithm theory contribution focusing on Hamiltonian simulation and eigenvalue transformation. It has no direct connection to quantum precision measurement topics (e.g., quantum Fisher information, spin squeezing, Ramsey interferometry, Rydberg atoms, trapped ions, atomic clocks). However, eigenvalue transformation is a fundamental tool in quantum computation, which could indirectly support quantum sensing tasks involving Hamiltonian simulation or error mitigation. \n- Reading priority: High if focused on quantum algorithm theory or quantum simulation; low if primary interest is experimental quantum sensing (Rydberg systems, ion traps, atomic clocks). \n- Possible inspiration: No direct inspiration for quantum metrology experiments, but the Weyl calculus framework might offer new perspectives for quantum control or gate optimization.",
+  "relevance_score": 5.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.29848v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.29848v1",
+  "local_pdf_path": ""
+}

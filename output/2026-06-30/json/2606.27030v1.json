@@ -1,0 +1,31 @@
+{
+  "title": "In-plane vector-field imaging of propagating surface phonon polaritons",
+  "arXiv_id": "2606.27030v1",
+  "abstract": "Polariton interferometry through optical near-field microscopy has become a powerful tool in nanophotonics, enabling direct spatial access to the propagation characteristics of strongly confined, evanescent polariton modes. Scattering-type near-field optical microscopy has matured as the prime tool for such studies, yet mostly the out-of-plane components of the optical near fields are probed, owing to the elongated geometry of the nanotip. Here, we demonstrate a complementary far-field nonlinear microscopy approach which allows to selectively probe in-plane polariton field components. Accessing the full vector field is interesting when studying complex mode patterns such as hyperbolic polaritons or skyrmions, where the in-plane field components are typically only inferred from the out-of-plane component but not measured directly. To this end, we use nonlinear infrared-visible wide-field sum-frequency generation microscopy, where the short visible wavelength of the nonlinear signal provides the high spatial resolution to access evanescent modes in the infrared. The symmetry selection rules of the nonlinear process further enable polarization-selective imaging of both in-plane polariton field components through spatial interferometry. The concept is demonstrated experimentally using surface phonon polaritons at the AlN-air interface launched by a gold antenna. A simple, semi-analytical model reproduces the peculiar propagation patterns. Hyperspectral imaging with a tunable narrowband laser further gives access to the polariton dispersion. The wide-field methodology holds high promise for in-depth and high-throughput studies of infrared nanophotonic structures.",
+  "authors": [
+    "Richarda Niemann",
+    "Dorothée S. Mader",
+    "Gonzalo Alvarez-Pérez",
+    "Ana I. F. Tresguerres-Mata",
+    "Aitana Tarazaga Martín-Luengo",
+    "Stefan Partel",
+    "Joshua D. Caldwell",
+    "Niclas S. Mueller",
+    "Martin Wolf",
+    "Javier Martín-Sánchez",
+    "Pablo Alonso-González",
+    "Alexander Paarmann"
+  ],
+  "categories": [
+    "physics.optics",
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "summary": "这篇论文提出了一种基于非线性红外-可见广域和频生成显微镜的方法，用于直接探测传播中的表面声子极化子的面内矢量场。通过对称性选择规则和空间干涉测量，该方法能够选择性地成像极化子的两个面内分量，突破了传统散射型近场光学显微镜只能探测面外分量的限制。实验上以金天线激发的AlN-空气界面表面声子极化子为模型系统，展示了该技术的空间分辨和光谱成像能力。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何直接测量纳米结构中表面极化子的面内矢量场分量？\n- 核心方法：非线性红外-可见广域和频生成显微镜，结合偏振选择与空间干涉测量。\n- 主要结果：成功实现了对AlN-空气界面表面声子极化子面内传播模式的空间分辨和光谱成像。\n- 与量子精密测量/量子计算的关系：该工作聚焦于纳米光子学中的极化子成像，而非量子传感、计量或计算。虽然涉及干涉测量技术，但未与量子Fisher信息、自旋压缩、Rydberg原子、中性原子量子计算、离子阱、原子钟等具体方向关联。\n- 是否值得精读：对于量子精密测量或量子计算领域的研究者，相关性较低，除非对近场光学技术感兴趣。\n- 对我研究的可能启发：其干涉测量方法可能启发新型量子传感器中的光场控制策略，但直接启发有限。",
+  "english_digest": "## English Guide\n- Problem: How to directly measure the in-plane vector field components of surface polaritons in nanostructures?\n- Method: Nonlinear infrared-visible wide-field sum-frequency generation microscopy with polarization-selective spatial interferometry.\n- Main result: Demonstrated spatial and spectral imaging of in-plane propagation patterns of surface phonon polaritons at the AlN-air interface.\n- Relevance: This work is focused on nanophotonics and polariton imaging, with no direct connection to quantum metrology, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or atomic clocks.\n- Reading priority: Low for researchers in quantum precision measurement or quantum computing; only relevant if interested in near-field optical techniques.\n- Possible inspiration: The interferometric approach may inspire novel light-field control in quantum sensors, but direct inspiration is limited.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27030v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27030v1",
+  "local_pdf_path": ""
+}

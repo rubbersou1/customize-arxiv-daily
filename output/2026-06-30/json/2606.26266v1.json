@@ -1,0 +1,22 @@
+{
+  "title": "Complex frequency-dependent quadrature squeezing in semiconductor lasers",
+  "arXiv_id": "2606.26266v1",
+  "abstract": "We present a comprehensive study of quadrature squeezing in a quantum well laser based on a fully quantum Langevin approach. We compute the frequency-resolved squeezing map of the laser field and identify optimal squeezing curves, revealing, for the first time to our knowledge, both frequency-dependent squeezing and complex or hidden squeezing in a semiconductor laser. We further analyse the role of the linewidth enhancement factor (alpha factor) in the emergence of these features. Our results establish semiconductor lasers as a platform for the generation of non-classical light and open new perspectives for their application in quantum communication and sensing.",
+  "authors": [
+    "Daniele Nello",
+    "Giuseppe Patera",
+    "Lorenzo Columbo"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.mes-hall",
+    "physics.optics"
+  ],
+  "summary": "本文基于全量子Langevin方法，全面研究了量子阱激光器中的正交压缩。计算了激光场的频率分辨压缩图，并识别出最优压缩曲线，首次揭示了半导体激光器中频率依赖的压缩和复杂（隐藏）压缩。进一步分析了线宽增强因子（α因子）在这些特征出现中的作用。结果表明半导体激光器可作为非经典光源，为量子通信和传感应用开辟了新前景。",
+  "chinese_digest": "## 中文导读\n- 研究问题：半导体激光器中正交压缩的频率依赖特性及隐藏压缩现象。\n- 核心方法：全量子Langevin方法，计算频率分辨压缩图。\n- 主要结果：首次观察到频率依赖压缩和复杂压缩，α因子影响显著。\n- 与量子精密测量/量子计算的关系：该工作属于非经典光产生，与量子传感（如利用压缩光提升测量精度）间接相关，但与量子精密测量中的自旋压缩、量子Fisher信息、Rydberg原子、中性原子量子计算、离子阱、原子钟等核心方向无直接联系。不涉及量子计算门或算法。\n- 是否值得精读：对压缩光源在传感中的应用有兴趣可读，否则优先级低。\n- 对我研究的可能启发：可能启发在微波或光学传感中使用半导体激光器产生的压缩光，但需要额外实验集成。",
+  "english_digest": "## English Guide\n- Problem: Frequency-dependent quadrature squeezing and hidden squeezing in semiconductor lasers.\n- Method: Fully quantum Langevin approach with frequency-resolved squeezing maps.\n- Main result: First observation of frequency-dependent and complex squeezing; alpha factor plays key role.\n- Relevance: Indirectly relevant to quantum sensing via squeezed light, but not directly to quantum metrology, spin squeezing, quantum Fisher information, Rydberg atoms, neutral-atom quantum computing, trapped ions, atomic clocks, or quantum gates. No connection to quantum computing.\n- Reading priority: Low for researchers focused on atomic/molecular/optical quantum platforms.\n- Possible inspiration: Could inspire use of semiconductor laser squeezed light in hybrid sensing setups, but significant integration effort needed.",
+  "relevance_score": 3.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26266v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26266v1",
+  "local_pdf_path": ""
+}

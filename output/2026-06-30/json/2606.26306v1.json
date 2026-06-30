@@ -1,0 +1,27 @@
+{
+  "title": "Fiber Bragg grating-based acoustic sensing system enabled by ML-trained, sub-picometer-tunable hybrid III-V/SiN lasers",
+  "arXiv_id": "2606.26306v1",
+  "abstract": "Distributed acoustic emission (AE) sensing is critical for early detection of structural degradation, yet conventional electrical sensors are difficult to scale and fiber-based approaches are limited by interrogation complexity and resolution. Here, we report an intelligent fiber Bragg grating (FBG) sensing system enabled by machine learning (ML)-trained hybrid III-V/SiN tunable lasers that achieve uniform, mode-hop-free, sub-picometer wavelength control. A supervised gradient-descent algorithm is used to learn the nonlinear electro-thermal tuning space of Vernier-based external-cavity lasers, enabling continuous tuning with <0.1 pm resolution and <0.5 dB power variation. This capability allows precise alignment to FBG reflection slopes for high-sensitivity acoustic detection. We demonstrate a four-laser interrogation system monitoring 16 FBG sensors distributed across multiple metallic structures, operating over a 35 nm wavelength span. The system autonomously identifies sensor resonances, dynamically tracks spectral shifts, and reconfigures interrogation wavelengths in response to localized acoustic events. Using pencil-lead break tests as calibrated AE sources, we show simultaneous multi-channel detection and adaptive spatial localization. The combination of narrow linewidth (<10 kHz), wide tunability, and ML-driven calibration enables robust, scalable, and high-resolution sensing. This approach establishes a pathway toward fully autonomous, distributed photonic sensing networks for real-time structural health monitoring.",
+  "authors": [
+    "Prabhav Gaur",
+    "Premanand Chandramani",
+    "Mohammed Alshamari",
+    "Yufei Chu",
+    "Abu Mitul",
+    "John Simons",
+    "Ibrahim G. Yayla",
+    "Ming Han",
+    "Ashok V. Krishnamoorthy"
+  ],
+  "categories": [
+    "physics.optics",
+    "eess.SY"
+  ],
+  "summary": "该论文介绍了一种基于机器学习训练的可调谐混合III-V/SiN激光器实现的智能光纤布拉格光栅（FBG）声学传感系统。该系统通过监督梯度下降算法学习激光器的非线性电热调谐特性，实现了亚皮米级（<0.1 pm）的连续无跳模波长控制，并利用该能力精确对准FBG反射斜率进行高灵敏度声学探测。实验展示了四激光器对16个分布在不同金属结构上的FBG传感器的监测，覆盖35 nm波长范围，系统能够自主识别传感器谐振、动态跟踪光谱偏移并重新配置波长以响应局部声学事件。通过铅笔芯断裂测试验证了多通道检测和自适应空间定位能力。该系统结合窄线宽（<10 kHz）、宽调谐范围和机器学习校准，为实时结构健康监测提供了可扩展的高分辨率分布式光子传感网络方案。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何利用机器学习优化可调谐激光器实现高灵敏度分布式光纤声学传感，用于结构健康监测。\n- 核心方法：使用监督梯度下降算法训练混合III-V/SiN外腔激光器，实现亚皮米级波长控制；利用FBG反射斜率进行声学信号解调。\n- 主要结果：实现了<0.1 pm波长分辨率、<0.5 dB功率变化、<10 kHz线宽的连续调谐；成功监测16个FBG传感器并实现多通道声学事件定位。\n- 与量子精密测量/量子计算的关系：该论文不涉及量子系统，主要属于经典光纤传感和光子学领域。其核心技术和目标（如亚皮米级波长控制、高灵敏度声学探测）与量子精密测量（如量子传感中的频率/相位估计）在方法论上有一定类比性（如利用谐振斜率进行参数估计），但未使用量子资源（如纠缠、压缩态）或量子Fisher信息等概念。与量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、原子钟等方向无直接关联。\n- 是否值得精读：对于量子精密测量研究者而言，该论文价值有限，可作为经典传感技术中精密控制的参考，但不涉及量子增强或量子信息理论。\n- 对我研究的可能启发：其机器学习辅助的精密激光调谐和自适应传感网络架构可能启发量子传感中控制系统的设计，但需注意经典与量子领域的本质差异。",
+  "english_digest": "## English Guide\n- Problem: How to achieve high-sensitivity distributed acoustic sensing for structural health monitoring using ML-optimized tunable lasers and fiber Bragg gratings. \n- Method: Supervised gradient descent algorithm trains hybrid III-V/SiN external-cavity lasers for sub-picometer wavelength control; acoustic signals are demodulated via FBG reflection slopes. \n- Main result: Achieved continuous tuning with <0.1 pm resolution, <0.5 dB power variation, and <10 kHz linewidth; demonstrated monitoring of 16 FBG sensors with multi-channel acoustic event localization. \n- Relevance: This paper belongs to classical fiber-optic sensing and photonics. It has no direct connection to quantum precision measurement, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The techniques (precision laser control) may share methodological analogies with classical parameter estimation, but no quantum resources or quantum information concepts are used. \n- Reading priority: Low for researchers in quantum metrology/quantum computing. It may serve as a reference for classical precision control but does not advance quantum sensing or computation. \n- Possible inspiration: The ML-driven adaptive laser tuning and distributed sensor network architecture could inspire control systems in quantum sensing, but the fundamental physical principles differ.",
+  "relevance_score": 1.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.26306v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.26306v1",
+  "local_pdf_path": ""
+}

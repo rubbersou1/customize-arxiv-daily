@@ -1,0 +1,19 @@
+{
+  "title": "Universal framework for the design of near-zero refractive index photonic crystals",
+  "arXiv_id": "2606.27470v1",
+  "abstract": "Near-zero-index (NZI) media are of great interest for controlling light-matter interactions, but homogeneous NZI materials in the telecom band remain limited and often suffer from significant losses. Photonic crystals provide an attractive alternative due to their tunability and use of low-loss constituent materials. This work presents a predictive framework for designing epsilon-near-zero (ENZ), mu-near-zero (MNZ), and epsilon-and-mu-near-zero (EMNZ) photonic crystals. We demonstrate an equivalence between Dirac cones and EMNZ behavior, showing that a Dirac cone at the Gamma point is both necessary and sufficient to obtain an effective EMNZ response under normal incidence. This result implies that the presence of a Dirac cone fully determines the NZI response of a photonic crystal, independent of the material composition. The prediction is based on mode symmetry universality and effective medium theory. The approach enables switching between ENZ-MNZ and EMNZ regimes through geometric tuning of the unit cell. It is validated on triangular and rectangular lattices. Overall, this work provides a predictive design strategy for NZI photonic crystals, replacing trial-and-error optimization. It may also impact metamaterials in the telecom regime and applications in quantum communication.",
+  "authors": [
+    "Adrien Debacq",
+    "Michaël Lobet"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "summary": "这篇论文提出了一个用于设计近零折射率光子晶体的通用框架。作者证明了狄拉克锥与电磁近零（EMNZ）行为之间的等价性，表明在Gamma点的狄拉克锥是获得有效EMNZ响应的充分必要条件。该框架基于模式对称性和有效介质理论，能够通过几何调谐实现ENZ、MNZ和EMNZ模式之间的切换，并在三角和矩形晶格上得到验证。该工作为设计近零折射率光子晶体提供了预测性策略，有望应用于电信波段超材料和量子通信。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何设计具有近零折射率的光子晶体，以控制光与物质相互作用。\n- 核心方法：通过模式对称性分析和有效介质理论，建立狄拉克锥与EMNZ行为的等价关系，利用几何调谐实现不同近零模式。\n- 主要结果：证明了狄拉克锥是EMNZ响应的充分必要条件，并在三角和矩形晶格中验证了框架的有效性。\n- 与量子精密测量/量子计算的关系：该工作主要聚焦于光子晶体和超材料设计，与量子精密测量、量子传感、量子计算等方向没有直接关联。虽然文中提及量子通信，但并未涉及量子计量学中的关键概念如量子Fisher信息、自旋压缩、Rydberg原子、中性原子量子计算、离子阱或原子钟等。\n- 是否值得精读：对于专门研究光子晶体或超材料的研究者而言可能值得精读，但对于量子精密测量和量子计算领域的研究者，相关性很低。\n- 对我研究的可能启发：几乎没有直接启发。该工作涉及的光与物质相互作用控制可能间接影响量子传感中的光学接口，但当前内容与量子计量学核心问题相距甚远。",
+  "english_digest": "## English Guide\n- Problem: How to design near-zero-index photonic crystals for controlling light-matter interactions.\n- Method: Mode symmetry analysis and effective medium theory establishing equivalence between Dirac cones and EMNZ behavior, with geometric tuning of unit cells.\n- Main result: Proof that a Dirac cone at the Gamma point is necessary and sufficient for EMNZ response under normal incidence, validated on triangular and rectangular lattices.\n- Relevance: This paper is primarily about photonic crystals and metamaterials for telecom applications. It has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, Fisher information, or atomic clocks. The mention of quantum communication is tangential.\n- Reading priority: Low for researchers in quantum metrology and quantum computing. May be relevant to those working on photonic crystal design or metamaterials.\n- Possible inspiration: Minimal. The framework for controlling light-matter interactions could in principle be relevant to optical interfaces for quantum sensors, but the paper does not address quantum sensing protocols, metrological limits, or quantum information processing.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.27470v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.27470v1",
+  "local_pdf_path": ""
+}

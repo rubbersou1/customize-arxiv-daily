@@ -1,0 +1,22 @@
+{
+  "title": "Effect of Two-Body Interactions on Floquet topological phases",
+  "arXiv_id": "2606.25717v2",
+  "abstract": "We study the circularly driven Falicov-Kimball model on a honeycomb lattice within real space Floquet dynamical mean field theory (DMFT). The noninteracting version of this model has been realized experimentally. The noninteracting system hosts an effective Haldane phase at large driving frequencies, while at intermediate frequencies it hosts an anomalous topological phase. We study the effect of two-body interactions $U$ on the stability of these phases. We find that charge pumping does not remain quantized upon increasing $U$, despite the presence of edge modes in the spectrum. This can be attributed to the broadening of the edge modes due to interaction. We also calculate the rate of energy dissipation into the bath and find remarkably different behaviour in the two regimes.",
+  "authors": [
+    "Arijit Dutta",
+    "Souradeep Roy Choudhury",
+    "Tao Qin",
+    "Walter Hofstetter"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "cond-mat.str-el"
+  ],
+  "summary": "本文利用实空间Floquet动力学平均场理论（DMFT）研究了蜂窝晶格上圆驱动Falicov-Kimball模型中的两体相互作用效应。在无相互作用时，该模型在高频驱动下呈现有效的Haldane相，在中等频率下呈现异常拓扑相。研究发现，两体相互作用U会破坏电荷泵浦的量子化，尽管能谱中仍存在边缘模，这归因于相互作用导致的边缘模展宽。此外，文章还计算了系统向环境耗散能量的速率，并在两个相区观察到截然不同的行为。",
+  "chinese_digest": "## 中文导读\n- 研究问题：两体相互作用如何影响Floquet拓扑相（特别是电荷泵浦量子化和边缘模）？\n- 核心方法：使用实空间Floquet动力学平均场理论（DMFT）数值模拟蜂窝晶格上的Falicov-Kimball模型。\n- 主要结果：相互作用U使电荷泵浦失去量子化，边缘模展宽；不同相区的能量耗散速率行为显著不同。\n- 与量子精密测量/量子计算的关系：本文研究的是强关联拓扑物态，与量子精密测量、量子传感、量子计算、Rydberg原子、离子阱、自旋压缩、Fisher信息等方向无直接关联。其讨论的Floquet驱动和拓扑相主要涉及凝聚态物理，而非量子计量或量子信息处理平台。\n- 是否值得精读：不推荐。该论文属于凝聚态理论中的拓扑相和强关联系统，与您关注的研究领域（量子精密测量、量子计算、实验平台）几乎没有交集。\n- 对我研究的可能启发：几乎没有直接启发。仅当您对Floquet驱动下的非平衡量子系统有泛兴趣时，可了解其方法论，但与本领域核心问题无关。",
+  "english_digest": "## English Guide\n- Problem: How do two-body interactions affect Floquet topological phases, especially quantized charge pumping and edge modes?\n- Method: Real-space Floquet dynamical mean field theory (DMFT) simulations on the honeycomb-lattice Falicov-Kimball model.\n- Main result: Interaction U destroys quantized charge pumping and broadens edge modes; energy dissipation rates show distinct behaviors in different phase regimes.\n- Relevance: This paper focuses on strongly correlated topological matter in condensed matter physics. It has no direct connection to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. The topics (Floquet driving, topological phases) are not aligned with quantum metrology or quantum computation platforms.\n- Reading priority: Not recommended. The paper belongs to condensed matter theory and is irrelevant to your stated research interests.\n- Possible inspiration: Minimal. Only if you have a broad interest in non-equilibrium quantum systems under Floquet driving, but no direct link to quantum sensing or computing.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.25717v2",
+  "arxiv_url": "http://arxiv.org/abs/2606.25717v2",
+  "local_pdf_path": ""
+}

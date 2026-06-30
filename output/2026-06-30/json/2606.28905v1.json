@@ -1,0 +1,22 @@
+{
+  "title": "Projection-based coupling of infrared thermography and stereocorrelation-based digital image correlation",
+  "arXiv_id": "2606.28905v1",
+  "abstract": "Full-field measurement techniques such as digital image correlation and infrared thermography are prevalent in experimental solid mechanics. Digital image correlation is used to analyze surface deformation, while infrared thermography quantifies surface temperature fields. However, sophisticated procedures are necessary to express both datasets in the same Lagrangian frame, especially when analyzing non-flat surfaces. In this study, we propose an external projection-based coupling that uses the pinhole camera model to relate two-dimensional temperature data measured by infrared thermography to three-dimensional point coordinates from stereocorrelation-based digital image correlation. Unlike existing multiview approaches, we utilize two independently calibrated industrial-grade systems and augment the experimental evaluation with the pinhole camera model. The projection matrix of the camera model is calibrated using a single image of a reference object. Through this projection, temperature fields are accurately represented at material points. Our method is particularly suited for, but not restricted to, curved surfaces and straightforward to embed in existing experimental protocols, as the image registration is kept as is. Additionally, we propose using radial basis functions as a global interpolation ansatz in both space and time to compute in-plane temperature gradients and even temperature rates on curved surfaces, thereby providing an extensive and information-rich full-field dataset.",
+  "authors": [
+    "Jendrik-Alexander Tröger",
+    "Lutz Müller-Lohse",
+    "Stefan Hartmann"
+  ],
+  "categories": [
+    "cs.CV",
+    "cond-mat.mtrl-sci",
+    "physics.optics"
+  ],
+  "summary": "这篇论文提出了一种基于投影的红外热成像与立体相关数字图像相关耦合方法，用于将二维温度数据映射到三维材料点上。该方法利用针孔相机模型，通过参考物体的单张图像校准投影矩阵，从而在弯曲表面上准确表达温度场，并支持使用径向基函数进行时空插值以计算温度梯度和温度速率。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何将红外热成像的温度数据与数字图像相关的变形数据在非平面表面上进行耦合，以获取全场的力学和热学信息。\n- 核心方法：基于针孔相机模型的投影耦合，通过参考物体图像校准投影矩阵，并采用径向基函数进行时空插值。\n- 主要结果：成功实现了二维温度数据到三维材料点的映射，并能计算弯曲表面上的温度梯度和温度速率。\n- 与量子精密测量/量子计算的关系：本文属于实验固体力学领域，与量子精密测量、量子传感、量子计算、Rydberg原子、自旋压缩、中性原子、离子阱、Fisher信息等方向无直接关联。\n- 是否值得精读：不值得精读，因为研究主题完全属于传统实验力学，不涉及量子系统。\n- 对我研究的可能启发：无直接启发。",
+  "english_digest": "## English Guide\n- Problem: How to couple infrared thermography temperature data with digital image correlation deformation data on non-flat surfaces for full-field mechanical and thermal information. \n- Method: Projection-based coupling using a pinhole camera model, calibrated with a single image of a reference object, and radial basis functions for spatiotemporal interpolation. \n- Main result: Successful mapping of 2D temperature data onto 3D material points, enabling computation of temperature gradients and rates on curved surfaces. \n- Relevance: This paper belongs to experimental solid mechanics and has no direct relevance to quantum precision measurement, quantum sensing, quantum computing, Rydberg atoms, spin squeezing, neutral atoms, trapped ions, or Fisher information. \n- Reading priority: Not worth reading, as the topic is entirely outside the quantum domain. \n- Possible inspiration: None.",
+  "relevance_score": 0.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.28905v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.28905v1",
+  "local_pdf_path": ""
+}

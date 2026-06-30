@@ -1,0 +1,23 @@
+{
+  "title": "A Modular Benchmark of Variational Quantum Attack Algorithms for S-DES",
+  "arXiv_id": "2606.30143v1",
+  "abstract": "Variational quantum algorithms (VQAs) have emerged as a promising approach to quantum cryptanalysis on noisy intermediate-scale quantum (NISQ) devices. Although numerous variational attack schemes have been proposed for symmetric cryptosystems, a systematic and modular benchmarking framework to evaluate their performance is still lacking. In this work, we present a comprehensive benchmark study of variational quantum attacks on the Simplified Data Encryption Standard (S-DES), focusing on the modular design choices that determine attack efficiency. We formulate variational quantum attacks within a unified framework consisting of four components: initial state preparation, parameterized circuit (Ansatz) design, cost function construction, and classical optimization. Through numerical simulations, we systematically compare representative design alternatives and evaluate their combinations in terms of convergence behavior, success probability, and effective time complexity. We further introduce standardized metrics for assessing variational quantum attack performance. Our results reveal clear performance hierarchies among different modular configurations and show that carefully optimized designs can significantly outperform naive quantum search. This work establishes a principled benchmark methodology for variational quantum cryptanalysis and positions S-DES as a practical testbed for evaluating quantum attacks on symmetric ciphers in the NISQ era.",
+  "authors": [
+    "Zeguo Wang",
+    "Quanfeng Lu",
+    "Wentao Yang",
+    "Shijie Wei",
+    "Gui-Lu Long",
+    "Kai Wen"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "summary": "本文提出并系统评估了针对简化数据加密标准（S-DES）的变分量子攻击算法。作者构建了一个模块化基准测试框架，将变分量子攻击分解为初始态制备、参数化电路（Ansatz）设计、代价函数构建和经典优化四个组件，并通过数值模拟比较了不同设计选择在收敛行为、成功概率和有效时间复杂度上的表现。结果表明，精心优化的模块配置能显著优于朴素的量子搜索，为NISQ设备上的量子密码分析提供了标准化评估方法。",
+  "chinese_digest": "## 中文导读\n- 研究问题：如何系统评估变分量子算法在对称密码分析中的性能？\n- 核心方法：将变分量子攻击模块化，包括初始态、Ansatz、代价函数和优化器，并通过数值仿真比较不同组合。\n- 主要结果：优化后的模块配置明显优于朴素量子搜索，并建立了标准化性能指标。\n- 与量子精密测量/量子计算的关系：本文属于量子计算在密码学中的应用，与量子精密测量（如Fisher信息、自旋压缩、拉姆齐干涉）无直接关联，也未涉及量子传感、Rydberg原子、中性原子或离子阱等实验平台。\n- 是否值得精读：对于专注量子精密测量和量子传感的研究者，相关性较低，不建议作为重点阅读。\n- 对我研究的可能启发：变分量子算法模块化评估的方法论可能间接启发量子控制或误差缓解研究，但核心主题偏离。",
+  "english_digest": "## English Guide\n- Problem: How to systematically benchmark variational quantum algorithms for cryptanalysis of symmetric ciphers (S-DES)?\n- Method: A modular framework decomposing attacks into initial state, ansatz, cost function, and classical optimizer, with numerical simulations. \n- Main result: Optimized configurations significantly outperform naive quantum search; standardized metrics are proposed.\n- Relevance: This work is on quantum computing for cryptography, with no direct connection to quantum precision measurement, quantum sensing, Fisher information, spin squeezing, Rydberg atoms, neutral atoms, trapped ions, or atomic clocks. The paper does not address metrology protocols, sensing limits, or experimental platforms relevant to your interests.\n- Reading priority: Low for researchers focused on quantum metrology, sensing, or quantum control. \n- Possible inspiration: The modular benchmarking methodology might be transferable to evaluating quantum control or error mitigation protocols, but the core topic is not aligned.",
+  "relevance_score": 2.0,
+  "pdf_url": "https://arxiv.org/pdf/2606.30143v1",
+  "arxiv_url": "http://arxiv.org/abs/2606.30143v1",
+  "local_pdf_path": ""
+}
